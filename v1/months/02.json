@@ -1,0 +1,310 @@
+{
+  "month": 2,
+  "name": "February",
+  "count": 71,
+  "days": [
+    {
+      "date": "02-01",
+      "label": "February 1st",
+      "month": 2,
+      "day": 1,
+      "characters": [
+        "Doma",
+        "Brogy"
+      ]
+    },
+    {
+      "date": "02-02",
+      "label": "February 2nd",
+      "month": 2,
+      "day": 2,
+      "characters": [
+        "Killer",
+        "Ninjin",
+        "Nefertari Vivi",
+        "Elizabello II"
+      ]
+    },
+    {
+      "date": "02-03",
+      "label": "February 3rd",
+      "month": 2,
+      "day": 3,
+      "characters": [
+        "Brownbeard (Chadros Higelyges)",
+        "Bizarre",
+        "Fuza",
+        "Sasaki"
+      ]
+    },
+    {
+      "date": "02-04",
+      "label": "February 4th",
+      "month": 2,
+      "day": 4,
+      "characters": [
+        "Gloriosa",
+        "Haruta",
+        "Fukaboshi",
+        "Fujin"
+      ]
+    },
+    {
+      "date": "02-05",
+      "label": "February 5th",
+      "month": 2,
+      "day": 5,
+      "characters": [
+        "Vista",
+        "Blamenco"
+      ]
+    },
+    {
+      "date": "02-06",
+      "label": "February 6th",
+      "month": 2,
+      "day": 6,
+      "characters": [
+        "Nico Olivia",
+        "Nico Robin",
+        "Blondie"
+      ]
+    },
+    {
+      "date": "02-07",
+      "label": "February 7th",
+      "month": 2,
+      "day": 7,
+      "characters": [
+        "Buchi"
+      ]
+    },
+    {
+      "date": "02-08",
+      "label": "February 8th",
+      "month": 2,
+      "day": 8,
+      "characters": [
+        "Onigumo",
+        "Chiken",
+        "Gonbe"
+      ]
+    },
+    {
+      "date": "02-09",
+      "label": "February 9th",
+      "month": 2,
+      "day": 9,
+      "characters": [
+        "Carne",
+        "Genbo",
+        "Bartholomew Kuma",
+        "Wadatsumi"
+      ]
+    },
+    {
+      "date": "02-10",
+      "label": "February 10th",
+      "month": 2,
+      "day": 10,
+      "characters": [
+        "Mikazuki",
+        "Page One"
+      ]
+    },
+    {
+      "date": "02-11",
+      "label": "February 11th",
+      "month": 2,
+      "day": 11,
+      "characters": [
+        "Charlotte Flampé"
+      ]
+    },
+    {
+      "date": "02-12",
+      "label": "February 12th",
+      "month": 2,
+      "day": 12,
+      "characters": [
+        "Little Oars Jr."
+      ]
+    },
+    {
+      "date": "02-13",
+      "label": "February 13th",
+      "month": 2,
+      "day": 13,
+      "characters": [
+        "Nefertari Cobra"
+      ]
+    },
+    {
+      "date": "02-14",
+      "label": "February 14th",
+      "month": 2,
+      "day": 14,
+      "characters": [
+        "Miss Valentine (Mikita)",
+        "Hyogoro"
+      ]
+    },
+    {
+      "date": "02-15",
+      "label": "February 15th",
+      "month": 2,
+      "day": 15,
+      "characters": [
+        "Charlotte Linlin (Big Mom)",
+        "Daisy"
+      ]
+    },
+    {
+      "date": "02-16",
+      "label": "February 16th",
+      "month": 2,
+      "day": 16,
+      "characters": [
+        "Bluejam"
+      ]
+    },
+    {
+      "date": "02-17",
+      "label": "February 17th",
+      "month": 2,
+      "day": 17,
+      "characters": [
+        "Clione",
+        "Ukkari"
+      ]
+    },
+    {
+      "date": "02-18",
+      "label": "February 18th",
+      "month": 2,
+      "day": 18,
+      "characters": [
+        "Gambia",
+        "Minolva",
+        "Snowma-san",
+        "Snow Queen"
+      ]
+    },
+    {
+      "date": "02-19",
+      "label": "February 19th",
+      "month": 2,
+      "day": 19,
+      "characters": [
+        "Bobby Funk",
+        "Road",
+        "Cocox",
+        "Superhuman Domingos",
+        "Henohenounchi"
+      ]
+    },
+    {
+      "date": "02-20",
+      "label": "February 20th",
+      "month": 2,
+      "day": 20,
+      "characters": [
+        "Kumadori"
+      ]
+    },
+    {
+      "date": "02-21",
+      "label": "February 21st",
+      "month": 2,
+      "day": 21,
+      "characters": [
+        "Jigoro",
+        "Charlotte Dragée",
+        "Charlotte Dolce",
+        "Pascia"
+      ]
+    },
+    {
+      "date": "02-22",
+      "label": "February 22nd",
+      "month": 2,
+      "day": 22,
+      "characters": [
+        "Jerry",
+        "Hamburg",
+        "Oden"
+      ]
+    },
+    {
+      "date": "02-23",
+      "label": "February 23rd",
+      "month": 2,
+      "day": 23,
+      "characters": [
+        "Makino"
+      ]
+    },
+    {
+      "date": "02-24",
+      "label": "February 24th",
+      "month": 2,
+      "day": 24,
+      "characters": [
+        "Enishida",
+        "Mr. Beans"
+      ]
+    },
+    {
+      "date": "02-25",
+      "label": "February 25th",
+      "month": 2,
+      "day": 25,
+      "characters": [
+        "Tightrope Walking Funan Bros.",
+        "Gerd"
+      ]
+    },
+    {
+      "date": "02-26",
+      "label": "February 26th",
+      "month": 2,
+      "day": 26,
+      "characters": [
+        "Raizou"
+      ]
+    },
+    {
+      "date": "02-27",
+      "label": "February 27th",
+      "month": 2,
+      "day": 27,
+      "characters": [
+        "Charlotte Joscarpone",
+        "Charlotte Mascarpone"
+      ]
+    },
+    {
+      "date": "02-28",
+      "label": "February 28th",
+      "month": 2,
+      "day": 28,
+      "characters": [
+        "Woop Slap",
+        "Charlotte Cracker",
+        "Charlotte Custard",
+        "Charlotte Angel",
+        "Kazekage"
+      ]
+    },
+    {
+      "date": "02-29",
+      "label": "February 29th (Leap Day)",
+      "month": 2,
+      "day": 29,
+      "characters": [
+        "Pandaman",
+        "Pandawoman"
+      ]
+    }
+  ]
+}

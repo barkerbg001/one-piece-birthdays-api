@@ -1,0 +1,326 @@
+{
+  "month": 12,
+  "name": "December",
+  "count": 71,
+  "days": [
+    {
+      "date": "12-01",
+      "label": "December 1st",
+      "month": 12,
+      "day": 1,
+      "characters": [
+        "Heat",
+        "Ipponume"
+      ]
+    },
+    {
+      "date": "12-02",
+      "label": "December 2nd",
+      "month": 12,
+      "day": 2,
+      "characters": [
+        "Napoleon",
+        "Kaneshiro",
+        "Charlotte Newichi",
+        "Charlotte Newji",
+        "Charlotte Newsan",
+        "Charlotte Newshi",
+        "Charlotte Newgo",
+        "Charlotte Nutmeg",
+        "Charlotte Akimeg",
+        "Charlotte Allmeg",
+        "Charlotte Harumeg",
+        "Charlotte Fuyumeg"
+      ]
+    },
+    {
+      "date": "12-03",
+      "label": "December 3rd",
+      "month": 12,
+      "day": 3,
+      "characters": [
+        "Bell-mère"
+      ]
+    },
+    {
+      "date": "12-04",
+      "label": "December 4th",
+      "month": 12,
+      "day": 4,
+      "characters": [
+        "Jorl"
+      ]
+    },
+    {
+      "date": "12-05",
+      "label": "December 5th",
+      "month": 12,
+      "day": 5,
+      "characters": [
+        "Indigo"
+      ]
+    },
+    {
+      "date": "12-06",
+      "label": "December 6th",
+      "month": 12,
+      "day": 6,
+      "characters": [
+        "Igaram"
+      ]
+    },
+    {
+      "date": "12-07",
+      "label": "December 7th",
+      "month": 12,
+      "day": 7,
+      "characters": [
+        "Ikkaku",
+        "Yuda Snakes"
+      ]
+    },
+    {
+      "date": "12-08",
+      "label": "December 8th",
+      "month": 12,
+      "day": 8,
+      "characters": [
+        "Jarl",
+        "Maskeredomo Bird"
+      ]
+    },
+    {
+      "date": "12-09",
+      "label": "December 9th",
+      "month": 12,
+      "day": 9,
+      "characters": [
+        "Tacos",
+        "Packy",
+        "Kelly Funk"
+      ]
+    },
+    {
+      "date": "12-10",
+      "label": "December 10th",
+      "month": 12,
+      "day": 10,
+      "characters": [
+        "Edward Weevil",
+        "Charlotte Mondée",
+        "Charlotte Amande",
+        "Charlotte Hachée",
+        "Charlotte Effilée"
+      ]
+    },
+    {
+      "date": "12-11",
+      "label": "December 11th",
+      "month": 12,
+      "day": 11,
+      "characters": [
+        "Scotch",
+        "Rock (Yeti Cool Brothers)",
+        "Mr. Shimizu",
+        "Speed"
+      ]
+    },
+    {
+      "date": "12-12",
+      "label": "December 12th",
+      "month": 12,
+      "day": 12,
+      "characters": [
+        "Chinjao",
+        "Nezumi",
+        "King"
+      ]
+    },
+    {
+      "date": "12-13",
+      "label": "December 13th",
+      "month": 12,
+      "day": 13,
+      "characters": [
+        "St. Mjosgard",
+        "Faust"
+      ]
+    },
+    {
+      "date": "12-14",
+      "label": "December 14th",
+      "month": 12,
+      "day": 14,
+      "characters": [
+        "Pica"
+      ]
+    },
+    {
+      "date": "12-15",
+      "label": "December 15th",
+      "month": 12,
+      "day": 15,
+      "characters": [
+        "Charlotte Noisette",
+        "Nerine"
+      ]
+    },
+    {
+      "date": "12-16",
+      "label": "December 16th",
+      "month": 12,
+      "day": 16,
+      "characters": [
+        "Inuppe",
+        "Charlotte Moscato",
+        "Charlotte Mash",
+        "Charlotte Cornstarch"
+      ]
+    },
+    {
+      "date": "12-17",
+      "label": "December 17th",
+      "month": 12,
+      "day": 17,
+      "characters": [
+        "Banchina",
+        "Yuki"
+      ]
+    },
+    {
+      "date": "12-18",
+      "label": "December 18th",
+      "month": 12,
+      "day": 18,
+      "characters": [
+        "Zunisha",
+        "Byron"
+      ]
+    },
+    {
+      "date": "12-19",
+      "label": "December 19th",
+      "month": 12,
+      "day": 19,
+      "characters": [
+        "Hogback",
+        "Dogra"
+      ]
+    },
+    {
+      "date": "12-20",
+      "label": "December 20th",
+      "month": 12,
+      "day": 20,
+      "characters": [
+        "Charlotte Mozart",
+        "Charlotte Marnier",
+        "Louis Arnote"
+      ]
+    },
+    {
+      "date": "12-21",
+      "label": "December 21st",
+      "month": 12,
+      "day": 21,
+      "characters": [
+        "Mother Carmel"
+      ]
+    },
+    {
+      "date": "12-22",
+      "label": "December 22nd",
+      "month": 12,
+      "day": 22,
+      "characters": [
+        "Gan Fall",
+        "Miyagi"
+      ]
+    },
+    {
+      "date": "12-23",
+      "label": "December 23rd",
+      "month": 12,
+      "day": 23,
+      "characters": [
+        "Kouzuki Hiyori"
+      ]
+    },
+    {
+      "date": "12-24",
+      "label": "December 24th",
+      "month": 12,
+      "day": 24,
+      "characters": [
+        "Tony Tony Chopper"
+      ]
+    },
+    {
+      "date": "12-25",
+      "label": "December 25th",
+      "month": 12,
+      "day": 25,
+      "characters": [
+        "Jesus Burgess",
+        "Miss Merry Christmas (Drophy)"
+      ]
+    },
+    {
+      "date": "12-26",
+      "label": "December 26th",
+      "month": 12,
+      "day": 26,
+      "characters": [
+        "Charlotte Broyé (a continuity mistake",
+        "given how she’s Brûlée’s twin)",
+        "Mashikaku"
+      ]
+    },
+    {
+      "date": "12-27",
+      "label": "December 27th",
+      "month": 12,
+      "day": 27,
+      "characters": [
+        "Lines",
+        "Akumai"
+      ]
+    },
+    {
+      "date": "12-28",
+      "label": "December 28th",
+      "month": 12,
+      "day": 28,
+      "characters": [
+        "Jango"
+      ]
+    },
+    {
+      "date": "12-29",
+      "label": "December 29th",
+      "month": 12,
+      "day": 29,
+      "characters": [
+        "Du Feld"
+      ]
+    },
+    {
+      "date": "12-30",
+      "label": "December 30th",
+      "month": 12,
+      "day": 30,
+      "characters": [
+        "Absalom"
+      ]
+    },
+    {
+      "date": "12-31",
+      "label": "December 31st",
+      "month": 12,
+      "day": 31,
+      "characters": [
+        "Gol D. Roger"
+      ]
+    }
+  ]
+}

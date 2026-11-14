@@ -1,0 +1,12 @@
+{
+  "name": "One Piece Birthday API",
+  "version": 1,
+  "characters": 729,
+  "entries": 730,
+  "endpoints": {
+    "date": "v1/dates/{MM}-{DD}.json",
+    "month": "v1/months/{MM}.json",
+    "all": "v1/all.json",
+    "characters": "v1/characters.json"
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "month": 8,
+  "name": "August",
+  "count": 61,
+  "days": [
+    {
+      "date": "08-01",
+      "label": "August 1st",
+      "month": 8,
+      "day": 1,
+      "characters": [
+        "Aphelandra",
+        "Urouge",
+        "Bishamon"
+      ]
+    },
+    {
+      "date": "08-02",
+      "label": "August 2nd",
+      "month": 8,
+      "day": 2,
+      "characters": [
+        "Époni",
+        "Yasopp"
+      ]
+    },
+    {
+      "date": "08-03",
+      "label": "August 3rd",
+      "month": 8,
+      "day": 3,
+      "characters": [
+        "Inazuma",
+        "Marshall D. Teach (Blackbeard)",
+        "Hanzo"
+      ]
+    },
+    {
+      "date": "08-04",
+      "label": "August 4th",
+      "month": 8,
+      "day": 4,
+      "characters": [
+        "Amazon",
+        "Boss of the Earth",
+        "Rebecca"
+      ]
+    },
+    {
+      "date": "08-05",
+      "label": "August 5th",
+      "month": 8,
+      "day": 5,
+      "characters": [
+        "Octopako",
+        "Gaimon",
+        "Vasco Shot"
+      ]
+    },
+    {
+      "date": "08-06",
+      "label": "August 6th",
+      "month": 8,
+      "day": 6,
+      "characters": [
+        "Gladius",
+        "Gomorrah",
+        "Sodom",
+        "Blenheim"
+      ]
+    },
+    {
+      "date": "08-07",
+      "label": "August 7th",
+      "month": 8,
+      "day": 7,
+      "characters": [
+        "Kaku",
+        "Bellamy"
+      ]
+    },
+    {
+      "date": "08-08",
+      "label": "August 8th",
+      "month": 8,
+      "day": 8,
+      "characters": [
+        "Buggy",
+        "Hatchan",
+        "Yazaemon"
+      ]
+    },
+    {
+      "date": "08-09",
+      "label": "August 9th",
+      "month": 8,
+      "day": 9,
+      "characters": [
+        "Hack",
+        "Wapol",
+        "Vegapunk"
+      ]
+    },
+    {
+      "date": "08-10",
+      "label": "August 10th",
+      "month": 8,
+      "day": 10,
+      "characters": [
+        "Fujitora (Issho)",
+        "Gedatsu",
+        "Hattori"
+      ]
+    },
+    {
+      "date": "08-11",
+      "label": "August 11th",
+      "month": 8,
+      "day": 11,
+      "characters": [
+        "Duval",
+        "Dellinger"
+      ]
+    },
+    {
+      "date": "08-12",
+      "label": "August 12th",
+      "month": 8,
+      "day": 12,
+      "characters": [
+        "Hajrudin"
+      ]
+    },
+    {
+      "date": "08-13",
+      "label": "August 13th",
+      "month": 8,
+      "day": 13,
+      "characters": [
+        "Don Sai",
+        "Machvise"
+      ]
+    },
+    {
+      "date": "08-14",
+      "label": "August 14th",
+      "month": 8,
+      "day": 14,
+      "characters": [
+        "Giberson",
+        "Jean Ango",
+        "Bomba",
+        "Pisaro"
+      ]
+    },
+    {
+      "date": "08-15",
+      "label": "August 15th",
+      "month": 8,
+      "day": 15,
+      "characters": [
+        "Dr. Tsukimi",
+        "Bentham (Mr. 2 Bon Clay)"
+      ]
+    },
+    {
+      "date": "08-16",
+      "label": "August 16th",
+      "month": 8,
+      "day": 16,
+      "characters": [
+        "Sakazuki (Akainu)"
+      ]
+    },
+    {
+      "date": "08-17",
+      "label": "August 17th",
+      "month": 8,
+      "day": 17,
+      "characters": [
+        "Matsuge",
+        "Pagaya"
+      ]
+    },
+    {
+      "date": "08-18",
+      "label": "August 18th",
+      "month": 8,
+      "day": 18,
+      "characters": [
+        "Wiper"
+      ]
+    },
+    {
+      "date": "08-19",
+      "label": "August 19th",
+      "month": 8,
+      "day": 19,
+      "characters": [
+        "Motobaro"
+      ]
+    },
+    {
+      "date": "08-20",
+      "label": "August 20th",
+      "month": 8,
+      "day": 20,
+      "characters": [
+        "Boo"
+      ]
+    },
+    {
+      "date": "08-21",
+      "label": "August 21st",
+      "month": 8,
+      "day": 21,
+      "characters": [
+        "Pound",
+        "Take",
+        "Holdem"
+      ]
+    },
+    {
+      "date": "08-22",
+      "label": "August 22nd",
+      "month": 8,
+      "day": 22,
+      "characters": [
+        "Vander Decken IX"
+      ]
+    },
+    {
+      "date": "08-23",
+      "label": "August 23rd",
+      "month": 8,
+      "day": 23,
+      "characters": [
+        "Pell"
+      ]
+    },
+    {
+      "date": "08-24",
+      "label": "August 24th",
+      "month": 8,
+      "day": 24,
+      "characters": [
+        "Kaya",
+        "Daigin"
+      ]
+    },
+    {
+      "date": "08-25",
+      "label": "August 25th",
+      "month": 8,
+      "day": 25,
+      "characters": [
+        "Corgi"
+      ]
+    },
+    {
+      "date": "08-26",
+      "label": "August 26th",
+      "month": 8,
+      "day": 26,
+      "characters": [
+        "Gyatz"
+      ]
+    },
+    {
+      "date": "08-27",
+      "label": "August 27th",
+      "month": 8,
+      "day": 27,
+      "characters": [
+        "Monet"
+      ]
+    },
+    {
+      "date": "08-28",
+      "label": "August 28th",
+      "month": 8,
+      "day": 28,
+      "characters": [
+        "Hannyabal"
+      ]
+    },
+    {
+      "date": "08-29",
+      "label": "August 29th",
+      "month": 8,
+      "day": 29,
+      "characters": [
+        "Farul",
+        "Panda Shark"
+      ]
+    },
+    {
+      "date": "08-30",
+      "label": "August 30th",
+      "month": 8,
+      "day": 30,
+      "characters": [
+        "Curly Dadan"
+      ]
+    },
+    {
+      "date": "08-31",
+      "label": "August 31st",
+      "month": 8,
+      "day": 31,
+      "characters": [
+        "Cavendish"
+      ]
+    }
+  ]
+}

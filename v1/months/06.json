@@ -1,0 +1,299 @@
+{
+  "month": 6,
+  "name": "June",
+  "count": 52,
+  "days": [
+    {
+      "date": "06-01",
+      "label": "June 1st",
+      "month": 6,
+      "day": 1,
+      "characters": [
+        "St. Charloss",
+        "Moda"
+      ]
+    },
+    {
+      "date": "06-02",
+      "label": "June 2nd",
+      "month": 6,
+      "day": 2,
+      "characters": [
+        "Chimney",
+        "Rob Lucci",
+        "Ronse"
+      ]
+    },
+    {
+      "date": "06-03",
+      "label": "June 3rd",
+      "month": 6,
+      "day": 3,
+      "characters": [
+        "Mousse",
+        "Dragon Number Thirteen"
+      ]
+    },
+    {
+      "date": "06-04",
+      "label": "June 4th",
+      "month": 6,
+      "day": 4,
+      "characters": [
+        "Epoida",
+        "Crocus",
+        "Raijin"
+      ]
+    },
+    {
+      "date": "06-05",
+      "label": "June 5th",
+      "month": 6,
+      "day": 5,
+      "characters": [
+        "Jabra",
+        "Sicily"
+      ]
+    },
+    {
+      "date": "06-06",
+      "label": "June 6th",
+      "month": 6,
+      "day": 6,
+      "characters": [
+        "Karma",
+        "Momonga",
+        "Sheepshead"
+      ]
+    },
+    {
+      "date": "06-07",
+      "label": "June 7th",
+      "month": 6,
+      "day": 7,
+      "characters": [
+        "Perona"
+      ]
+    },
+    {
+      "date": "06-08",
+      "label": "June 8th",
+      "month": 6,
+      "day": 8,
+      "characters": [
+        "Saldeath",
+        "Lacroix"
+      ]
+    },
+    {
+      "date": "06-09",
+      "label": "June 9th",
+      "month": 6,
+      "day": 9,
+      "characters": [
+        "Surume (the kraken)",
+        "Rockstar"
+      ]
+    },
+    {
+      "date": "06-10",
+      "label": "June 10th",
+      "month": 6,
+      "day": 10,
+      "characters": [
+        "Dalton",
+        "Portgas D. Rouge"
+      ]
+    },
+    {
+      "date": "06-11",
+      "label": "June 11th",
+      "month": 6,
+      "day": 11,
+      "characters": [
+        "Shiliew"
+      ]
+    },
+    {
+      "date": "06-12",
+      "label": "June 12th",
+      "month": 6,
+      "day": 12,
+      "characters": [
+        "Senor Pink",
+        "Disco"
+      ]
+    },
+    {
+      "date": "06-13",
+      "label": "June 13th",
+      "month": 6,
+      "day": 13,
+      "characters": [
+        "Ripper"
+      ]
+    },
+    {
+      "date": "06-14",
+      "label": "June 14th",
+      "month": 6,
+      "day": 14,
+      "characters": [
+        "Chabo",
+        "Candy",
+        "Kawamatsu"
+      ]
+    },
+    {
+      "date": "06-15",
+      "label": "June 15th",
+      "month": 6,
+      "day": 15,
+      "characters": [
+        "Belo Betty",
+        "Roshio"
+      ]
+    },
+    {
+      "date": "06-16",
+      "label": "June 16th",
+      "month": 6,
+      "day": 16,
+      "characters": [
+        "Pedro"
+      ]
+    },
+    {
+      "date": "06-17",
+      "label": "June 17th",
+      "month": 6,
+      "day": 17,
+      "characters": [
+        "Toto",
+        "Genzo",
+        "Tamachibi"
+      ]
+    },
+    {
+      "date": "06-18",
+      "label": "June 18th",
+      "month": 6,
+      "day": 18,
+      "characters": [
+        "Rika"
+      ]
+    },
+    {
+      "date": "06-19",
+      "label": "June 19th",
+      "month": 6,
+      "day": 19,
+      "characters": [
+        "Mr. 4 (Babe)",
+        "Rokkaku",
+        "Tibany"
+      ]
+    },
+    {
+      "date": "06-20",
+      "label": "June 20th",
+      "month": 6,
+      "day": 20,
+      "characters": [
+        "Amadob"
+      ]
+    },
+    {
+      "date": "06-21",
+      "label": "June 21st",
+      "month": 6,
+      "day": 21,
+      "characters": [
+        "Miss Father’s Day"
+      ]
+    },
+    {
+      "date": "06-22",
+      "label": "June 22nd",
+      "month": 6,
+      "day": 22,
+      "characters": [
+        "Gyro"
+      ]
+    },
+    {
+      "date": "06-23",
+      "label": "June 23rd",
+      "month": 6,
+      "day": 23,
+      "characters": [
+        "Orlumbus"
+      ]
+    },
+    {
+      "date": "06-24",
+      "label": "June 24th",
+      "month": 6,
+      "day": 24,
+      "characters": [
+        "Ryuuboshi"
+      ]
+    },
+    {
+      "date": "06-25",
+      "label": "June 25th",
+      "month": 6,
+      "day": 25,
+      "characters": [
+        "Charlotte Pudding"
+      ]
+    },
+    {
+      "date": "06-26",
+      "label": "June 26th",
+      "month": 6,
+      "day": 26,
+      "characters": [
+        "Zeus"
+      ]
+    },
+    {
+      "date": "06-27",
+      "label": "June 27th",
+      "month": 6,
+      "day": 27,
+      "characters": [
+        "Riku Dold III"
+      ]
+    },
+    {
+      "date": "06-28",
+      "label": "June 28th",
+      "month": 6,
+      "day": 28,
+      "characters": [
+        "St. Roswald",
+        "Mocha"
+      ]
+    },
+    {
+      "date": "06-29",
+      "label": "June 29th",
+      "month": 6,
+      "day": 29,
+      "characters": [
+        "Fukuro",
+        "Pankuuta Dakeyan"
+      ]
+    },
+    {
+      "date": "06-30",
+      "label": "June 30th",
+      "month": 6,
+      "day": 30,
+      "characters": [
+        "Elmy"
+      ]
+    }
+  ]
+}

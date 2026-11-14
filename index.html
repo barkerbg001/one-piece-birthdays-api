@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>One Piece Birthdays</title>
+<meta name="description" content="A free static JSON API of One Piece character birthdays.">
+<style>
+  :root {
+    --bg: #fbf8f2; --surface: #ffffff; --text: #1d1b18; --muted: #6b655c;
+    --border: #e6dfd3; --accent: #c8102e; --code-bg: #f3eee5;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14130f; --surface: #1d1b17; --text: #f1ece3; --muted: #a39b8f;
+      --border: #332f28; --accent: #ff4d5e; --code-bg: #26231e;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  main { max-width: 760px; margin: 0 auto; padding: 40px 16px 64px; }
+  h1 { font-size: 2rem; margin: 0 0 4px; }
+  h2 { font-size: 1.15rem; margin: 40px 0 12px; }
+  p.lead { color: var(--muted); margin: 0 0 28px; }
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 20px; }
+  .today-label { color: var(--muted); font-size: .9rem; margin: 0 0 6px; }
+  .today-date { font-size: 1.4rem; font-weight: 650; margin: 0 0 12px; }
+  ul.names { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+  ul.names li { border: 1px solid var(--border); border-radius: 999px; padding: 4px 12px; font-size: .95rem; }
+  .empty { color: var(--muted); }
+  form { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }
+  input {
+    flex: 1 1 180px; min-width: 0; padding: 9px 12px; font: inherit; color: var(--text);
+    background: var(--bg); border: 1px solid var(--border); border-radius: 8px;
+  }
+  input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+  table { width: 100%; border-collapse: collapse; font-size: .95rem; }
+  th, td { text-align: left; padding: 8px 6px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; }
+  code, pre { font-family: ui-monospace, "Cascadia Code", Menlo, monospace; font-size: .88rem; }
+  code { background: var(--code-bg); padding: 1px 5px; border-radius: 4px; }
+  pre { background: var(--code-bg); padding: 14px; border-radius: 8px; overflow-x: auto; margin: 0; }
+  a { color: var(--accent); }
+  .muted { color: var(--muted); font-size: .9rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>One Piece Birthdays</h1>
+  <p class="lead">A static JSON API of One Piece character birthdays. No key, no rate limit. Just fetch a file.</p>
+
+  <section class="card" aria-live="polite">
+    <p class="today-label">Birthdays today</p>
+    <p class="today-date" id="today-date">Loading…</p>
+    <ul class="names" id="today-names"></ul>
+  </section>
+
+  <h2>Look up</h2>
+  <div class="card">
+    <form id="search">
+      <label class="muted" for="q" style="flex-basis:100%">Character name, or a date as MM-DD</label>
+      <input id="q" type="search" placeholder="Luffy or 05-05" autocomplete="off">
+    </form>
+    <div id="results"><p class="empty">Type to search.</p></div>
+  </div>
+
+  <h2>Endpoints</h2>
+  <div class="card">
+    <table>
+      <thead><tr><th>Path</th><th>Returns</th></tr></thead>
+      <tbody>
+        <tr><td><code>v1/dates/MM-DD.json</code></td><td>Characters born on that day. All 366 days exist, including <code>02-29</code>.</td></tr>
+        <tr><td><code>v1/months/MM.json</code></td><td>Every day in that month.</td></tr>
+        <tr><td><code>v1/all.json</code></td><td>The whole calendar.</td></tr>
+        <tr><td><code>v1/characters.json</code></td><td>Every character with their birthday(s).</td></tr>
+        <tr><td><code>v1/index.json</code></td><td>Counts and endpoint list.</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Example</h2>
+  <pre id="example">GET v1/dates/05-05.json</pre>
+  <p class="muted">There is no <code>today</code> endpoint because the site is static. Work out today's <code>MM-DD</code> in your own timezone and fetch that file.</p>
+</main>
+<script>
+  const base = new URL('v1/', document.baseURI);
+  const pad = (n) => String(n).padStart(2, '0');
+  const getJson = async (path) => {
+    const res = await fetch(new URL(path, base));
+    if (!res.ok) throw new Error(res.status);
+    return res.json();
+  };
+
+  function renderNames(list, el) {
+    el.replaceChildren();
+    if (!list.length) {
+      const li = document.createElement('li');
+      li.className = 'empty';
+      li.style.border = 'none';
+      li.textContent = 'No known birthdays.';
+      el.append(li);
+      return;
+    }
+    for (const name of list) {
+      const li = document.createElement('li');
+      li.textContent = name;
+      el.append(li);
+    }
+  }
+
+  (async () => {
+    const now = new Date();
+    const key = `${pad(now.getMonth() + 1)}-${pad(now.getDate())}`;
+    try {
+      const day = await getJson(`dates/${key}.json`);
+      document.getElementById('today-date').textContent = day.label;
+      renderNames(day.characters, document.getElementById('today-names'));
+      document.getElementById('example').textContent =
+        `GET v1/dates/${key}.json\n\n` + JSON.stringify(day, null, 2);
+    } catch {
+      document.getElementById('today-date').textContent = 'Could not load data.';
+    }
+  })();
+
+  let characters = null;
+  const results = document.getElementById('results');
+  const q = document.getElementById('q');
+  document.getElementById('search').addEventListener('submit', (e) => e.preventDefault());
+
+  function rowsFor(list) {
+    const table = document.createElement('table');
+    table.innerHTML = '<thead><tr><th>Character</th><th>Birthday</th></tr></thead>';
+    const body = document.createElement('tbody');
+    for (const c of list) {
+      const tr = document.createElement('tr');
+      const a = document.createElement('td');
+      const b = document.createElement('td');
+      a.textContent = c.name;
+      b.textContent = c.dates.join(', ');
+      tr.append(a, b);
+      body.append(tr);
+    }
+    table.append(body);
+    return table;
+  }
+
+  q.addEventListener('input', async () => {
+    const term = q.value.trim().toLowerCase();
+    if (!term) { results.innerHTML = '<p class="empty">Type to search.</p>'; return; }
+    try {
+      const dateMatch = /^(\d{1,2})[-/](\d{1,2})$/.exec(term);
+      if (dateMatch) {
+        const day = await getJson(`dates/${pad(dateMatch[1])}-${pad(dateMatch[2])}.json`);
+        if (q.value.trim().toLowerCase() !== term) return;
+        results.replaceChildren(rowsFor(day.characters.map((name) => ({ name, dates: [day.label] }))));
+        if (!day.characters.length) results.innerHTML = '<p class="empty">No known birthdays.</p>';
+        return;
+      }
+      characters ??= (await getJson('characters.json')).characters;
+      const hits = characters.filter((c) => c.name.toLowerCase().includes(term)).slice(0, 50);
+      if (!hits.length) { results.innerHTML = '<p class="empty">No matches.</p>'; return; }
+      results.replaceChildren(rowsFor(hits));
+    } catch {
+      results.innerHTML = '<p class="empty">Not found.</p>';
+    }
+  });
+</script>
+</body>
+</html>
