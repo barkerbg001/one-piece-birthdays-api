@@ -1,0 +1,59 @@
+{
+  "id": "inuppe",
+  "name": "Inuppe",
+  "display_name": "Inuppe",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-16",
+      "label": "December 16th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Inuppe_Anime_Infobox.png/revision/latest?cb=20231212084622",
+    "width": 594,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Inuppe_Anime_Infobox.png/revision/latest/scale-to-width-down/220?cb=20231212084622",
+    "width": 220,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Inuppe",
+    "url": "https://onepiece.fandom.com/wiki/Inuppe"
+  },
+  "info": {
+    "japanese_name": "犬ッペ",
+    "romanized_name": "Inuppe",
+    "official_english_name": "Dog Penguin; Inuppe (OPCG)",
+    "debut": [
+      "Chapter 451",
+      "Episode 345"
+    ],
+    "affiliations": [
+      "Thriller Bark",
+      "Penguin Trio"
+    ],
+    "occupations": [
+      "Wild Zombie"
+    ],
+    "status": "2",
+    "birthday": "December 16th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

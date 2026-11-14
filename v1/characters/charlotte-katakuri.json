@@ -1,0 +1,80 @@
+{
+  "id": "charlotte-katakuri",
+  "name": "Charlotte Katakuri",
+  "display_name": "Charlotte Katakuri",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-25",
+      "label": "November 25th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-daifuku",
+      "name": "Charlotte Daifuku"
+    },
+    {
+      "id": "charlotte-oven",
+      "name": "Charlotte Oven"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Charlotte_Katakuri_Anime_Infobox.png/revision/latest?cb=20230204155539",
+    "width": 649,
+    "height": 973
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Charlotte_Katakuri_Anime_Infobox.png/revision/latest/scale-to-width-down/267?cb=20230204155539",
+    "width": 267,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Katakuri",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Katakuri"
+  },
+  "info": {
+    "japanese_name": "シャーロット・カタクリ",
+    "romanized_name": "Shārotto Katakuri",
+    "official_english_name": "Charlotte Katakuri",
+    "debut": [
+      "Chapter 860",
+      "Episode 825"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Sweet Commander",
+      "Minister of Flour"
+    ],
+    "origin": "Grand Line (On a boat)",
+    "residence": [
+      "Komugi Island",
+      "Hachinosu (former)"
+    ],
+    "age": "48",
+    "birthday": "November 25th",
+    "height": "509 cm (16'8\")",
+    "blood_type": "XF",
+    "bounty": "1,057,000,000",
+    "devil_fruit": "Mochi Mochi no Mi",
+    "devil_fruit_english": "Mochi-Mochi Fruit",
+    "devil_fruit_type": "Special Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

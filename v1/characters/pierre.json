@@ -1,0 +1,59 @@
+{
+  "id": "pierre",
+  "name": "Pierre",
+  "display_name": "Pierre",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-08",
+      "label": "October 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6a/Pierre_Anime_Infobox.png/revision/latest?cb=20130502235859",
+    "width": 640,
+    "height": 305
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6a/Pierre_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130502235859",
+    "width": 400,
+    "height": 191
+  },
+  "wiki": {
+    "title": "Pierre",
+    "url": "https://onepiece.fandom.com/wiki/Pierre"
+  },
+  "info": {
+    "japanese_name": "ピエール",
+    "romanized_name": "Piēru",
+    "debut": [
+      "Chapter 237",
+      "Episode 153"
+    ],
+    "affiliations": [
+      "Gan Fall"
+    ],
+    "occupations": [
+      "Gan Fall's Pet"
+    ],
+    "birthday": "October 8th",
+    "devil_fruit": "Uma Uma no Mi",
+    "devil_fruit_english": "Horse-Horse Fruit",
+    "devil_fruit_type": "Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

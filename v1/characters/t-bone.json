@@ -1,0 +1,67 @@
+{
+  "id": "t-bone",
+  "name": "T-Bone",
+  "display_name": "T-Bone",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-10",
+      "label": "September 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/08/T_Bone_Anime_Infobox.png/revision/latest?cb=20230427165456",
+    "width": 1920,
+    "height": 3053
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/08/T_Bone_Anime_Infobox.png/revision/latest/scale-to-width-down/251?cb=20230427165456",
+    "width": 251,
+    "height": 400
+  },
+  "wiki": {
+    "title": "T Bone",
+    "url": "https://onepiece.fandom.com/wiki/T_Bone"
+  },
+  "info": {
+    "japanese_name": "Tボーン",
+    "romanized_name": "Tī Bōn",
+    "official_english_name": "T-Bone; T Bone (WT100)",
+    "debut": [
+      "Chapter 365",
+      "Episode 255"
+    ],
+    "affiliations": [
+      "Marines"
+    ],
+    "occupations": [
+      "Marine Vice Admiral",
+      "Marine Rear Admiral (promoted)",
+      "Marine Captain (promoted)",
+      "Knight (former)"
+    ],
+    "origin": "Grand Line",
+    "epithet": "\"Ship Cutter\"",
+    "status": "2",
+    "age": "51 (debut); 53 (after timeskip, at death)",
+    "birthday": "September 10th",
+    "height": "200 cm (6'7\")",
+    "blood_type": "X",
+    "bounty": "At least ★★★★★"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

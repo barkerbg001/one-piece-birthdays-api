@@ -3,7 +3,23 @@
   "label": "June 16th",
   "month": 6,
   "day": 16,
-  "characters": [
+  "names": [
     "Pedro"
+  ],
+  "characters": [
+    {
+      "id": "pedro",
+      "name": "Pedro",
+      "display_name": "Pedro",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c8/Pedro_Anime_Infobox.png/revision/latest/scale-to-width-down/322?cb=20170423080015",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c8/Pedro_Anime_Infobox.png/revision/latest?cb=20170423080015",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Pedro",
+      "epithet": "\"Pedro of the Treetops\"",
+      "affiliation": "Mokomo Dukedom",
+      "api": "v1/characters/pedro.json"
+    }
   ]
 }

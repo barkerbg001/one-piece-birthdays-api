@@ -1,0 +1,53 @@
+{
+  "id": "coffee-monkeys",
+  "name": "Coffee Monkeys",
+  "display_name": "Coffee Monkeys",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-14",
+      "label": "November 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/97/Coffee_Monkeys_Infobox.png/revision/latest?cb=20131103005225",
+    "width": 640,
+    "height": 368
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/97/Coffee_Monkeys_Infobox.png/revision/latest/scale-to-width-down/400?cb=20131103005225",
+    "width": 400,
+    "height": 230
+  },
+  "wiki": {
+    "title": "Coffee Monkeys",
+    "url": "https://onepiece.fandom.com/wiki/Coffee_Monkeys"
+  },
+  "info": {
+    "japanese_name": "コーヒーモンキーズ",
+    "romanized_name": "Kōhī Monkīzu",
+    "official_english_name": "Coffee Monkeys",
+    "debut": [
+      "Chapter 501",
+      "Episode 395"
+    ],
+    "occupations": [
+      "Kidnappers"
+    ]
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

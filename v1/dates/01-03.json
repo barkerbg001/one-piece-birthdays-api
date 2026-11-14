@@ -3,8 +3,38 @@
   "label": "January 3rd",
   "month": 1,
   "day": 3,
-  "characters": [
+  "names": [
     "Aisa",
     "Iceburg"
+  ],
+  "characters": [
+    {
+      "id": "aisa",
+      "name": "Aisa",
+      "display_name": "Aisa",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Aisa_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/278?cb=20251207162352",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Aisa_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251207162352",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Aisa",
+      "epithet": null,
+      "affiliation": "Shandia",
+      "api": "v1/characters/aisa.json"
+    },
+    {
+      "id": "iceburg",
+      "name": "Iceburg",
+      "display_name": "Iceburg",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/00/Iceburg_Anime_Infobox.png/revision/latest/scale-to-width-down/324?cb=20230620131854",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/00/Iceburg_Anime_Infobox.png/revision/latest?cb=20230620131854",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Iceburg",
+      "epithet": null,
+      "affiliation": "Galley-La Company",
+      "api": "v1/characters/iceburg.json"
+    }
   ]
 }

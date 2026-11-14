@@ -3,8 +3,42 @@
   "label": "January 18th",
   "month": 1,
   "day": 18,
-  "characters": [
+  "names": [
     "Splash",
     "Splatter"
+  ],
+  "characters": [
+    {
+      "id": "splash",
+      "name": "Splash",
+      "display_name": "Splash",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "splatter"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Splash_and_Splatter_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20241215020602",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Splash_and_Splatter_Anime_Infobox.png/revision/latest?cb=20241215020602",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Splash_and_Splatter",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/splash.json"
+    },
+    {
+      "id": "splatter",
+      "name": "Splatter",
+      "display_name": "Splatter",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "splash"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Splash_and_Splatter_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20241215020602",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Splash_and_Splatter_Anime_Infobox.png/revision/latest?cb=20241215020602",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Splash_and_Splatter",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/splatter.json"
+    }
   ]
 }

@@ -1,0 +1,63 @@
+{
+  "id": "clover",
+  "name": "Clover",
+  "display_name": "Clover",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-08",
+      "label": "April 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Clou_D._Clover_Anime_Infobox.png/revision/latest?cb=20221112234508",
+    "width": 1266,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Clou_D._Clover_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20221112234508",
+    "width": 400,
+    "height": 341
+  },
+  "wiki": {
+    "title": "Clou D. Clover",
+    "url": "https://onepiece.fandom.com/wiki/Clou_D._Clover"
+  },
+  "info": {
+    "japanese_name": "クラウ・D・クローバー",
+    "romanized_name": "Kurau Dī Kurōbā",
+    "official_english_name": "Clou D. Clover",
+    "debut": [
+      "Chapter 391",
+      "Episode 275"
+    ],
+    "affiliations": [
+      "Ohara Archaeologists",
+      "Clan of D."
+    ],
+    "occupations": [
+      "Professor and archaeologist of the Tree of Knowledge",
+      "Explorer (former)"
+    ],
+    "origin": "West Blue (Ohara)",
+    "status": "2",
+    "birthday": "April 8th",
+    "height": "172 cm (5'8\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "richie",
+  "name": "Richie",
+  "display_name": "Richie",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-23",
+      "label": "July 23rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/ca/Richie_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200111094000",
+    "width": 381,
+    "height": 528
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/ca/Richie_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/288?cb=20200111094000",
+    "width": 288,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Richie",
+    "url": "https://onepiece.fandom.com/wiki/Richie"
+  },
+  "info": {
+    "japanese_name": "リッチー",
+    "romanized_name": "Ritchī",
+    "official_english_name": "Richie; Richy (Odex)",
+    "debut": [
+      "Chapter 9",
+      "Episode 6"
+    ],
+    "affiliations": [
+      "Cross Guild",
+      "Buggy's Delivery (former)",
+      "Buggy and Alvida Alliance",
+      "Buggy Pirates"
+    ],
+    "occupations": [
+      "Pet",
+      "Pirate Captain (former)"
+    ],
+    "residence": [
+      "Karai Bari Island"
+    ],
+    "birthday": "July 23rd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

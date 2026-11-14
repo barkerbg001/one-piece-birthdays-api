@@ -3,7 +3,23 @@
   "label": "February 23rd",
   "month": 2,
   "day": 23,
-  "characters": [
+  "names": [
     "Makino"
+  ],
+  "characters": [
+    {
+      "id": "makino",
+      "name": "Makino",
+      "display_name": "Makino",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/5a/Makino_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/317?cb=20240914133612",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/5a/Makino_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240914133612",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Makino",
+      "epithet": null,
+      "affiliation": "Partys Bar",
+      "api": "v1/characters/makino.json"
+    }
   ]
 }

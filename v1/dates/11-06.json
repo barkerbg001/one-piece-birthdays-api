@@ -3,7 +3,23 @@
   "label": "November 6th",
   "month": 11,
   "day": 6,
-  "characters": [
+  "names": [
     "Ryuuma"
+  ],
+  "characters": [
+    {
+      "id": "ryuuma",
+      "name": "Ryuuma",
+      "display_name": "Ryuuma",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6a/Shimotsuki_Ryuma_Anime_Infobox.png/revision/latest/scale-to-width-down/239?cb=20240121155620",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6a/Shimotsuki_Ryuma_Anime_Infobox.png/revision/latest?cb=20240121155620",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Shimotsuki_Ryuma",
+      "epithet": "Legendary Samurai; Sword God; Ryuma de King",
+      "affiliation": "Wano Country",
+      "api": "v1/characters/ryuuma.json"
+    }
   ]
 }

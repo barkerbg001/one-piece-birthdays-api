@@ -3,7 +3,23 @@
   "label": "April 30th",
   "month": 4,
   "day": 30,
-  "characters": [
+  "names": [
     "Viola"
+  ],
+  "characters": [
+    {
+      "id": "viola",
+      "name": "Viola",
+      "display_name": "Viola",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Viola_Anime_Infobox.png/revision/latest/scale-to-width-down/250?cb=20221027021751",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Viola_Anime_Infobox.png/revision/latest?cb=20221027021751",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Viola",
+      "epithet": null,
+      "affiliation": "Riku Family",
+      "api": "v1/characters/viola.json"
+    }
   ]
 }

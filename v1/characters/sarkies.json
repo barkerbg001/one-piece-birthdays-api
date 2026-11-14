@@ -1,0 +1,63 @@
+{
+  "id": "sarkies",
+  "name": "Sarkies",
+  "display_name": "Sarkies",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-12",
+      "label": "July 12th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Sarquiss_Anime_Infobox.png/revision/latest?cb=20230806215754",
+    "width": 461,
+    "height": 480
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Sarquiss_Anime_Infobox.png/revision/latest/scale-to-width-down/384?cb=20230806215754",
+    "width": 384,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Sarquiss",
+    "url": "https://onepiece.fandom.com/wiki/Sarquiss"
+  },
+  "info": {
+    "japanese_name": "サーキース",
+    "romanized_name": "Sākīsu",
+    "debut": [
+      "Chapter 222",
+      "Episode 146"
+    ],
+    "affiliations": [
+      "Bellamy Pirates"
+    ],
+    "occupations": [
+      "First Mate (former)"
+    ],
+    "origin": "North Blue (Notice)",
+    "epithet": "\"Big Knife Sarquiss\"",
+    "status": "1",
+    "age": "25 (debut); 27 (after timeskip)",
+    "birthday": "July 12th",
+    "height": "228 cm (7'6\")",
+    "blood_type": "F",
+    "bounty": "38,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

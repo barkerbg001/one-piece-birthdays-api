@@ -3,7 +3,23 @@
   "label": "August 12th",
   "month": 8,
   "day": 12,
-  "characters": [
+  "names": [
     "Hajrudin"
+  ],
+  "characters": [
+    {
+      "id": "hajrudin",
+      "name": "Hajrudin",
+      "display_name": "Hajrudin",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Hajrudin_Anime_Infobox.png/revision/latest/scale-to-width-down/263?cb=20240319195654",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Hajrudin_Anime_Infobox.png/revision/latest?cb=20240319195654",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hajrudin",
+      "epithet": null,
+      "affiliation": "New Giant Warrior Pirates",
+      "api": "v1/characters/hajrudin.json"
+    }
   ]
 }

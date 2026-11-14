@@ -1,0 +1,69 @@
+{
+  "id": "kouzuki-momonosuke",
+  "name": "Kouzuki Momonosuke",
+  "display_name": "Kouzuki Momonosuke",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-07",
+      "label": "October 7th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8b/Kouzuki_Momonosuke_Anime_Infobox.png/revision/latest?cb=20240904123638",
+    "width": 828,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8b/Kouzuki_Momonosuke_Anime_Infobox.png/revision/latest/scale-to-width-down/307?cb=20240904123638",
+    "width": 307,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kouzuki Momonosuke",
+    "url": "https://onepiece.fandom.com/wiki/Kouzuki_Momonosuke"
+  },
+  "info": {
+    "japanese_name": "光月モモの助",
+    "romanized_name": "Kōzuki Momonosuke",
+    "official_english_name": "Kozuki Momonosuke (VIZ); Kouzuki Momonosuke (WT100, OPCG)",
+    "debut": [
+      "Chapter 684",
+      "Episode 609"
+    ],
+    "affiliations": [
+      "Kouzuki Family",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Shogun"
+    ],
+    "origin": "Grand Line (Moby Dick)",
+    "residence": [
+      "Wano Country (Kuri)",
+      "Flower Capital (Shogun Castle)"
+    ],
+    "age": "8 (born 28 years ago); (biologically 28)",
+    "birthday": "October 7th",
+    "height": "110 cm (3'7\") (child body); 322 cm (10'7\") (current)",
+    "blood_type": "X",
+    "devil_fruit": "Uo Uo no Mi, Model: Seiryu (Artificial)",
+    "devil_fruit_english": "Fish-Fish Fruit, Model: Azure Dragon; Fish-Fish Fruit, Azure Dragon Model",
+    "devil_fruit_type": "Mythical Zoan (Artificial)"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "anjo",
+  "name": "Anjo",
+  "display_name": "Anjo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-01",
+      "label": "January 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Anjo_Anime_Infobox.png/revision/latest?cb=20230311041447",
+    "width": 482,
+    "height": 967
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Anjo_Anime_Infobox.png/revision/latest/scale-to-width-down/199?cb=20230311041447",
+    "width": 199,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Anjo",
+    "url": "https://onepiece.fandom.com/wiki/Anjo"
+  },
+  "info": {
+    "japanese_name": "アンジョウ",
+    "romanized_name": "Anjō",
+    "official_english_name": "Anjo",
+    "debut": [
+      "Chapter 1",
+      "We Are!",
+      "Episode 400"
+    ],
+    "origin": "East Blue",
+    "birthday": "January 1st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

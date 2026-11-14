@@ -1,0 +1,74 @@
+{
+  "id": "gekko-moriah",
+  "name": "Gekko Moriah",
+  "display_name": "Gekko Moriah",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-06",
+      "label": "September 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/be/Gecko_Moria_Anime_Infobox.png/revision/latest?cb=20181127062446",
+    "width": 1359,
+    "height": 1304
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/be/Gecko_Moria_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20181127062446",
+    "width": 400,
+    "height": 384
+  },
+  "wiki": {
+    "title": "Gecko Moria",
+    "url": "https://onepiece.fandom.com/wiki/Gecko_Moria"
+  },
+  "info": {
+    "japanese_name": "ゲッコー・モリア",
+    "romanized_name": "Gekkō Moria",
+    "debut": [
+      "Chapter 449",
+      "Episode 343"
+    ],
+    "affiliations": [
+      "Thriller Bark Pirates (Mysterious Four)",
+      "Seven Warlords of the Sea (former)",
+      "Gecko Pirates (former)"
+    ],
+    "occupations": [
+      "Pirate Captain",
+      "Warlord of the Sea (former)"
+    ],
+    "origin": "West Blue",
+    "residence": [
+      "Thriller Bark",
+      "Wano Country (Ringo) (former)"
+    ],
+    "aliases": [
+      "Kouzuki Moria"
+    ],
+    "age": "48 (debut); 50 (after timeskip)",
+    "birthday": "September 6th",
+    "height": "692 cm (22'8\") (debut, after timeskip)",
+    "blood_type": "X",
+    "bounty": "320,000,000",
+    "devil_fruit": "Kage Kage no Mi",
+    "devil_fruit_english": "Shadow-Shadow Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

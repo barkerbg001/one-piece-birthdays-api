@@ -1,0 +1,62 @@
+{
+  "id": "byron",
+  "name": "Byron",
+  "display_name": "Byron",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-18",
+      "label": "December 18th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ef/Byron_Anime_Infobox.png/revision/latest?cb=20140703110225",
+    "width": 1016,
+    "height": 1666
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ef/Byron_Anime_Infobox.png/revision/latest/scale-to-width-down/244?cb=20140703110225",
+    "width": 244,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Byron",
+    "url": "https://onepiece.fandom.com/wiki/Byron"
+  },
+  "info": {
+    "japanese_name": "バイロン",
+    "romanized_name": "Bairon",
+    "official_english_name": "Byron",
+    "debut": [
+      "Chapter 501",
+      "Episode 395"
+    ],
+    "occupations": [
+      "Musician",
+      "Pirate",
+      "Slave"
+    ],
+    "origin": "West Blue",
+    "residence": [
+      "Toroa"
+    ],
+    "age": "25 (debut)",
+    "birthday": "December 18th",
+    "height": "192 cm (6'3½\")"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

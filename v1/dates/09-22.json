@@ -3,7 +3,23 @@
   "label": "September 22nd",
   "month": 9,
   "day": 22,
-  "characters": [
+  "names": [
     "Kyros"
+  ],
+  "characters": [
+    {
+      "id": "kyros",
+      "name": "Kyros",
+      "display_name": "Kyros",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Kyros_Anime_Infobox.png/revision/latest/scale-to-width-down/183?cb=20221018190117",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Kyros_Anime_Infobox.png/revision/latest?cb=20221018190117",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kyros",
+      "epithet": null,
+      "affiliation": "Corrida Colosseum (former)",
+      "api": "v1/characters/kyros.json"
+    }
   ]
 }

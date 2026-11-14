@@ -3,8 +3,38 @@
   "label": "March 5th",
   "month": 3,
   "day": 5,
-  "characters": [
+  "names": [
     "Sadi",
     "Minokoala"
+  ],
+  "characters": [
+    {
+      "id": "sadi",
+      "name": "Sadi",
+      "display_name": "Sadi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/38/Sadi_Anime_Infobox.png/revision/latest/scale-to-width-down/252?cb=20221023232535",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/38/Sadi_Anime_Infobox.png/revision/latest?cb=20221023232535",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sadi",
+      "epithet": null,
+      "affiliation": "Impel Down",
+      "api": "v1/characters/sadi.json"
+    },
+    {
+      "id": "minokoala",
+      "name": "Minokoala",
+      "display_name": "Minokoala",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a7/Minokoala_Anime_Infobox.png/revision/latest/scale-to-width-down/283?cb=20151024072752",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a7/Minokoala_Anime_Infobox.png/revision/latest?cb=20151024072752",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Minokoala",
+      "epithet": null,
+      "affiliation": "Impel Down",
+      "api": "v1/characters/minokoala.json"
+    }
   ]
 }

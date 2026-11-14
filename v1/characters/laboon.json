@@ -1,0 +1,62 @@
+{
+  "id": "laboon",
+  "name": "Laboon",
+  "display_name": "Laboon",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-16",
+      "label": "September 16th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/88/Laboon_Anime_Infobox.png/revision/latest?cb=20180508212232",
+    "width": 407,
+    "height": 407
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/88/Laboon_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180508212232",
+    "width": 400,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Laboon",
+    "url": "https://onepiece.fandom.com/wiki/Laboon"
+  },
+  "info": {
+    "japanese_name": "ラブーン",
+    "romanized_name": "Rabūn",
+    "official_english_name": "Laboon; Raboon (Odex)",
+    "debut": [
+      "Chapter 102",
+      "Episode 62"
+    ],
+    "affiliations": [
+      "Rumbar Pirates (former)",
+      "Crocus"
+    ],
+    "origin": "West Blue",
+    "residence": [
+      "Reverse Mountain (Twin Cape)"
+    ],
+    "age": "51 (debut); 53 (after timeskip)",
+    "birthday": "September 16th",
+    "height": "400 m (1312'4\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,7 +3,23 @@
   "label": "March 1st",
   "month": 3,
   "day": 1,
-  "characters": [
+  "names": [
     "Mhinorinoceros"
+  ],
+  "characters": [
+    {
+      "id": "mhinorinoceros",
+      "name": "Mhinorinoceros",
+      "display_name": "Mhinorinoceros",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/5e/Minorhinoceros_Anime_Infobox.png/revision/latest/scale-to-width-down/287?cb=20100119225841",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/5e/Minorhinoceros_Anime_Infobox.png/revision/latest?cb=20100119225841",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Minorhinoceros",
+      "epithet": null,
+      "affiliation": "Impel Down",
+      "api": "v1/characters/mhinorinoceros.json"
+    }
   ]
 }

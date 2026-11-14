@@ -1,0 +1,78 @@
+{
+  "id": "vinsmoke-niji",
+  "name": "Vinsmoke Niji",
+  "display_name": "Vinsmoke Niji",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-02",
+      "label": "March 2nd"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "vinsmoke-ichiji",
+      "name": "Vinsmoke Ichiji"
+    },
+    {
+      "id": "sanji",
+      "name": "Sanji"
+    },
+    {
+      "id": "vinsmoke-yonji",
+      "name": "Vinsmoke Yonji"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Vinsmoke_Niji_Anime_Infobox.png/revision/latest?cb=20180618054009",
+    "width": 793,
+    "height": 1079
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Vinsmoke_Niji_Anime_Infobox.png/revision/latest/scale-to-width-down/294?cb=20180618054009",
+    "width": 294,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Vinsmoke Niji",
+    "url": "https://onepiece.fandom.com/wiki/Vinsmoke_Niji"
+  },
+  "info": {
+    "japanese_name": "ヴィンスモーク・ニジ",
+    "romanized_name": "Vinsumōku Niji",
+    "official_english_name": "Vinsmoke Niji",
+    "debut": [
+      "Chapter 828",
+      "Episode 787"
+    ],
+    "affiliations": [
+      "Vinsmoke Family",
+      "Germa Kingdom",
+      "Germa 66"
+    ],
+    "occupations": [
+      "Prince",
+      "Mercenary"
+    ],
+    "origin": "North Blue (Germa Kingdom)",
+    "epithet": "\"Dengeki Blue\"",
+    "age": "21",
+    "birthday": "March 2nd",
+    "height": "185 cm (6'1\")",
+    "blood_type": "S (RH-)"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

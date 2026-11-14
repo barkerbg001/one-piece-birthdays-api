@@ -1,0 +1,61 @@
+{
+  "id": "hogback",
+  "name": "Hogback",
+  "display_name": "Hogback",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-19",
+      "label": "December 19th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Hogback_Anime_Infobox.png/revision/latest?cb=20240720150902",
+    "width": 969,
+    "height": 930
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Hogback_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240720150902",
+    "width": 400,
+    "height": 384
+  },
+  "wiki": {
+    "title": "Hogback",
+    "url": "https://onepiece.fandom.com/wiki/Hogback"
+  },
+  "info": {
+    "japanese_name": "ホグバック",
+    "romanized_name": "Hogubakku",
+    "debut": [
+      "Chapter 446",
+      "Episode 340"
+    ],
+    "affiliations": [
+      "Thriller Bark Pirates (Mysterious Four)"
+    ],
+    "occupations": [
+      "Doctor"
+    ],
+    "origin": "West Blue",
+    "epithet": "\"Doctor Hogback\"; \"Genius Surgeon\"",
+    "age": "45 (debut); 47 (post timeskip)",
+    "birthday": "December 19th",
+    "height": "223 cm (7'4\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

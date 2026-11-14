@@ -3,7 +3,23 @@
   "label": "September 27th",
   "month": 9,
   "day": 27,
-  "characters": [
+  "names": [
     "Mr. 9"
+  ],
+  "characters": [
+    {
+      "id": "mr-9",
+      "name": "Mr. 9",
+      "display_name": "Mr. 9",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Mr._9_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/283?cb=20251130161817",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Mr._9_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251130161817",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mr._9",
+      "epithet": null,
+      "affiliation": "Baroque Works (former)",
+      "api": "v1/characters/mr-9.json"
+    }
   ]
 }

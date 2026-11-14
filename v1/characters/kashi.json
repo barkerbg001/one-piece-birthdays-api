@@ -1,0 +1,66 @@
+{
+  "id": "kashi",
+  "name": "Kashi",
+  "display_name": "Kashi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-01",
+      "label": "April 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/72/Kashii_Anime_Infobox.png/revision/latest?cb=20170529154313",
+    "width": 654,
+    "height": 801
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/72/Kashii_Anime_Infobox.png/revision/latest/scale-to-width-down/326?cb=20170529154313",
+    "width": 326,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kashii",
+    "url": "https://onepiece.fandom.com/wiki/Kashii"
+  },
+  "info": {
+    "japanese_name": "カーシー",
+    "romanized_name": "Kāshī",
+    "official_english_name": "Kashii",
+    "debut": [
+      "Chapter 377",
+      "Episode 265"
+    ],
+    "affiliations": [
+      "World Government (defected), Giant Warrior Pirates"
+    ],
+    "occupations": [
+      "Pirate, Gate Guardian (former)"
+    ],
+    "origin": "Grand Line (Elbaph)",
+    "residence": [
+      "Elbaph",
+      "Enies Lobby (former)",
+      "Water 7 (former)"
+    ],
+    "age": "154 (debut); 156 (after timeskip)",
+    "birthday": "April 1st",
+    "height": "1700 cm (55'9\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "poppy",
+  "name": "Poppy",
+  "display_name": "Poppy",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-17",
+      "label": "May 17th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f1/Poppy_Anime_Infobox.png/revision/latest?cb=20190725084747",
+    "width": 522,
+    "height": 621
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f1/Poppy_Anime_Infobox.png/revision/latest/scale-to-width-down/336?cb=20190725084747",
+    "width": 336,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Poppy",
+    "url": "https://onepiece.fandom.com/wiki/Poppy"
+  },
+  "info": {
+    "japanese_name": "ポピー",
+    "romanized_name": "Popī",
+    "official_english_name": "Poppy",
+    "debut": [
+      "Chapter 515",
+      "Episode 409"
+    ],
+    "affiliations": [
+      "Kuja"
+    ],
+    "occupations": [
+      "Warrior"
+    ],
+    "origin": "Calm Belt (Amazon Lily)",
+    "residence": [
+      "Amazon Lily"
+    ],
+    "birthday": "May 17th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

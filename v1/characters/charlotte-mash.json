@@ -1,0 +1,68 @@
+{
+  "id": "charlotte-mash",
+  "name": "Charlotte Mash",
+  "display_name": "Charlotte Mash",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-16",
+      "label": "December 16th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-moscato",
+      "name": "Charlotte Moscato"
+    },
+    {
+      "id": "charlotte-cornstarch",
+      "name": "Charlotte Cornstarch"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Charlotte_Mash_Anime_Infobox.png/revision/latest?cb=20181019104128",
+    "width": 319,
+    "height": 531
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Charlotte_Mash_Anime_Infobox.png/revision/latest/scale-to-width-down/240?cb=20181019104128",
+    "width": 240,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Mash",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Mash"
+  },
+  "info": {
+    "japanese_name": "シャーロット・マッシュ",
+    "romanized_name": "Shārotto Masshu",
+    "official_english_name": "Charlotte Mash (WT100)",
+    "debut": [
+      "Chapter 865",
+      "Episode 831 (fantasy), Episode 834"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "age": "40",
+    "birthday": "December 16th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "mcguy",
+  "name": "Mcguy",
+  "display_name": "Mcguy",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-03",
+      "label": "September 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bd/McGuy_Anime_Infobox.png/revision/latest?cb=20230816214244",
+    "width": 1309,
+    "height": 2014
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bd/McGuy_Anime_Infobox.png/revision/latest/scale-to-width-down/260?cb=20230816214244",
+    "width": 260,
+    "height": 400
+  },
+  "wiki": {
+    "title": "McGuy",
+    "url": "https://onepiece.fandom.com/wiki/McGuy"
+  },
+  "info": {
+    "japanese_name": "マクガイ",
+    "romanized_name": "Makugai",
+    "debut": [
+      "Chapter 551",
+      "Episode 460"
+    ],
+    "affiliations": [
+      "Subordinate of the Whitebeard Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain"
+    ],
+    "epithet": "\"Thunder Lord\"",
+    "birthday": "September 3rd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

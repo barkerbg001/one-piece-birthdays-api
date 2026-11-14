@@ -3,10 +3,77 @@
   "label": "September 2nd",
   "month": 9,
   "day": 2,
-  "characters": [
+  "names": [
     "Heppoko",
     "Peppoko",
     "Poppoko",
     "Boa Hancock"
+  ],
+  "characters": [
+    {
+      "id": "heppoko",
+      "name": "Heppoko",
+      "display_name": "Heppoko",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "peppoko",
+        "poppoko"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Heppoko_Anime_Infobox.png/revision/latest/scale-to-width-down/259?cb=20250117025447",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Heppoko_Anime_Infobox.png/revision/latest?cb=20250117025447",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Heppoko",
+      "epithet": null,
+      "affiliation": "Alvida Pirates (disbanded)",
+      "api": "v1/characters/heppoko.json"
+    },
+    {
+      "id": "peppoko",
+      "name": "Peppoko",
+      "display_name": "Peppoko",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "heppoko",
+        "poppoko"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/14/Peppoko_Anime_Infobox.png/revision/latest/scale-to-width-down/368?cb=20250117025538",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/14/Peppoko_Anime_Infobox.png/revision/latest?cb=20250117025538",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Peppoko",
+      "epithet": null,
+      "affiliation": "Alvida Pirates (disbanded)",
+      "api": "v1/characters/peppoko.json"
+    },
+    {
+      "id": "poppoko",
+      "name": "Poppoko",
+      "display_name": "Poppoko",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "heppoko",
+        "peppoko"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Poppoko_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250117025634",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Poppoko_Anime_Infobox.png/revision/latest?cb=20250117025634",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Poppoko",
+      "epithet": null,
+      "affiliation": "Alvida Pirates (disbanded)",
+      "api": "v1/characters/poppoko.json"
+    },
+    {
+      "id": "boa-hancock",
+      "name": "Boa Hancock",
+      "display_name": "Boa Hancock",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Boa_Hancock_Anime_Infobox.png/revision/latest/scale-to-width-down/194?cb=20230126022456",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Boa_Hancock_Anime_Infobox.png/revision/latest?cb=20230126022456",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Boa_Hancock",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/boa-hancock.json"
+    }
   ]
 }

@@ -3,8 +3,38 @@
   "label": "February 10th",
   "month": 2,
   "day": 10,
-  "characters": [
+  "names": [
     "Mikazuki",
     "Page One"
+  ],
+  "characters": [
+    {
+      "id": "mikazuki",
+      "name": "Mikazuki",
+      "display_name": "Mikazuki",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/03/Mikazuki_Anime_Infobox.png/revision/latest/scale-to-width-down/306?cb=20180903024254",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/03/Mikazuki_Anime_Infobox.png/revision/latest?cb=20180903024254",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mikazuki",
+      "epithet": null,
+      "affiliation": "Big Helmet Pirates",
+      "api": "v1/characters/mikazuki.json"
+    },
+    {
+      "id": "page-one",
+      "name": "Page One",
+      "display_name": "Page One",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/46/Page_One_Anime_Infobox.png/revision/latest/scale-to-width-down/304?cb=20211128115519",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/46/Page_One_Anime_Infobox.png/revision/latest?cb=20211128115519",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Page_One",
+      "epithet": null,
+      "affiliation": "Yamato",
+      "api": "v1/characters/page-one.json"
+    }
   ]
 }

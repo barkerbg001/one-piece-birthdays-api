@@ -1,0 +1,80 @@
+{
+  "id": "charlotte-cracker",
+  "name": "Charlotte Cracker",
+  "display_name": "Charlotte Cracker",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-28",
+      "label": "February 28th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-custard",
+      "name": "Charlotte Custard"
+    },
+    {
+      "id": "charlotte-angel",
+      "name": "Charlotte Angel"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/64/Charlotte_Cracker_Anime_Infobox.png/revision/latest?cb=20170730021804",
+    "width": 1920,
+    "height": 3220
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/64/Charlotte_Cracker_Anime_Infobox.png/revision/latest/scale-to-width-down/238?cb=20170730021804",
+    "width": 238,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Cracker",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Cracker"
+  },
+  "info": {
+    "japanese_name": "シャーロット・クラッカー",
+    "romanized_name": "Shārotto Kurakkā",
+    "official_english_name": "Charlotte Cracker",
+    "debut": [
+      "Chapter 835",
+      "Episode 796"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Sweet Commander",
+      "Minister of Biscuit"
+    ],
+    "origin": "Grand Line (On a boat)",
+    "residence": [
+      "Biscuits Island"
+    ],
+    "epithet": "\"Thousand Arms Cracker\"; \"Biscuit Knight\"",
+    "age": "45",
+    "birthday": "February 28th",
+    "height": "307 cm (10'1\")",
+    "blood_type": "X",
+    "bounty": "860,000,000",
+    "devil_fruit": "Bisu Bisu no Mi",
+    "devil_fruit_english": "Bis-Bis Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "ramba",
+  "name": "Ramba",
+  "display_name": "Ramba",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-10",
+      "label": "July 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Ramba_Anime_Infobox.png/revision/latest?cb=20100927002104",
+    "width": 700,
+    "height": 620
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Ramba_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20100927002104",
+    "width": 400,
+    "height": 354
+  },
+  "wiki": {
+    "title": "Ramba",
+    "url": "https://onepiece.fandom.com/wiki/Ramba"
+  },
+  "info": {
+    "japanese_name": "ランバ",
+    "romanized_name": "Ranba",
+    "official_english_name": "Ramba",
+    "debut": [
+      "Chapter 551",
+      "Episode 460"
+    ],
+    "affiliations": [
+      "Subordinate of the Whitebeard Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain"
+    ],
+    "birthday": "July 10th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

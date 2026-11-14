@@ -3,8 +3,38 @@
   "label": "December 13th",
   "month": 12,
   "day": 13,
-  "characters": [
+  "names": [
     "St. Mjosgard",
     "Faust"
+  ],
+  "characters": [
+    {
+      "id": "st-mjosgard",
+      "name": "St. Mjosgard",
+      "display_name": "St. Mjosgard",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/0d/Donquixote_Mjosgard_Anime_Infobox.png/revision/latest/scale-to-width-down/230?cb=20191215162804",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/0d/Donquixote_Mjosgard_Anime_Infobox.png/revision/latest?cb=20191215162804",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Donquixote_Mjosgard",
+      "epithet": null,
+      "affiliation": "World Government (Donquixote Family)",
+      "api": "v1/characters/st-mjosgard.json"
+    },
+    {
+      "id": "faust",
+      "name": "Faust",
+      "display_name": "Faust",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Faust_Anime_Infobox.png/revision/latest/scale-to-width-down/260?cb=20240911123613",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Faust_Anime_Infobox.png/revision/latest?cb=20240911123613",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Faust",
+      "epithet": null,
+      "affiliation": "Hawkins Pirates",
+      "api": "v1/characters/faust.json"
+    }
   ]
 }

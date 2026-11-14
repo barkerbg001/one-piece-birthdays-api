@@ -1,0 +1,53 @@
+{
+  "id": "an-zengaiina",
+  "name": "An Zengaiina",
+  "display_name": "An Zengaiina",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-31",
+      "label": "January 31st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/04/An_Zengaiina_Anime_Infobox.png/revision/latest?cb=20190404152656",
+    "width": 656,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/04/An_Zengaiina_Anime_Infobox.png/revision/latest/scale-to-width-down/364?cb=20190404152656",
+    "width": 364,
+    "height": 400
+  },
+  "wiki": {
+    "title": "An Zengaiina",
+    "url": "https://onepiece.fandom.com/wiki/An_Zengaiina"
+  },
+  "info": {
+    "japanese_name": "アン・ゼンガイーナ",
+    "romanized_name": "An Zengaīna",
+    "official_english_name": "Ratherby Seifer",
+    "debut": [
+      "Chapter 528",
+      "Episode 425"
+    ],
+    "origin": "Grand Line",
+    "birthday": "January 31st",
+    "bounty": "Over 15,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

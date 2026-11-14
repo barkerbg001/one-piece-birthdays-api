@@ -1,0 +1,64 @@
+{
+  "id": "boo",
+  "name": "Boo",
+  "display_name": "Boo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-20",
+      "label": "August 20th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Boo_Anime_Infobox.png/revision/latest?cb=20140526091115",
+    "width": 806,
+    "height": 701
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Boo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20140526091115",
+    "width": 400,
+    "height": 348
+  },
+  "wiki": {
+    "title": "Boo",
+    "url": "https://onepiece.fandom.com/wiki/Boo"
+  },
+  "info": {
+    "japanese_name": "ブー",
+    "romanized_name": "Bū",
+    "official_english_name": "Boo",
+    "debut": [
+      "Chapter 704",
+      "Episode 632"
+    ],
+    "affiliations": [
+      "Happo Navy",
+      "Chinjao Family",
+      "Straw Hat Grand Fleet"
+    ],
+    "occupations": [
+      "First Mate of the Happo Navy",
+      "Martial Artist (VIZ: Fighter)"
+    ],
+    "residence": [
+      "Kano Country"
+    ],
+    "age": "Under 28",
+    "birthday": "August 20th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "charlotte-counter",
+  "name": "Charlotte Counter",
+  "display_name": "Charlotte Counter",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-29",
+      "label": "September 29th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-opera",
+      "name": "Charlotte Opera"
+    },
+    {
+      "id": "charlotte-cadenza",
+      "name": "Charlotte Cadenza"
+    },
+    {
+      "id": "charlotte-cabaletta",
+      "name": "Charlotte Cabaletta"
+    },
+    {
+      "id": "charlotte-gala",
+      "name": "Charlotte Gala"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/0a/Charlotte_Counter_Anime_Infobox.png/revision/latest?cb=20180129042546",
+    "width": 1920,
+    "height": 1074
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/0a/Charlotte_Counter_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180129042546",
+    "width": 400,
+    "height": 224
+  },
+  "wiki": {
+    "title": "Charlotte Counter",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Counter"
+  },
+  "info": {
+    "japanese_name": "シャーロット・カウンター",
+    "romanized_name": "Shārotto Kauntā",
+    "official_english_name": "Charlotte Counter",
+    "debut": [
+      "Chapter 845",
+      "Episode 809"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "age": "46",
+    "birthday": "September 29th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

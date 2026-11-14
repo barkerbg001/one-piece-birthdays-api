@@ -3,8 +3,38 @@
   "label": "August 24th",
   "month": 8,
   "day": 24,
-  "characters": [
+  "names": [
     "Kaya",
     "Daigin"
+  ],
+  "characters": [
+    {
+      "id": "kaya",
+      "name": "Kaya",
+      "display_name": "Kaya",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Kaya_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/112?cb=20180617114926",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Kaya_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20180617114926",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kaya",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/kaya.json"
+    },
+    {
+      "id": "daigin",
+      "name": "Daigin",
+      "display_name": "Daigin",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Daigin_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240826000120",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Daigin_Anime_Infobox.png/revision/latest?cb=20240826000120",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Daigin",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/daigin.json"
+    }
   ]
 }

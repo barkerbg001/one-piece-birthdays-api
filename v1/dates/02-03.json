@@ -3,10 +3,68 @@
   "label": "February 3rd",
   "month": 2,
   "day": 3,
-  "characters": [
+  "names": [
     "Brownbeard (Chadros Higelyges)",
     "Bizarre",
     "Fuza",
     "Sasaki"
+  ],
+  "characters": [
+    {
+      "id": "brownbeard",
+      "name": "Brownbeard",
+      "display_name": "Brownbeard (Chadros Higelyges)",
+      "alias": "Chadros Higelyges",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Chadros_Higelyges_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130429132405",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Chadros_Higelyges_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20130429132405",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Chadros_Higelyges",
+      "epithet": "\"Brownbeard\"; \"Boss\" (as Centaur Patrol Unit Leader)",
+      "affiliation": "Caesar Clown (defected), Centaur Patrol Unit (defected)",
+      "api": "v1/characters/brownbeard.json"
+    },
+    {
+      "id": "bizarre",
+      "name": "Bizarre",
+      "display_name": "Bizarre",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/15/Bizarre_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130722050533",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/15/Bizarre_Anime_Infobox.png/revision/latest?cb=20130722050533",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Bizarre",
+      "epithet": null,
+      "affiliation": "Subordinate of the Whitebeard Pirates",
+      "api": "v1/characters/bizarre.json"
+    },
+    {
+      "id": "fuza",
+      "name": "Fuza",
+      "display_name": "Fuza",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/73/Fuza_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230806213149",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/73/Fuza_Anime_Infobox.png/revision/latest?cb=20230806213149",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Fuza",
+      "epithet": null,
+      "affiliation": "God's Army",
+      "api": "v1/characters/fuza.json"
+    },
+    {
+      "id": "sasaki",
+      "name": "Sasaki",
+      "display_name": "Sasaki",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Sasaki_Anime_Infobox.png/revision/latest/scale-to-width-down/305?cb=20211205140441",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Sasaki_Anime_Infobox.png/revision/latest?cb=20211205140441",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sasaki",
+      "epithet": "\"Overflowing Sasaki\"",
+      "affiliation": "Beasts Pirates (Tobiroppo)",
+      "api": "v1/characters/sasaki.json"
+    }
   ]
 }

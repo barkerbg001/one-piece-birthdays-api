@@ -1,0 +1,68 @@
+{
+  "id": "igaram",
+  "name": "Igaram",
+  "display_name": "Igaram",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-06",
+      "label": "December 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Igaram_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20190625115148",
+    "width": 650,
+    "height": 680
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Igaram_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/382?cb=20190625115148",
+    "width": 382,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Igaram",
+    "url": "https://onepiece.fandom.com/wiki/Igaram"
+  },
+  "info": {
+    "japanese_name": "イガラム",
+    "romanized_name": "Igaramu",
+    "debut": [
+      "Chapter 106",
+      "Episode 64"
+    ],
+    "affiliations": [
+      "Arabasta Kingdom",
+      "Baroque Works (former)"
+    ],
+    "occupations": [
+      "Captain of the Royal Guard",
+      "Frontier Agent (former)",
+      "Bounty Hunter (former)",
+      "Mayor of Whisky Peak (undercover, former)"
+    ],
+    "origin": "Grand Line (Arabasta Kingdom)",
+    "aliases": [
+      "(former)",
+      "\"Igarappoi\""
+    ],
+    "age": "48 (debut); 50 (after timeskip)",
+    "birthday": "December 6th",
+    "height": "218 cm (7'1\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

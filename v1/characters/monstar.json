@@ -1,0 +1,60 @@
+{
+  "id": "monstar",
+  "name": "Monstar",
+  "display_name": "Monstar",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-31",
+      "label": "October 31st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/93/Monster_Anime_Infobox.png/revision/latest?cb=20240714020813",
+    "width": 779,
+    "height": 645
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/93/Monster_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240714020813",
+    "width": 400,
+    "height": 331
+  },
+  "wiki": {
+    "title": "Monster",
+    "url": "https://onepiece.fandom.com/wiki/Monster"
+  },
+  "info": {
+    "japanese_name": "モンスター",
+    "romanized_name": "Monsutā",
+    "official_english_name": "Monster",
+    "debut": [
+      "Chapter 1",
+      "Episode 489"
+    ],
+    "affiliations": [
+      "Red Hair Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Senior Officer",
+      "Musician"
+    ],
+    "origin": "East Blue",
+    "birthday": "October 31st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

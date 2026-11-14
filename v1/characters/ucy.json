@@ -1,0 +1,57 @@
+{
+  "id": "ucy",
+  "name": "Ucy",
+  "display_name": "Ucy",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-21",
+      "label": "April 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6a/Ucy_Anime_Infobox.png/revision/latest?cb=20240409230750",
+    "width": 712,
+    "height": 463
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6a/Ucy_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240409230750",
+    "width": 400,
+    "height": 260
+  },
+  "wiki": {
+    "title": "Ucy",
+    "url": "https://onepiece.fandom.com/wiki/Ucy"
+  },
+  "info": {
+    "japanese_name": "ウーシー",
+    "romanized_name": "Ūshī",
+    "official_english_name": "Moocy (VIZ Media, FUNimation dub); Usy (FUNimation simulcast); Bullcy (FUNimation subs)",
+    "debut": [
+      "Chapter 706",
+      "Episode 639"
+    ],
+    "affiliations": [
+      "Corrida Colosseum"
+    ],
+    "occupations": [
+      "Gladiator"
+    ],
+    "birthday": "April 21st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

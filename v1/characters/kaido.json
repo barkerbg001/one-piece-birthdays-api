@@ -1,0 +1,77 @@
+{
+  "id": "kaido",
+  "name": "Kaido",
+  "display_name": "Kaido",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-01",
+      "label": "May 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Kaidou_Anime_Infobox.png/revision/latest?cb=20231102015517",
+    "width": 985,
+    "height": 1020
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Kaidou_Anime_Infobox.png/revision/latest/scale-to-width-down/386?cb=20231102015517",
+    "width": 386,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kaidou",
+    "url": "https://onepiece.fandom.com/wiki/Kaidou"
+  },
+  "info": {
+    "japanese_name": "カイドウ",
+    "romanized_name": "Kaidō",
+    "official_english_name": "Kaido",
+    "debut": [
+      "Chapter 795",
+      "Episode 736"
+    ],
+    "affiliations": [
+      "Beasts Pirates",
+      "Rocks Pirates (former)",
+      "Four Emperors (former)"
+    ],
+    "occupations": [
+      "Governor-General",
+      "Emperor (former)",
+      "Soldier (former)",
+      "Apprentice (former)"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Wano Country (Onigashima)",
+      "Vodka Kingdom (former)",
+      "Hachinosu (former)"
+    ],
+    "epithet": "\"Kaidou of the Beasts\"; \"The Strongest Creature\"; \"Wise King\"",
+    "status": "1",
+    "age": "59",
+    "birthday": "May 1st",
+    "height": "710 cm (23'4\")",
+    "blood_type": "F",
+    "bounty": "4,611,100,000",
+    "devil_fruit": "Uo Uo no Mi, Model: Seiryu",
+    "devil_fruit_english": "Fish-Fish Fruit, Model: Azure Dragon; Fish-Fish Fruit, Azure Dragon Model",
+    "devil_fruit_type": "Mythical Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

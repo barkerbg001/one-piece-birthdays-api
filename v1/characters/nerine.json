@@ -1,0 +1,61 @@
+{
+  "id": "nerine",
+  "name": "Nerine",
+  "display_name": "Nerine",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-15",
+      "label": "December 15th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/90/Nerine_Anime_Infobox.png/revision/latest?cb=20130815180802",
+    "width": 815,
+    "height": 719
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/90/Nerine_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130815180802",
+    "width": 400,
+    "height": 353
+  },
+  "wiki": {
+    "title": "Nerine",
+    "url": "https://onepiece.fandom.com/wiki/Nerine"
+  },
+  "info": {
+    "japanese_name": "ネリネ",
+    "romanized_name": "Nerine",
+    "official_english_name": "Nerine",
+    "debut": [
+      "Chapter 514",
+      "Episode 408"
+    ],
+    "affiliations": [
+      "Kuja"
+    ],
+    "occupations": [
+      "Kuja warrior"
+    ],
+    "origin": "Calm Belt (Amazon Lily)",
+    "residence": [
+      "Amazon Lily"
+    ],
+    "birthday": "December 15th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

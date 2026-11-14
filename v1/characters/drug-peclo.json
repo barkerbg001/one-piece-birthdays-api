@@ -1,0 +1,59 @@
+{
+  "id": "drug-peclo",
+  "name": "Drug. Peclo",
+  "display_name": "Drug. Peclo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-29",
+      "label": "September 29th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Drug_Peclo_Anime_Infobox.png/revision/latest?cb=20180401081618",
+    "width": 1532,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Drug_Peclo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180401081618",
+    "width": 400,
+    "height": 282
+  },
+  "wiki": {
+    "title": "Drug Peclo",
+    "url": "https://onepiece.fandom.com/wiki/Drug_Peclo"
+  },
+  "info": {
+    "japanese_name": "ドラッグ・ピエクロ",
+    "romanized_name": "Doraggu Piekuro",
+    "official_english_name": "Drug Peclo",
+    "debut": [
+      "Chapter 860",
+      "Episode 828"
+    ],
+    "affiliations": [
+      "Underworld"
+    ],
+    "occupations": [
+      "Undertaker",
+      "Emperor of the Underworld"
+    ],
+    "epithet": "\"Major Undertaker\"",
+    "birthday": "September 29th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

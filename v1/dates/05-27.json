@@ -3,8 +3,38 @@
   "label": "May 27th",
   "month": 5,
   "day": 27,
-  "characters": [
+  "names": [
     "Stansen",
     "Koze"
+  ],
+  "characters": [
+    {
+      "id": "stansen",
+      "name": "Stansen",
+      "display_name": "Stansen",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Stansen_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/355?cb=20260823173332",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Stansen_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20260823173332",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Stansen",
+      "epithet": null,
+      "affiliation": "New Giant Warrior Pirates",
+      "api": "v1/characters/stansen.json"
+    },
+    {
+      "id": "koze",
+      "name": "Koze",
+      "display_name": "Koze",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Koze_and_Packy_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240727235758",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Koze_and_Packy_Anime_Infobox.png/revision/latest?cb=20240727235758",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Koze_and_Packy",
+      "epithet": null,
+      "affiliation": "Yes Pirates",
+      "api": "v1/characters/koze.json"
+    }
   ]
 }

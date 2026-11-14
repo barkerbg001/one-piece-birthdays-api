@@ -3,8 +3,38 @@
   "label": "October 17th",
   "month": 10,
   "day": 17,
-  "characters": [
+  "names": [
     "Noble Croc",
     "Marin"
+  ],
+  "characters": [
+    {
+      "id": "noble-croc",
+      "name": "Noble Croc",
+      "display_name": "Noble Croc",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/25/Noble_Croc_Anime_Infobox.png/revision/latest/scale-to-width-down/365?cb=20171029193056",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/25/Noble_Croc_Anime_Infobox.png/revision/latest?cb=20171029193056",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Noble_Croc",
+      "epithet": null,
+      "affiliation": "Big Mom Pirates|",
+      "api": "v1/characters/noble-croc.json"
+    },
+    {
+      "id": "marin",
+      "name": "Marin",
+      "display_name": "Marin",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/44/Marin_Anime_Infobox.png/revision/latest/scale-to-width-down/374?cb=20131120054924",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/44/Marin_Anime_Infobox.png/revision/latest?cb=20131120054924",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Marin",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/marin.json"
+    }
   ]
 }

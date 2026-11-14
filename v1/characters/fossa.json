@@ -1,0 +1,58 @@
+{
+  "id": "fossa",
+  "name": "Fossa",
+  "display_name": "Fossa",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-15",
+      "label": "April 15th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/14/Fossa_Anime_Infobox.png/revision/latest?cb=20211009011318",
+    "width": 1634,
+    "height": 932
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/14/Fossa_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20211009011318",
+    "width": 400,
+    "height": 228
+  },
+  "wiki": {
+    "title": "Fossa",
+    "url": "https://onepiece.fandom.com/wiki/Fossa"
+  },
+  "info": {
+    "japanese_name": "フォッサ",
+    "romanized_name": "Fossa",
+    "debut": [
+      "Chapter 553",
+      "Episode 461"
+    ],
+    "affiliations": [
+      "Whitebeard Pirates"
+    ],
+    "occupations": [
+      "15th Division Commander",
+      "Pirate"
+    ],
+    "origin": "North Blue",
+    "birthday": "April 15th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

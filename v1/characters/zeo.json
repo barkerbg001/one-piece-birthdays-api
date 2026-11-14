@@ -1,0 +1,64 @@
+{
+  "id": "zeo",
+  "name": "Zeo",
+  "display_name": "Zeo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-11",
+      "label": "November 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/12/Zeo_Anime_Infobox.png/revision/latest?cb=20230403211507",
+    "width": 711,
+    "height": 2042
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/12/Zeo_Anime_Infobox.png/revision/latest/scale-to-width-down/139?cb=20230403211507",
+    "width": 139,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Zeo",
+    "url": "https://onepiece.fandom.com/wiki/Zeo"
+  },
+  "info": {
+    "japanese_name": "ゼオ",
+    "debut": [
+      "Chapter 611",
+      "Episode 530"
+    ],
+    "affiliations": [
+      "New Fish-Man Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Pirate Officer"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Fish-Man District (former)"
+    ],
+    "epithet": "\"Noble of the Fish-Man District\"",
+    "age": "30",
+    "birthday": "November 11th",
+    "height": "325 cm (10'8\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,7 +3,23 @@
   "label": "August 30th",
   "month": 8,
   "day": 30,
-  "characters": [
+  "names": [
     "Curly Dadan"
+  ],
+  "characters": [
+    {
+      "id": "curly-dadan",
+      "name": "Curly Dadan",
+      "display_name": "Curly Dadan",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Curly_Dadan_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20160802231340",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Curly_Dadan_Anime_Infobox.png/revision/latest?cb=20160802231340",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Curly_Dadan",
+      "epithet": null,
+      "affiliation": "Dadan Family",
+      "api": "v1/characters/curly-dadan.json"
+    }
   ]
 }

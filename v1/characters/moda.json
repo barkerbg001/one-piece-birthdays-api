@@ -1,0 +1,61 @@
+{
+  "id": "moda",
+  "name": "Moda",
+  "display_name": "Moda",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-01",
+      "label": "June 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Moda_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240818021019",
+    "width": 500,
+    "height": 1062
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Moda_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/188?cb=20240818021019",
+    "width": 188,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Moda",
+    "url": "https://onepiece.fandom.com/wiki/Moda"
+  },
+  "info": {
+    "japanese_name": "モーダ",
+    "romanized_name": "Mōda",
+    "official_english_name": "Moda",
+    "debut": [
+      "Chapter 278 (cover)",
+      "Episode 381 (newspaper), Episode 880"
+    ],
+    "affiliations": [
+      "Revolutionary Army",
+      "G-2"
+    ],
+    "occupations": [
+      "Farmer"
+    ],
+    "residence": [
+      "Lulusia Kingdom (former)"
+    ],
+    "birthday": "June 1st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,7 +3,23 @@
   "label": "July 23rd",
   "month": 7,
   "day": 23,
-  "characters": [
+  "names": [
     "Richie"
+  ],
+  "characters": [
+    {
+      "id": "richie",
+      "name": "Richie",
+      "display_name": "Richie",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/ca/Richie_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/288?cb=20200111094000",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/ca/Richie_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200111094000",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Richie",
+      "epithet": null,
+      "affiliation": "Cross Guild",
+      "api": "v1/characters/richie.json"
+    }
   ]
 }

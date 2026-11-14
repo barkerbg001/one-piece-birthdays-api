@@ -1,0 +1,86 @@
+{
+  "id": "brook",
+  "name": "Brook",
+  "display_name": "Brook",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-03",
+      "label": "April 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/41/Brook_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20261011171752",
+    "width": 898,
+    "height": 2095
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/41/Brook_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/171?cb=20261011171752",
+    "width": 171,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Brook",
+    "url": "https://onepiece.fandom.com/wiki/Brook"
+  },
+  "info": {
+    "japanese_name": "ブルック",
+    "romanized_name": "Burukku",
+    "official_english_name": "Brook",
+    "debut": [
+      "Chapter 442",
+      "Episode 337"
+    ],
+    "affiliations": [
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet",
+      "Rumbar Pirates (former)",
+      "Battle Convoy (former)",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Musician",
+      "Swordsman",
+      "Senior Officer",
+      "Pirate Captain (acting, former)",
+      "Battle Convoy leader (former)",
+      "Raider Squad leader (former)",
+      "World-Famous Rock Star (former)"
+    ],
+    "origin": "West Blue (Esperia Kingdom)",
+    "residence": [
+      "Esperia Kingdom (former)",
+      "Florian Triangle (former)",
+      "Namakura Island (former, temporary)"
+    ],
+    "epithet": "\"Humming Brook\"; \"Soul King\"",
+    "aliases": [
+      "\"Demon King Satan-sama\"",
+      "\"Hone-kichi\"",
+      "\"The Starving Skeleton\""
+    ],
+    "age": "*38 (first death); *88 (debut); *90 (after timeskip)",
+    "birthday": "April 3rd",
+    "height": "266 cm (8'9\") (debut); 277 cm (9'1\") (after timeskip)",
+    "blood_type": "X",
+    "bounty": "383,000,000",
+    "devil_fruit": "Yomi Yomi no Mi",
+    "devil_fruit_english": "Revive-Revive Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

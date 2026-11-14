@@ -3,8 +3,38 @@
   "label": "August 2nd",
   "month": 8,
   "day": 2,
-  "characters": [
+  "names": [
     "Époni",
     "Yasopp"
+  ],
+  "characters": [
+    {
+      "id": "eponi",
+      "name": "Époni",
+      "display_name": "Époni",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c1/%C3%89poni_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20170903021553",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c1/%C3%89poni_Anime_Infobox.png/revision/latest?cb=20170903021553",
+      "wiki_url": "https://onepiece.fandom.com/wiki/%C3%89poni",
+      "epithet": null,
+      "affiliation": "Germa Kingdom",
+      "api": "v1/characters/eponi.json"
+    },
+    {
+      "id": "yasopp",
+      "name": "Yasopp",
+      "display_name": "Yasopp",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/15/Yasopp_Anime_Infobox.png/revision/latest/scale-to-width-down/287?cb=20240623091749",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/15/Yasopp_Anime_Infobox.png/revision/latest?cb=20240623091749",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Yasopp",
+      "epithet": null,
+      "affiliation": "Red Hair Pirates",
+      "api": "v1/characters/yasopp.json"
+    }
   ]
 }

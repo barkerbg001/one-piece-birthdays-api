@@ -3,7 +3,23 @@
   "label": "September 14th",
   "month": 9,
   "day": 14,
-  "characters": [
+  "names": [
     "Lord of the Coast"
+  ],
+  "characters": [
+    {
+      "id": "lord-of-the-coast",
+      "name": "Lord of the Coast",
+      "display_name": "Lord of the Coast",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Lord_of_the_Coast_Anime_Infobox.png/revision/latest/scale-to-width-down/399?cb=20240723123231",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Lord_of_the_Coast_Anime_Infobox.png/revision/latest?cb=20240723123231",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Lord_of_the_Coast",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/lord-of-the-coast.json"
+    }
   ]
 }

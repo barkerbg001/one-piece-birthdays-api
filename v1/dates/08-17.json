@@ -3,8 +3,38 @@
   "label": "August 17th",
   "month": 8,
   "day": 17,
-  "characters": [
+  "names": [
     "Matsuge",
     "Pagaya"
+  ],
+  "characters": [
+    {
+      "id": "matsuge",
+      "name": "Matsuge",
+      "display_name": "Matsuge",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Matsuge_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/179?cb=20130917234805",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Matsuge_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20130917234805",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Matsuge",
+      "epithet": null,
+      "affiliation": "Super Spot-Billed Duck Troops",
+      "api": "v1/characters/matsuge.json"
+    },
+    {
+      "id": "pagaya",
+      "name": "Pagaya",
+      "display_name": "Pagaya",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/5d/Pagaya_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20140829001259",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/5d/Pagaya_Anime_Infobox.png/revision/latest?cb=20140829001259",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Pagaya",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/pagaya.json"
+    }
   ]
 }

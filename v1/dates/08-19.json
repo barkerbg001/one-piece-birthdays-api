@@ -3,7 +3,23 @@
   "label": "August 19th",
   "month": 8,
   "day": 19,
-  "characters": [
+  "names": [
     "Motobaro"
+  ],
+  "characters": [
+    {
+      "id": "motobaro",
+      "name": "Motobaro",
+      "display_name": "Motobaro",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/17/Motobaro_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20210518195200",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/17/Motobaro_Anime_Infobox.png/revision/latest?cb=20210518195200",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Motobaro",
+      "epithet": null,
+      "affiliation": "Rosy Life Riders",
+      "api": "v1/characters/motobaro.json"
+    }
   ]
 }

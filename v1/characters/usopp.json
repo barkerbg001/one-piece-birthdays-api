@@ -1,0 +1,78 @@
+{
+  "id": "usopp",
+  "name": "Usopp",
+  "display_name": "Usopp",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-01",
+      "label": "April 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/35/Usopp_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20221127233827",
+    "width": 1704,
+    "height": 3168
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/35/Usopp_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/215?cb=20221127233827",
+    "width": 215,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Usopp",
+    "url": "https://onepiece.fandom.com/wiki/Usopp"
+  },
+  "info": {
+    "japanese_name": "ウソップ",
+    "romanized_name": "Usoppu",
+    "official_english_name": "Usopp",
+    "debut": [
+      "Chapter 23",
+      "Episode 8"
+    ],
+    "affiliations": [
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet",
+      "Usopp Pirates (disbanded)",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Sniper",
+      "Senior Officer",
+      "Toad Oil Salesman (temporary)"
+    ],
+    "origin": "East Blue (Gecko Islands)",
+    "residence": [
+      "Syrup Village (former)",
+      "Boin Archipelago (former, temporary)"
+    ],
+    "epithet": "\"King of Snipers\"; \"God\"",
+    "aliases": [
+      "\"Sogeking\"",
+      "\"Hana Arashi\"",
+      "\"Usoland\"",
+      "\"Uso-hachi\""
+    ],
+    "age": "17 (debut); 19 (after timeskip)",
+    "birthday": "April 1st (April Fool's Day)",
+    "height": "174 cm (5'9\") (debut); 176 cm (5'9\") (after timeskip)",
+    "blood_type": "S",
+    "bounty": "500,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

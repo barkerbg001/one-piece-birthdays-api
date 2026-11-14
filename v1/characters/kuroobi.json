@@ -1,0 +1,66 @@
+{
+  "id": "kuroobi",
+  "name": "Kuroobi",
+  "display_name": "Kuroobi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-25",
+      "label": "October 25th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/17/Kuroobi_Anime_Infobox.png/revision/latest?cb=20121220133817",
+    "width": 406,
+    "height": 631
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/17/Kuroobi_Anime_Infobox.png/revision/latest/scale-to-width-down/257?cb=20121220133817",
+    "width": 257,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kuroobi",
+    "url": "https://onepiece.fandom.com/wiki/Kuroobi"
+  },
+  "info": {
+    "japanese_name": "クロオビ",
+    "romanized_name": "Kuro'obi",
+    "debut": [
+      "Chapter 69",
+      "Episode 31"
+    ],
+    "affiliations": [
+      "Arlong Pirates",
+      "Sun Pirates (former)"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Fish-Man District (former)",
+      "Arlong Park (former)"
+    ],
+    "age": "36 (debut); 38 (after timeskip)",
+    "birthday": "October 25th",
+    "height": "252 cm (8'3\")",
+    "blood_type": "S",
+    "bounty": "9,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

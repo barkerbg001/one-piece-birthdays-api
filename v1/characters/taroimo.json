@@ -1,0 +1,58 @@
+{
+  "id": "taroimo",
+  "name": "Taroimo",
+  "display_name": "Taroimo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-16",
+      "label": "October 16th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Taroimo_Anime_Infobox.png/revision/latest?cb=20110918030150",
+    "width": 244,
+    "height": 308
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Taroimo_Anime_Infobox.png/revision/latest?cb=20110918030150",
+    "width": 317,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Taroimo",
+    "url": "https://onepiece.fandom.com/wiki/Taroimo"
+  },
+  "info": {
+    "japanese_name": "タロイモ",
+    "romanized_name": "Taroimo",
+    "official_english_name": "Taroimo",
+    "debut": [
+      "Chapter 523",
+      "Episode 418"
+    ],
+    "affiliations": [
+      "Karakuri Island"
+    ],
+    "occupations": [
+      "Cyborg animal",
+      "Pet"
+    ],
+    "birthday": "October 16th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

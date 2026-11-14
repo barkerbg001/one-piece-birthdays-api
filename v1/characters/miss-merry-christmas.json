@@ -1,0 +1,71 @@
+{
+  "id": "miss-merry-christmas",
+  "name": "Miss Merry Christmas",
+  "display_name": "Miss Merry Christmas (Drophy)",
+  "alias": "Drophy",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-25",
+      "label": "December 25th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f4/Drophy_Anime_Infobox.png/revision/latest?cb=20230624124714",
+    "width": 604,
+    "height": 827
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f4/Drophy_Anime_Infobox.png/revision/latest/scale-to-width-down/292?cb=20230624124714",
+    "width": 292,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Drophy",
+    "url": "https://onepiece.fandom.com/wiki/Drophy"
+  },
+  "info": {
+    "japanese_name": "ドロフィー",
+    "romanized_name": "Dorofī",
+    "official_english_name": "Drophy",
+    "debut": [
+      "Chapter 160",
+      "Episode 103"
+    ],
+    "affiliations": [
+      "New Spiders Cafe",
+      "Baroque Works (former)"
+    ],
+    "occupations": [
+      "Cafe Waitress",
+      "Officer Agent (former)"
+    ],
+    "origin": "Grand Line",
+    "epithet": "\"Town-Collapser\" Drophy",
+    "aliases": [
+      "\"Miss Merry Christmas\""
+    ],
+    "age": "49 (debut); 51 (after timeskip)",
+    "birthday": "December 25th",
+    "height": "156 cm (5'1\")",
+    "blood_type": "S",
+    "bounty": "14,000,000",
+    "devil_fruit": "Mogu Mogu no Mi",
+    "devil_fruit_english": "Mole-Mole Fruit (Funimation); Diggy-Diggy Fruit (Viz, 4Kids)",
+    "devil_fruit_type": "Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

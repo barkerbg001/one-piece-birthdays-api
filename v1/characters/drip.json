@@ -1,0 +1,61 @@
+{
+  "id": "drip",
+  "name": "Drip",
+  "display_name": "Drip",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-22",
+      "label": "October 22nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Drip_Anime_Infobox.png/revision/latest?cb=20130129015503",
+    "width": 241,
+    "height": 702
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Drip_Anime_Infobox.png/revision/latest/scale-to-width-down/137?cb=20130129015503",
+    "width": 137,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Drip",
+    "url": "https://onepiece.fandom.com/wiki/Drip"
+  },
+  "info": {
+    "japanese_name": "ドリップ",
+    "romanized_name": "Dorippu",
+    "official_english_name": "Gack (VIZ); Drip (Funimation, WT100)",
+    "debut": [
+      "Chapter 598",
+      "Episode 518"
+    ],
+    "affiliations": [
+      "Fake Straw Hat Crew"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "origin": "East Blue",
+    "age": "24",
+    "birthday": "October 22nd",
+    "height": "208 cm (6'10\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

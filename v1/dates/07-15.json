@@ -3,7 +3,23 @@
   "label": "July 15th",
   "month": 7,
   "day": 15,
-  "characters": [
+  "names": [
     "Donquixote Rosinante (Corazon)"
+  ],
+  "characters": [
+    {
+      "id": "donquixote-rosinante",
+      "name": "Donquixote Rosinante",
+      "display_name": "Donquixote Rosinante (Corazon)",
+      "alias": "Corazon",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/71/Donquixote_Rosinante_Anime_Infobox.png/revision/latest/scale-to-width-down/270?cb=20150802160734",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/71/Donquixote_Rosinante_Anime_Infobox.png/revision/latest?cb=20150802160734",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Donquixote_Rosinante",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/donquixote-rosinante.json"
+    }
   ]
 }

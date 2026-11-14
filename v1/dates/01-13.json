@@ -3,7 +3,23 @@
   "label": "January 13th",
   "month": 1,
   "day": 13,
-  "characters": [
+  "names": [
     "Ikaros Much"
+  ],
+  "characters": [
+    {
+      "id": "ikaros-much",
+      "name": "Ikaros Much",
+      "display_name": "Ikaros Much",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/45/Ikaros_Much_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250408181415",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/45/Ikaros_Much_Anime_Infobox.png/revision/latest?cb=20250408181415",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Ikaros_Much",
+      "epithet": null,
+      "affiliation": "New Fish-Man Pirates",
+      "api": "v1/characters/ikaros-much.json"
+    }
   ]
 }

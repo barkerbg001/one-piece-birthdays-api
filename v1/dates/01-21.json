@@ -3,8 +3,38 @@
   "label": "January 21st",
   "month": 1,
   "day": 21,
-  "characters": [
+  "names": [
     "Miss Friday",
     "Antonio"
+  ],
+  "characters": [
+    {
+      "id": "miss-friday",
+      "name": "Miss Friday",
+      "display_name": "Miss Friday",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6b/Miss_Friday_Anime_Infobox.png/revision/latest/scale-to-width-down/270?cb=20250526181805",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6b/Miss_Friday_Anime_Infobox.png/revision/latest?cb=20250526181805",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Miss_Friday",
+      "epithet": null,
+      "affiliation": "Baroque Works (former)",
+      "api": "v1/characters/miss-friday.json"
+    },
+    {
+      "id": "antonio",
+      "name": "Antonio",
+      "display_name": "Antonio",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/48/Antonio_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20100104144419",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/48/Antonio_Anime_Infobox.png/revision/latest?cb=20100104144419",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Antonio",
+      "epithet": null,
+      "affiliation": "Antonio's Graman",
+      "api": "v1/characters/antonio.json"
+    }
   ]
 }

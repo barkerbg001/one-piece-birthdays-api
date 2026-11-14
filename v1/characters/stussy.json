@@ -1,0 +1,72 @@
+{
+  "id": "stussy",
+  "name": "Stussy",
+  "display_name": "Stussy",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-24",
+      "label": "April 24th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Stussy_Anime_Infobox.png/revision/latest?cb=20240512081047",
+    "width": 908,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Stussy_Anime_Infobox.png/revision/latest/scale-to-width-down/336?cb=20240512081047",
+    "width": 336,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Stussy",
+    "url": "https://onepiece.fandom.com/wiki/Stussy"
+  },
+  "info": {
+    "japanese_name": "ステューシー",
+    "romanized_name": "Sutyūshī",
+    "official_english_name": "Stussy",
+    "debut": [
+      "Chapter 860",
+      "Episode 828 (silhouette)",
+      "Episode 830 (actual)"
+    ],
+    "affiliations": [
+      "Vegapunk",
+      "CP0 (undercover, former)",
+      "Underworld (undercover)",
+      "MADS (former)"
+    ],
+    "occupations": [
+      "Spy",
+      "Cipher Pol Agent (undercover, former)",
+      "Empress of the Underworld"
+    ],
+    "origin": "MADS Research Ship",
+    "epithet": "Queen of the Pleasure District",
+    "status": "1",
+    "age": "36",
+    "birthday": "April 24th",
+    "height": "179 cm (5'10\")",
+    "blood_type": "S",
+    "devil_fruit": "Batto Batto no Mi",
+    "devil_fruit_english": "Bat-Bat Fruit",
+    "devil_fruit_type": "Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

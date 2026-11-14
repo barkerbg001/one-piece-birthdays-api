@@ -1,0 +1,67 @@
+{
+  "id": "wanda",
+  "name": "Wanda",
+  "display_name": "Wanda",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-01",
+      "label": "November 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/75/Wanda_Anime_Infobox.png/revision/latest?cb=20160829034647",
+    "width": 373,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/75/Wanda_Anime_Infobox.png/revision/latest/scale-to-width-down/207?cb=20160829034647",
+    "width": 207,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Wanda",
+    "url": "https://onepiece.fandom.com/wiki/Wanda"
+  },
+  "info": {
+    "japanese_name": "ワンダ",
+    "romanized_name": "Wanda",
+    "official_english_name": "Wanda",
+    "debut": [
+      "Chapter 804",
+      "Episode 753"
+    ],
+    "affiliations": [
+      "Mokomo Dukedom",
+      "Inuarashi Musketeer Squad",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Musketeer",
+      "Kingsbird (former)"
+    ],
+    "origin": "Grand Line (Mokomo Dukedom)",
+    "residence": [
+      "Zou"
+    ],
+    "age": "28",
+    "birthday": "November 1st",
+    "height": "181 cm (5'11\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

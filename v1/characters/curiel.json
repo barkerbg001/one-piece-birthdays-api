@@ -1,0 +1,59 @@
+{
+  "id": "curiel",
+  "name": "Curiel",
+  "display_name": "Curiel",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-12",
+      "label": "September 12th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/26/Curiel_Anime_Infobox.png/revision/latest?cb=20130513043146",
+    "width": 1224,
+    "height": 1438
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/26/Curiel_Anime_Infobox.png/revision/latest/scale-to-width-down/340?cb=20130513043146",
+    "width": 340,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Curiel",
+    "url": "https://onepiece.fandom.com/wiki/Curiel"
+  },
+  "info": {
+    "japanese_name": "クリエル",
+    "romanized_name": "Kurieru",
+    "debut": [
+      "Chapter 552",
+      "Episode 461"
+    ],
+    "affiliations": [
+      "Whitebeard Pirates"
+    ],
+    "occupations": [
+      "10th Division Commander",
+      "Pirate",
+      "Sniper"
+    ],
+    "origin": "Grand Line",
+    "birthday": "September 12th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

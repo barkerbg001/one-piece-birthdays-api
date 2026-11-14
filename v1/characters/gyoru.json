@@ -1,0 +1,58 @@
+{
+  "id": "gyoru",
+  "name": "Gyoru",
+  "display_name": "Gyoru",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-07",
+      "label": "March 7th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/03/Gyoru_Anime_Infobox.png/revision/latest?cb=20130511172153",
+    "width": 333,
+    "height": 433
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/03/Gyoru_Anime_Infobox.png/revision/latest/scale-to-width-down/308?cb=20130511172153",
+    "width": 308,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Gyoru",
+    "url": "https://onepiece.fandom.com/wiki/Gyoru"
+  },
+  "info": {
+    "japanese_name": "ギョル",
+    "romanized_name": "Gyoru",
+    "official_english_name": "Gyoll (WT100); Gyoru (Live-Action)",
+    "debut": [
+      "Chapter 1",
+      "Episode 45"
+    ],
+    "occupations": [
+      "Fishmonger"
+    ],
+    "origin": "East Blue (Goa Kingdom)",
+    "residence": [
+      "Foosha Village"
+    ],
+    "birthday": "March 7th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

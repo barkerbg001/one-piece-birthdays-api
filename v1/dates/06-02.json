@@ -3,9 +3,53 @@
   "label": "June 2nd",
   "month": 6,
   "day": 2,
-  "characters": [
+  "names": [
     "Chimney",
     "Rob Lucci",
     "Ronse"
+  ],
+  "characters": [
+    {
+      "id": "chimney",
+      "name": "Chimney",
+      "display_name": "Chimney",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Chimney_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/254?cb=20250318234329",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Chimney_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20250318234329",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Chimney",
+      "epithet": null,
+      "affiliation": "Kokoro",
+      "api": "v1/characters/chimney.json"
+    },
+    {
+      "id": "rob-lucci",
+      "name": "Rob Lucci",
+      "display_name": "Rob Lucci",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Rob_Lucci_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/215?cb=20230102052113",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Rob_Lucci_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230102052113",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Rob_Lucci",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/rob-lucci.json"
+    },
+    {
+      "id": "ronse",
+      "name": "Ronse",
+      "display_name": "Ronse",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/16/Lonz_Anime_Infobox.png/revision/latest?cb=20130704132622",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/16/Lonz_Anime_Infobox.png/revision/latest?cb=20130704132622",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Lonz",
+      "epithet": null,
+      "affiliation": "Marines, Giant Squad",
+      "api": "v1/characters/ronse.json"
+    }
   ]
 }

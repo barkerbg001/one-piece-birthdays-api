@@ -1,0 +1,65 @@
+{
+  "id": "sodom",
+  "name": "Sodom",
+  "display_name": "Sodom",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-06",
+      "label": "August 6th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "gomorrah",
+      "name": "Gomorrah"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Sodom_Anime_Infobox.png/revision/latest?cb=20250318235056",
+    "width": 784,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Sodom_Anime_Infobox.png/revision/latest/scale-to-width-down/290?cb=20250318235056",
+    "width": 290,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Sodom",
+    "url": "https://onepiece.fandom.com/wiki/Sodom"
+  },
+  "info": {
+    "japanese_name": "ソドム",
+    "romanized_name": "Sodomu",
+    "official_english_name": "Sodomu (VIZ),; Sodom (Funimation)",
+    "debut": [
+      "Chapter 366",
+      "Episode 256"
+    ],
+    "affiliations": [
+      "Franky Family"
+    ],
+    "occupations": [
+      "Transportation"
+    ],
+    "residence": [
+      "Water 7"
+    ],
+    "birthday": "August 6th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

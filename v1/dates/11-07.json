@@ -3,8 +3,38 @@
   "label": "November 7th",
   "month": 11,
   "day": 7,
-  "characters": [
+  "names": [
     "Holy",
     "Cocoa"
+  ],
+  "characters": [
+    {
+      "id": "holy",
+      "name": "Holy",
+      "display_name": "Holy",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Holy_Anime_Infobox.png/revision/latest/scale-to-width-down/314?cb=20230806223830",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Holy_Anime_Infobox.png/revision/latest?cb=20230806223830",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Holy",
+      "epithet": null,
+      "affiliation": "God's Army",
+      "api": "v1/characters/holy.json"
+    },
+    {
+      "id": "cocoa",
+      "name": "Cocoa",
+      "display_name": "Cocoa",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/67/Cocoa_Anime_Infobox.png/revision/latest/scale-to-width-down/150?cb=20130129015814",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/67/Cocoa_Anime_Infobox.png/revision/latest?cb=20130129015814",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Cocoa",
+      "epithet": null,
+      "affiliation": "Fake Straw Hat Crew",
+      "api": "v1/characters/cocoa.json"
+    }
   ]
 }

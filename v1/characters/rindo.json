@@ -1,0 +1,62 @@
+{
+  "id": "rindo",
+  "name": "Rindo",
+  "display_name": "Rindo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-16",
+      "label": "September 16th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/55/Rindo_Anime_Infobox.png/revision/latest?cb=20100423085744",
+    "width": 229,
+    "height": 583
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/55/Rindo_Anime_Infobox.png/revision/latest/scale-to-width-down/157?cb=20100423085744",
+    "width": 157,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Rindo",
+    "url": "https://onepiece.fandom.com/wiki/Rindo"
+  },
+  "info": {
+    "japanese_name": "リンドウ",
+    "romanized_name": "Rindō",
+    "official_english_name": "Rindo",
+    "debut": [
+      "Chapter 516",
+      "Episode 410"
+    ],
+    "affiliations": [
+      "Kuja Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Sniper"
+    ],
+    "origin": "Calm Belt (Amazon Lily)",
+    "residence": [
+      "Amazon Lily"
+    ],
+    "birthday": "September 16th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

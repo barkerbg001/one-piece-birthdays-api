@@ -1,0 +1,72 @@
+{
+  "id": "charlotte-cornstarch",
+  "name": "Charlotte Cornstarch",
+  "display_name": "Charlotte Cornstarch",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-16",
+      "label": "December 16th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-moscato",
+      "name": "Charlotte Moscato"
+    },
+    {
+      "id": "charlotte-mash",
+      "name": "Charlotte Mash"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c7/Charlotte_Cornstarch_Anime_Infobox.png/revision/latest?cb=20181021143336",
+    "width": 1068,
+    "height": 531
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c7/Charlotte_Cornstarch_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20181021143336",
+    "width": 400,
+    "height": 199
+  },
+  "wiki": {
+    "title": "Charlotte Cornstarch",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Cornstarch"
+  },
+  "info": {
+    "japanese_name": "シャーロット・コンスターチ",
+    "romanized_name": "Shārotto Konsutāchi",
+    "official_english_name": "Charlotte Cornstarch",
+    "debut": [
+      "Chapter 865",
+      "Episode 841"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Minister of Love"
+    ],
+    "residence": [
+      "Loving Island"
+    ],
+    "age": "40",
+    "birthday": "December 16th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

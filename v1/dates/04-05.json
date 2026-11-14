@@ -3,8 +3,38 @@
   "label": "April 5th",
   "month": 4,
   "day": 5,
-  "characters": [
+  "names": [
     "Minister of the Right",
     "Yamakaji"
+  ],
+  "characters": [
+    {
+      "id": "minister-of-the-right",
+      "name": "Minister of the Right",
+      "display_name": "Minister of the Right",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/07/Minister_of_the_Right_Anime_Infobox.png/revision/latest/scale-to-width-down/180?cb=20241229031629",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/07/Minister_of_the_Right_Anime_Infobox.png/revision/latest?cb=20241229031629",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Minister_of_the_Right",
+      "epithet": null,
+      "affiliation": "Ryugu Kingdom",
+      "api": "v1/characters/minister-of-the-right.json"
+    },
+    {
+      "id": "yamakaji",
+      "name": "Yamakaji",
+      "display_name": "Yamakaji",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/62/Yamakaji_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230827195105",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/62/Yamakaji_Anime_Infobox.png/revision/latest?cb=20230827195105",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Yamakaji",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/yamakaji.json"
+    }
   ]
 }

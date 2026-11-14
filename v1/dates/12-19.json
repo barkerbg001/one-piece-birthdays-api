@@ -3,8 +3,38 @@
   "label": "December 19th",
   "month": 12,
   "day": 19,
-  "characters": [
+  "names": [
     "Hogback",
     "Dogra"
+  ],
+  "characters": [
+    {
+      "id": "hogback",
+      "name": "Hogback",
+      "display_name": "Hogback",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Hogback_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240720150902",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Hogback_Anime_Infobox.png/revision/latest?cb=20240720150902",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hogback",
+      "epithet": "\"Doctor Hogback\"; \"Genius Surgeon\"",
+      "affiliation": "Thriller Bark Pirates (Mysterious Four)",
+      "api": "v1/characters/hogback.json"
+    },
+    {
+      "id": "dogra",
+      "name": "Dogra",
+      "display_name": "Dogra",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a7/Dogra_Anime_Infobox.png/revision/latest/scale-to-width-down/198?cb=20130223222218",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a7/Dogra_Anime_Infobox.png/revision/latest?cb=20130223222218",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Dogra",
+      "epithet": null,
+      "affiliation": "Dadan Family",
+      "api": "v1/characters/dogra.json"
+    }
   ]
 }

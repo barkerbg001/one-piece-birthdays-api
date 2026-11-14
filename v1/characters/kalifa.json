@@ -1,0 +1,67 @@
+{
+  "id": "kalifa",
+  "name": "Kalifa",
+  "display_name": "Kalifa",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-23",
+      "label": "April 23rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Kalifa_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240915021516",
+    "width": 453,
+    "height": 994
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Kalifa_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/182?cb=20240915021516",
+    "width": 182,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kalifa",
+    "url": "https://onepiece.fandom.com/wiki/Kalifa"
+  },
+  "info": {
+    "japanese_name": "カリファ",
+    "romanized_name": "Karifa",
+    "official_english_name": "Kalifa",
+    "debut": [
+      "Chapter 323",
+      "Episode 230"
+    ],
+    "affiliations": [
+      "CP0",
+      "CP9 (former)",
+      "Galley-La Company (former)"
+    ],
+    "occupations": [
+      "Cipher Pol Agent",
+      "Secretary (cover, former)"
+    ],
+    "origin": "Grand Line",
+    "age": "25 (debut); 27 (after timeskip)",
+    "birthday": "April 23rd",
+    "height": "185 cm (6'1\")",
+    "blood_type": "XF",
+    "devil_fruit": "Awa Awa no Mi",
+    "devil_fruit_english": "Bubble-Bubble Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

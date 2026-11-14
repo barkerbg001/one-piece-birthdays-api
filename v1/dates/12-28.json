@@ -3,7 +3,23 @@
   "label": "December 28th",
   "month": 12,
   "day": 28,
-  "characters": [
+  "names": [
     "Jango"
+  ],
+  "characters": [
+    {
+      "id": "jango",
+      "name": "Jango",
+      "display_name": "Jango",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/de/Jango_Anime_Infobox.png/revision/latest/scale-to-width-down/253?cb=20241006021207",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/de/Jango_Anime_Infobox.png/revision/latest?cb=20241006021207",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Jango",
+      "epithet": "\"One-Two\" Jango (as a pirate); \"Jango the Turncoat\" (Marine)",
+      "affiliation": "Marines",
+      "api": "v1/characters/jango.json"
+    }
   ]
 }

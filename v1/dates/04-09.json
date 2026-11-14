@@ -3,11 +3,83 @@
   "label": "April 9th",
   "month": 4,
   "day": 9,
-  "characters": [
+  "names": [
     "Caesar Clown",
     "Piiman",
     "Marguerite",
     "Mohmoo",
     "Yorki"
+  ],
+  "characters": [
+    {
+      "id": "caesar-clown",
+      "name": "Caesar Clown",
+      "display_name": "Caesar Clown",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a6/Caesar_Clown_Anime_Infobox.png/revision/latest/scale-to-width-down/326?cb=20221101011307",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a6/Caesar_Clown_Anime_Infobox.png/revision/latest?cb=20221101011307",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Caesar_Clown",
+      "epithet": "\"Master\"",
+      "affiliation": "NEO MADS",
+      "api": "v1/characters/caesar-clown.json"
+    },
+    {
+      "id": "piiman",
+      "name": "Piiman",
+      "display_name": "Piiman",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8e/Piiman_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/242?cb=20251026160542",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8e/Piiman_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251026160542",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Piiman",
+      "epithet": null,
+      "affiliation": "Usopp Pirates (disbanded)",
+      "api": "v1/characters/piiman.json"
+    },
+    {
+      "id": "marguerite",
+      "name": "Marguerite",
+      "display_name": "Marguerite",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/cc/Marguerite_Anime_Infobox.png/revision/latest/scale-to-width-down/250?cb=20140928162219",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/cc/Marguerite_Anime_Infobox.png/revision/latest?cb=20140928162219",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Marguerite",
+      "epithet": null,
+      "affiliation": "Kuja Pirates",
+      "api": "v1/characters/marguerite.json"
+    },
+    {
+      "id": "mohmoo",
+      "name": "Mohmoo",
+      "display_name": "Mohmoo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Momoo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130212013602",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Momoo_Anime_Infobox.png/revision/latest?cb=20130212013602",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Momoo",
+      "epithet": "\"Momoo the Sea Cow\"",
+      "affiliation": "Arlong Pirates (former)",
+      "api": "v1/characters/mohmoo.json"
+    },
+    {
+      "id": "yorki",
+      "name": "Yorki",
+      "display_name": "Yorki",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Yorki_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240816020916",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Yorki_Anime_Infobox.png/revision/latest?cb=20240816020916",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Yorki",
+      "epithet": "\"Calico\" Yorki",
+      "affiliation": "Rumbar Pirates",
+      "api": "v1/characters/yorki.json"
+    }
   ]
 }

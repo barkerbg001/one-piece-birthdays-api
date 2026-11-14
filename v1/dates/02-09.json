@@ -3,10 +3,68 @@
   "label": "February 9th",
   "month": 2,
   "day": 9,
-  "characters": [
+  "names": [
     "Carne",
     "Genbo",
     "Bartholomew Kuma",
     "Wadatsumi"
+  ],
+  "characters": [
+    {
+      "id": "carne",
+      "name": "Carne",
+      "display_name": "Carne",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Carne_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/237?cb=20260920130301",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Carne_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20260920130301",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Carne",
+      "epithet": null,
+      "affiliation": "Baratie",
+      "api": "v1/characters/carne.json"
+    },
+    {
+      "id": "genbo",
+      "name": "Genbo",
+      "display_name": "Genbo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Genbo_Anime_Infobox.png/revision/latest/scale-to-width-down/327?cb=20230812144019",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Genbo_Anime_Infobox.png/revision/latest?cb=20230812144019",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Genbo",
+      "epithet": null,
+      "affiliation": "Shandia",
+      "api": "v1/characters/genbo.json"
+    },
+    {
+      "id": "bartholomew-kuma",
+      "name": "Bartholomew Kuma",
+      "display_name": "Bartholomew Kuma",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Bartholomew_Kuma_Anime_Infobox.png/revision/latest/scale-to-width-down/238?cb=20221012030835",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Bartholomew_Kuma_Anime_Infobox.png/revision/latest?cb=20221012030835",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Bartholomew_Kuma",
+      "epithet": "\"Tyrant\"; \"Pacifist\"; \"Hero\"",
+      "affiliation": "Freedom Fighters (former)",
+      "api": "v1/characters/bartholomew-kuma.json"
+    },
+    {
+      "id": "wadatsumi",
+      "name": "Wadatsumi",
+      "display_name": "Wadatsumi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/98/Wadatsumi_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130512052620",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/98/Wadatsumi_Anime_Infobox.png/revision/latest?cb=20130512052620",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Wadatsumi",
+      "epithet": "\"Large Monk\"",
+      "affiliation": "Sun Pirates",
+      "api": "v1/characters/wadatsumi.json"
+    }
   ]
 }

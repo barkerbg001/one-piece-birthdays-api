@@ -3,8 +3,38 @@
   "label": "September 26th",
   "month": 9,
   "day": 26,
-  "characters": [
+  "names": [
     "Dagama",
     "Cosmos"
+  ],
+  "characters": [
+    {
+      "id": "dagama",
+      "name": "Dagama",
+      "display_name": "Dagama",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Dagama_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20160221115154",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Dagama_Anime_Infobox.png/revision/latest?cb=20160221115154",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Dagama",
+      "epithet": null,
+      "affiliation": "Prodence Kingdom",
+      "api": "v1/characters/dagama.json"
+    },
+    {
+      "id": "cosmos",
+      "name": "Cosmos",
+      "display_name": "Cosmos",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bb/Cosmos_Anime_Infobox.png/revision/latest?cb=20090723231111",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/bb/Cosmos_Anime_Infobox.png/revision/latest?cb=20090723231111",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Cosmos",
+      "epithet": null,
+      "affiliation": "Kuja Pirates",
+      "api": "v1/characters/cosmos.json"
+    }
   ]
 }

@@ -3,8 +3,38 @@
   "label": "January 9th",
   "month": 1,
   "day": 9,
-  "characters": [
+  "names": [
     "Pickles",
     "Mountblutain"
+  ],
+  "characters": [
+    {
+      "id": "pickles",
+      "name": "Pickles",
+      "display_name": "Pickles",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/67/Pickles_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180109115245",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/67/Pickles_Anime_Infobox.png/revision/latest?cb=20180109115245",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Pickles",
+      "epithet": "\"Tackle Machine\"",
+      "affiliation": "Foxy Pirates (former)",
+      "api": "v1/characters/pickles.json"
+    },
+    {
+      "id": "mountblutain",
+      "name": "Mountblutain",
+      "display_name": "Mountblutain",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b5/Mounblutain_Anime_Infobox.png/revision/latest/scale-to-width-down/380?cb=20241117020720",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b5/Mounblutain_Anime_Infobox.png/revision/latest?cb=20241117020720",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mounblutain",
+      "epithet": null,
+      "affiliation": "Fake Straw Hat Crew",
+      "api": "v1/characters/mountblutain.json"
+    }
   ]
 }

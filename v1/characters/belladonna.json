@@ -1,0 +1,61 @@
+{
+  "id": "belladonna",
+  "name": "Belladonna",
+  "display_name": "Belladonna",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-26",
+      "label": "October 26th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/93/Belladonna_Anime_Infobox.png/revision/latest?cb=20140928163050",
+    "width": 630,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/93/Belladonna_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20140928163050",
+    "width": 350,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Belladonna",
+    "url": "https://onepiece.fandom.com/wiki/Belladonna"
+  },
+  "info": {
+    "japanese_name": "ベラドンナ",
+    "romanized_name": "Beradonna",
+    "official_english_name": "Belladonna",
+    "debut": [
+      "Chapter 514",
+      "Episode 408"
+    ],
+    "affiliations": [
+      "Kuja"
+    ],
+    "occupations": [
+      "Doctor"
+    ],
+    "origin": "Calm Belt (Amazon Lily)",
+    "residence": [
+      "Amazon Lily"
+    ],
+    "birthday": "October 26th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

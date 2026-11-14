@@ -1,0 +1,64 @@
+{
+  "id": "neptune",
+  "name": "Neptune",
+  "display_name": "Neptune",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-03",
+      "label": "July 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/40/Neptune_Anime_Infobox.png/revision/latest?cb=20131206042454",
+    "width": 1182,
+    "height": 1420
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/40/Neptune_Anime_Infobox.png/revision/latest/scale-to-width-down/333?cb=20131206042454",
+    "width": 333,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Neptune",
+    "url": "https://onepiece.fandom.com/wiki/Neptune"
+  },
+  "info": {
+    "japanese_name": "ネプチューン",
+    "romanized_name": "Nepuchūn",
+    "official_english_name": "Neptune",
+    "debut": [
+      "Chapter 611",
+      "Episode 530"
+    ],
+    "affiliations": [
+      "Neptune Family",
+      "Ryugu Kingdom"
+    ],
+    "occupations": [
+      "King of the Ryugu Kingdom",
+      "Prince (former)"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "epithet": "\"Sea God\"; \"Great Knight of the Sea\"",
+    "age": "70",
+    "birthday": "July 3rd",
+    "height": "1220 cm (40')",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

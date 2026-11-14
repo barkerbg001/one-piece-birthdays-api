@@ -3,8 +3,38 @@
   "label": "May 11th",
   "month": 5,
   "day": 11,
-  "characters": [
+  "names": [
     "Goldberg",
     "Poro"
+  ],
+  "characters": [
+    {
+      "id": "goldberg",
+      "name": "Goldberg",
+      "display_name": "Goldberg",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/15/Goldberg_Anime_Infobox.png/revision/latest/scale-to-width-down/312?cb=20260517171643",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/15/Goldberg_Anime_Infobox.png/revision/latest?cb=20260517171643",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Goldberg",
+      "epithet": null,
+      "affiliation": "New Giant Warrior Pirates",
+      "api": "v1/characters/goldberg.json"
+    },
+    {
+      "id": "poro",
+      "name": "Poro",
+      "display_name": "Poro",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/65/Poro_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20190120065016",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/65/Poro_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20190120065016",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Poro",
+      "epithet": null,
+      "affiliation": "Orange Town",
+      "api": "v1/characters/poro.json"
+    }
   ]
 }

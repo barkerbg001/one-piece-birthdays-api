@@ -3,9 +3,53 @@
   "label": "March 14th",
   "month": 3,
   "day": 14,
-  "characters": [
+  "names": [
     "Alvida",
     "Charlotte Perospero",
     "Smoker"
+  ],
+  "characters": [
+    {
+      "id": "alvida",
+      "name": "Alvida",
+      "display_name": "Alvida",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Alvida_Anime_Infobox.png/revision/latest/scale-to-width-down/231?cb=20221116234952",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Alvida_Anime_Infobox.png/revision/latest?cb=20221116234952",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Alvida",
+      "epithet": "\"Iron Mace\"",
+      "affiliation": "Cross Guild",
+      "api": "v1/characters/alvida.json"
+    },
+    {
+      "id": "charlotte-perospero",
+      "name": "Charlotte Perospero",
+      "display_name": "Charlotte Perospero",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Charlotte_Perospero_Anime_Infobox.png/revision/latest/scale-to-width-down/309?cb=20211101122146",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Charlotte_Perospero_Anime_Infobox.png/revision/latest?cb=20211101122146",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Perospero",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-perospero.json"
+    },
+    {
+      "id": "smoker",
+      "name": "Smoker",
+      "display_name": "Smoker",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Smoker_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/306?cb=20221101011905",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Smoker_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20221101011905",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Smoker",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/smoker.json"
+    }
   ]
 }

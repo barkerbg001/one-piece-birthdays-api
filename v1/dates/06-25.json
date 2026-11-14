@@ -3,7 +3,23 @@
   "label": "June 25th",
   "month": 6,
   "day": 25,
-  "characters": [
+  "names": [
     "Charlotte Pudding"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-pudding",
+      "name": "Charlotte Pudding",
+      "display_name": "Charlotte Pudding",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/60/Charlotte_Pudding_Anime_Infobox.png/revision/latest/scale-to-width-down/208?cb=20250106015531",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/60/Charlotte_Pudding_Anime_Infobox.png/revision/latest?cb=20250106015531",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Pudding",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-pudding.json"
+    }
   ]
 }

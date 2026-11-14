@@ -1,0 +1,71 @@
+{
+  "id": "charlotte-galette",
+  "name": "Charlotte Galette",
+  "display_name": "Charlotte Galette",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-19",
+      "label": "October 19th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-poire",
+      "name": "Charlotte Poire"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/71/Charlotte_Galette_Anime_Infobox.png/revision/latest?cb=20180721222625",
+    "width": 815,
+    "height": 1024
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/71/Charlotte_Galette_Anime_Infobox.png/revision/latest/scale-to-width-down/318?cb=20180721222625",
+    "width": 318,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Galette",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Galette"
+  },
+  "info": {
+    "japanese_name": "シャーロット・ガレット",
+    "romanized_name": "Shārotto Garetto",
+    "official_english_name": "Charlotte Galette",
+    "debut": [
+      "Chapter 829",
+      "Episode 789"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Minister of Butter"
+    ],
+    "residence": [
+      "Margarine Island"
+    ],
+    "age": "31",
+    "birthday": "October 19th",
+    "devil_fruit": "Bata Bata no Mi",
+    "devil_fruit_english": "Butter-Butter Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

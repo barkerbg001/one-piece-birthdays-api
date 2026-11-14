@@ -1,0 +1,62 @@
+{
+  "id": "mountblutain",
+  "name": "Mountblutain",
+  "display_name": "Mountblutain",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-09",
+      "label": "January 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b5/Mounblutain_Anime_Infobox.png/revision/latest?cb=20241117020720",
+    "width": 1026,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b5/Mounblutain_Anime_Infobox.png/revision/latest/scale-to-width-down/380?cb=20241117020720",
+    "width": 380,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Mounblutain",
+    "url": "https://onepiece.fandom.com/wiki/Mounblutain"
+  },
+  "info": {
+    "japanese_name": "マウンブルテン",
+    "romanized_name": "Maunburuten",
+    "official_english_name": "Mounbleten",
+    "debut": [
+      "Chapter 598",
+      "Episode 517"
+    ],
+    "affiliations": [
+      "Fake Straw Hat Crew"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "origin": "East Blue",
+    "status": "1",
+    "age": "30",
+    "birthday": "January 9th",
+    "height": "294 cm (9'7\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,8 +3,38 @@
   "label": "June 12th",
   "month": 6,
   "day": 12,
-  "characters": [
+  "names": [
     "Senor Pink",
     "Disco"
+  ],
+  "characters": [
+    {
+      "id": "senor-pink",
+      "name": "Senor Pink",
+      "display_name": "Senor Pink",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/48/Senor_Pink_Anime_Infobox.png/revision/latest/scale-to-width-down/344?cb=20241014120619",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/48/Senor_Pink_Anime_Infobox.png/revision/latest?cb=20241014120619",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Senor_Pink",
+      "epithet": null,
+      "affiliation": "Donquixote Pirates",
+      "api": "v1/characters/senor-pink.json"
+    },
+    {
+      "id": "disco",
+      "name": "Disco",
+      "display_name": "Disco",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/52/Disco_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/318?cb=20240429004117",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/52/Disco_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20240429004117",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Disco",
+      "epithet": "\"Walking Super Bazaar\"",
+      "affiliation": "Donquixote Doflamingo (former)",
+      "api": "v1/characters/disco.json"
+    }
   ]
 }

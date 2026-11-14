@@ -3,7 +3,23 @@
   "label": "January 16th",
   "month": 1,
   "day": 16,
-  "characters": [
+  "names": [
     "Boodle"
+  ],
+  "characters": [
+    {
+      "id": "boodle",
+      "name": "Boodle",
+      "display_name": "Boodle",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Boodle_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/375?cb=20251102161418",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Boodle_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251102161418",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Boodle",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/boodle.json"
+    }
   ]
 }

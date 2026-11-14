@@ -3,11 +3,99 @@
   "label": "March 2nd",
   "month": 3,
   "day": 2,
-  "characters": [
+  "names": [
     "Vinsmoke Ichiji",
     "Vinsmoke Niji",
     "Sanji",
     "Vinsmoke Yonji",
     "Sanjuan Wolf"
+  ],
+  "characters": [
+    {
+      "id": "vinsmoke-ichiji",
+      "name": "Vinsmoke Ichiji",
+      "display_name": "Vinsmoke Ichiji",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "vinsmoke-niji",
+        "sanji",
+        "vinsmoke-yonji"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7c/Vinsmoke_Ichiji_Anime_Infobox.png/revision/latest/scale-to-width-down/217?cb=20260923024233",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7c/Vinsmoke_Ichiji_Anime_Infobox.png/revision/latest?cb=20260923024233",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Vinsmoke_Ichiji",
+      "epithet": "\"Sparking Red\"",
+      "affiliation": "Vinsmoke Family",
+      "api": "v1/characters/vinsmoke-ichiji.json"
+    },
+    {
+      "id": "vinsmoke-niji",
+      "name": "Vinsmoke Niji",
+      "display_name": "Vinsmoke Niji",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "vinsmoke-ichiji",
+        "sanji",
+        "vinsmoke-yonji"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Vinsmoke_Niji_Anime_Infobox.png/revision/latest/scale-to-width-down/294?cb=20180618054009",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Vinsmoke_Niji_Anime_Infobox.png/revision/latest?cb=20180618054009",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Vinsmoke_Niji",
+      "epithet": "\"Dengeki Blue\"",
+      "affiliation": "Vinsmoke Family",
+      "api": "v1/characters/vinsmoke-niji.json"
+    },
+    {
+      "id": "sanji",
+      "name": "Sanji",
+      "display_name": "Sanji",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "vinsmoke-ichiji",
+        "vinsmoke-niji",
+        "vinsmoke-yonji"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Sanji_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/133?cb=20240122012744",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Sanji_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240122012744",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sanji",
+      "epithet": "\"Black Leg\"",
+      "affiliation": "Straw Hat Pirates",
+      "api": "v1/characters/sanji.json"
+    },
+    {
+      "id": "vinsmoke-yonji",
+      "name": "Vinsmoke Yonji",
+      "display_name": "Vinsmoke Yonji",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "vinsmoke-ichiji",
+        "vinsmoke-niji",
+        "sanji"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e7/Vinsmoke_Yonji_Anime_Infobox.png/revision/latest/scale-to-width-down/212?cb=20170416175856",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e7/Vinsmoke_Yonji_Anime_Infobox.png/revision/latest?cb=20170416175856",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Vinsmoke_Yonji",
+      "epithet": "\"Winch Green\"",
+      "affiliation": "Vinsmoke Family",
+      "api": "v1/characters/vinsmoke-yonji.json"
+    },
+    {
+      "id": "sanjuan-wolf",
+      "name": "Sanjuan Wolf",
+      "display_name": "Sanjuan Wolf",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c8/Sanjuan_Wolf_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20241006021549",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c8/Sanjuan_Wolf_Anime_Infobox.png/revision/latest?cb=20241006021549",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sanjuan_Wolf",
+      "epithet": "\"Colossal Battleship\"",
+      "affiliation": "Blackbeard Pirates",
+      "api": "v1/characters/sanjuan-wolf.json"
+    }
   ]
 }

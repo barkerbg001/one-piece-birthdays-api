@@ -1,0 +1,73 @@
+{
+  "id": "o-kiku",
+  "name": "O-Kiku",
+  "display_name": "O-Kiku",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-09",
+      "label": "September 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/12/Kikunojo_Anime_Infobox.png/revision/latest?cb=20200620104530",
+    "width": 941,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/12/Kikunojo_Anime_Infobox.png/revision/latest/scale-to-width-down/348?cb=20200620104530",
+    "width": 348,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kikunojo",
+    "url": "https://onepiece.fandom.com/wiki/Kikunojo"
+  },
+  "info": {
+    "japanese_name": "菊之丞",
+    "romanized_name": "Kikunojō",
+    "debut": [
+      "Chapter 913",
+      "Episode 899"
+    ],
+    "affiliations": [
+      "Kouzuki Family",
+      "Nine Red Scabbards",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Daimyo of Ringo",
+      "Samurai",
+      "Retainer of the Kouzuki Family",
+      "Tea House Poster Girl"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Wano Country (Ringo)",
+      "Wano Country (Kuri) (former)"
+    ],
+    "epithet": "\"Kikunojo of the Lingering Snow\"",
+    "aliases": [
+      "O-Kiku"
+    ],
+    "age": "22 (born 42 years ago)",
+    "birthday": "September 9th",
+    "height": "287 cm (9'5\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,7 +3,23 @@
   "label": "September 12th",
   "month": 9,
   "day": 12,
-  "characters": [
+  "names": [
     "Curiel"
+  ],
+  "characters": [
+    {
+      "id": "curiel",
+      "name": "Curiel",
+      "display_name": "Curiel",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/26/Curiel_Anime_Infobox.png/revision/latest/scale-to-width-down/340?cb=20130513043146",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/26/Curiel_Anime_Infobox.png/revision/latest?cb=20130513043146",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Curiel",
+      "epithet": null,
+      "affiliation": "Whitebeard Pirates",
+      "api": "v1/characters/curiel.json"
+    }
   ]
 }

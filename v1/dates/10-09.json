@@ -3,9 +3,53 @@
   "label": "October 9th",
   "month": 10,
   "day": 9,
-  "characters": [
+  "names": [
     "Dosun",
     "Magellan",
     "Mont Blanc Noland"
+  ],
+  "characters": [
+    {
+      "id": "dosun",
+      "name": "Dosun",
+      "display_name": "Dosun",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/60/Dosun_Anime_Infobox.png/revision/latest/scale-to-width-down/361?cb=20230729183447",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/60/Dosun_Anime_Infobox.png/revision/latest?cb=20230729183447",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Dosun",
+      "epithet": null,
+      "affiliation": "New Fish-Man Pirates",
+      "api": "v1/characters/dosun.json"
+    },
+    {
+      "id": "magellan",
+      "name": "Magellan",
+      "display_name": "Magellan",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9e/Magellan_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20251102163212",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9e/Magellan_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251102163212",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Magellan",
+      "epithet": null,
+      "affiliation": "Impel Down",
+      "api": "v1/characters/magellan.json"
+    },
+    {
+      "id": "mont-blanc-noland",
+      "name": "Mont Blanc Noland",
+      "display_name": "Mont Blanc Noland",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/27/Mont_Blanc_Noland_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230806162218",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/27/Mont_Blanc_Noland_Anime_Infobox.png/revision/latest?cb=20230806162218",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mont_Blanc_Noland",
+      "epithet": "\"Liar Noland\"",
+      "affiliation": "Lvneel Kingdom",
+      "api": "v1/characters/mont-blanc-noland.json"
+    }
   ]
 }

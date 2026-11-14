@@ -1,0 +1,61 @@
+{
+  "id": "sadi",
+  "name": "Sadi",
+  "display_name": "Sadi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-05",
+      "label": "March 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/38/Sadi_Anime_Infobox.png/revision/latest?cb=20221023232535",
+    "width": 682,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/38/Sadi_Anime_Infobox.png/revision/latest/scale-to-width-down/252?cb=20221023232535",
+    "width": 252,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Sadi",
+    "url": "https://onepiece.fandom.com/wiki/Sadi"
+  },
+  "info": {
+    "japanese_name": "サディちゃん",
+    "romanized_name": "Sadi-chan",
+    "official_english_name": "Sadie",
+    "debut": [
+      "Chapter 531",
+      "Episode 432"
+    ],
+    "affiliations": [
+      "Impel Down"
+    ],
+    "occupations": [
+      "Chief Guard"
+    ],
+    "origin": "Grand Line",
+    "age": "21 (debut); 23 (after timeskip)",
+    "birthday": "March 5th",
+    "height": "183 cm (6'0\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

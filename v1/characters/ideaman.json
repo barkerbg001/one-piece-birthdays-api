@@ -1,0 +1,59 @@
+{
+  "id": "ideaman",
+  "name": "Ideaman",
+  "display_name": "Ideaman",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-17",
+      "label": "March 17th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c2/Ideaman_Anime_Infobox.png/revision/latest?cb=20130817215643",
+    "width": 290,
+    "height": 401
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c2/Ideaman_Anime_Infobox.png/revision/latest/scale-to-width-down/289?cb=20130817215643",
+    "width": 289,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Ideaman",
+    "url": "https://onepiece.fandom.com/wiki/Ideaman"
+  },
+  "info": {
+    "japanese_name": "アイデアマン",
+    "romanized_name": "Aideaman",
+    "official_english_name": "Ideaman",
+    "debut": [
+      "Chapter 55",
+      "Episode 25"
+    ],
+    "affiliations": [
+      "Krieg Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Staff Officer of Planning"
+    ],
+    "origin": "East Blue",
+    "birthday": "March 17th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

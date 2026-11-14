@@ -1,0 +1,63 @@
+{
+  "id": "kong",
+  "name": "Kong",
+  "display_name": "Kong",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-09",
+      "label": "May 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6b/Kong_Anime_Infobox.png/revision/latest?cb=20220920203131",
+    "width": 1920,
+    "height": 2025
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6b/Kong_Anime_Infobox.png/revision/latest/scale-to-width-down/379?cb=20220920203131",
+    "width": 379,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kong",
+    "url": "https://onepiece.fandom.com/wiki/Kong"
+  },
+  "info": {
+    "japanese_name": "コング",
+    "romanized_name": "Kongu",
+    "debut": [
+      "Chapter 0",
+      "Episode 0"
+    ],
+    "affiliations": [
+      "World Government",
+      "Marines (former)"
+    ],
+    "occupations": [
+      "Commander-in-Chief",
+      "Fleet Admiral (former)",
+      "Admiral (former)"
+    ],
+    "residence": [
+      "Mary Geoise",
+      "Marine Headquarters (Marineford) (former)"
+    ],
+    "birthday": "May 9th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

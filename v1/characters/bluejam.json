@@ -1,0 +1,64 @@
+{
+  "id": "bluejam",
+  "name": "Bluejam",
+  "display_name": "Bluejam",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-16",
+      "label": "February 16th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Bluejam_Anime_Infobox.png/revision/latest?cb=20160827000919",
+    "width": 782,
+    "height": 657
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Bluejam_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20160827000919",
+    "width": 400,
+    "height": 336
+  },
+  "wiki": {
+    "title": "Bluejam",
+    "url": "https://onepiece.fandom.com/wiki/Bluejam"
+  },
+  "info": {
+    "japanese_name": "ブルージャム",
+    "romanized_name": "Burūjamu",
+    "official_english_name": "Bluejam",
+    "debut": [
+      "Chapter 584",
+      "Episode 494"
+    ],
+    "affiliations": [
+      "Bluejam Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain"
+    ],
+    "origin": "East Blue (Goa Kingdom)",
+    "status": "1",
+    "age": "42 (debut)",
+    "birthday": "February 16th",
+    "height": "261 cm (8'7\")",
+    "blood_type": "X",
+    "bounty": "14,300,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

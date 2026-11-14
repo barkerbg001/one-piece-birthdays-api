@@ -1,0 +1,62 @@
+{
+  "id": "chess",
+  "name": "Chess",
+  "display_name": "Chess",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-20",
+      "label": "July 20th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/66/Chess_Anime_Infobox.png/revision/latest?cb=20221003172343",
+    "width": 704,
+    "height": 1429
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/66/Chess_Anime_Infobox.png/revision/latest/scale-to-width-down/197?cb=20221003172343",
+    "width": 197,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Chess",
+    "url": "https://onepiece.fandom.com/wiki/Chess"
+  },
+  "info": {
+    "japanese_name": "チェス",
+    "romanized_name": "Chesu",
+    "official_english_name": "Chess",
+    "debut": [
+      "Chapter 131",
+      "Episode 78"
+    ],
+    "affiliations": [
+      "Bliking Pirates (disbanded), Drum Kingdom (former)"
+    ],
+    "occupations": [
+      "Evil Chief of Staff (Chief of Staff)",
+      "Pirate"
+    ],
+    "origin": "Grand Line (Drum Kingdom)",
+    "age": "30 (debut); 32 (after timeskip)",
+    "birthday": "July 20th",
+    "height": "194 cm (6'4\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

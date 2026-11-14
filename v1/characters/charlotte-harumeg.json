@@ -1,0 +1,97 @@
+{
+  "id": "charlotte-harumeg",
+  "name": "Charlotte Harumeg",
+  "display_name": "Charlotte Harumeg",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-02",
+      "label": "December 2nd"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-newichi",
+      "name": "Charlotte Newichi"
+    },
+    {
+      "id": "charlotte-newji",
+      "name": "Charlotte Newji"
+    },
+    {
+      "id": "charlotte-newsan",
+      "name": "Charlotte Newsan"
+    },
+    {
+      "id": "charlotte-newshi",
+      "name": "Charlotte Newshi"
+    },
+    {
+      "id": "charlotte-newgo",
+      "name": "Charlotte Newgo"
+    },
+    {
+      "id": "charlotte-nutmeg",
+      "name": "Charlotte Nutmeg"
+    },
+    {
+      "id": "charlotte-akimeg",
+      "name": "Charlotte Akimeg"
+    },
+    {
+      "id": "charlotte-allmeg",
+      "name": "Charlotte Allmeg"
+    },
+    {
+      "id": "charlotte-fuyumeg",
+      "name": "Charlotte Fuyumeg"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/42/Charlotte_Harumeg_Anime_Infobox.png/revision/latest?cb=20190312135453",
+    "width": 416,
+    "height": 521
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/42/Charlotte_Harumeg_Anime_Infobox.png/revision/latest/scale-to-width-down/319?cb=20190312135453",
+    "width": 319,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Harumeg",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Harumeg"
+  },
+  "info": {
+    "japanese_name": "シャーロット・ハルメグ",
+    "romanized_name": "Shārotto Harumegu",
+    "official_english_name": "Charlotte Harumeg",
+    "debut": [
+      "Chapter 894",
+      "Episode 869"
+    ],
+    "affiliations": [
+      "Charlotte Family (Charlotte Decuplets)",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Officer"
+    ],
+    "age": "18",
+    "birthday": "December 2nd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

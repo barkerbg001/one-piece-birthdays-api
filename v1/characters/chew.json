@@ -1,0 +1,68 @@
+{
+  "id": "chew",
+  "name": "Chew",
+  "display_name": "Chew",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-23",
+      "label": "May 23rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/05/Chew_Anime_Infobox.png/revision/latest?cb=20240518182217",
+    "width": 476,
+    "height": 1002
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/05/Chew_Anime_Infobox.png/revision/latest/scale-to-width-down/190?cb=20240518182217",
+    "width": 190,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Chew",
+    "url": "https://onepiece.fandom.com/wiki/Chew"
+  },
+  "info": {
+    "japanese_name": "チュウ",
+    "romanized_name": "Chū",
+    "official_english_name": "Choo; Chu (Live-Action)",
+    "debut": [
+      "Chapter 69",
+      "Episode 31"
+    ],
+    "affiliations": [
+      "Arlong Pirates",
+      "Sun Pirates (former)"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Sniper"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Fish-Man District (former)",
+      "Arlong Park (former)"
+    ],
+    "age": "33 (debut); 35 (after timeskip)",
+    "birthday": "May 23rd",
+    "height": "257 cm (8'5\")",
+    "blood_type": "X",
+    "bounty": "5,500,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

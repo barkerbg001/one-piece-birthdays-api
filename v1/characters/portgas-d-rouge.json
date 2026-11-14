@@ -1,0 +1,57 @@
+{
+  "id": "portgas-d-rouge",
+  "name": "Portgas D. Rouge",
+  "display_name": "Portgas D. Rouge",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-10",
+      "label": "June 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9c/Portgas_D._Rouge_Anime_Infobox.png/revision/latest?cb=20240731221040",
+    "width": 619,
+    "height": 847
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9c/Portgas_D._Rouge_Anime_Infobox.png/revision/latest/scale-to-width-down/292?cb=20240731221040",
+    "width": 292,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Portgas D. Rouge",
+    "url": "https://onepiece.fandom.com/wiki/Portgas_D._Rouge"
+  },
+  "info": {
+    "japanese_name": "ポートガス・D・ルージュ",
+    "romanized_name": "Pōtogasu Dī Rūju",
+    "official_english_name": "Portgaz D. Rouge",
+    "debut": [
+      "Chapter 550",
+      "Episode 0"
+    ],
+    "affiliations": [
+      "Gol D. Roger",
+      "Portgas D. Ace",
+      "Clan of D."
+    ],
+    "status": "2",
+    "birthday": "June 10th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

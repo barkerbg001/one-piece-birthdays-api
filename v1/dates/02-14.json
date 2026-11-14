@@ -3,8 +3,38 @@
   "label": "February 14th",
   "month": 2,
   "day": 14,
-  "characters": [
+  "names": [
     "Miss Valentine (Mikita)",
     "Hyogoro"
+  ],
+  "characters": [
+    {
+      "id": "miss-valentine",
+      "name": "Miss Valentine",
+      "display_name": "Miss Valentine (Mikita)",
+      "alias": "Mikita",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Mikita_Anime_Infobox.png/revision/latest/scale-to-width-down/168?cb=20230417164634",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Mikita_Anime_Infobox.png/revision/latest?cb=20230417164634",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mikita",
+      "epithet": "\"Courier\"",
+      "affiliation": "New Spiders Cafe",
+      "api": "v1/characters/miss-valentine.json"
+    },
+    {
+      "id": "hyogoro",
+      "name": "Hyogoro",
+      "display_name": "Hyogoro",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Hyougoro_Anime_Infobox.png/revision/latest/scale-to-width-down/374?cb=20211128060641",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Hyougoro_Anime_Infobox.png/revision/latest?cb=20211128060641",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hyougoro",
+      "epithet": "\"Hyougoro of the Flower\"",
+      "affiliation": "Hyougoro Family (former)",
+      "api": "v1/characters/hyogoro.json"
+    }
   ]
 }

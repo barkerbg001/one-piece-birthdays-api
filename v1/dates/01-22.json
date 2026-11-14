@@ -3,9 +3,53 @@
   "label": "January 22nd",
   "month": 1,
   "day": 22,
-  "characters": [
+  "names": [
     "Going Merry",
     "Merry",
     "Pez"
+  ],
+  "characters": [
+    {
+      "id": "going-merry",
+      "name": "Going Merry",
+      "display_name": "Going Merry",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/41/Going_Merry_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240731210147",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/41/Going_Merry_Infobox.png/revision/latest?cb=20240731210147",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Going_Merry",
+      "epithet": null,
+      "affiliation": "Straw Hat Pirates",
+      "api": "v1/characters/going-merry.json"
+    },
+    {
+      "id": "merry",
+      "name": "Merry",
+      "display_name": "Merry",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/ba/Merry_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/118?cb=20251026160814",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/ba/Merry_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251026160814",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Merry",
+      "epithet": null,
+      "affiliation": "Kaya",
+      "api": "v1/characters/merry.json"
+    },
+    {
+      "id": "pez",
+      "name": "Pez",
+      "display_name": "Pez",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/63/Capone_Pez_Anime_Infobox.png/revision/latest/scale-to-width-down/358?cb=20180309053108",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/63/Capone_Pez_Anime_Infobox.png/revision/latest?cb=20180309053108",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Capone_Pez",
+      "epithet": "\"Gang\"",
+      "affiliation": "Fire Tank Pirates",
+      "api": "v1/characters/pez.json"
+    }
   ]
 }

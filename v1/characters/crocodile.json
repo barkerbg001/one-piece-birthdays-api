@@ -1,0 +1,42 @@
+{
+  "id": "crocodile",
+  "name": "Crocodile",
+  "display_name": "Crocodile",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-05",
+      "label": "September 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Crocodile_Anime_Infobox.png/revision/latest?cb=20230125235528",
+    "width": 1635,
+    "height": 2055
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Crocodile_Anime_Infobox.png/revision/latest/scale-to-width-down/318?cb=20230125235528",
+    "width": 318,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Crocodile",
+    "url": "https://onepiece.fandom.com/wiki/Crocodile"
+  },
+  "info": {},
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

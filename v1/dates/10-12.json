@@ -3,9 +3,62 @@
   "label": "October 12th",
   "month": 10,
   "day": 12,
-  "characters": [
+  "names": [
     "Charlotte Smoothie",
     "Charlotte Citron",
     "Charlotte Cinnamon"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-smoothie",
+      "name": "Charlotte Smoothie",
+      "display_name": "Charlotte Smoothie",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-citron",
+        "charlotte-cinnamon"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Charlotte_Smoothie_Anime_Infobox.png/revision/latest/scale-to-width-down/171?cb=20180423150946",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Charlotte_Smoothie_Anime_Infobox.png/revision/latest?cb=20180423150946",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Smoothie",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-smoothie.json"
+    },
+    {
+      "id": "charlotte-citron",
+      "name": "Charlotte Citron",
+      "display_name": "Charlotte Citron",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-smoothie",
+        "charlotte-cinnamon"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/5b/Charlotte_Citron_Anime_Infobox.png/revision/latest/scale-to-width-down/389?cb=20190203104804",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/5b/Charlotte_Citron_Anime_Infobox.png/revision/latest?cb=20190203104804",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Citron",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-citron.json"
+    },
+    {
+      "id": "charlotte-cinnamon",
+      "name": "Charlotte Cinnamon",
+      "display_name": "Charlotte Cinnamon",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-smoothie",
+        "charlotte-citron"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Charlotte_Cinnamon_Anime_Infobox.png/revision/latest/scale-to-width-down/362?cb=20190203104624",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Charlotte_Cinnamon_Anime_Infobox.png/revision/latest?cb=20190203104624",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Cinnamon",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-cinnamon.json"
+    }
   ]
 }

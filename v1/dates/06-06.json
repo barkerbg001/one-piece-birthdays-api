@@ -3,9 +3,53 @@
   "label": "June 6th",
   "month": 6,
   "day": 6,
-  "characters": [
+  "names": [
     "Karma",
     "Momonga",
     "Sheepshead"
+  ],
+  "characters": [
+    {
+      "id": "karma",
+      "name": "Karma",
+      "display_name": "Karma",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/43/Karma_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130722051251",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/43/Karma_Anime_Infobox.png/revision/latest?cb=20130722051251",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Karma",
+      "epithet": null,
+      "affiliation": "Takotopus Pirates",
+      "api": "v1/characters/karma.json"
+    },
+    {
+      "id": "momonga",
+      "name": "Momonga",
+      "display_name": "Momonga",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Momonga_Anime_Infobox.png/revision/latest/scale-to-width-down/340?cb=20221101021448",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Momonga_Anime_Infobox.png/revision/latest?cb=20221101021448",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Momonga",
+      "epithet": null,
+      "affiliation": "Marines G-1 Branch",
+      "api": "v1/characters/momonga.json"
+    },
+    {
+      "id": "sheepshead",
+      "name": "Sheepshead",
+      "display_name": "Sheepshead",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/81/Sheepshead_Anime_Infobox.png/revision/latest/scale-to-width-down/319?cb=20240906231140",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Sheepshead_Anime_Infobox.png/revision/latest?cb=20240906231140",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sheepshead",
+      "epithet": null,
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/sheepshead.json"
+    }
   ]
 }

@@ -3,8 +3,38 @@
   "label": "June 9th",
   "month": 6,
   "day": 9,
-  "characters": [
+  "names": [
     "Surume (the kraken)",
     "Rockstar"
+  ],
+  "characters": [
+    {
+      "id": "surume",
+      "name": "Surume",
+      "display_name": "Surume (the kraken)",
+      "alias": "the kraken",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/85/Surume_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180802055215",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/85/Surume_Anime_Infobox.png/revision/latest?cb=20180802055215",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Surume",
+      "epithet": null,
+      "affiliation": "New Fish-Man Pirates (defected)",
+      "api": "v1/characters/surume.json"
+    },
+    {
+      "id": "rockstar",
+      "name": "Rockstar",
+      "display_name": "Rockstar",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Rockstar_Anime_Infobox.png/revision/latest/scale-to-width-down/385?cb=20160929234330",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Rockstar_Anime_Infobox.png/revision/latest?cb=20160929234330",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Rockstar",
+      "epithet": null,
+      "affiliation": "Red Hair Pirates",
+      "api": "v1/characters/rockstar.json"
+    }
   ]
 }

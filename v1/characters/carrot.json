@@ -1,0 +1,67 @@
+{
+  "id": "carrot",
+  "name": "Carrot",
+  "display_name": "Carrot",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-24",
+      "label": "May 24th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Carrot_Anime_Infobox.png/revision/latest?cb=20180826142459",
+    "width": 331,
+    "height": 878
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Carrot_Anime_Infobox.png/revision/latest/scale-to-width-down/150?cb=20180826142459",
+    "width": 150,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Carrot",
+    "url": "https://onepiece.fandom.com/wiki/Carrot"
+  },
+  "info": {
+    "japanese_name": "キャロット",
+    "romanized_name": "Kyarotto",
+    "official_english_name": "Carrot",
+    "debut": [
+      "Chapter 804",
+      "Episode 753"
+    ],
+    "affiliations": [
+      "Mokomo Dukedom, Inuarashi Musketeer Squad",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Ruler of Mokomo Dukedom",
+      "Musketeer (former)",
+      "Kingsbird (former)"
+    ],
+    "origin": "Grand Line (Mokomo Dukedom)",
+    "residence": [
+      "Zou"
+    ],
+    "age": "15",
+    "birthday": "May 24th",
+    "height": "161 cm (5'3\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

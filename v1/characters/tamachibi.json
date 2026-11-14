@@ -1,0 +1,58 @@
+{
+  "id": "tamachibi",
+  "name": "Tamachibi",
+  "display_name": "Tamachibi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-17",
+      "label": "June 17th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Tamachibi_Anime_Infobox.png/revision/latest?cb=20130117055141",
+    "width": 430,
+    "height": 480
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Tamachibi_Anime_Infobox.png/revision/latest/scale-to-width-down/358?cb=20130117055141",
+    "width": 358,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Tamachibi",
+    "url": "https://onepiece.fandom.com/wiki/Tamachibi"
+  },
+  "info": {
+    "japanese_name": "タマチビ",
+    "romanized_name": "Tamachibi",
+    "official_english_name": "Tamachibi (Funimation), Tama (Viz)",
+    "debut": [
+      "Chapter 134",
+      "Episode 81"
+    ],
+    "affiliations": [
+      "Stool Restaurant"
+    ],
+    "origin": "Grand Line (Drum Island)",
+    "residence": [
+      "Cocoa Weed, Drum Island"
+    ],
+    "birthday": "June 17th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

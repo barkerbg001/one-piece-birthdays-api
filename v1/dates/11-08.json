@@ -3,8 +3,38 @@
   "label": "November 8th",
   "month": 11,
   "day": 8,
-  "characters": [
+  "names": [
     "Carue",
     "Shamba"
+  ],
+  "characters": [
+    {
+      "id": "carue",
+      "name": "Carue",
+      "display_name": "Carue",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Karoo_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/294?cb=20240629192134",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Karoo_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240629192134",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Karoo",
+      "epithet": null,
+      "affiliation": "Arabasta Kingdom Guard Squad (Super Spot-Billed Duck Troops), Straw Hat Pirates (former), Baroque Works (former)",
+      "api": "v1/characters/carue.json"
+    },
+    {
+      "id": "shamba",
+      "name": "Shamba",
+      "display_name": "Shamba",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f1/Shanba_Anime_Infobox.png/revision/latest/scale-to-width-down/380?cb=20190103035249",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f1/Shanba_Anime_Infobox.png/revision/latest?cb=20190103035249",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Shanba",
+      "epithet": null,
+      "affiliation": "Torino Kingdom",
+      "api": "v1/characters/shamba.json"
+    }
   ]
 }

@@ -3,10 +3,68 @@
   "label": "February 18th",
   "month": 2,
   "day": 18,
-  "characters": [
+  "names": [
     "Gambia",
     "Minolva",
     "Snowma-san",
     "Snow Queen"
+  ],
+  "characters": [
+    {
+      "id": "gambia",
+      "name": "Gambia",
+      "display_name": "Gambia",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/40/Gambia_Anime_Infobox.png/revision/latest/scale-to-width-down/147?cb=20140224215139",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/40/Gambia_Anime_Infobox.png/revision/latest?cb=20140224215139",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gambia",
+      "epithet": "\"The Missionary\"",
+      "affiliation": "Barto Club",
+      "api": "v1/characters/gambia.json"
+    },
+    {
+      "id": "minolva",
+      "name": "Minolva",
+      "display_name": "Minolva",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/minolva.json"
+    },
+    {
+      "id": "snowma-san",
+      "name": "Snowma-san",
+      "display_name": "Snowma-san",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/snowma-san.json"
+    },
+    {
+      "id": "snow-queen",
+      "name": "Snow Queen",
+      "display_name": "Snow Queen",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/snow-queen.json"
+    }
   ]
 }

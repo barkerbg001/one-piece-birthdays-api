@@ -3,7 +3,23 @@
   "label": "August 25th",
   "month": 8,
   "day": 25,
-  "characters": [
+  "names": [
     "Corgi"
+  ],
+  "characters": [
+    {
+      "id": "corgi",
+      "name": "Corgi",
+      "display_name": "Corgi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/66/Corgi_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230917140531",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/66/Corgi_Anime_Infobox.png/revision/latest?cb=20230917140531",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Corgi",
+      "epithet": null,
+      "affiliation": "World Government",
+      "api": "v1/characters/corgi.json"
+    }
   ]
 }

@@ -1,0 +1,62 @@
+{
+  "id": "hiriluk",
+  "name": "Hiriluk",
+  "display_name": "Hiriluk",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-12",
+      "label": "January 12th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c0/Hiriluk_Anime_Infobox.png/revision/latest?cb=20190519083444",
+    "width": 1584,
+    "height": 2936
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c0/Hiriluk_Anime_Infobox.png/revision/latest/scale-to-width-down/216?cb=20190519083444",
+    "width": 216,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Hiriluk",
+    "url": "https://onepiece.fandom.com/wiki/Hiriluk"
+  },
+  "info": {
+    "japanese_name": "Dr. ヒルルク",
+    "romanized_name": "Dokutā Hiruruku",
+    "official_english_name": "Dr. Hiriluk; Dr. Hiruruku (Odex)",
+    "debut": [
+      "Chapter 141",
+      "Episode 85"
+    ],
+    "occupations": [
+      "Doctor",
+      "Thief (former)"
+    ],
+    "origin": "Grand Line (Drum Kingdom)",
+    "residence": [
+      "Drum Island"
+    ],
+    "status": "2",
+    "birthday": "January 12th",
+    "height": "213 cm (7')",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

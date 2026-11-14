@@ -3,7 +3,23 @@
   "label": "August 16th",
   "month": 8,
   "day": 16,
-  "characters": [
+  "names": [
     "Sakazuki (Akainu)"
+  ],
+  "characters": [
+    {
+      "id": "sakazuki",
+      "name": "Sakazuki",
+      "display_name": "Sakazuki (Akainu)",
+      "alias": "Akainu",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Sakazuki_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/239?cb=20220829052511",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Sakazuki_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20220829052511",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sakazuki",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/sakazuki.json"
+    }
   ]
 }

@@ -1,0 +1,67 @@
+{
+  "id": "eustass-kid",
+  "name": "Eustass Kid",
+  "display_name": "Eustass Kid",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-10",
+      "label": "January 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/47/Eustass_Kid_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240505021859",
+    "width": 844,
+    "height": 1004
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/47/Eustass_Kid_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/336?cb=20240505021859",
+    "width": 336,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Eustass Kid",
+    "url": "https://onepiece.fandom.com/wiki/Eustass_Kid"
+  },
+  "info": {
+    "japanese_name": "ユースタス・キッド",
+    "romanized_name": "Yūsutasu Kiddo",
+    "debut": [
+      "Chapter 498",
+      "Episode 392"
+    ],
+    "affiliations": [
+      "Kid Pirates",
+      "Ninja-Pirate-Mink-Samurai Alliance"
+    ],
+    "occupations": [
+      "Pirate Captain"
+    ],
+    "origin": "South Blue (Kutsukku Island)",
+    "epithet": "\"Captain\"",
+    "status": "1",
+    "age": "21 (debut); 23 (after timeskip)",
+    "birthday": "January 10th",
+    "height": "205 cm (6'9\") (debut, after timeskip)",
+    "blood_type": "F",
+    "bounty": "3,000,000,000",
+    "devil_fruit": "Jiki Jiki no Mi",
+    "devil_fruit_english": "Magnet-Magnet Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

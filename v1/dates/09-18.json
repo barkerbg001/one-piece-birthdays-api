@@ -3,8 +3,38 @@
   "label": "September 18th",
   "month": 9,
   "day": 18,
-  "characters": [
+  "names": [
     "Devil Dias",
     "Karasu"
+  ],
+  "characters": [
+    {
+      "id": "devil-dias",
+      "name": "Devil Dias",
+      "display_name": "Devil Dias",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/51/Devil_Dias_Anime_Infobox.png/revision/latest/scale-to-width-down/316?cb=20240830003134",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/51/Devil_Dias_Anime_Infobox.png/revision/latest?cb=20240830003134",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Devil_Dias",
+      "epithet": null,
+      "affiliation": "Acumate Pirates",
+      "api": "v1/characters/devil-dias.json"
+    },
+    {
+      "id": "karasu",
+      "name": "Karasu",
+      "display_name": "Karasu",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Karasu_Anime_Infobox.png/revision/latest/scale-to-width-down/353?cb=20190414113619",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Karasu_Anime_Infobox.png/revision/latest?cb=20190414113619",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Karasu",
+      "epithet": null,
+      "affiliation": "Revolutionary Army (North Army)",
+      "api": "v1/characters/karasu.json"
+    }
   ]
 }

@@ -1,0 +1,67 @@
+{
+  "id": "curly-dadan",
+  "name": "Curly Dadan",
+  "display_name": "Curly Dadan",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-30",
+      "label": "August 30th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Curly_Dadan_Anime_Infobox.png/revision/latest?cb=20160802231340",
+    "width": 673,
+    "height": 570
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Curly_Dadan_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20160802231340",
+    "width": 400,
+    "height": 339
+  },
+  "wiki": {
+    "title": "Curly Dadan",
+    "url": "https://onepiece.fandom.com/wiki/Curly_Dadan"
+  },
+  "info": {
+    "japanese_name": "カーリー・ダダン",
+    "romanized_name": "Kārī Dadan",
+    "debut": [
+      "Chapter 440",
+      "Episode 324 (mentioned)",
+      "Chapter 0",
+      "Episode 0 (seen)"
+    ],
+    "affiliations": [
+      "Dadan Family"
+    ],
+    "occupations": [
+      "Mountain Bandit Boss",
+      "Caretaker of Monkey D. Luffy, Portgas D. Ace, and Sabo (former)"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Mt. Colubo"
+    ],
+    "age": "43 (debut); 53 (pre-timeskip); 55 (after timeskip)",
+    "birthday": "August 30th",
+    "height": "221 cm (7'3\")",
+    "blood_type": "X",
+    "bounty": "7,800,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "boa-sandersonia",
+  "name": "Boa Sandersonia",
+  "display_name": "Boa Sandersonia",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-03",
+      "label": "September 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Boa_Sandersonia_Anime_Infobox.png/revision/latest?cb=20141017161424",
+    "width": 632,
+    "height": 936
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Boa_Sandersonia_Anime_Infobox.png/revision/latest/scale-to-width-down/270?cb=20141017161424",
+    "width": 270,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Boa Sandersonia",
+    "url": "https://onepiece.fandom.com/wiki/Boa_Sandersonia"
+  },
+  "info": {
+    "japanese_name": "ボア・サンダーソニア",
+    "romanized_name": "Boa Sandāsonia",
+    "official_english_name": "Boa Sandersonia",
+    "debut": [
+      "Chapter 516",
+      "Episode 409"
+    ],
+    "affiliations": [
+      "Kuja Pirates (Gorgon Sisters)"
+    ],
+    "occupations": [
+      "Ruler of Amazon Lily",
+      "Slave (former)"
+    ],
+    "origin": "Calm Belt (Amazon Lily)",
+    "residence": [
+      "Amazon Lily",
+      "Mary Geoise (former)"
+    ],
+    "age": "28 (debut); 30 (after timeskip)",
+    "birthday": "September 3rd",
+    "height": "453 cm (14'10\")",
+    "blood_type": "S",
+    "bounty": "40,000,000",
+    "devil_fruit": "Hebi Hebi no Mi, Model: Anaconda",
+    "devil_fruit_english": "Snake-Snake Fruit Anaconda Model (VIZ); Snake-Snake Fruit: Model Anaconda (Funimation)",
+    "devil_fruit_type": "Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

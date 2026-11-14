@@ -1,0 +1,61 @@
+{
+  "id": "jigoro",
+  "name": "Jigoro",
+  "display_name": "Jigoro",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-21",
+      "label": "February 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/08/Jigoro_Anime_Infobox.png/revision/latest?cb=20130905023845",
+    "width": 907,
+    "height": 2076
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/08/Jigoro_Anime_Infobox.png/revision/latest/scale-to-width-down/174?cb=20130905023845",
+    "width": 174,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Jigoro",
+    "url": "https://onepiece.fandom.com/wiki/Jigoro"
+  },
+  "info": {
+    "japanese_name": "ジゴロウ",
+    "romanized_name": "Jigorō",
+    "debut": [
+      "Chapter 452",
+      "Episode 346"
+    ],
+    "affiliations": [
+      "Thriller Bark Pirates"
+    ],
+    "occupations": [
+      "General Zombie"
+    ],
+    "origin": "West Blue",
+    "epithet": "\"Jigoro of the Wind\"",
+    "status": "2",
+    "birthday": "February 21st",
+    "height": "238 cm (7'10\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

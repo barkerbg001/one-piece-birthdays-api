@@ -1,0 +1,76 @@
+{
+  "id": "baby-5",
+  "name": "Baby 5",
+  "display_name": "Baby 5",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-15",
+      "label": "May 15th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Baby_5_Anime_Infobox.png/revision/latest?cb=20221011013323",
+    "width": 861,
+    "height": 1988
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Baby_5_Anime_Infobox.png/revision/latest/scale-to-width-down/173?cb=20221011013323",
+    "width": 173,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Baby 5",
+    "url": "https://onepiece.fandom.com/wiki/Baby_5"
+  },
+  "info": {
+    "japanese_name": "ベビー",
+    "romanized_name": "Bebī Faibu",
+    "official_english_name": "Baby 5; Baby Five (WT100)",
+    "debut": [
+      "Chapter 682",
+      "Episode 608"
+    ],
+    "affiliations": [
+      "Happo Navy",
+      "Chinjao Family",
+      "Straw Hat Grand Fleet",
+      "Donquixote Pirates (defected)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Pirate Officer (former)",
+      "Servant (former)",
+      "Assassin (former)"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Kuen Village (former)",
+      "Spider Miles (former)",
+      "Dressrosa (former)",
+      "Kano Country"
+    ],
+    "age": "24",
+    "birthday": "May 15th",
+    "height": "181 cm (5'11¼\")",
+    "blood_type": "XF",
+    "devil_fruit": "Buki Buki no Mi",
+    "devil_fruit_english": "Arms-Arms Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

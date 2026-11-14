@@ -1,0 +1,55 @@
+{
+  "id": "dagama",
+  "name": "Dagama",
+  "display_name": "Dagama",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-26",
+      "label": "September 26th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Dagama_Anime_Infobox.png/revision/latest?cb=20160221115154",
+    "width": 1438,
+    "height": 1260
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Dagama_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20160221115154",
+    "width": 400,
+    "height": 350
+  },
+  "wiki": {
+    "title": "Dagama",
+    "url": "https://onepiece.fandom.com/wiki/Dagama"
+  },
+  "info": {
+    "japanese_name": "ダガマ",
+    "debut": [
+      "Chapter 704",
+      "Episode 632"
+    ],
+    "affiliations": [
+      "Prodence Kingdom"
+    ],
+    "occupations": [
+      "Tactician"
+    ],
+    "birthday": "September 26th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

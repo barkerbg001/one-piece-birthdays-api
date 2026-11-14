@@ -1,0 +1,68 @@
+{
+  "id": "vander-decken-ix",
+  "name": "Vander Decken IX",
+  "display_name": "Vander Decken IX",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-22",
+      "label": "August 22nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d3/Vander_Decken_IX_Anime_Infobox.png/revision/latest?cb=20130504034305",
+    "width": 857,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d3/Vander_Decken_IX_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130504034305",
+    "width": 400,
+    "height": 336
+  },
+  "wiki": {
+    "title": "Vander Decken IX",
+    "url": "https://onepiece.fandom.com/wiki/Vander_Decken_IX"
+  },
+  "info": {
+    "japanese_name": "バンダー・デッケン九世",
+    "romanized_name": "Bandā Dekken Kyūsei",
+    "debut": [
+      "Chapter 606",
+      "Episode 525"
+    ],
+    "affiliations": [
+      "Flying Pirates",
+      "Ally of the New Fish-Man Pirates (former)"
+    ],
+    "occupations": [
+      "Pirate Captain"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Flying Dutchman (former)"
+    ],
+    "age": "35",
+    "birthday": "August 22nd",
+    "height": "352 cm (11'7\")",
+    "blood_type": "XF",
+    "bounty": "Unknown",
+    "devil_fruit": "Mato Mato no Mi",
+    "devil_fruit_english": "Mark-Mark Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

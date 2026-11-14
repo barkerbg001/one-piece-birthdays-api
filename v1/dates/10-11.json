@@ -3,7 +3,23 @@
   "label": "October 11th",
   "month": 10,
   "day": 11,
-  "characters": [
+  "names": [
     "Inuarashi"
+  ],
+  "characters": [
+    {
+      "id": "inuarashi",
+      "name": "Inuarashi",
+      "display_name": "Inuarashi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Inuarashi_Anime_Infobox.png/revision/latest/scale-to-width-down/253?cb=20250516022630",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Inuarashi_Anime_Infobox.png/revision/latest?cb=20250516022630",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Inuarashi",
+      "epithet": "\"Duke Inuarashi\"; \"Ruler of Day\"",
+      "affiliation": "Mokomo Dukedom",
+      "api": "v1/characters/inuarashi.json"
+    }
   ]
 }

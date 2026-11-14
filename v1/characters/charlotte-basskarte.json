@@ -1,0 +1,68 @@
+{
+  "id": "charlotte-basskarte",
+  "name": "Charlotte Basskarte",
+  "display_name": "Charlotte Basskarte",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-23",
+      "label": "January 23rd"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-nusstorte",
+      "name": "Charlotte Nusstorte"
+    },
+    {
+      "id": "charlotte-dosmarche",
+      "name": "Charlotte Dosmarche"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/84/Charlotte_Basskarte_Anime_Infobox.png/revision/latest?cb=20180924183245",
+    "width": 846,
+    "height": 864
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/84/Charlotte_Basskarte_Anime_Infobox.png/revision/latest/scale-to-width-down/392?cb=20180924183245",
+    "width": 392,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Basskarte",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Basskarte"
+  },
+  "info": {
+    "japanese_name": "シャーロット・バスカルテ",
+    "romanized_name": "Shārotto Basukarute",
+    "official_english_name": "Charlotte Bassquarte (Viz); Charlotte Basskarte (WT100)",
+    "debut": [
+      "Chapter 860",
+      "Episode 830"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "age": "42",
+    "birthday": "January 23rd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

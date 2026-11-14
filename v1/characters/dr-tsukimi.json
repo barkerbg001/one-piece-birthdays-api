@@ -1,0 +1,53 @@
+{
+  "id": "dr-tsukimi",
+  "name": "Dr. Tsukimi",
+  "display_name": "Dr. Tsukimi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-15",
+      "label": "August 15th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Tsukimi_Manga_Infobox.png/revision/latest?cb=20220723204030",
+    "width": 178,
+    "height": 502
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Tsukimi_Manga_Infobox.png/revision/latest/scale-to-width-down/142?cb=20220723204030",
+    "width": 142,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Tsukimi",
+    "url": "https://onepiece.fandom.com/wiki/Tsukimi"
+  },
+  "info": {
+    "japanese_name": "ツキミ博士",
+    "romanized_name": "Tsukimi hakase",
+    "debut": [
+      "Chapter 448 (cover)"
+    ],
+    "occupations": [
+      "Scientist"
+    ],
+    "status": "2",
+    "birthday": "August 15th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

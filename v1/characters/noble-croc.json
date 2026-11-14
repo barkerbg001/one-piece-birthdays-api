@@ -1,0 +1,57 @@
+{
+  "id": "noble-croc",
+  "name": "Noble Croc",
+  "display_name": "Noble Croc",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-17",
+      "label": "October 17th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/25/Noble_Croc_Anime_Infobox.png/revision/latest?cb=20171029193056",
+    "width": 577,
+    "height": 633
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/25/Noble_Croc_Anime_Infobox.png/revision/latest/scale-to-width-down/365?cb=20171029193056",
+    "width": 365,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Noble Croc",
+    "url": "https://onepiece.fandom.com/wiki/Noble_Croc"
+  },
+  "info": {
+    "japanese_name": "貴族ワニ",
+    "romanized_name": "Kizoku Wani",
+    "official_english_name": "Aristocroc",
+    "debut": [
+      "Chapter 831",
+      "Episode 791"
+    ],
+    "affiliations": [
+      "Big Mom Pirates|"
+    ],
+    "residence": [
+      "Whole Cake Island"
+    ],
+    "birthday": "October 17th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

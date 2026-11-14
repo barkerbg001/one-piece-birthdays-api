@@ -3,9 +3,53 @@
   "label": "August 9th",
   "month": 8,
   "day": 9,
-  "characters": [
+  "names": [
     "Hack",
     "Wapol",
     "Vegapunk"
+  ],
+  "characters": [
+    {
+      "id": "hack",
+      "name": "Hack",
+      "display_name": "Hack",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/43/Hack_Anime_Infobox.png/revision/latest/scale-to-width-down/331?cb=20230214000914",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/43/Hack_Anime_Infobox.png/revision/latest?cb=20230214000914",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hack",
+      "epithet": "\"Hundredth Dan Hack\"",
+      "affiliation": "Revolutionary Army",
+      "api": "v1/characters/hack.json"
+    },
+    {
+      "id": "wapol",
+      "name": "Wapol",
+      "display_name": "Wapol",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/33/Wapol_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/358?cb=20190519090502",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/33/Wapol_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20190519090502",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Wapol",
+      "epithet": "\"Tin-Plate\" Wapol",
+      "affiliation": "Evil Black Drum Kingdom",
+      "api": "v1/characters/wapol.json"
+    },
+    {
+      "id": "vegapunk",
+      "name": "Vegapunk",
+      "display_name": "Vegapunk",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Vegapunk_Anime_Infobox.png/revision/latest/scale-to-width-down/177?cb=20240428020834",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Vegapunk_Anime_Infobox.png/revision/latest?cb=20240428020834",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Vegapunk",
+      "epithet": "\"The Man With the Best Brain in the World\"",
+      "affiliation": "MADS (former)",
+      "api": "v1/characters/vegapunk.json"
+    }
   ]
 }

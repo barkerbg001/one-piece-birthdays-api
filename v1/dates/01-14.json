@@ -3,7 +3,23 @@
   "label": "January 14th",
   "month": 1,
   "day": 14,
-  "characters": [
+  "names": [
     "Sweet Pea"
+  ],
+  "characters": [
+    {
+      "id": "sweet-pea",
+      "name": "Sweet Pea",
+      "display_name": "Sweet Pea",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/50/Sweet_Pea_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20140928162454",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/50/Sweet_Pea_Anime_Infobox.png/revision/latest?cb=20140928162454",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sweet_Pea",
+      "epithet": null,
+      "affiliation": "Kuja Pirates",
+      "api": "v1/characters/sweet-pea.json"
+    }
   ]
 }

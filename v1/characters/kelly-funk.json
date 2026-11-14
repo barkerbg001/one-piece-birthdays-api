@@ -1,0 +1,64 @@
+{
+  "id": "kelly-funk",
+  "name": "Kelly Funk",
+  "display_name": "Kelly Funk",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-09",
+      "label": "December 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Kelly_Funk_Anime_Infobox.png/revision/latest?cb=20140331024327",
+    "width": 536,
+    "height": 677
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Kelly_Funk_Anime_Infobox.png/revision/latest/scale-to-width-down/317?cb=20140331024327",
+    "width": 317,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kelly Funk",
+    "url": "https://onepiece.fandom.com/wiki/Kelly_Funk"
+  },
+  "info": {
+    "japanese_name": "ケリー・ファンク",
+    "romanized_name": "Kerī Fanku",
+    "debut": [
+      "Chapter 704",
+      "Episode 633"
+    ],
+    "affiliations": [
+      "Mogaro Kingdom"
+    ],
+    "occupations": [
+      "Assassin"
+    ],
+    "origin": "Grand Line (Mogaro Kingdom)",
+    "age": "36",
+    "birthday": "December 9th",
+    "height": "168 cm (5'6\")",
+    "blood_type": "X",
+    "bounty": "57,000,000",
+    "devil_fruit": "Jake Jake no Mi",
+    "devil_fruit_english": "Jacket-Jacket Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

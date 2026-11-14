@@ -1,0 +1,68 @@
+{
+  "id": "hody-jones",
+  "name": "Hody Jones",
+  "display_name": "Hody Jones",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-14",
+      "label": "April 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f3/Hody_Jones_Anime_Infobox.png/revision/latest?cb=20230609234039",
+    "width": 984,
+    "height": 1047
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f3/Hody_Jones_Anime_Infobox.png/revision/latest/scale-to-width-down/376?cb=20230609234039",
+    "width": 376,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Hody Jones",
+    "url": "https://onepiece.fandom.com/wiki/Hody_Jones"
+  },
+  "info": {
+    "japanese_name": "ホーディ・ジョーンズ",
+    "romanized_name": "Hōdi Jōnzu",
+    "official_english_name": "Hordy Jones (Funimation); Hody Jones (Viz, Special Edited Version)",
+    "debut": [
+      "Chapter 608",
+      "Episode 527"
+    ],
+    "affiliations": [
+      "New Fish-Man Pirates",
+      "Ally of the Flying Pirates (former)",
+      "Ryugu Kingdom (former)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain",
+      "Soldier (former)"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Fish-Man District (former)"
+    ],
+    "age": "30",
+    "birthday": "April 14th",
+    "height": "331 cm (10'10\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

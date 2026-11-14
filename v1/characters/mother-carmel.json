@@ -1,0 +1,76 @@
+{
+  "id": "mother-carmel",
+  "name": "Mother Carmel",
+  "display_name": "Mother Carmel",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-21",
+      "label": "December 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/81/Carmel_Anime_Infobox.png/revision/latest?cb=20230204190309",
+    "width": 350,
+    "height": 790
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/81/Carmel_Anime_Infobox.png/revision/latest/scale-to-width-down/177?cb=20230204190309",
+    "width": 177,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Carmel",
+    "url": "https://onepiece.fandom.com/wiki/Carmel"
+  },
+  "info": {
+    "japanese_name": "カルメル",
+    "romanized_name": "Karumeru",
+    "official_english_name": "Carmel",
+    "debut": [
+      "Chapter 861",
+      "Episode 831"
+    ],
+    "affiliations": [
+      "Underworld",
+      "Sheep's House"
+    ],
+    "occupations": [
+      "Child Trafficker",
+      "Caretaker of Sheep's House"
+    ],
+    "origin": "West Blue",
+    "residence": [
+      "Elbaph (former)",
+      "Whole Cake Island"
+    ],
+    "epithet": "\"Holy Mother\"",
+    "aliases": [
+      "Mother Carmel",
+      "\"Sister Carmel\"",
+      "\"Mountain Witch\""
+    ],
+    "status": "2",
+    "birthday": "December 21st",
+    "height": "185 cm (6'1)",
+    "blood_type": "S",
+    "devil_fruit": "Soru Soru no Mi",
+    "devil_fruit_english": "Soul-Soul Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

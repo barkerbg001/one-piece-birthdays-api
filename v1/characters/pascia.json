@@ -1,0 +1,56 @@
+{
+  "id": "pascia",
+  "name": "Pascia",
+  "display_name": "Pascia",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-21",
+      "label": "February 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/61/Pascia_Anime_Infobox.png/revision/latest?cb=20180128141750",
+    "width": 335,
+    "height": 593
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/61/Pascia_Anime_Infobox.png/revision/latest/scale-to-width-down/226?cb=20180128141750",
+    "width": 226,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Pascia",
+    "url": "https://onepiece.fandom.com/wiki/Pascia"
+  },
+  "info": {
+    "japanese_name": "パシア",
+    "romanized_name": "Pashia",
+    "official_english_name": "Pasia (Viz); Pashia (Funimation)",
+    "debut": [
+      "Chapter 501",
+      "Episode 394"
+    ],
+    "occupations": [
+      "Dancer, Slave (former)"
+    ],
+    "origin": "South Blue",
+    "age": "20 (debut)",
+    "birthday": "February 21st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

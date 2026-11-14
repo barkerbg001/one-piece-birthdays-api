@@ -3,7 +3,23 @@
   "label": "October 28th",
   "month": 10,
   "day": 28,
-  "characters": [
+  "names": [
     "Scarlet"
+  ],
+  "characters": [
+    {
+      "id": "scarlet",
+      "name": "Scarlet",
+      "display_name": "Scarlet",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Scarlet_Anime_Infobox.png/revision/latest/scale-to-width-down/282?cb=20131122152216",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Scarlet_Anime_Infobox.png/revision/latest?cb=20131122152216",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Scarlet",
+      "epithet": "Commander Scarlet",
+      "affiliation": "Golden Lion Pirates",
+      "api": "v1/characters/scarlet.json"
+    }
   ]
 }

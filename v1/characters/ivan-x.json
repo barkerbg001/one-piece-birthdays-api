@@ -1,0 +1,64 @@
+{
+  "id": "ivan-x",
+  "name": "Ivan X",
+  "display_name": "Ivan X",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-08",
+      "label": "January 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/30/Ivan_X_Anime_Infobox.png/revision/latest?cb=20260530185211",
+    "width": 266,
+    "height": 384
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/30/Ivan_X_Anime_Infobox.png/revision/latest?cb=20260530185211",
+    "width": 277,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Ivan X",
+    "url": "https://onepiece.fandom.com/wiki/Ivan_X"
+  },
+  "info": {
+    "japanese_name": "イワンX",
+    "romanized_name": "Iwan X",
+    "official_english_name": "Ivan X",
+    "debut": [
+      "Chapter 180",
+      "Episode 111"
+    ],
+    "affiliations": [
+      "Super Spot-Billed Duck Troops"
+    ],
+    "occupations": [
+      "Royal Transport",
+      "Member of the Super Spot-Billed Duck Troops"
+    ],
+    "origin": "Grand Line (Arabasta Kingdom)",
+    "residence": [
+      "Arabasta Kingdom"
+    ],
+    "age": "16",
+    "height": "228 cm (7'6\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

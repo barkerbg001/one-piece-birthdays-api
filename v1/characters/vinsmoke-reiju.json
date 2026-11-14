@@ -1,0 +1,65 @@
+{
+  "id": "vinsmoke-reiju",
+  "name": "Vinsmoke Reiju",
+  "display_name": "Vinsmoke Reiju",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-30",
+      "label": "November 30th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Vinsmoke_Reiju_Anime_Infobox.png/revision/latest?cb=20231211104854",
+    "width": 1054,
+    "height": 2514
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Vinsmoke_Reiju_Anime_Infobox.png/revision/latest/scale-to-width-down/167?cb=20231211104854",
+    "width": 167,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Vinsmoke Reiju",
+    "url": "https://onepiece.fandom.com/wiki/Vinsmoke_Reiju"
+  },
+  "info": {
+    "japanese_name": "ヴィンスモーク・レイジュ",
+    "romanized_name": "Vinsumōku Reiju",
+    "official_english_name": "Vinsmoke Reiju",
+    "debut": [
+      "Chapter 826",
+      "Episode 784"
+    ],
+    "affiliations": [
+      "Vinsmoke Family",
+      "Germa Kingdom",
+      "Germa 66"
+    ],
+    "occupations": [
+      "Princess",
+      "Mercenary"
+    ],
+    "origin": "North Blue (Germa Kingdom)",
+    "epithet": "\"Poison Pink\"",
+    "age": "24",
+    "birthday": "November 30th",
+    "height": "173 cm (5'8\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

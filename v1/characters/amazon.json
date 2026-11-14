@@ -1,0 +1,65 @@
+{
+  "id": "amazon",
+  "name": "Amazon",
+  "display_name": "Amazon",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-04",
+      "label": "August 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/ca/Amazon_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20260328235818",
+    "width": 266,
+    "height": 416
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/ca/Amazon_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/256?cb=20260328235818",
+    "width": 256,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Amazon",
+    "url": "https://onepiece.fandom.com/wiki/Amazon"
+  },
+  "info": {
+    "japanese_name": "アマゾン",
+    "romanized_name": "Amazon",
+    "official_english_name": "Amazon",
+    "debut": [
+      "Chapter 238",
+      "Episode 153"
+    ],
+    "affiliations": [
+      "Wagomuland"
+    ],
+    "occupations": [
+      "Heaven's Gate Inspector (former)",
+      "Ticket Saleswoman"
+    ],
+    "origin": "Sky Islands (Skypiea)",
+    "residence": [
+      "Skypiea"
+    ],
+    "age": "77 (debut); 79 (after timeskip)",
+    "birthday": "August 4th",
+    "height": "120 cm (3'11\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,8 +3,38 @@
   "label": "May 22nd",
   "month": 5,
   "day": 22,
-  "characters": [
+  "names": [
     "Decalvan Brothers",
     "Lindbergh"
+  ],
+  "characters": [
+    {
+      "id": "decalvan-brothers",
+      "name": "Decalvan Brothers",
+      "display_name": "Decalvan Brothers",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e4/Decalvan_Brothers_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20160130173149",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e4/Decalvan_Brothers_Anime_Infobox.png/revision/latest?cb=20160130173149",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Decalvan_Brothers",
+      "epithet": null,
+      "affiliation": "Subordinates of the Whitebeard Pirates",
+      "api": "v1/characters/decalvan-brothers.json"
+    },
+    {
+      "id": "lindbergh",
+      "name": "Lindbergh",
+      "display_name": "Lindbergh",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Lindbergh_Anime_Infobox.png/revision/latest/scale-to-width-down/394?cb=20190414113604",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Lindbergh_Anime_Infobox.png/revision/latest?cb=20190414113604",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Lindbergh",
+      "epithet": null,
+      "affiliation": "Revolutionary Army (South Army)",
+      "api": "v1/characters/lindbergh.json"
+    }
   ]
 }

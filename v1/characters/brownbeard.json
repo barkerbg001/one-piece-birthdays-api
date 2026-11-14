@@ -1,0 +1,65 @@
+{
+  "id": "brownbeard",
+  "name": "Brownbeard",
+  "display_name": "Brownbeard (Chadros Higelyges)",
+  "alias": "Chadros Higelyges",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-03",
+      "label": "February 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Chadros_Higelyges_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20130429132405",
+    "width": 711,
+    "height": 608
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Chadros_Higelyges_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130429132405",
+    "width": 400,
+    "height": 342
+  },
+  "wiki": {
+    "title": "Chadros Higelyges",
+    "url": "https://onepiece.fandom.com/wiki/Chadros_Higelyges"
+  },
+  "info": {
+    "japanese_name": "チャドロス・ヒゲリゲス",
+    "romanized_name": "Chadorosu Higerigesu",
+    "official_english_name": "Browndros Beardriguez (WT100); Chadros Higelyges (OPCG)",
+    "debut": [
+      "Chapter 581",
+      "Episode 490"
+    ],
+    "affiliations": [
+      "Caesar Clown (defected), Centaur Patrol Unit (defected)",
+      "Brownbeard Pirates (disbanded)"
+    ],
+    "occupations": [
+      "Leader of the Centaur Patrol Unit (former)",
+      "Pirate Captain (former)"
+    ],
+    "origin": "Grand Line",
+    "epithet": "\"Brownbeard\"; \"Boss\" (as Centaur Patrol Unit Leader)",
+    "age": "43 (debut); 45 (after timeskip)",
+    "birthday": "February 3rd",
+    "height": "691 cm (22'8½\")",
+    "blood_type": "S",
+    "bounty": "80,060,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

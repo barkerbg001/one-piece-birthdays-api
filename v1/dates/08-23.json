@@ -3,7 +3,23 @@
   "label": "August 23rd",
   "month": 8,
   "day": 23,
-  "characters": [
+  "names": [
     "Pell"
+  ],
+  "characters": [
+    {
+      "id": "pell",
+      "name": "Pell",
+      "display_name": "Pell",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/be/Pell_Anime_Infobox.png/revision/latest/scale-to-width-down/335?cb=20240903112506",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/be/Pell_Anime_Infobox.png/revision/latest?cb=20240903112506",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Pell",
+      "epithet": "\"Pell the Falcon\"",
+      "affiliation": "Arabasta Kingdom",
+      "api": "v1/characters/pell.json"
+    }
   ]
 }

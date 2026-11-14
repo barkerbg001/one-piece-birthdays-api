@@ -1,0 +1,60 @@
+{
+  "id": "shandia-chief",
+  "name": "Shandia Chief",
+  "display_name": "Shandia Chief",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-04",
+      "label": "October 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/96/Shandia_Chief_Anime_Infobox.png/revision/latest?cb=20240527162715",
+    "width": 456,
+    "height": 528
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/96/Shandia_Chief_Anime_Infobox.png/revision/latest/scale-to-width-down/345?cb=20240527162715",
+    "width": 345,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Shandia Chief",
+    "url": "https://onepiece.fandom.com/wiki/Shandia_Chief"
+  },
+  "info": {
+    "japanese_name": "シャンディア酋長",
+    "romanized_name": "Shandia Shūchō",
+    "debut": [
+      "Chapter 275",
+      "Episode 168"
+    ],
+    "affiliations": [
+      "Shandia"
+    ],
+    "occupations": [
+      "Chief of Shandia"
+    ],
+    "origin": "Sky Islands (Skypiea)",
+    "age": "63 (debut); 65 (after timeskip)",
+    "birthday": "October 4th",
+    "height": "179 cm (5'10\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "lucky-roo",
+  "name": "Lucky Roo",
+  "display_name": "Lucky Roo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-06",
+      "label": "July 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/59/Lucky_Roux_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20220613165554",
+    "width": 948,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/59/Lucky_Roux_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/351?cb=20220613165554",
+    "width": 351,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Lucky Roux",
+    "url": "https://onepiece.fandom.com/wiki/Lucky_Roux"
+  },
+  "info": {
+    "japanese_name": "ラッキー・ルウ",
+    "romanized_name": "Rakkī Rū",
+    "official_english_name": "Lucky Roux; Lucky Roo (WT100)",
+    "debut": [
+      "Chapter 1",
+      "Episode 4"
+    ],
+    "affiliations": [
+      "Red Hair Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Senior Officer",
+      "Cook"
+    ],
+    "origin": "South Blue",
+    "age": "23 (debut); 33 (pre-timeskip); 35 (after timeskip)",
+    "birthday": "July 6th",
+    "height": "241 cm (7'11\")",
+    "blood_type": "F",
+    "bounty": "Unknown"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

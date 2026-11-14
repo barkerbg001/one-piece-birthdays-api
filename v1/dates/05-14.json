@@ -3,7 +3,23 @@
   "label": "May 14th",
   "month": 5,
   "day": 14,
-  "characters": [
+  "names": [
     "Niwatori (Tamago)"
+  ],
+  "characters": [
+    {
+      "id": "niwatori",
+      "name": "Niwatori",
+      "display_name": "Niwatori (Tamago)",
+      "alias": "Tamago",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/49/Tamago_Anime_Infobox.png/revision/latest/scale-to-width-down/258?cb=20171126235414",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/49/Tamago_Anime_Infobox.png/revision/latest?cb=20171126235414",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Tamago",
+      "epithet": "\"Baron Tamago\"",
+      "affiliation": "Big Mom Pirates",
+      "api": "v1/characters/niwatori.json"
+    }
   ]
 }

@@ -1,0 +1,70 @@
+{
+  "id": "bakkin",
+  "name": "Bakkin",
+  "display_name": "Bakkin",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-12",
+      "label": "April 12th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c6/Buckingham_Stussy_Anime_Infobox.png/revision/latest?cb=20190623142809",
+    "width": 672,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c6/Buckingham_Stussy_Anime_Infobox.png/revision/latest/scale-to-width-down/373?cb=20190623142809",
+    "width": 373,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Buckingham Stussy",
+    "url": "https://onepiece.fandom.com/wiki/Buckingham_Stussy"
+  },
+  "info": {
+    "japanese_name": "ミス・バッキンガム・ステューシー",
+    "romanized_name": "Misu Bakkingamu Sutyūshī",
+    "official_english_name": "Buckingham Stussy",
+    "debut": [
+      "Chapter 802",
+      "Episode 752"
+    ],
+    "affiliations": [
+      "Rocks Pirates (former)",
+      "MADS (former)"
+    ],
+    "occupations": [
+      "Pirate (former)",
+      "Scientist (former, self-proclaimed)",
+      "Science Robber"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Hachinosu (former)"
+    ],
+    "aliases": [
+      "Miss Buckin"
+    ],
+    "age": "76",
+    "birthday": "April 12th",
+    "height": "68 cm (2'3\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

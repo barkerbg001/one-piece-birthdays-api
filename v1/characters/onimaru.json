@@ -1,0 +1,72 @@
+{
+  "id": "onimaru",
+  "name": "Onimaru",
+  "display_name": "Onimaru",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-19",
+      "label": "November 19th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b5/Onimaru_Anime_Infobox.png/revision/latest?cb=20201217200806",
+    "width": 1920,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b5/Onimaru_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20201217200806",
+    "width": 400,
+    "height": 225
+  },
+  "wiki": {
+    "title": "Onimaru",
+    "url": "https://onepiece.fandom.com/wiki/Onimaru"
+  },
+  "info": {
+    "japanese_name": "オニ丸",
+    "romanized_name": "Onimaru",
+    "debut": [
+      "Chapter 936",
+      "Episode 932"
+    ],
+    "affiliations": [
+      "Shimotsuki Family (Shimotsuki Ushimaru)",
+      "Kouzuki Family (Kawamatsu)"
+    ],
+    "occupations": [
+      "Warrior Monk",
+      "Highway Robber",
+      "Pet (former)"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Wano Country (Ringo)"
+    ],
+    "epithet": "\"Gyukimaru on Oihagi Bridge\"",
+    "aliases": [
+      "Gyukimaru"
+    ],
+    "age": "69",
+    "birthday": "November 19th",
+    "height": "428 cm (14'1\") (Human form)",
+    "blood_type": "X",
+    "devil_fruit": "Hito Hito no Mi, Model: Onyudo",
+    "devil_fruit_type": "Mythical Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

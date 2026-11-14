@@ -3,9 +3,57 @@
   "label": "October 29th",
   "month": 10,
   "day": 29,
-  "characters": [
+  "names": [
     "Charlotte Snack",
     "Charlotte Bavarois",
     "Turco"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-snack",
+      "name": "Charlotte Snack",
+      "display_name": "Charlotte Snack",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-bavarois"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/18/Charlotte_Snack_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20190303110418",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/18/Charlotte_Snack_Anime_Infobox.png/revision/latest?cb=20190303110418",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Snack",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-snack.json"
+    },
+    {
+      "id": "charlotte-bavarois",
+      "name": "Charlotte Bavarois",
+      "display_name": "Charlotte Bavarois",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-snack"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Charlotte_Bavarois_Anime_Infobox.png/revision/latest/scale-to-width-down/242?cb=20181113174718",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Charlotte_Bavarois_Anime_Infobox.png/revision/latest?cb=20181113174718",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Bavarois",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-bavarois.json"
+    },
+    {
+      "id": "turco",
+      "name": "Turco",
+      "display_name": "Turco",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/84/Turco_Anime_Infobox.png/revision/latest/scale-to-width-down/308?cb=20130425020753",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/84/Turco_Anime_Infobox.png/revision/latest?cb=20130425020753",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Turco",
+      "epithet": null,
+      "affiliation": "Fake Straw Hat Crew",
+      "api": "v1/characters/turco.json"
+    }
   ]
 }

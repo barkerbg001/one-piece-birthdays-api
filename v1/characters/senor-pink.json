@@ -1,0 +1,70 @@
+{
+  "id": "senor-pink",
+  "name": "Senor Pink",
+  "display_name": "Senor Pink",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-12",
+      "label": "June 12th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/48/Senor_Pink_Anime_Infobox.png/revision/latest?cb=20241014120619",
+    "width": 916,
+    "height": 1066
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/48/Senor_Pink_Anime_Infobox.png/revision/latest/scale-to-width-down/344?cb=20241014120619",
+    "width": 344,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Senor Pink",
+    "url": "https://onepiece.fandom.com/wiki/Senor_Pink"
+  },
+  "info": {
+    "japanese_name": "セニョール・ピンク",
+    "romanized_name": "Senyōru Pinku",
+    "official_english_name": "Señor Pink",
+    "debut": [
+      "Chapter 702",
+      "Episode 632"
+    ],
+    "affiliations": [
+      "Donquixote Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Assassin"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Spider Miles (former)",
+      "Dressrosa (former)"
+    ],
+    "age": "46",
+    "birthday": "June 12th",
+    "height": "244 cm (8'0\")",
+    "blood_type": "X",
+    "bounty": "58,000,000",
+    "devil_fruit": "Sui Sui no Mi",
+    "devil_fruit_english": "Swim-Swim Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

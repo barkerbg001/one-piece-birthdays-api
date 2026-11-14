@@ -3,7 +3,23 @@
   "label": "December 31st",
   "month": 12,
   "day": 31,
-  "characters": [
+  "names": [
     "Gol D. Roger"
+  ],
+  "characters": [
+    {
+      "id": "gol-d-roger",
+      "name": "Gol D. Roger",
+      "display_name": "Gol D. Roger",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/24/Gol_D._Roger_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230612100153",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Gol_D._Roger_Anime_Infobox.png/revision/latest?cb=20230612100153",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gol_D._Roger",
+      "epithet": "Pirate King",
+      "affiliation": "Roger Pirates",
+      "api": "v1/characters/gol-d-roger.json"
+    }
   ]
 }

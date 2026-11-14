@@ -3,8 +3,38 @@
   "label": "August 11th",
   "month": 8,
   "day": 11,
-  "characters": [
+  "names": [
     "Duval",
     "Dellinger"
+  ],
+  "characters": [
+    {
+      "id": "duval",
+      "name": "Duval",
+      "display_name": "Duval",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/86/Duval_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230707025409",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/86/Duval_Anime_Infobox.png/revision/latest?cb=20230707025409",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Duval",
+      "epithet": "\"Iron Mask Duval\"",
+      "affiliation": "Rosy Life Riders",
+      "api": "v1/characters/duval.json"
+    },
+    {
+      "id": "dellinger",
+      "name": "Dellinger",
+      "display_name": "Dellinger",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8b/Dellinger_Anime_Infobox.png/revision/latest/scale-to-width-down/149?cb=20150415222442",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8b/Dellinger_Anime_Infobox.png/revision/latest?cb=20150415222442",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Dellinger",
+      "epithet": null,
+      "affiliation": "Donquixote Pirates",
+      "api": "v1/characters/dellinger.json"
+    }
   ]
 }

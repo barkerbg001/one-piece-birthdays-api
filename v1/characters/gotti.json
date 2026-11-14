@@ -1,0 +1,60 @@
+{
+  "id": "gotti",
+  "name": "Gotti",
+  "display_name": "Gotti",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-21",
+      "label": "May 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Gotti_Anime_Infobox.png/revision/latest?cb=20230123020057",
+    "width": 1894,
+    "height": 2669
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Gotti_Anime_Infobox.png/revision/latest/scale-to-width-down/284?cb=20230123020057",
+    "width": 284,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Gotti",
+    "url": "https://onepiece.fandom.com/wiki/Gotti"
+  },
+  "info": {
+    "japanese_name": "ゴッティ",
+    "debut": [
+      "Chapter 825",
+      "Episode 783"
+    ],
+    "affiliations": [
+      "Fire Tank Pirates"
+    ],
+    "occupations": [
+      "Pirate, Assassin, Combatant"
+    ],
+    "origin": "West Blue",
+    "age": "33",
+    "birthday": "May 21st",
+    "height": "375 cm (12'4\")",
+    "blood_type": "S",
+    "bounty": "90,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

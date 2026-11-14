@@ -3,7 +3,23 @@
   "label": "May 18th",
   "month": 5,
   "day": 18,
-  "characters": [
+  "names": [
     "Gorilla"
+  ],
+  "characters": [
+    {
+      "id": "gorilla",
+      "name": "Gorilla",
+      "display_name": "Gorilla",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/16/Gorilla_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130428173051",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/16/Gorilla_Anime_Infobox.png/revision/latest?cb=20130428173051",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gorilla",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/gorilla.json"
+    }
   ]
 }

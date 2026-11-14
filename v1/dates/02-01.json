@@ -3,8 +3,38 @@
   "label": "February 1st",
   "month": 2,
   "day": 1,
-  "characters": [
+  "names": [
     "Doma",
     "Brogy"
+  ],
+  "characters": [
+    {
+      "id": "doma",
+      "name": "Doma",
+      "display_name": "Doma",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Doma_Anime_Infobox.png/revision/latest/scale-to-width-down/185?cb=20221202185948",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Doma_Anime_Infobox.png/revision/latest?cb=20221202185948",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Doma",
+      "epithet": "\"Bohemian Knight\"",
+      "affiliation": "Subordinate of the Whitebeard Pirates",
+      "api": "v1/characters/doma.json"
+    },
+    {
+      "id": "brogy",
+      "name": "Brogy",
+      "display_name": "Brogy",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Brogy_Anime_Infobox.png/revision/latest/scale-to-width-down/376?cb=20250824161255",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Brogy_Anime_Infobox.png/revision/latest?cb=20250824161255",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Brogy",
+      "epithet": "Brogy the Red Ogre",
+      "affiliation": "Giant Warrior Pirates",
+      "api": "v1/characters/brogy.json"
+    }
   ]
 }

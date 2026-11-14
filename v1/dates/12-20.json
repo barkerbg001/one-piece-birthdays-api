@@ -3,9 +3,57 @@
   "label": "December 20th",
   "month": 12,
   "day": 20,
-  "characters": [
+  "names": [
     "Charlotte Mozart",
     "Charlotte Marnier",
     "Louis Arnote"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-mozart",
+      "name": "Charlotte Mozart",
+      "display_name": "Charlotte Mozart",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-marnier"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7f/Charlotte_Mozart_Anime_Infobox.png/revision/latest/scale-to-width-down/244?cb=20181020133405",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7f/Charlotte_Mozart_Anime_Infobox.png/revision/latest?cb=20181020133405",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Mozart",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-mozart.json"
+    },
+    {
+      "id": "charlotte-marnier",
+      "name": "Charlotte Marnier",
+      "display_name": "Charlotte Marnier",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-mozart"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/00/Charlotte_Marnier_Anime_Infobox.png/revision/latest/scale-to-width-down/286?cb=20220128065829",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/00/Charlotte_Marnier_Anime_Infobox.png/revision/latest?cb=20220128065829",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Marnier",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-marnier.json"
+    },
+    {
+      "id": "louis-arnote",
+      "name": "Louis Arnote",
+      "display_name": "Louis Arnote",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/400?cb=20210110135101",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest?cb=20210110135101",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Louis_Arnote",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/louis-arnote.json"
+    }
   ]
 }

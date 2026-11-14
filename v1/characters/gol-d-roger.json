@@ -1,0 +1,67 @@
+{
+  "id": "gol-d-roger",
+  "name": "Gol D. Roger",
+  "display_name": "Gol D. Roger",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-31",
+      "label": "December 31st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/24/Gol_D._Roger_Anime_Infobox.png/revision/latest?cb=20230612100153",
+    "width": 1188,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/24/Gol_D._Roger_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230612100153",
+    "width": 400,
+    "height": 364
+  },
+  "wiki": {
+    "title": "Gol D. Roger",
+    "url": "https://onepiece.fandom.com/wiki/Gol_D._Roger"
+  },
+  "info": {
+    "japanese_name": "ゴール・D・ロジャー",
+    "romanized_name": "Gōru Dī Rojā",
+    "debut": [
+      "Chapter 1",
+      "We Are!",
+      "Episode 48"
+    ],
+    "affiliations": [
+      "Roger Pirates",
+      "Clan of D."
+    ],
+    "occupations": [
+      "Pirate Captain"
+    ],
+    "origin": "East Blue (Loguetown)",
+    "epithet": "Pirate King",
+    "aliases": [
+      "Gold Roger"
+    ],
+    "status": "2",
+    "birthday": "December 31st",
+    "height": "274 cm (9'0\")",
+    "blood_type": "S",
+    "bounty": "5,564,800,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

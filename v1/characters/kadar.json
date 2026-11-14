@@ -1,0 +1,60 @@
+{
+  "id": "kadar",
+  "name": "Kadar",
+  "display_name": "Kadar",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-29",
+      "label": "July 29th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/49/Kadar_Anime_Infobox.png/revision/latest?cb=20250119021837",
+    "width": 827,
+    "height": 1047
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/49/Kadar_Anime_Infobox.png/revision/latest/scale-to-width-down/316?cb=20250119021837",
+    "width": 316,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kadar",
+    "url": "https://onepiece.fandom.com/wiki/Kadar"
+  },
+  "info": {
+    "japanese_name": "カダル",
+    "romanized_name": "Kadaru",
+    "debut": [
+      "Chapter 622",
+      "Episode 541"
+    ],
+    "affiliations": [
+      "Marines, G-2"
+    ],
+    "occupations": [
+      "Marine Rear Admiral"
+    ],
+    "residence": [
+      "G-2"
+    ],
+    "status": "1",
+    "birthday": "July 29th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

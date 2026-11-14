@@ -1,0 +1,68 @@
+{
+  "id": "zeus",
+  "name": "Zeus",
+  "display_name": "Zeus",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-26",
+      "label": "June 26th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9b/Zeus_Anime_Infobox.png/revision/latest?cb=20260614161847",
+    "width": 1041,
+    "height": 807
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9b/Zeus_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20260614161847",
+    "width": 400,
+    "height": 310
+  },
+  "wiki": {
+    "title": "Zeus",
+    "url": "https://onepiece.fandom.com/wiki/Zeus"
+  },
+  "info": {
+    "japanese_name": "ゼウス",
+    "romanized_name": "Zeusu",
+    "debut": [
+      "Chapter 827",
+      "Episode 786"
+    ],
+    "affiliations": [
+      "Straw Hat Pirates",
+      "Big Mom Pirates (defected)",
+      "Rocks Pirates (former)"
+    ],
+    "occupations": [
+      "Partner",
+      "Living Weapon",
+      "Servant (former)"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Sorcery Clima-Tact",
+      "Totto Land (former)"
+    ],
+    "epithet": "\"Zeus the Thundercloud\"",
+    "age": "At least 44",
+    "birthday": "June 26th",
+    "height": "At least 232 cm (7'7\") (as a Cloud)"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

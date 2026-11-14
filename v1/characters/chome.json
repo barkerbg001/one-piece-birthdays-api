@@ -1,0 +1,66 @@
+{
+  "id": "chome",
+  "name": "Chome",
+  "display_name": "Chome",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-24",
+      "label": "April 24th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Chome_Anime_Infobox.png/revision/latest?cb=20200323071143",
+    "width": 526,
+    "height": 733
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Chome_Anime_Infobox.png/revision/latest/scale-to-width-down/287?cb=20200323071143",
+    "width": 287,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Chome",
+    "url": "https://onepiece.fandom.com/wiki/Chome"
+  },
+  "info": {
+    "japanese_name": "ちょめ",
+    "official_english_name": "Chome",
+    "debut": [
+      "Chapter 931",
+      "Episode 925"
+    ],
+    "affiliations": [
+      "Beasts Pirates",
+      "Orochi Oniwabanshu (former)",
+      "Kurozumi Family (former)"
+    ],
+    "occupations": [
+      "Ninja",
+      "Pirate"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Flower Capital, Wano Country"
+    ],
+    "age": "14",
+    "birthday": "April 24th",
+    "height": "150 cm (4'11\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

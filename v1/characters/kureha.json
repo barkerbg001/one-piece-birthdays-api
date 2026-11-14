@@ -1,0 +1,70 @@
+{
+  "id": "kureha",
+  "name": "Kureha",
+  "display_name": "Kureha",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-08",
+      "label": "September 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Kureha_Anime_Infobox.png/revision/latest?cb=20150819163116",
+    "width": 758,
+    "height": 1524
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Kureha_Anime_Infobox.png/revision/latest/scale-to-width-down/199?cb=20150819163116",
+    "width": 199,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kureha",
+    "url": "https://onepiece.fandom.com/wiki/Kureha"
+  },
+  "info": {
+    "japanese_name": "くれは",
+    "romanized_name": "Kureha",
+    "official_english_name": "Kureha",
+    "debut": [
+      "Chapter 134",
+      "Episode 80"
+    ],
+    "affiliations": [
+      "Sakura Kingdom",
+      "Isshi-100"
+    ],
+    "occupations": [
+      "Head-Doctor of the Sakura Kingdom",
+      "Leader of the Isshi-100"
+    ],
+    "origin": "Grand Line (Drum Kingdom)",
+    "residence": [
+      "Drum Island"
+    ],
+    "epithet": "\"Witch\"; \"Master of Doctors\"",
+    "aliases": [
+      "\"Doctorine\""
+    ],
+    "age": "139 (debut); 141 (after timeskip)",
+    "birthday": "September 8th",
+    "height": "188 cm (6'2\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

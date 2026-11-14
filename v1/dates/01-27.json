@@ -3,8 +3,42 @@
   "label": "January 27th",
   "month": 1,
   "day": 27,
-  "characters": [
+  "names": [
     "Charlotte Chiffon",
     "Charlotte Lola"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-chiffon",
+      "name": "Charlotte Chiffon",
+      "display_name": "Charlotte Chiffon",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-lola"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Charlotte_Chiffon_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20170409062554",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Charlotte_Chiffon_Anime_Infobox.png/revision/latest?cb=20170409062554",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Chiffon",
+      "epithet": null,
+      "affiliation": "Fire Tank Pirates",
+      "api": "v1/characters/charlotte-chiffon.json"
+    },
+    {
+      "id": "charlotte-lola",
+      "name": "Charlotte Lola",
+      "display_name": "Charlotte Lola",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-chiffon"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Charlotte_Lola_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/278?cb=20201012081800",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Charlotte_Lola_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20201012081800",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Lola",
+      "epithet": "\"Marriage Proposal Lola\"",
+      "affiliation": "Rolling Pirates",
+      "api": "v1/characters/charlotte-lola.json"
+    }
   ]
 }

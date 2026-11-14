@@ -3,7 +3,23 @@
   "label": "July 31st",
   "month": 7,
   "day": 31,
-  "characters": [
+  "names": [
     "Sarie Nantokanette"
+  ],
+  "characters": [
+    {
+      "id": "sarie-nantokanette",
+      "name": "Sarie Nantokanette",
+      "display_name": "Sarie Nantokanette",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/58/Sarie_Nantokanette_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20190517173750",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/58/Sarie_Nantokanette_Anime_Infobox.png/revision/latest?cb=20190517173750",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sarie_Nantokanette",
+      "epithet": null,
+      "affiliation": "Goa Kingdom",
+      "api": "v1/characters/sarie-nantokanette.json"
+    }
   ]
 }

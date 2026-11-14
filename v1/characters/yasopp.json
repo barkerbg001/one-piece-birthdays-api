@@ -1,0 +1,67 @@
+{
+  "id": "yasopp",
+  "name": "Yasopp",
+  "display_name": "Yasopp",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-02",
+      "label": "August 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/15/Yasopp_Anime_Infobox.png/revision/latest?cb=20240623091749",
+    "width": 775,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/15/Yasopp_Anime_Infobox.png/revision/latest/scale-to-width-down/287?cb=20240623091749",
+    "width": 287,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Yasopp",
+    "url": "https://onepiece.fandom.com/wiki/Yasopp"
+  },
+  "info": {
+    "japanese_name": "ヤソップ",
+    "romanized_name": "Yasoppu",
+    "official_english_name": "Yasopp",
+    "debut": [
+      "Chapter 1",
+      "Episode 4"
+    ],
+    "affiliations": [
+      "Red Hair Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Senior Officer",
+      "Sniper"
+    ],
+    "origin": "East Blue (Gecko Islands)",
+    "residence": [
+      "Syrup Village (former)"
+    ],
+    "age": "35 (debut); 45 (pre-timeskip); 47 (after timeskip)",
+    "birthday": "August 2nd",
+    "height": "183 cm (6'0\")",
+    "blood_type": "S",
+    "bounty": "Unknown"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

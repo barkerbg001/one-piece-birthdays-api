@@ -1,0 +1,65 @@
+{
+  "id": "rebecca",
+  "name": "Rebecca",
+  "display_name": "Rebecca",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-04",
+      "label": "August 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f6/Rebecca_Anime_Infobox.png/revision/latest?cb=20190519094508",
+    "width": 1543,
+    "height": 3211
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f6/Rebecca_Anime_Infobox.png/revision/latest/scale-to-width-down/192?cb=20190519094508",
+    "width": 192,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Rebecca",
+    "url": "https://onepiece.fandom.com/wiki/Rebecca"
+  },
+  "info": {
+    "japanese_name": "レベッカ",
+    "romanized_name": "Rebekka",
+    "debut": [
+      "Chapter 704",
+      "Episode 633"
+    ],
+    "affiliations": [
+      "Dressrosa",
+      "Corrida Colosseum"
+    ],
+    "occupations": [
+      "Lady-in-waiting, Gladiator (former), Princess Of Dressrosa (former)"
+    ],
+    "origin": "Grand Line (Dressrosa)",
+    "residence": [
+      "Dressrosa"
+    ],
+    "epithet": "\"The Undefeated Woman\"; \"The Phantom Princess\"",
+    "age": "16",
+    "birthday": "August 4th",
+    "height": "171 cm (5'7\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

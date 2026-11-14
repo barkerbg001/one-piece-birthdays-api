@@ -1,0 +1,67 @@
+{
+  "id": "orochi",
+  "name": "Orochi",
+  "display_name": "Orochi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-23",
+      "label": "September 23rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/49/Kurozumi_Orochi_Anime_Infobox.png/revision/latest?cb=20230911061118",
+    "width": 1785,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/49/Kurozumi_Orochi_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230911061118",
+    "width": 400,
+    "height": 242
+  },
+  "wiki": {
+    "title": "Kurozumi Orochi",
+    "url": "https://onepiece.fandom.com/wiki/Kurozumi_Orochi"
+  },
+  "info": {
+    "japanese_name": "黒炭オロチ",
+    "debut": [
+      "Chapter 927",
+      "Episode 921"
+    ],
+    "affiliations": [
+      "Wano Country (Kurozumi Family)",
+      "Beasts Pirates (former)"
+    ],
+    "occupations": [
+      "Shogun of Wano Country (former)"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Wano Country (Flower Capital",
+      "Orochi Castle)"
+    ],
+    "status": "2",
+    "birthday": "September 23rd",
+    "height": "350 cm (11'6\")",
+    "blood_type": "XF",
+    "devil_fruit": "Hebi Hebi no Mi, Model: Yamata no Orochi",
+    "devil_fruit_english": "Snake-Snake Fruit, Model: Eight Headed Serpent",
+    "devil_fruit_type": "Mythical Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

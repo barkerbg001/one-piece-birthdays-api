@@ -1,0 +1,59 @@
+{
+  "id": "aisa",
+  "name": "Aisa",
+  "display_name": "Aisa",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-03",
+      "label": "January 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Aisa_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251207162352",
+    "width": 742,
+    "height": 1068
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Aisa_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/278?cb=20251207162352",
+    "width": 278,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Aisa",
+    "url": "https://onepiece.fandom.com/wiki/Aisa"
+  },
+  "info": {
+    "japanese_name": "アイサ",
+    "romanized_name": "Aisa",
+    "official_english_name": "Aisa",
+    "debut": [
+      "Chapter 249",
+      "Episode 161"
+    ],
+    "affiliations": [
+      "Shandia",
+      "Wagomuland"
+    ],
+    "origin": "Sky Islands (Skypiea)",
+    "age": "9 (debut); 11 (after timeskip)",
+    "birthday": "January 3rd",
+    "height": "140 cm (4'7\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

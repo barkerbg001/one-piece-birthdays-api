@@ -1,0 +1,58 @@
+{
+  "id": "daigin",
+  "name": "Daigin",
+  "display_name": "Daigin",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-24",
+      "label": "August 24th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Daigin_Anime_Infobox.png/revision/latest?cb=20240826000120",
+    "width": 1222,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Daigin_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240826000120",
+    "width": 400,
+    "height": 354
+  },
+  "wiki": {
+    "title": "Daigin",
+    "url": "https://onepiece.fandom.com/wiki/Daigin"
+  },
+  "info": {
+    "japanese_name": "ダイギン",
+    "official_english_name": "Daigin",
+    "debut": [
+      "Chapter 531",
+      "Episode 432"
+    ],
+    "affiliations": [
+      "Marines"
+    ],
+    "occupations": [
+      "Commodore"
+    ],
+    "origin": "West Blue",
+    "birthday": "August 24th",
+    "bounty": "At least ★"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

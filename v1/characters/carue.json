@@ -1,0 +1,67 @@
+{
+  "id": "carue",
+  "name": "Carue",
+  "display_name": "Carue",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-08",
+      "label": "November 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Karoo_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240629192134",
+    "width": 795,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Karoo_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/294?cb=20240629192134",
+    "width": 294,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Karoo",
+    "url": "https://onepiece.fandom.com/wiki/Karoo"
+  },
+  "info": {
+    "japanese_name": "カルー",
+    "romanized_name": "Karū",
+    "official_english_name": "Karoo (VIZ, 4Kids, Funimation); Kalu (Odex)",
+    "debut": [
+      "Chapter 109",
+      "Episode 65"
+    ],
+    "affiliations": [
+      "Arabasta Kingdom Guard Squad (Super Spot-Billed Duck Troops), Straw Hat Pirates (former), Baroque Works (former)"
+    ],
+    "occupations": [
+      "Pet",
+      "Royal Transport",
+      "Captain of the Super Spot-Billed Duck Troops",
+      "Pirate (former)"
+    ],
+    "origin": "Grand Line (Arabasta Kingdom)",
+    "residence": [
+      "Arabasta Kingdom (Alubarna)"
+    ],
+    "age": "14 (debut); 16 (after timeskip)",
+    "birthday": "November 8th",
+    "height": "150 cm (4'11\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

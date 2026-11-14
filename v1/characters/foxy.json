@@ -1,0 +1,65 @@
+{
+  "id": "foxy",
+  "name": "Foxy",
+  "display_name": "Foxy",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-04",
+      "label": "April 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7d/Foxy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251102162706",
+    "width": 1092,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7d/Foxy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20251102162706",
+    "width": 400,
+    "height": 396
+  },
+  "wiki": {
+    "title": "Foxy",
+    "url": "https://onepiece.fandom.com/wiki/Foxy"
+  },
+  "info": {
+    "japanese_name": "フォクシー",
+    "romanized_name": "Fokushī",
+    "debut": [
+      "Chapter 305",
+      "Episode 207"
+    ],
+    "affiliations": [
+      "Foxy Pirates"
+    ],
+    "occupations": [
+      "Pirate Captain"
+    ],
+    "origin": "South Blue",
+    "epithet": "\"Silver Fox\"",
+    "age": "36 (debut); 38 (after timeskip)",
+    "birthday": "April 4th",
+    "height": "180 cm (5'11\")",
+    "blood_type": "S",
+    "bounty": "24,000,000",
+    "devil_fruit": "Noro Noro no Mi",
+    "devil_fruit_english": "Slow-Slow Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

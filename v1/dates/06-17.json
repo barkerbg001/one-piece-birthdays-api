@@ -3,9 +3,53 @@
   "label": "June 17th",
   "month": 6,
   "day": 17,
-  "characters": [
+  "names": [
     "Toto",
     "Genzo",
     "Tamachibi"
+  ],
+  "characters": [
+    {
+      "id": "toto",
+      "name": "Toto",
+      "display_name": "Toto",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/aa/Toto_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/358?cb=20171228110457",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/aa/Toto_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20171228110457",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Toto",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/toto.json"
+    },
+    {
+      "id": "genzo",
+      "name": "Genzo",
+      "display_name": "Genzo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fe/Genzo_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/287?cb=20251109161031",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/fe/Genzo_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251109161031",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Genzo",
+      "epithet": null,
+      "affiliation": "Cocoyasi Village",
+      "api": "v1/characters/genzo.json"
+    },
+    {
+      "id": "tamachibi",
+      "name": "Tamachibi",
+      "display_name": "Tamachibi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Tamachibi_Anime_Infobox.png/revision/latest/scale-to-width-down/358?cb=20130117055141",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Tamachibi_Anime_Infobox.png/revision/latest?cb=20130117055141",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Tamachibi",
+      "epithet": null,
+      "affiliation": "Stool Restaurant",
+      "api": "v1/characters/tamachibi.json"
+    }
   ]
 }

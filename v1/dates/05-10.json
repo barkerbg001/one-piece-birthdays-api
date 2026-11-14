@@ -3,7 +3,23 @@
   "label": "May 10th",
   "month": 5,
   "day": 10,
-  "characters": [
+  "names": [
     "Heracles"
+  ],
+  "characters": [
+    {
+      "id": "heracles",
+      "name": "Heracles",
+      "display_name": "Heracles",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/92/Heracles_Anime_Infobox.png/revision/latest/scale-to-width-down/285?cb=20141010000157",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/92/Heracles_Anime_Infobox.png/revision/latest?cb=20141010000157",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Heracles",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/heracles.json"
+    }
   ]
 }

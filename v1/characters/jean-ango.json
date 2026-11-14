@@ -1,0 +1,55 @@
+{
+  "id": "jean-ango",
+  "name": "Jean Ango",
+  "display_name": "Jean Ango",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-14",
+      "label": "August 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Jean_Ango_Anime_Infobox.png/revision/latest?cb=20140518034728",
+    "width": 655,
+    "height": 674
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Jean_Ango_Anime_Infobox.png/revision/latest/scale-to-width-down/389?cb=20140518034728",
+    "width": 389,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Jean Ango",
+    "url": "https://onepiece.fandom.com/wiki/Jean_Ango"
+  },
+  "info": {
+    "japanese_name": "ジャン・アンゴ",
+    "romanized_name": "Jan Ango",
+    "debut": [
+      "Chapter 706",
+      "Episode 639"
+    ],
+    "occupations": [
+      "Bounty Hunter",
+      "Sniper"
+    ],
+    "epithet": "\"Jean the Bandit\"",
+    "birthday": "August 14th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

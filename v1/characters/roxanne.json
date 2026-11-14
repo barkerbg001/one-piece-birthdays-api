@@ -1,0 +1,43 @@
+{
+  "id": "roxanne",
+  "name": "Roxanne",
+  "display_name": "Roxanne",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-23",
+      "label": "January 23rd"
+    }
+  ],
+  "born_with": [],
+  "image": null,
+  "thumbnail": null,
+  "wiki": {
+    "title": "Roxanne",
+    "url": "https://onepiece.fandom.com/wiki/Roxanne"
+  },
+  "info": {
+    "japanese_name": "ロクサーヌ",
+    "romanized_name": "Rokusānu",
+    "official_english_name": "Roxanne",
+    "debut": [
+      "Chapter 46"
+    ],
+    "origin": "East Blue",
+    "birthday": "January 23rd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

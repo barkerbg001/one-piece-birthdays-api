@@ -1,0 +1,63 @@
+{
+  "id": "ideo",
+  "name": "Ideo",
+  "display_name": "Ideo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-10",
+      "label": "October 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/30/Ideo_Anime_Infobox.png/revision/latest?cb=20140519060612",
+    "width": 1130,
+    "height": 2800
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/30/Ideo_Anime_Infobox.png/revision/latest/scale-to-width-down/161?cb=20140519060612",
+    "width": 161,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Ideo",
+    "url": "https://onepiece.fandom.com/wiki/Ideo"
+  },
+  "info": {
+    "japanese_name": "イデオ",
+    "debut": [
+      "Chapter 706",
+      "Episode 633"
+    ],
+    "affiliations": [
+      "Ideo Pirates",
+      "Straw Hat Grand Fleet"
+    ],
+    "occupations": [
+      "Captain of the Fourth Ship of the Straw Hat Grand Fleet",
+      "Pirate Captain",
+      "Boxer"
+    ],
+    "origin": "Grand Line",
+    "epithet": "\"Destruction Cannon\"",
+    "age": "22",
+    "birthday": "October 10th",
+    "height": "225 cm (7'5\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

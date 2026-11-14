@@ -1,0 +1,71 @@
+{
+  "id": "viola",
+  "name": "Viola",
+  "display_name": "Viola",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-30",
+      "label": "April 30th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Viola_Anime_Infobox.png/revision/latest?cb=20221027021751",
+    "width": 1914,
+    "height": 3059
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Viola_Anime_Infobox.png/revision/latest/scale-to-width-down/250?cb=20221027021751",
+    "width": 250,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Viola",
+    "url": "https://onepiece.fandom.com/wiki/Viola"
+  },
+  "info": {
+    "japanese_name": "ヴィオラ",
+    "romanized_name": "Viora",
+    "official_english_name": "Viola",
+    "debut": [
+      "Chapter 703",
+      "Episode 632"
+    ],
+    "affiliations": [
+      "Riku Family",
+      "Donquixote Pirates (defected)"
+    ],
+    "occupations": [
+      "Princess of Dressrosa",
+      "Pirate Officer (former)",
+      "Assassin (former)",
+      "Dancer"
+    ],
+    "origin": "Grand Line (Dressrosa)",
+    "aliases": [
+      "Violet"
+    ],
+    "age": "29",
+    "birthday": "April 30th",
+    "height": "178 cm (5'10\")",
+    "blood_type": "X",
+    "devil_fruit": "Giro Giro no Mi",
+    "devil_fruit_english": "Glare-Glare Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

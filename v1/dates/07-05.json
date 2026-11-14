@@ -3,7 +3,23 @@
   "label": "July 5th",
   "month": 7,
   "day": 5,
-  "characters": [
+  "names": [
     "Vergo"
+  ],
+  "characters": [
+    {
+      "id": "vergo",
+      "name": "Vergo",
+      "display_name": "Vergo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/cf/Vergo_Anime_Infobox.png/revision/latest/scale-to-width-down/176?cb=20230101232239",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/cf/Vergo_Anime_Infobox.png/revision/latest?cb=20230101232239",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Vergo",
+      "epithet": "\"Demon Bamboo\" Vergo",
+      "affiliation": "Donquixote Pirates",
+      "api": "v1/characters/vergo.json"
+    }
   ]
 }

@@ -3,9 +3,53 @@
   "label": "December 9th",
   "month": 12,
   "day": 9,
-  "characters": [
+  "names": [
     "Tacos",
     "Packy",
     "Kelly Funk"
+  ],
+  "characters": [
+    {
+      "id": "tacos",
+      "name": "Tacos",
+      "display_name": "Tacos",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/db/Tacos_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20190428031559",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/db/Tacos_Anime_Infobox.png/revision/latest?cb=20190428031559",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Tacos",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/tacos.json"
+    },
+    {
+      "id": "packy",
+      "name": "Packy",
+      "display_name": "Packy",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Koze_and_Packy_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240727235758",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Koze_and_Packy_Anime_Infobox.png/revision/latest?cb=20240727235758",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Koze_and_Packy",
+      "epithet": null,
+      "affiliation": "Yes Pirates",
+      "api": "v1/characters/packy.json"
+    },
+    {
+      "id": "kelly-funk",
+      "name": "Kelly Funk",
+      "display_name": "Kelly Funk",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Kelly_Funk_Anime_Infobox.png/revision/latest/scale-to-width-down/317?cb=20140331024327",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Kelly_Funk_Anime_Infobox.png/revision/latest?cb=20140331024327",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kelly_Funk",
+      "epithet": null,
+      "affiliation": "Mogaro Kingdom",
+      "api": "v1/characters/kelly-funk.json"
+    }
   ]
 }

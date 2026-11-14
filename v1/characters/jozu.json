@@ -1,0 +1,65 @@
+{
+  "id": "jozu",
+  "name": "Jozu",
+  "display_name": "Jozu",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-11",
+      "label": "November 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/61/Jozu_Anime_Infobox.png/revision/latest?cb=20220702104233",
+    "width": 1178,
+    "height": 1030
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/61/Jozu_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20220702104233",
+    "width": 400,
+    "height": 350
+  },
+  "wiki": {
+    "title": "Jozu",
+    "url": "https://onepiece.fandom.com/wiki/Jozu"
+  },
+  "info": {
+    "japanese_name": "ジョズ",
+    "debut": [
+      "Chapter 234",
+      "Episode 151"
+    ],
+    "affiliations": [
+      "Whitebeard Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "3rd Division Commander"
+    ],
+    "origin": "West Blue",
+    "epithet": "\"Diamond\" Jozu",
+    "age": "40 (debut); 42 (after timeskip)",
+    "birthday": "November 11th",
+    "height": "503 cm (16'6\")",
+    "blood_type": "X",
+    "bounty": "Unknown",
+    "devil_fruit": "Kira Kira no Mi",
+    "devil_fruit_english": "Twinkle-Twinkle Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

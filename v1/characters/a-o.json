@@ -1,0 +1,60 @@
+{
+  "id": "a-o",
+  "name": "A.O",
+  "display_name": "A.O",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-15",
+      "label": "January 15th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8c/A_O_Anime_Infobox.png/revision/latest?cb=20230528152214",
+    "width": 1044,
+    "height": 957
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8c/A_O_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230528152214",
+    "width": 400,
+    "height": 367
+  },
+  "wiki": {
+    "title": "A O",
+    "url": "https://onepiece.fandom.com/wiki/A_O"
+  },
+  "info": {
+    "japanese_name": "A・O",
+    "romanized_name": "Ā Ō",
+    "official_english_name": "A.O. (VIZ Media and FUNimation subs); A.O (FUNimation dub)",
+    "debut": [
+      "Chapter 551",
+      "Episode 460"
+    ],
+    "affiliations": [
+      "A O Pirates",
+      "Subordinate of the Whitebeard Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain"
+    ],
+    "status": "Unknown",
+    "birthday": "January 15th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

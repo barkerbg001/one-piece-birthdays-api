@@ -3,8 +3,38 @@
   "label": "November 22nd",
   "month": 11,
   "day": 22,
-  "characters": [
+  "names": [
     "Shushu",
     "Nekomamushi"
+  ],
+  "characters": [
+    {
+      "id": "shushu",
+      "name": "Shushu",
+      "display_name": "Shushu",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Chouchou_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/275?cb=20251102161457",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Chouchou_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251102161457",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Chouchou",
+      "epithet": null,
+      "affiliation": "Hocker",
+      "api": "v1/characters/shushu.json"
+    },
+    {
+      "id": "nekomamushi",
+      "name": "Nekomamushi",
+      "display_name": "Nekomamushi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a2/Nekomamushi_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20220419121421",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a2/Nekomamushi_Anime_Infobox.png/revision/latest?cb=20220419121421",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Nekomamushi",
+      "epithet": "\"Master Nekomamushi\"; \"Ruler of Night\"",
+      "affiliation": "Mokomo Dukedom",
+      "api": "v1/characters/nekomamushi.json"
+    }
   ]
 }

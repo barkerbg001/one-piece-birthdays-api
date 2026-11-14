@@ -3,7 +3,23 @@
   "label": "December 23rd",
   "month": 12,
   "day": 23,
-  "characters": [
+  "names": [
     "Kouzuki Hiyori"
+  ],
+  "characters": [
+    {
+      "id": "kouzuki-hiyori",
+      "name": "Kouzuki Hiyori",
+      "display_name": "Kouzuki Hiyori",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/97/Kouzuki_Hiyori_Anime_Infobox.png/revision/latest/scale-to-width-down/313?cb=20200811195812",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/97/Kouzuki_Hiyori_Anime_Infobox.png/revision/latest?cb=20200811195812",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kouzuki_Hiyori",
+      "epithet": null,
+      "affiliation": "Kouzuki Family",
+      "api": "v1/characters/kouzuki-hiyori.json"
+    }
   ]
 }

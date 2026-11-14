@@ -3,7 +3,23 @@
   "label": "August 18th",
   "month": 8,
   "day": 18,
-  "characters": [
+  "names": [
     "Wiper"
+  ],
+  "characters": [
+    {
+      "id": "wiper",
+      "name": "Wiper",
+      "display_name": "Wiper",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Wyper_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/210?cb=20231126004333",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Wyper_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20231126004333",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Wyper",
+      "epithet": "\"Berserker\"",
+      "affiliation": "Shandia",
+      "api": "v1/characters/wiper.json"
+    }
   ]
 }

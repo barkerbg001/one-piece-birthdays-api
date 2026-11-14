@@ -1,0 +1,64 @@
+{
+  "id": "kaneshiro",
+  "name": "Kaneshiro",
+  "display_name": "Kaneshiro",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-02",
+      "label": "December 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Kaneshiro_Anime_Infobox.png/revision/latest?cb=20180809233050",
+    "width": 449,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Kaneshiro_Anime_Infobox.png/revision/latest/scale-to-width-down/249?cb=20180809233050",
+    "width": 249,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kaneshiro",
+    "url": "https://onepiece.fandom.com/wiki/Kaneshiro"
+  },
+  "info": {
+    "japanese_name": "カネシロ",
+    "romanized_name": "Kaneshiro",
+    "official_english_name": "Kaneshiro",
+    "debut": [
+      "Chapter 72",
+      "Episode 31"
+    ],
+    "affiliations": [
+      "Arlong Pirates",
+      "Sun Pirates (former)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Shipwright"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Fish-Man District (former)",
+      "Arlong Park (former)"
+    ],
+    "birthday": "December 2nd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

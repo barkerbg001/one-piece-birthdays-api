@@ -3,7 +3,23 @@
   "label": "November 15th",
   "month": 11,
   "day": 15,
-  "characters": [
+  "names": [
     "Ririka"
+  ],
+  "characters": [
+    {
+      "id": "ririka",
+      "name": "Ririka",
+      "display_name": "Ririka",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Ririka_Anime_Infobox.png/revision/latest/scale-to-width-down/157?cb=20190625084415",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Ririka_Anime_Infobox.png/revision/latest?cb=20190625084415",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Ririka",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/ririka.json"
+    }
   ]
 }

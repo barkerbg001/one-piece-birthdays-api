@@ -3,7 +3,23 @@
   "label": "October 13th",
   "month": 10,
   "day": 13,
-  "characters": [
+  "names": [
     "Izou"
+  ],
+  "characters": [
+    {
+      "id": "izou",
+      "name": "Izou",
+      "display_name": "Izou",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/81/Izou_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/254?cb=20210919035558",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Izou_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20210919035558",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Izou",
+      "epithet": null,
+      "affiliation": "Whitebeard Pirates (former)",
+      "api": "v1/characters/izou.json"
+    }
   ]
 }

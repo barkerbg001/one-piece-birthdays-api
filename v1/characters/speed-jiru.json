@@ -1,0 +1,59 @@
+{
+  "id": "speed-jiru",
+  "name": "Speed Jiru",
+  "display_name": "Speed Jiru",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-06",
+      "label": "April 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/45/Speed_Jiru_Anime_Infobox.png/revision/latest?cb=20240301032935",
+    "width": 743,
+    "height": 925
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/45/Speed_Jiru_Anime_Infobox.png/revision/latest/scale-to-width-down/321?cb=20240301032935",
+    "width": 321,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Speed Jiru",
+    "url": "https://onepiece.fandom.com/wiki/Speed_Jiru"
+  },
+  "info": {
+    "japanese_name": "スピード・ジル",
+    "romanized_name": "Supīdo Jiru",
+    "official_english_name": "Speed Jil",
+    "debut": [
+      "Chapter 553",
+      "Episode 461"
+    ],
+    "affiliations": [
+      "Whitebeard Pirates"
+    ],
+    "occupations": [
+      "14th Division Commander",
+      "Pirate"
+    ],
+    "origin": "East Blue",
+    "birthday": "April 6th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

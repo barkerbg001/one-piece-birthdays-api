@@ -1,0 +1,72 @@
+{
+  "id": "shiliew",
+  "name": "Shiliew",
+  "display_name": "Shiliew",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-11",
+      "label": "June 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Shiryu_Anime_Infobox.png/revision/latest?cb=20240728020909",
+    "width": 974,
+    "height": 1041
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Shiryu_Anime_Infobox.png/revision/latest/scale-to-width-down/374?cb=20240728020909",
+    "width": 374,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Shiryu",
+    "url": "https://onepiece.fandom.com/wiki/Shiryu"
+  },
+  "info": {
+    "japanese_name": "シリュウ",
+    "romanized_name": "Shiryū",
+    "official_english_name": "Shiryu; Shiliew (WT100)",
+    "debut": [
+      "Chapter 538",
+      "Episode 440"
+    ],
+    "affiliations": [
+      "Blackbeard Pirates",
+      "Impel Down (former)"
+    ],
+    "occupations": [
+      "Titanic Captain (Captain of the Second Ship)",
+      "Head Jailer (former)",
+      "Prisoner of the Great Prison (former)"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Hachinosu"
+    ],
+    "epithet": "\"Shiryu of the Rain\"",
+    "age": "42 (debut); 44 (after timeskip)",
+    "birthday": "June 11th",
+    "height": "340 cm (11'2\")",
+    "blood_type": "X",
+    "bounty": "Unknown",
+    "devil_fruit": "Suke Suke no Mi",
+    "devil_fruit_english": "Clear-Clear Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,7 +3,23 @@
   "label": "July 25th",
   "month": 7,
   "day": 25,
-  "characters": [
+  "names": [
     "Nojiko"
+  ],
+  "characters": [
+    {
+      "id": "nojiko",
+      "name": "Nojiko",
+      "display_name": "Nojiko",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Nojiko_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/111?cb=20251109161125",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Nojiko_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251109161125",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Nojiko",
+      "epithet": null,
+      "affiliation": "Bell-mère's mikan",
+      "api": "v1/characters/nojiko.json"
+    }
   ]
 }

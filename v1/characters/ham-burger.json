@@ -1,0 +1,57 @@
+{
+  "id": "ham-burger",
+  "name": "Ham Burger",
+  "display_name": "Ham Burger",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-20",
+      "label": "July 20th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/00/Ham_Burger_Anime_Infobox.png/revision/latest?cb=20230101001138",
+    "width": 837,
+    "height": 1345
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/00/Ham_Burger_Anime_Infobox.png/revision/latest/scale-to-width-down/249?cb=20230101001138",
+    "width": 249,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Ham Burger",
+    "url": "https://onepiece.fandom.com/wiki/Ham_Burger"
+  },
+  "info": {
+    "japanese_name": "ハン・バーガー",
+    "romanized_name": "Han Bāgā",
+    "official_english_name": "Ham Burger",
+    "debut": [
+      "Chapter 823",
+      "Episode 777"
+    ],
+    "occupations": [
+      "King of the Ballywood Kingdom"
+    ],
+    "residence": [
+      "Ballywood Kingdom"
+    ],
+    "birthday": "July 20th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

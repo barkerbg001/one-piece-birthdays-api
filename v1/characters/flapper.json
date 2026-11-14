@@ -1,0 +1,58 @@
+{
+  "id": "flapper",
+  "name": "Flapper",
+  "display_name": "Flapper",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-28",
+      "label": "July 28th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Flapper_Anime_Infobox.png/revision/latest?cb=20140627003729",
+    "width": 335,
+    "height": 410
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Flapper_Anime_Infobox.png/revision/latest/scale-to-width-down/327?cb=20140627003729",
+    "width": 327,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Flapper",
+    "url": "https://onepiece.fandom.com/wiki/Flapper"
+  },
+  "info": {
+    "japanese_name": "フラッパー",
+    "romanized_name": "Furappā",
+    "debut": [
+      "Chapter 711",
+      "Episode 641"
+    ],
+    "affiliations": [
+      "Tontatta Kingdom",
+      "Tonta Corps",
+      "Straw Hat Grand Fleet"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "birthday": "July 28th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

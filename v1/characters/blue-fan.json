@@ -1,0 +1,61 @@
+{
+  "id": "blue-fan",
+  "name": "Blue Fan",
+  "display_name": "Blue Fan",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-11",
+      "label": "July 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Blue_Fan_Anime_Infobox.png/revision/latest?cb=20120929194926",
+    "width": 280,
+    "height": 405
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Blue_Fan_Anime_Infobox.png/revision/latest/scale-to-width-down/276?cb=20120929194926",
+    "width": 276,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Blue Fan",
+    "url": "https://onepiece.fandom.com/wiki/Blue_Fan"
+  },
+  "info": {
+    "japanese_name": "ブルーファン",
+    "romanized_name": "Burūfan",
+    "official_english_name": "Bluefan",
+    "debut": [
+      "Chapter 516",
+      "Episode 410"
+    ],
+    "affiliations": [
+      "Kuja Pirates"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "origin": "Calm Belt (Amazon Lily)",
+    "residence": [
+      "Amazon Lily"
+    ],
+    "birthday": "July 11th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

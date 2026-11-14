@@ -3,8 +3,38 @@
   "label": "October 1st",
   "month": 10,
   "day": 1,
-  "characters": [
+  "names": [
     "Comile",
     "Mohji"
+  ],
+  "characters": [
+    {
+      "id": "comile",
+      "name": "Comile",
+      "display_name": "Comile",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/comile.json"
+    },
+    {
+      "id": "mohji",
+      "name": "Mohji",
+      "display_name": "Mohji",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/09/Mohji_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20200821151313",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/09/Mohji_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200821151313",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mohji",
+      "epithet": "Beast Tamer; Beast Breaker (4Kids)",
+      "affiliation": "Cross Guild",
+      "api": "v1/characters/mohji.json"
+    }
   ]
 }

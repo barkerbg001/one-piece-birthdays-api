@@ -1,0 +1,64 @@
+{
+  "id": "kazekage",
+  "name": "Kazekage",
+  "display_name": "Kazekage",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-28",
+      "label": "February 28th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/27/Kazekage_Anime_Infobox.png/revision/latest?cb=20200927094255",
+    "width": 410,
+    "height": 845
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/27/Kazekage_Anime_Infobox.png/revision/latest/scale-to-width-down/194?cb=20200927094255",
+    "width": 194,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kazekage",
+    "url": "https://onepiece.fandom.com/wiki/Kazekage"
+  },
+  "info": {
+    "japanese_name": "風影",
+    "debut": [
+      "Chapter 931",
+      "Episode 925"
+    ],
+    "affiliations": [
+      "Beasts Pirates",
+      "Orochi Oniwabanshu (former)"
+    ],
+    "occupations": [
+      "Ninja",
+      "Pirate"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Flower Capital, Wano Country"
+    ],
+    "age": "43",
+    "birthday": "February 28th",
+    "height": "192 cm (6'3\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

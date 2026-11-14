@@ -3,9 +3,53 @@
   "label": "April 3rd",
   "month": 4,
   "day": 3,
-  "characters": [
+  "names": [
     "Brook",
     "Porchemi",
     "Monda"
+  ],
+  "characters": [
+    {
+      "id": "brook",
+      "name": "Brook",
+      "display_name": "Brook",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/41/Brook_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/171?cb=20261011171752",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/41/Brook_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20261011171752",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Brook",
+      "epithet": "\"Humming Brook\"; \"Soul King\"",
+      "affiliation": "Straw Hat Pirates",
+      "api": "v1/characters/brook.json"
+    },
+    {
+      "id": "porchemi",
+      "name": "Porchemi",
+      "display_name": "Porchemi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/25/Porchemy_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240828151319",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/25/Porchemy_Anime_Infobox.png/revision/latest?cb=20240828151319",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Porchemy",
+      "epithet": null,
+      "affiliation": "Bluejam Pirates",
+      "api": "v1/characters/porchemi.json"
+    },
+    {
+      "id": "monda",
+      "name": "Monda",
+      "display_name": "Monda",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fb/Monda_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20220602150533",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/fb/Monda_Anime_Infobox.png/revision/latest?cb=20220602150533",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Monda",
+      "epithet": null,
+      "affiliation": "Foxy Pirates (former)",
+      "api": "v1/characters/monda.json"
+    }
   ]
 }

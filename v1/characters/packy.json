@@ -1,0 +1,58 @@
+{
+  "id": "packy",
+  "name": "Packy",
+  "display_name": "Packy",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-09",
+      "label": "December 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Koze_and_Packy_Anime_Infobox.png/revision/latest?cb=20240727235758",
+    "width": 704,
+    "height": 466
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Koze_and_Packy_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240727235758",
+    "width": 400,
+    "height": 265
+  },
+  "wiki": {
+    "title": "Koze and Packy",
+    "url": "https://onepiece.fandom.com/wiki/Koze_and_Packy"
+  },
+  "info": {
+    "japanese_name": "コゼ & パッキー",
+    "romanized_name": "Koze to Pakkī",
+    "official_english_name": "Koze; Packy",
+    "debut": [
+      "Chapter 96",
+      "Episode 48"
+    ],
+    "affiliations": [
+      "Yes Pirates"
+    ],
+    "occupations": [
+      "Pirates"
+    ],
+    "origin": "East Blue (Packy: Loguetown)",
+    "birthday": "May 27th (Koze); December 9th (Packy)"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

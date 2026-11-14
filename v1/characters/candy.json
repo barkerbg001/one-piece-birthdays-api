@@ -1,0 +1,58 @@
+{
+  "id": "candy",
+  "name": "Candy",
+  "display_name": "Candy",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-14",
+      "label": "June 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/55/Candy_Manga_Infobox.png/revision/latest?cb=20190104141655",
+    "width": 628,
+    "height": 922
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/55/Candy_Manga_Infobox.png/revision/latest/scale-to-width-down/272?cb=20190104141655",
+    "width": 272,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Candy",
+    "url": "https://onepiece.fandom.com/wiki/Candy"
+  },
+  "info": {
+    "japanese_name": "キャンディー",
+    "romanized_name": "Kyandī",
+    "official_english_name": "Candy",
+    "debut": [
+      "Chapter 510 (cover)"
+    ],
+    "affiliations": [
+      "Candy Pirates"
+    ],
+    "occupations": [
+      "Pirate Captain"
+    ],
+    "origin": "Grand Line",
+    "status": "1",
+    "birthday": "June 14th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

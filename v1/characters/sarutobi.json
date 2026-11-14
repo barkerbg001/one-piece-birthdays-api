@@ -1,0 +1,65 @@
+{
+  "id": "sarutobi",
+  "name": "Sarutobi",
+  "display_name": "Sarutobi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-12",
+      "label": "March 12th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/1f/Sarutobi_Anime_Infobox.png/revision/latest?cb=20200927052139",
+    "width": 1010,
+    "height": 1440
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/1f/Sarutobi_Anime_Infobox.png/revision/latest/scale-to-width-down/280?cb=20200927052139",
+    "width": 280,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Sarutobi",
+    "url": "https://onepiece.fandom.com/wiki/Sarutobi"
+  },
+  "info": {
+    "japanese_name": "猿飛",
+    "official_english_name": "Sarutobi",
+    "debut": [
+      "Chapter 931",
+      "Episode 925"
+    ],
+    "affiliations": [
+      "Beasts Pirates",
+      "Orochi Oniwabanshu (former)"
+    ],
+    "occupations": [
+      "Ninja",
+      "Pirate"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Flower Capital, Wano Country"
+    ],
+    "age": "45",
+    "birthday": "March 12th",
+    "height": "378 cm (12'5\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

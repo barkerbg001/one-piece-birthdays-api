@@ -3,8 +3,38 @@
   "label": "December 22nd",
   "month": 12,
   "day": 22,
-  "characters": [
+  "names": [
     "Gan Fall",
     "Miyagi"
+  ],
+  "characters": [
+    {
+      "id": "gan-fall",
+      "name": "Gan Fall",
+      "display_name": "Gan Fall",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Gan_Fall_Anime_Infobox.png/revision/latest/scale-to-width-down/285?cb=20221111195904",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Gan_Fall_Anime_Infobox.png/revision/latest?cb=20221111195904",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gan_Fall",
+      "epithet": "\"Knight of the Sky\"",
+      "affiliation": "Skypiea",
+      "api": "v1/characters/gan-fall.json"
+    },
+    {
+      "id": "miyagi",
+      "name": "Miyagi",
+      "display_name": "Miyagi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Miyagi_Anime_Infobox.png/revision/latest/scale-to-width-down/252?cb=20231119134504",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Miyagi_Anime_Infobox.png/revision/latest?cb=20231119134504",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Miyagi",
+      "epithet": null,
+      "affiliation": "Mokomo Dukedom",
+      "api": "v1/characters/miyagi.json"
+    }
   ]
 }

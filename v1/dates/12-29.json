@@ -3,7 +3,23 @@
   "label": "December 29th",
   "month": 12,
   "day": 29,
-  "characters": [
+  "names": [
     "Du Feld"
+  ],
+  "characters": [
+    {
+      "id": "du-feld",
+      "name": "Du Feld",
+      "display_name": "Du Feld",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Lu_Feld_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240315014110",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Lu_Feld_Anime_Infobox.png/revision/latest?cb=20240315014110",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Lu_Feld",
+      "epithet": "\"God of Fortune\"",
+      "affiliation": "Lu Feld Conglomerate",
+      "api": "v1/characters/du-feld.json"
+    }
   ]
 }

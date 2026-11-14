@@ -1,0 +1,61 @@
+{
+  "id": "miss-catherine",
+  "name": "Miss Catherine",
+  "display_name": "Miss Catherine",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-23",
+      "label": "March 23rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/15/Miss_Catherina_Anime_Infobox.png/revision/latest?cb=20240712024031",
+    "width": 158,
+    "height": 419
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/15/Miss_Catherina_Anime_Infobox.png/revision/latest/scale-to-width-down/151?cb=20240712024031",
+    "width": 151,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Miss Catherina",
+    "url": "https://onepiece.fandom.com/wiki/Miss_Catherina"
+  },
+  "info": {
+    "japanese_name": "ミス・キャサリーナ",
+    "romanized_name": "Misu Kyasarīna",
+    "official_english_name": "Miss Katherina (WT100)",
+    "debut": [
+      "Chapter 106",
+      "Episode 64"
+    ],
+    "affiliations": [
+      "Baroque Works (Millions) (former)"
+    ],
+    "occupations": [
+      "Bounty Hunter"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Cactus Island (Whisky Peak)"
+    ],
+    "birthday": "March 23rd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

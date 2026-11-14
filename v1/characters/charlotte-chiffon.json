@@ -1,0 +1,71 @@
+{
+  "id": "charlotte-chiffon",
+  "name": "Charlotte Chiffon",
+  "display_name": "Charlotte Chiffon",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-27",
+      "label": "January 27th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-lola",
+      "name": "Charlotte Lola"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Charlotte_Chiffon_Anime_Infobox.png/revision/latest?cb=20170409062554",
+    "width": 884,
+    "height": 738
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Charlotte_Chiffon_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20170409062554",
+    "width": 400,
+    "height": 334
+  },
+  "wiki": {
+    "title": "Charlotte Chiffon",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Chiffon"
+  },
+  "info": {
+    "japanese_name": "シャーロット・シフォン",
+    "romanized_name": "Shārotto Shifon",
+    "official_english_name": "Charlotte Chiffon",
+    "debut": [
+      "Chapter 825",
+      "Episode 783"
+    ],
+    "affiliations": [
+      "Fire Tank Pirates",
+      "Charlotte Family (defected)"
+    ],
+    "occupations": [
+      "Cook",
+      "Minister of Puff (former)"
+    ],
+    "origin": "Grand Line (Totto Land)",
+    "residence": [
+      "Funwari Island (former)"
+    ],
+    "age": "26",
+    "birthday": "January 27th",
+    "height": "215 cm (7'1\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

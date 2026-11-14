@@ -1,0 +1,57 @@
+{
+  "id": "tibany",
+  "name": "Tibany",
+  "display_name": "Tibany",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-19",
+      "label": "June 19th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/69/Tibany_Anime_Infobox.png/revision/latest?cb=20240723202013",
+    "width": 698,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/69/Tibany_Anime_Infobox.png/revision/latest/scale-to-width-down/258?cb=20240723202013",
+    "width": 258,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Tibany",
+    "url": "https://onepiece.fandom.com/wiki/Tibany"
+  },
+  "info": {
+    "japanese_name": "ティバニー",
+    "romanized_name": "Tibanī",
+    "official_english_name": "Tibbany; Elizabeth (Anime)",
+    "debut": [
+      "Chapter 543 (cover)",
+      "Episode 419"
+    ],
+    "occupations": [
+      "Okama"
+    ],
+    "residence": [
+      "Kamabakka Kingdom (Momoiro Island)"
+    ],
+    "birthday": "June 19th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

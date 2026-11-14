@@ -1,0 +1,56 @@
+{
+  "id": "pagaya",
+  "name": "Pagaya",
+  "display_name": "Pagaya",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-17",
+      "label": "August 17th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5d/Pagaya_Anime_Infobox.png/revision/latest?cb=20140829001259",
+    "width": 445,
+    "height": 335
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5d/Pagaya_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20140829001259",
+    "width": 400,
+    "height": 301
+  },
+  "wiki": {
+    "title": "Pagaya",
+    "url": "https://onepiece.fandom.com/wiki/Pagaya"
+  },
+  "info": {
+    "japanese_name": "パガヤ",
+    "debut": [
+      "Chapter 239",
+      "Episode 154"
+    ],
+    "occupations": [
+      "Dial Boat Engineer"
+    ],
+    "origin": "Sky Islands (Skypiea)",
+    "age": "52 (debut); 54 (after timeskip)",
+    "birthday": "August 17th",
+    "height": "179 cm (5'10\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

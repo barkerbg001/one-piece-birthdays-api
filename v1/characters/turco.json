@@ -1,0 +1,61 @@
+{
+  "id": "turco",
+  "name": "Turco",
+  "display_name": "Turco",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-29",
+      "label": "October 29th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/84/Turco_Anime_Infobox.png/revision/latest?cb=20130425020753",
+    "width": 832,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/84/Turco_Anime_Infobox.png/revision/latest/scale-to-width-down/308?cb=20130425020753",
+    "width": 308,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Turco",
+    "url": "https://onepiece.fandom.com/wiki/Turco"
+  },
+  "info": {
+    "japanese_name": "トルコ",
+    "romanized_name": "Toruko",
+    "official_english_name": "Turk",
+    "debut": [
+      "Chapter 598",
+      "Episode 517"
+    ],
+    "affiliations": [
+      "Fake Straw Hat Crew"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "origin": "East Blue",
+    "age": "45",
+    "birthday": "October 29th",
+    "height": "258 cm (8'5\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

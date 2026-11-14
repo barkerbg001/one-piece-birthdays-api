@@ -1,0 +1,61 @@
+{
+  "id": "hannyabal",
+  "name": "Hannyabal",
+  "display_name": "Hannyabal",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-28",
+      "label": "August 28th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/86/Hannyabal_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20230920224617",
+    "width": 824,
+    "height": 1313
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/86/Hannyabal_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/251?cb=20230920224617",
+    "width": 251,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Hannyabal",
+    "url": "https://onepiece.fandom.com/wiki/Hannyabal"
+  },
+  "info": {
+    "japanese_name": "ハンニャバル",
+    "romanized_name": "Hannyabaru",
+    "debut": [
+      "Chapter 525",
+      "Episode 422"
+    ],
+    "affiliations": [
+      "Impel Down"
+    ],
+    "occupations": [
+      "Chief Warden",
+      "Vice Warden (former)"
+    ],
+    "origin": "South Blue",
+    "age": "33 (debut); 35 (after timeskip)",
+    "birthday": "August 28th",
+    "height": "309 cm (10'1\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

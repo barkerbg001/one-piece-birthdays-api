@@ -3,7 +3,23 @@
   "label": "April 28th",
   "month": 4,
   "day": 28,
-  "characters": [
+  "names": [
     "Funkfreed"
+  ],
+  "characters": [
+    {
+      "id": "funkfreed",
+      "name": "Funkfreed",
+      "display_name": "Funkfreed",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Funkfreed_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250301182705",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Funkfreed_Anime_Infobox.png/revision/latest?cb=20250301182705",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Funkfreed",
+      "epithet": null,
+      "affiliation": "CP0, CP9 (former)",
+      "api": "v1/characters/funkfreed.json"
+    }
   ]
 }

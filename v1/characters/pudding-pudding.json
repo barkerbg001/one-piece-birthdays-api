@@ -1,0 +1,62 @@
+{
+  "id": "pudding-pudding",
+  "name": "Pudding Pudding",
+  "display_name": "Pudding Pudding",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-16",
+      "label": "May 16th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c0/Pudding_Pudding_Anime_Infobox.png/revision/latest?cb=20220928043355",
+    "width": 704,
+    "height": 1066
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c0/Pudding_Pudding_Anime_Infobox.png/revision/latest/scale-to-width-down/264?cb=20220928043355",
+    "width": 264,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Pudding Pudding",
+    "url": "https://onepiece.fandom.com/wiki/Pudding_Pudding"
+  },
+  "info": {
+    "japanese_name": "プリンプリン",
+    "romanized_name": "Purinpurin",
+    "official_english_name": "Purinpurin",
+    "debut": [
+      "Chapter 75",
+      "Episode 34"
+    ],
+    "affiliations": [
+      "Marines, Marine 77th Branch"
+    ],
+    "occupations": [
+      "Marine Commodore"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "77th Branch"
+    ],
+    "status": "2",
+    "birthday": "May 16th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

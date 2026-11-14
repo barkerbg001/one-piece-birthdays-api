@@ -1,0 +1,56 @@
+{
+  "id": "louis-arnote",
+  "name": "Louis Arnote",
+  "display_name": "Louis Arnote",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-20",
+      "label": "December 20th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest?cb=20210110135101",
+    "width": 600,
+    "height": 600
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/400?cb=20210110135101",
+    "width": 400,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Louis Arnote",
+    "url": "https://onepiece.fandom.com/wiki/Louis_Arnote"
+  },
+  "info": {
+    "japanese_name": "ルイ・アーノート",
+    "romanized_name": "Rui Ānōto",
+    "official_english_name": "Louis Arnot (VIZ, Crunchyroll); Louis Arnote (Funimation)",
+    "debut": [
+      "Chapter 115",
+      "Episode 70 (mentioned)"
+    ],
+    "occupations": [
+      "Explorer"
+    ],
+    "origin": "Grand Line",
+    "status": "Unknown",
+    "birthday": "December 20th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

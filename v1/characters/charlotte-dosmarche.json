@@ -1,0 +1,72 @@
+{
+  "id": "charlotte-dosmarche",
+  "name": "Charlotte Dosmarche",
+  "display_name": "Charlotte Dosmarche",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-23",
+      "label": "January 23rd"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-nusstorte",
+      "name": "Charlotte Nusstorte"
+    },
+    {
+      "id": "charlotte-basskarte",
+      "name": "Charlotte Basskarte"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c6/Charlotte_Dosmarche_Anime_Infobox.png/revision/latest?cb=20180506063638",
+    "width": 1310,
+    "height": 967
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c6/Charlotte_Dosmarche_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180506063638",
+    "width": 400,
+    "height": 295
+  },
+  "wiki": {
+    "title": "Charlotte Dosmarche",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Dosmarche"
+  },
+  "info": {
+    "japanese_name": "シャーロット・ドスマルシェ",
+    "romanized_name": "Shārotto Dosumarushe",
+    "official_english_name": "Charlotte Dosmarche",
+    "debut": [
+      "Chapter 861",
+      "Episode 832"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Minister of Tea"
+    ],
+    "residence": [
+      "Black Island"
+    ],
+    "age": "42",
+    "birthday": "January 23rd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

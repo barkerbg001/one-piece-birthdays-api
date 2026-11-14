@@ -3,7 +3,23 @@
   "label": "May 25th",
   "month": 5,
   "day": 25,
-  "characters": [
+  "names": [
     "Big Pan"
+  ],
+  "characters": [
+    {
+      "id": "big-pan",
+      "name": "Big Pan",
+      "display_name": "Big Pan",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9e/Big_Pan_Anime_Infobox.png/revision/latest/scale-to-width-down/261?cb=20130420215928",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9e/Big_Pan_Anime_Infobox.png/revision/latest?cb=20130420215928",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Big_Pan",
+      "epithet": "Big Pan \"the Wotan\"",
+      "affiliation": "Foxy Pirates (former)",
+      "api": "v1/characters/big-pan.json"
+    }
   ]
 }

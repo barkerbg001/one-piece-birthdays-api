@@ -1,0 +1,54 @@
+{
+  "id": "island-eater",
+  "name": "Island Eater",
+  "display_name": "Island Eater",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-21",
+      "label": "April 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/74/Island_Eater_Anime_Infobox.png/revision/latest?cb=20240206143633",
+    "width": 640,
+    "height": 404
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/74/Island_Eater_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240206143633",
+    "width": 400,
+    "height": 253
+  },
+  "wiki": {
+    "title": "Island Eater",
+    "url": "https://onepiece.fandom.com/wiki/Island_Eater"
+  },
+  "info": {
+    "japanese_name": "島食い",
+    "romanized_name": "Shima Kui",
+    "official_english_name": "Island Eater",
+    "debut": [
+      "Chapter 128",
+      "Episode 77"
+    ],
+    "origin": "Grand Line",
+    "status": "2",
+    "birthday": "April 21st",
+    "height": "715 m (2345'9\")"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

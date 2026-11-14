@@ -1,0 +1,58 @@
+{
+  "id": "hustle",
+  "name": "Hustle",
+  "display_name": "Hustle",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-28",
+      "label": "July 28th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Hustle_Manga_Infobox.png/revision/latest?cb=20190122055907",
+    "width": 270,
+    "height": 251
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Hustle_Manga_Infobox.png/revision/latest?cb=20190122055907",
+    "width": 400,
+    "height": 372
+  },
+  "wiki": {
+    "title": "Hustle",
+    "url": "https://onepiece.fandom.com/wiki/Hustle"
+  },
+  "info": {
+    "japanese_name": "ハッスル",
+    "romanized_name": "Hassuru",
+    "official_english_name": "Hustle",
+    "debut": [
+      "Chapter 60"
+    ],
+    "affiliations": [
+      "Krieg Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Combat Instructor"
+    ],
+    "origin": "East Blue",
+    "birthday": "July 28th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

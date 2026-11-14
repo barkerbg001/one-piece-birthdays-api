@@ -1,0 +1,66 @@
+{
+  "id": "bishamon",
+  "name": "Bishamon",
+  "display_name": "Bishamon",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-01",
+      "label": "August 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Bishamon_Anime_Infobox.png/revision/latest?cb=20200927094155",
+    "width": 500,
+    "height": 865
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Bishamon_Anime_Infobox.png/revision/latest/scale-to-width-down/231?cb=20200927094155",
+    "width": 231,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Bishamon",
+    "url": "https://onepiece.fandom.com/wiki/Bishamon"
+  },
+  "info": {
+    "japanese_name": "ビシャ門",
+    "official_english_name": "Bishamon",
+    "debut": [
+      "Chapter 931",
+      "Episode 925"
+    ],
+    "affiliations": [
+      "Beasts Pirates",
+      "Orochi Oniwabanshu (former)",
+      "Kurozumi Family (former)"
+    ],
+    "occupations": [
+      "Ninja",
+      "Pirate"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Flower Capital, Wano Country"
+    ],
+    "age": "28",
+    "birthday": "August 1st",
+    "height": "182 cm (6'0\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "perona",
+  "name": "Perona",
+  "display_name": "Perona",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-07",
+      "label": "June 7th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Perona_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20260921004558",
+    "width": 1077,
+    "height": 2285
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Perona_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/188?cb=20260921004558",
+    "width": 188,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Perona",
+    "url": "https://onepiece.fandom.com/wiki/Perona"
+  },
+  "info": {
+    "japanese_name": "ペローナ",
+    "romanized_name": "Perōna",
+    "debut": [
+      "Chapter 442",
+      "Episode 337 (ghost)",
+      "Chapter 449",
+      "Episode 343"
+    ],
+    "affiliations": [
+      "Thriller Bark Pirates (Mysterious Four)",
+      "Dracule Mihawk (former)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Wild Zombies and Surprise Zombies Commander (former)"
+    ],
+    "origin": "West Blue",
+    "residence": [
+      "Kuraigana Island (former)",
+      "Thriller Bark (former)"
+    ],
+    "epithet": "\"Ghost Princess\"",
+    "age": "23 (debut); 25 (after timeskip)",
+    "birthday": "June 7th",
+    "height": "160 cm (5'3\")",
+    "blood_type": "XF",
+    "devil_fruit": "Horo Horo no Mi",
+    "devil_fruit_english": "Hollow-Hollow Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

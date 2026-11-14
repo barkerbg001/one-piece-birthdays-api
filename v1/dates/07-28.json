@@ -3,8 +3,38 @@
   "label": "July 28th",
   "month": 7,
   "day": 28,
-  "characters": [
+  "names": [
     "Flapper",
     "Hustle"
+  ],
+  "characters": [
+    {
+      "id": "flapper",
+      "name": "Flapper",
+      "display_name": "Flapper",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Flapper_Anime_Infobox.png/revision/latest/scale-to-width-down/327?cb=20140627003729",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Flapper_Anime_Infobox.png/revision/latest?cb=20140627003729",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Flapper",
+      "epithet": null,
+      "affiliation": "Tontatta Kingdom",
+      "api": "v1/characters/flapper.json"
+    },
+    {
+      "id": "hustle",
+      "name": "Hustle",
+      "display_name": "Hustle",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Hustle_Manga_Infobox.png/revision/latest?cb=20190122055907",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Hustle_Manga_Infobox.png/revision/latest?cb=20190122055907",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hustle",
+      "epithet": null,
+      "affiliation": "Krieg Pirates",
+      "api": "v1/characters/hustle.json"
+    }
   ]
 }

@@ -3,7 +3,23 @@
   "label": "February 26th",
   "month": 2,
   "day": 26,
-  "characters": [
+  "names": [
     "Raizou"
+  ],
+  "characters": [
+    {
+      "id": "raizou",
+      "name": "Raizou",
+      "display_name": "Raizou",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/23/Raizo_Anime_Infobox.png/revision/latest/scale-to-width-down/328?cb=20161218152812",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/23/Raizo_Anime_Infobox.png/revision/latest?cb=20161218152812",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Raizo",
+      "epithet": "\"Raizo of the Mist\"",
+      "affiliation": "Kouzuki Family",
+      "api": "v1/characters/raizou.json"
+    }
   ]
 }

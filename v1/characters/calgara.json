@@ -1,0 +1,62 @@
+{
+  "id": "calgara",
+  "name": "Calgara",
+  "display_name": "Calgara",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-04",
+      "label": "October 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kalgara_Anime_Infobox.png/revision/latest?cb=20260419014810",
+    "width": 430,
+    "height": 788
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kalgara_Anime_Infobox.png/revision/latest/scale-to-width-down/218?cb=20260419014810",
+    "width": 218,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kalgara",
+    "url": "https://onepiece.fandom.com/wiki/Kalgara"
+  },
+  "info": {
+    "japanese_name": "カルガラ",
+    "romanized_name": "Karugara",
+    "official_english_name": "Kalgara; Calgara (Funimation subs, Unlimited games); Kalgala (BStation)",
+    "debut": [
+      "Chapter 286",
+      "Episode 187"
+    ],
+    "affiliations": [
+      "Shandia"
+    ],
+    "occupations": [
+      "Warrior"
+    ],
+    "origin": "Grand Line (Jaya)",
+    "epithet": "\"The Demon of Shandora\"; \"The Great Warrior of Shandora\"",
+    "status": "2",
+    "birthday": "October 4th",
+    "height": "222 cm (7'3\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

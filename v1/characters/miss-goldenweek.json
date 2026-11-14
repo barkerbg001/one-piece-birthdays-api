@@ -1,0 +1,68 @@
+{
+  "id": "miss-goldenweek",
+  "name": "Miss Goldenweek",
+  "display_name": "Miss Goldenweek (Marianne)",
+  "alias": "Marianne",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-29",
+      "label": "April 29th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Marianne_Anime_Infobox.png/revision/latest?cb=20250115010211",
+    "width": 307,
+    "height": 496
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Marianne_Anime_Infobox.png/revision/latest/scale-to-width-down/247?cb=20250115010211",
+    "width": 247,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Marianne",
+    "url": "https://onepiece.fandom.com/wiki/Marianne"
+  },
+  "info": {
+    "japanese_name": "マリアンヌ",
+    "romanized_name": "Mariannu",
+    "official_english_name": "Marianne (WT100)",
+    "debut": [
+      "Chapter 117",
+      "Episode 70"
+    ],
+    "affiliations": [
+      "New Spiders Cafe",
+      "Baroque Works (former)"
+    ],
+    "occupations": [
+      "Cafe Employee",
+      "Officer Agent (former)"
+    ],
+    "origin": "North Blue",
+    "epithet": "\"Flag-Bearer of Freedom\"",
+    "aliases": [
+      "\"Miss Goldenweek\""
+    ],
+    "age": "16 (debut); 18 (after timeskip)",
+    "birthday": "April 29th",
+    "height": "145 cm (4'9\")",
+    "blood_type": "XF",
+    "bounty": "29,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

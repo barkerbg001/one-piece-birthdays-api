@@ -1,0 +1,76 @@
+{
+  "id": "kanjuro",
+  "name": "Kanjuro",
+  "display_name": "Kanjuro",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-21",
+      "label": "July 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kurozumi_Kanjuro_Anime_Infobox.png/revision/latest?cb=20150503144042",
+    "width": 1179,
+    "height": 1060
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kurozumi_Kanjuro_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20150503144042",
+    "width": 400,
+    "height": 360
+  },
+  "wiki": {
+    "title": "Kurozumi Kanjuro",
+    "url": "https://onepiece.fandom.com/wiki/Kurozumi_Kanjuro"
+  },
+  "info": {
+    "japanese_name": "黒炭カン十郎",
+    "romanized_name": "Kurozumi Kanjūrō",
+    "official_english_name": "Kurozumi Kanjuro",
+    "debut": [
+      "Chapter 700",
+      "Episode 629"
+    ],
+    "affiliations": [
+      "Kurozumi Family",
+      "Kouzuki Family (undercover)",
+      "Nine Red Scabbards (undercover)",
+      "Ninja-Pirate-Mink-Samurai Alliance (undercover)",
+      "Beasts Pirates (former)"
+    ],
+    "occupations": [
+      "Theatre Performer (former)",
+      "Spy of the Kurozumi Family",
+      "Samurai",
+      "Retainer of the Kouzuki Family (undercover)"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Wano Country (Kuri)",
+      "Wano Country (Kibi) (former)"
+    ],
+    "epithet": "\"Evening Shower\"; Ghost of Kibi",
+    "status": "2",
+    "birthday": "July 21st",
+    "height": "347 cm (11'5\")",
+    "blood_type": "X",
+    "devil_fruit": "Fude Fude no Mi",
+    "devil_fruit_english": "Brush-Brush Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "domino",
+  "name": "Domino",
+  "display_name": "Domino",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-30",
+      "label": "October 30th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/11/Domino_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20261105033503",
+    "width": 320,
+    "height": 504
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/11/Domino_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/254?cb=20261105033503",
+    "width": 254,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Domino",
+    "url": "https://onepiece.fandom.com/wiki/Domino"
+  },
+  "info": {
+    "japanese_name": "ドミノ",
+    "romanized_name": "Domino",
+    "official_english_name": "Domino",
+    "debut": [
+      "Chapter 526",
+      "Episode 422"
+    ],
+    "affiliations": [
+      "Impel Down"
+    ],
+    "occupations": [
+      "Head Jailer",
+      "Vice Head Jailer (former)"
+    ],
+    "origin": "Grand Line",
+    "birthday": "October 30th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

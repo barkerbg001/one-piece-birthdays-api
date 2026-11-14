@@ -1,0 +1,68 @@
+{
+  "id": "hajrudin",
+  "name": "Hajrudin",
+  "display_name": "Hajrudin",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-12",
+      "label": "August 12th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Hajrudin_Anime_Infobox.png/revision/latest?cb=20240319195654",
+    "width": 710,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Hajrudin_Anime_Infobox.png/revision/latest/scale-to-width-down/263?cb=20240319195654",
+    "width": 263,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Hajrudin",
+    "url": "https://onepiece.fandom.com/wiki/Hajrudin"
+  },
+  "info": {
+    "japanese_name": "ハイルディン",
+    "romanized_name": "Hairudin",
+    "debut": [
+      "Chapter 706",
+      "Episode 639"
+    ],
+    "affiliations": [
+      "New Giant Warrior Pirates",
+      "Buggy's Delivery (resigned)",
+      "Straw Hat Grand Fleet",
+      "Elbaph Royal Family (Illegitimate)"
+    ],
+    "occupations": [
+      "Captain of the Sixth Ship of the Straw Hat Grand Fleet",
+      "Pirate Captain",
+      "Mercenary (former)"
+    ],
+    "origin": "Grand Line (Elbaph)",
+    "residence": [
+      "Elbaph"
+    ],
+    "age": "81",
+    "birthday": "August 12th",
+    "height": "2200 cm (72'2\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

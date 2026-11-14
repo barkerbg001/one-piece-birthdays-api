@@ -3,8 +3,38 @@
   "label": "August 7th",
   "month": 8,
   "day": 7,
-  "characters": [
+  "names": [
     "Kaku",
     "Bellamy"
+  ],
+  "characters": [
+    {
+      "id": "kaku",
+      "name": "Kaku",
+      "display_name": "Kaku",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/09/Kaku_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/267?cb=20221127204534",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/09/Kaku_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20221127204534",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kaku",
+      "epithet": "\"Mountain Wind\"",
+      "affiliation": "CP0",
+      "api": "v1/characters/kaku.json"
+    },
+    {
+      "id": "bellamy",
+      "name": "Bellamy",
+      "display_name": "Bellamy",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/27/Bellamy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/139?cb=20230116235201",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/27/Bellamy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230116235201",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Bellamy",
+      "epithet": "\"Bellamy the Hyena\"; \"Deadly Bullet of Dressrosa\"; \"The Big-Time Rookie\"",
+      "affiliation": "Donquixote Pirates (former)",
+      "api": "v1/characters/bellamy.json"
+    }
   ]
 }

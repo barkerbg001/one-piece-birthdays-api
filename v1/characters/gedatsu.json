@@ -1,0 +1,67 @@
+{
+  "id": "gedatsu",
+  "name": "Gedatsu",
+  "display_name": "Gedatsu",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-10",
+      "label": "August 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/43/Gedatsu_Anime_Infobox.png/revision/latest?cb=20230806232042",
+    "width": 620,
+    "height": 1109
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/43/Gedatsu_Anime_Infobox.png/revision/latest/scale-to-width-down/223?cb=20230806232042",
+    "width": 223,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Gedatsu",
+    "url": "https://onepiece.fandom.com/wiki/Gedatsu"
+  },
+  "info": {
+    "japanese_name": "ゲダツ",
+    "official_english_name": "Gedatsu (Viz, Uncut dub); Gedatz (Edited dub)",
+    "debut": [
+      "Chapter 241",
+      "Episode 155"
+    ],
+    "affiliations": [
+      "Ukkari Hot-Spring Island",
+      "God's Army (former)"
+    ],
+    "occupations": [
+      "Priest of Enel (former), Head Clerk of Hot Springs Resort"
+    ],
+    "origin": "Sky Islands (Birka)",
+    "residence": [
+      "Ukkari Hot-Spring Island",
+      "Skypiea (former)",
+      "Birka (former)"
+    ],
+    "epithet": "Sky Boss; Sky Punk (4Kids, FUNimation)",
+    "age": "29 (debut); 31 (after timeskip)",
+    "birthday": "August 10th",
+    "height": "220 cm (7'2\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

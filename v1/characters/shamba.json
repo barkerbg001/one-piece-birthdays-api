@@ -1,0 +1,53 @@
+{
+  "id": "shamba",
+  "name": "Shamba",
+  "display_name": "Shamba",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-08",
+      "label": "November 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f1/Shanba_Anime_Infobox.png/revision/latest?cb=20190103035249",
+    "width": 687,
+    "height": 724
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f1/Shanba_Anime_Infobox.png/revision/latest/scale-to-width-down/380?cb=20190103035249",
+    "width": 380,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Shanba",
+    "url": "https://onepiece.fandom.com/wiki/Shanba"
+  },
+  "info": {
+    "japanese_name": "シャンバ",
+    "romanized_name": "Shanba",
+    "official_english_name": "Shamba",
+    "debut": [
+      "Chapter 524, Episode 419"
+    ],
+    "affiliations": [
+      "Torino Kingdom"
+    ],
+    "birthday": "November 8th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

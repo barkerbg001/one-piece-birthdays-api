@@ -3,8 +3,38 @@
   "label": "September 15th",
   "month": 9,
   "day": 15,
-  "characters": [
+  "names": [
     "Spoil",
     "O-Tsuru"
+  ],
+  "characters": [
+    {
+      "id": "spoil",
+      "name": "Spoil",
+      "display_name": "Spoil",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/46/Spoil_Anime_Infobox.png/revision/latest/scale-to-width-down/254?cb=20130512235615",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/46/Spoil_Anime_Infobox.png/revision/latest?cb=20130512235615",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Spoil",
+      "epithet": null,
+      "affiliation": "Thriller Bark Victim's Association",
+      "api": "v1/characters/spoil.json"
+    },
+    {
+      "id": "o-tsuru",
+      "name": "O-Tsuru",
+      "display_name": "O-Tsuru",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/75/Tsurujo_Anime_Infobox.png/revision/latest/scale-to-width-down/194?cb=20190901063038",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/75/Tsurujo_Anime_Infobox.png/revision/latest?cb=20190901063038",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Tsurujo",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/o-tsuru.json"
+    }
   ]
 }

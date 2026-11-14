@@ -3,7 +3,23 @@
   "label": "October 24th",
   "month": 10,
   "day": 24,
-  "characters": [
+  "names": [
     "X Drake (Diez Drake)"
+  ],
+  "characters": [
+    {
+      "id": "x-drake",
+      "name": "X Drake",
+      "display_name": "X Drake (Diez Drake)",
+      "alias": "Diez Drake",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/04/X_Drake_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/237?cb=20200209080003",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/04/X_Drake_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200209080003",
+      "wiki_url": "https://onepiece.fandom.com/wiki/X_Drake",
+      "epithet": "\"Red Flag\"",
+      "affiliation": "Marines (SWORD)",
+      "api": "v1/characters/x-drake.json"
+    }
   ]
 }

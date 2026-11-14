@@ -1,0 +1,71 @@
+{
+  "id": "sakazuki",
+  "name": "Sakazuki",
+  "display_name": "Sakazuki (Akainu)",
+  "alias": "Akainu",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-16",
+      "label": "August 16th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Sakazuki_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20220829052511",
+    "width": 1920,
+    "height": 3204
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Sakazuki_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/239?cb=20220829052511",
+    "width": 239,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Sakazuki",
+    "url": "https://onepiece.fandom.com/wiki/Sakazuki"
+  },
+  "info": {
+    "japanese_name": "サカズキ",
+    "debut": [
+      "Chapter 397",
+      "Episode 278"
+    ],
+    "affiliations": [
+      "Marines"
+    ],
+    "occupations": [
+      "Fleet Admiral",
+      "Admiral (former)",
+      "Vice Admiral (former)"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Marine Headquarters (New Marineford)"
+    ],
+    "aliases": [
+      "Akainu"
+    ],
+    "age": "53 (debut); 55 (after timeskip)",
+    "birthday": "August 16th",
+    "height": "306 cm (10’)",
+    "blood_type": "F",
+    "bounty": "(5,000,000,000)",
+    "devil_fruit": "Magu Magu no Mi",
+    "devil_fruit_english": "Mag-Mag Fruit (VIZ); Magma-Magma Fruit",
+    "devil_fruit_type": "Logia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

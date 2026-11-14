@@ -3,10 +3,68 @@
   "label": "July 1st",
   "month": 7,
   "day": 1,
-  "characters": [
+  "names": [
     "Nako",
     "Batchee",
     "Mansion Guards",
     "Kabu"
+  ],
+  "characters": [
+    {
+      "id": "nako",
+      "name": "Nako",
+      "display_name": "Nako",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Nako_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250526150303",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Nako_Anime_Infobox.png/revision/latest?cb=20250526150303",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Nako",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/nako.json"
+    },
+    {
+      "id": "batchee",
+      "name": "Batchee",
+      "display_name": "Batchee",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/37/Batchee_Manga_Infobox.png/revision/latest?cb=20241005092716",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/37/Batchee_Manga_Infobox.png/revision/latest?cb=20241005092716",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Batchee",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/batchee.json"
+    },
+    {
+      "id": "mansion-guards",
+      "name": "Mansion Guards",
+      "display_name": "Mansion Guards",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/78/Mansion%27s_Guards_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130127095334",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/78/Mansion%27s_Guards_Anime_Infobox.png/revision/latest?cb=20130127095334",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mansion%27s_Guards",
+      "epithet": null,
+      "affiliation": "Tessle Company",
+      "api": "v1/characters/mansion-guards.json"
+    },
+    {
+      "id": "kabu",
+      "name": "Kabu",
+      "display_name": "Kabu",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/45/Kabu_Anime_Infobox.png/revision/latest/scale-to-width-down/306?cb=20141006004747",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/45/Kabu_Anime_Infobox.png/revision/latest?cb=20141006004747",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kabu",
+      "epithet": null,
+      "affiliation": "Tontatta Kingdom",
+      "api": "v1/characters/kabu.json"
+    }
   ]
 }

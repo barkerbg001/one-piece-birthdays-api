@@ -1,0 +1,70 @@
+{
+  "id": "poppoko",
+  "name": "Poppoko",
+  "display_name": "Poppoko",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-02",
+      "label": "September 2nd"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "heppoko",
+      "name": "Heppoko"
+    },
+    {
+      "id": "peppoko",
+      "name": "Peppoko"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Poppoko_Anime_Infobox.png/revision/latest?cb=20250117025634",
+    "width": 620,
+    "height": 463
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Poppoko_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250117025634",
+    "width": 400,
+    "height": 299
+  },
+  "wiki": {
+    "title": "Poppoko",
+    "url": "https://onepiece.fandom.com/wiki/Poppoko"
+  },
+  "info": {
+    "japanese_name": "ポッポコ",
+    "romanized_name": "Poppoko",
+    "official_english_name": "Poppoko",
+    "debut": [
+      "Chapter 2",
+      "Episode 1"
+    ],
+    "affiliations": [
+      "Alvida Pirates (disbanded)"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Goat Island"
+    ],
+    "birthday": "September 2nd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

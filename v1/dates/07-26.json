@@ -3,7 +3,23 @@
   "label": "July 26th",
   "month": 7,
   "day": 26,
-  "characters": [
+  "names": [
     "Mr. 5 (Gem)"
+  ],
+  "characters": [
+    {
+      "id": "mr-5",
+      "name": "Mr. 5",
+      "display_name": "Mr. 5 (Gem)",
+      "alias": "Gem",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/14/Gem_Anime_Infobox.png/revision/latest/scale-to-width-down/261?cb=20221003165534",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/14/Gem_Anime_Infobox.png/revision/latest?cb=20221003165534",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gem",
+      "epithet": "\"Gem of the Border\"",
+      "affiliation": "New Spiders Cafe",
+      "api": "v1/characters/mr-5.json"
+    }
   ]
 }

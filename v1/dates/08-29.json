@@ -3,8 +3,38 @@
   "label": "August 29th",
   "month": 8,
   "day": 29,
-  "characters": [
+  "names": [
     "Farul",
     "Panda Shark"
+  ],
+  "characters": [
+    {
+      "id": "farul",
+      "name": "Farul",
+      "display_name": "Farul",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Farul_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20180508215529",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Farul_Anime_Infobox.png/revision/latest?cb=20180508215529",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Farul",
+      "epithet": null,
+      "affiliation": "Beautiful Pirates",
+      "api": "v1/characters/farul.json"
+    },
+    {
+      "id": "panda-shark",
+      "name": "Panda Shark",
+      "display_name": "Panda Shark",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/panda-shark.json"
+    }
   ]
 }

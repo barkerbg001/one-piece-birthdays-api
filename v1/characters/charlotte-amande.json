@@ -1,0 +1,78 @@
+{
+  "id": "charlotte-amande",
+  "name": "Charlotte Amande",
+  "display_name": "Charlotte Amande",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-10",
+      "label": "December 10th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-mondee",
+      "name": "Charlotte Mondée"
+    },
+    {
+      "id": "charlotte-hachee",
+      "name": "Charlotte Hachée"
+    },
+    {
+      "id": "charlotte-effilee",
+      "name": "Charlotte Effilée"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Charlotte_Amande_Anime_Infobox.png/revision/latest?cb=20171016155845",
+    "width": 1485,
+    "height": 1604
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Charlotte_Amande_Anime_Infobox.png/revision/latest/scale-to-width-down/370?cb=20171016155845",
+    "width": 370,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Amande",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Amande"
+  },
+  "info": {
+    "japanese_name": "シャーロット・アマンド",
+    "romanized_name": "Shārotto Amando",
+    "official_english_name": "Charlotte Amande",
+    "debut": [
+      "Chapter 827",
+      "Episode 786"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Minister of Nuts"
+    ],
+    "residence": [
+      "Nuts Island"
+    ],
+    "epithet": "\"Demon Lady\"",
+    "age": "47",
+    "birthday": "December 10th",
+    "bounty": "Unknown"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

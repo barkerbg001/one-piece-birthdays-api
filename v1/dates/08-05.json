@@ -3,9 +3,53 @@
   "label": "August 5th",
   "month": 8,
   "day": 5,
-  "characters": [
+  "names": [
     "Octopako",
     "Gaimon",
     "Vasco Shot"
+  ],
+  "characters": [
+    {
+      "id": "octopako",
+      "name": "Octopako",
+      "display_name": "Octopako",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Octopako_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20150520131721",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Octopako_Anime_Infobox.png/revision/latest?cb=20150520131721",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Octopako",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/octopako.json"
+    },
+    {
+      "id": "gaimon",
+      "name": "Gaimon",
+      "display_name": "Gaimon",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b2/Gaimon_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20221107181308",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b2/Gaimon_Anime_Infobox.png/revision/latest?cb=20221107181308",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gaimon",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/gaimon.json"
+    },
+    {
+      "id": "vasco-shot",
+      "name": "Vasco Shot",
+      "display_name": "Vasco Shot",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/66/Vasco_Shot_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240728020838",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/66/Vasco_Shot_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240728020838",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Vasco_Shot",
+      "epithet": "\"Heavy Drinker\" Vasco Shot",
+      "affiliation": "Blackbeard Pirates",
+      "api": "v1/characters/vasco-shot.json"
+    }
   ]
 }

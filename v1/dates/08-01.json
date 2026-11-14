@@ -3,9 +3,53 @@
   "label": "August 1st",
   "month": 8,
   "day": 1,
-  "characters": [
+  "names": [
     "Aphelandra",
     "Urouge",
     "Bishamon"
+  ],
+  "characters": [
+    {
+      "id": "aphelandra",
+      "name": "Aphelandra",
+      "display_name": "Aphelandra",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/31/Aphelandra_Anime_Infobox.png/revision/latest/scale-to-width-down/260?cb=20140928162409",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/31/Aphelandra_Anime_Infobox.png/revision/latest?cb=20140928162409",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Aphelandra",
+      "epithet": null,
+      "affiliation": "Kuja",
+      "api": "v1/characters/aphelandra.json"
+    },
+    {
+      "id": "urouge",
+      "name": "Urouge",
+      "display_name": "Urouge",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fb/Urouge_Anime_Infobox.png/revision/latest/scale-to-width-down/292?cb=20230126223235",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/fb/Urouge_Anime_Infobox.png/revision/latest?cb=20230126223235",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Urouge",
+      "epithet": "\"Mad Monk\"",
+      "affiliation": "Fallen Monk Pirates",
+      "api": "v1/characters/urouge.json"
+    },
+    {
+      "id": "bishamon",
+      "name": "Bishamon",
+      "display_name": "Bishamon",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Bishamon_Anime_Infobox.png/revision/latest/scale-to-width-down/231?cb=20200927094155",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Bishamon_Anime_Infobox.png/revision/latest?cb=20200927094155",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Bishamon",
+      "epithet": null,
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/bishamon.json"
+    }
   ]
 }

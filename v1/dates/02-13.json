@@ -3,7 +3,23 @@
   "label": "February 13th",
   "month": 2,
   "day": 13,
-  "characters": [
+  "names": [
     "Nefertari Cobra"
+  ],
+  "characters": [
+    {
+      "id": "nefertari-cobra",
+      "name": "Nefertari Cobra",
+      "display_name": "Nefertari Cobra",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7f/Nefertari_Cobra_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/340?cb=20170219154108",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7f/Nefertari_Cobra_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20170219154108",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Nefertari_Cobra",
+      "epithet": null,
+      "affiliation": "Arabasta Kingdom",
+      "api": "v1/characters/nefertari-cobra.json"
+    }
   ]
 }

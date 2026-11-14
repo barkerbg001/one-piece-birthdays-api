@@ -3,7 +3,23 @@
   "label": "January 11th",
   "month": 1,
   "day": 11,
-  "characters": [
+  "names": [
     "Itomimizu"
+  ],
+  "characters": [
+    {
+      "id": "itomimizu",
+      "name": "Itomimizu",
+      "display_name": "Itomimizu",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/40/Itomimizu_Anime_Infobox.png/revision/latest/scale-to-width-down/263?cb=20130212050910",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/40/Itomimizu_Anime_Infobox.png/revision/latest?cb=20130212050910",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Itomimizu",
+      "epithet": null,
+      "affiliation": "Foxy Pirates (former)",
+      "api": "v1/characters/itomimizu.json"
+    }
   ]
 }

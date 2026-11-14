@@ -1,0 +1,57 @@
+{
+  "id": "minozebra",
+  "name": "Minozebra",
+  "display_name": "Minozebra",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-07",
+      "label": "March 7th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/05/Minozebra_Anime_Infobox.png/revision/latest?cb=20100119225840",
+    "width": 410,
+    "height": 692
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/05/Minozebra_Anime_Infobox.png/revision/latest/scale-to-width-down/237?cb=20100119225840",
+    "width": 237,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Minozebra",
+    "url": "https://onepiece.fandom.com/wiki/Minozebra"
+  },
+  "info": {
+    "japanese_name": "ミノゼブラ",
+    "romanized_name": "Minozebura",
+    "debut": [
+      "Chapter 533",
+      "Episode 434"
+    ],
+    "affiliations": [
+      "Impel Down",
+      "World Government"
+    ],
+    "occupations": [
+      "Jailer Beast"
+    ],
+    "birthday": "March 7th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

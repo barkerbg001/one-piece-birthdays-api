@@ -1,0 +1,61 @@
+{
+  "id": "woop-slap",
+  "name": "Woop Slap",
+  "display_name": "Woop Slap",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-28",
+      "label": "February 28th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Woop_Slap_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20190519184815",
+    "width": 373,
+    "height": 433
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Woop_Slap_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/345?cb=20190519184815",
+    "width": 345,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Woop Slap",
+    "url": "https://onepiece.fandom.com/wiki/Woop_Slap"
+  },
+  "info": {
+    "japanese_name": "ウープ・スラップ",
+    "romanized_name": "Ūpu Surappu",
+    "official_english_name": "Woop Slap",
+    "debut": [
+      "Chapter 1",
+      "Episode 4"
+    ],
+    "affiliations": [
+      "Foosha Village"
+    ],
+    "occupations": [
+      "Mayor"
+    ],
+    "origin": "East Blue (Goa Kingdom)",
+    "residence": [
+      "Foosha Village"
+    ],
+    "birthday": "February 28th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

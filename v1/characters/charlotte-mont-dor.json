@@ -1,0 +1,71 @@
+{
+  "id": "charlotte-mont-dor",
+  "name": "Charlotte Mont-d’Or",
+  "display_name": "Charlotte Mont-d’Or",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-23",
+      "label": "April 23rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Charlotte_Mont-d%27Or_Anime_Infobox.png/revision/latest?cb=20180325090436",
+    "width": 914,
+    "height": 2120
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Charlotte_Mont-d%27Or_Anime_Infobox.png/revision/latest/scale-to-width-down/172?cb=20180325090436",
+    "width": 172,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Mont-d'Or",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Mont-d%27Or"
+  },
+  "info": {
+    "japanese_name": "シャーロット・モンドール",
+    "romanized_name": "Shārotto Mondōru",
+    "official_english_name": "Charlotte Montd'Or (Viz) Charlotte Mont-d'Or (WT100)",
+    "debut": [
+      "Chapter 829",
+      "Episode 789"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Minister of Cheese"
+    ],
+    "origin": "Grand Line (On a boat)",
+    "residence": [
+      "Cheese Island"
+    ],
+    "epithet": "\"Scribe\"",
+    "age": "38",
+    "birthday": "April 23rd (World Book Day)",
+    "height": "260 cm (8'6\")",
+    "blood_type": "X",
+    "bounty": "120,000,000",
+    "devil_fruit": "Buku Buku no Mi",
+    "devil_fruit_english": "Book-Book Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

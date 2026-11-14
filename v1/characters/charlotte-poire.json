@@ -1,0 +1,64 @@
+{
+  "id": "charlotte-poire",
+  "name": "Charlotte Poire",
+  "display_name": "Charlotte Poire",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-19",
+      "label": "October 19th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-galette",
+      "name": "Charlotte Galette"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/57/Charlotte_Poire_Anime_Infobox.png/revision/latest?cb=20200315062453",
+    "width": 1200,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/57/Charlotte_Poire_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20200315062453",
+    "width": 400,
+    "height": 360
+  },
+  "wiki": {
+    "title": "Charlotte Poire",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Poire"
+  },
+  "info": {
+    "japanese_name": "シャーロット・ポワール",
+    "romanized_name": "Shārotto Powāru",
+    "official_english_name": "Charlotte Poire",
+    "debut": [
+      "Chapter 860",
+      "Episode 830"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "age": "31",
+    "birthday": "October 19th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

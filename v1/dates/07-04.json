@@ -3,7 +3,23 @@
   "label": "July 4th",
   "month": 7,
   "day": 4,
-  "characters": [
+  "names": [
     "Caribou"
+  ],
+  "characters": [
+    {
+      "id": "caribou",
+      "name": "Caribou",
+      "display_name": "Caribou",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/76/Caribou_Anime_Infobox.png/revision/latest/scale-to-width-down/329?cb=20221124030700",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/76/Caribou_Anime_Infobox.png/revision/latest?cb=20221124030700",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Caribou",
+      "epithet": "\"Wet-Haired Caribou\"",
+      "affiliation": "Caribou Pirates",
+      "api": "v1/characters/caribou.json"
+    }
   ]
 }

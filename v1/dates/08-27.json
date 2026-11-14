@@ -3,7 +3,23 @@
   "label": "August 27th",
   "month": 8,
   "day": 27,
-  "characters": [
+  "names": [
     "Monet"
+  ],
+  "characters": [
+    {
+      "id": "monet",
+      "name": "Monet",
+      "display_name": "Monet",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/98/Monet_Anime_Infobox.png/revision/latest/scale-to-width-down/257?cb=20140616000310",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/98/Monet_Anime_Infobox.png/revision/latest?cb=20140616000310",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Monet",
+      "epithet": null,
+      "affiliation": "Caesar Clown (espionage)",
+      "api": "v1/characters/monet.json"
+    }
   ]
 }

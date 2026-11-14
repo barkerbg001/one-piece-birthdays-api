@@ -1,0 +1,69 @@
+{
+  "id": "sasaki",
+  "name": "Sasaki",
+  "display_name": "Sasaki",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-03",
+      "label": "February 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Sasaki_Anime_Infobox.png/revision/latest?cb=20211205140441",
+    "width": 565,
+    "height": 740
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Sasaki_Anime_Infobox.png/revision/latest/scale-to-width-down/305?cb=20211205140441",
+    "width": 305,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Sasaki",
+    "url": "https://onepiece.fandom.com/wiki/Sasaki"
+  },
+  "info": {
+    "japanese_name": "ササキ",
+    "romanized_name": "Sasaki",
+    "official_english_name": "Sasaki",
+    "debut": [
+      "Chapter 977",
+      "Episode 954 (silhouette)",
+      "Episode 982 (actual)"
+    ],
+    "affiliations": [
+      "Beasts Pirates (Tobiroppo)",
+      "Sasaki Pirates (former)"
+    ],
+    "occupations": [
+      "Shinuchi",
+      "Pirate Captain (former)"
+    ],
+    "origin": "Grand Line",
+    "epithet": "\"Overflowing Sasaki\"",
+    "age": "34",
+    "birthday": "February 3rd",
+    "height": "318 cm (10'5\")",
+    "blood_type": "XF",
+    "bounty": "472,000,000",
+    "devil_fruit": "Ryu Ryu no Mi, Model: Triceratops",
+    "devil_fruit_english": "Dragon-Dragon Fruit, Triceratops Model",
+    "devil_fruit_type": "Ancient Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

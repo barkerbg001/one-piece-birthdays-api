@@ -1,0 +1,58 @@
+{
+  "id": "rakuyo",
+  "name": "Rakuyo",
+  "display_name": "Rakuyo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-08",
+      "label": "September 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/12/Rakuyo_Anime_Infobox.png/revision/latest?cb=20130507032702",
+    "width": 789,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/12/Rakuyo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130507032702",
+    "width": 400,
+    "height": 365
+  },
+  "wiki": {
+    "title": "Rakuyo",
+    "url": "https://onepiece.fandom.com/wiki/Rakuyo"
+  },
+  "info": {
+    "japanese_name": "ラクヨウ",
+    "romanized_name": "Rakuyō",
+    "debut": [
+      "Chapter 553",
+      "Episode 461"
+    ],
+    "affiliations": [
+      "Whitebeard Pirates"
+    ],
+    "occupations": [
+      "7th Division Commander",
+      "Pirate"
+    ],
+    "origin": "South Blue|jva=Takahiro Fujimoto|Funi eva=James Chandler",
+    "birthday": "September 8th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

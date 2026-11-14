@@ -1,0 +1,71 @@
+{
+  "id": "kuzan",
+  "name": "Kuzan",
+  "display_name": "Kuzan (Aokiji)",
+  "alias": "Aokiji",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-21",
+      "label": "September 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Kuzan_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240811021341",
+    "width": 762,
+    "height": 935
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Kuzan_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/326?cb=20240811021341",
+    "width": 326,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kuzan",
+    "url": "https://onepiece.fandom.com/wiki/Kuzan"
+  },
+  "info": {
+    "japanese_name": "クザン",
+    "debut": [
+      "Chapter 303",
+      "Episode 225"
+    ],
+    "affiliations": [
+      "Blackbeard Pirates",
+      "Marines (resigned)"
+    ],
+    "occupations": [
+      "Titanic Captain (Captain of the Tenth Ship)",
+      "Admiral (former)",
+      "Vice Admiral (former)"
+    ],
+    "origin": "South Blue (Vespa Kingdom territory)",
+    "residence": [
+      "Hachinosu"
+    ],
+    "aliases": [
+      "Aokiji"
+    ],
+    "age": "47 (debut); 49 (after timeskip)",
+    "birthday": "September 21st",
+    "height": "298 cm (9'9¼\")",
+    "blood_type": "F",
+    "devil_fruit": "Hie Hie no Mi",
+    "devil_fruit_english": "Ice-Ice Fruit (Funimation); Chilly-Chilly Fruit (VIZ)",
+    "devil_fruit_type": "Logia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "mr-beans",
+  "name": "Mr. Beans",
+  "display_name": "Mr. Beans",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-24",
+      "label": "February 24th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/27/Mr._Beans_Anime_Infobox.png/revision/latest?cb=20240712024055",
+    "width": 283,
+    "height": 287
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/27/Mr._Beans_Anime_Infobox.png/revision/latest?cb=20240712024055",
+    "width": 394,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Mr. Beans",
+    "url": "https://onepiece.fandom.com/wiki/Mr._Beans"
+  },
+  "info": {
+    "japanese_name": "ミスター・ビーンズ",
+    "romanized_name": "Misutā Bīnzu",
+    "official_english_name": "Mr. Beans",
+    "debut": [
+      "Chapter 106",
+      "Episode 64"
+    ],
+    "affiliations": [
+      "Baroque Works (Millions) (former)"
+    ],
+    "occupations": [
+      "Bounty Hunter"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Cactus Island (Whisky Peak)"
+    ],
+    "birthday": "February 24th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

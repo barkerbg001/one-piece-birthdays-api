@@ -1,0 +1,58 @@
+{
+  "id": "mansion-guards",
+  "name": "Mansion Guards",
+  "display_name": "Mansion Guards",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-01",
+      "label": "July 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/78/Mansion%27s_Guards_Anime_Infobox.png/revision/latest?cb=20130127095334",
+    "width": 640,
+    "height": 480
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/78/Mansion%27s_Guards_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130127095334",
+    "width": 400,
+    "height": 300
+  },
+  "wiki": {
+    "title": "Mansion's Guards",
+    "url": "https://onepiece.fandom.com/wiki/Mansion%27s_Guards"
+  },
+  "info": {
+    "japanese_name": "門番",
+    "romanized_name": "Monban",
+    "official_english_name": "Mansion Guards (WT100 2nd)",
+    "debut": [
+      "Chapter 24",
+      "Episode 9"
+    ],
+    "affiliations": [
+      "Tessle Company"
+    ],
+    "occupations": [
+      "Kaya's security guards"
+    ],
+    "origin": "East Blue (Syrup Village) (Right Guard)",
+    "birthday": "July 1st (Right Guard)"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "pearl",
+  "name": "Pearl",
+  "display_name": "Pearl",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-11",
+      "label": "July 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8f/Pearl_Anime_Infobox.png/revision/latest?cb=20221003214553",
+    "width": 607,
+    "height": 998
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8f/Pearl_Anime_Infobox.png/revision/latest/scale-to-width-down/243?cb=20221003214553",
+    "width": 243,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Pearl",
+    "url": "https://onepiece.fandom.com/wiki/Pearl"
+  },
+  "info": {
+    "japanese_name": "パール",
+    "romanized_name": "Pāru",
+    "official_english_name": "Pearl",
+    "debut": [
+      "Chapter 54",
+      "Episode 25"
+    ],
+    "affiliations": [
+      "Krieg Pirates"
+    ],
+    "occupations": [
+      "Commander of the Krieg Pirates' second unit"
+    ],
+    "origin": "East Blue",
+    "epithet": "\"Pearl the Iron Wall\"",
+    "age": "23 (debut); 25 (after timeskip)",
+    "birthday": "July 11th",
+    "height": "239 cm (7'10\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

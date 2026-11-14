@@ -3,7 +3,23 @@
   "label": "January 17th",
   "month": 1,
   "day": 17,
-  "characters": [
+  "names": [
     "Capone Bege"
+  ],
+  "characters": [
+    {
+      "id": "capone-bege",
+      "name": "Capone Bege",
+      "display_name": "Capone Bege",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/99/Capone_Bege_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/245?cb=20160911163015",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/99/Capone_Bege_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20160911163015",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Capone_Bege",
+      "epithet": "\"Gang\"",
+      "affiliation": "Fire Tank Pirates",
+      "api": "v1/characters/capone-bege.json"
+    }
   ]
 }

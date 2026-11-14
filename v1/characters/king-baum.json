@@ -1,0 +1,64 @@
+{
+  "id": "king-baum",
+  "name": "King Baum",
+  "display_name": "King Baum",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-13",
+      "label": "July 13th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Kingbaum_Anime_Infobox.png/revision/latest?cb=20170716021602",
+    "width": 949,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Kingbaum_Anime_Infobox.png/revision/latest/scale-to-width-down/351?cb=20170716021602",
+    "width": 351,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kingbaum",
+    "url": "https://onepiece.fandom.com/wiki/Kingbaum"
+  },
+  "info": {
+    "japanese_name": "キングバーム",
+    "romanized_name": "Kingubāmu",
+    "official_english_name": "Kingbaum",
+    "debut": [
+      "Chapter 836",
+      "Episode 797"
+    ],
+    "affiliations": [
+      "Big Mom Pirates",
+      "Charlotte Family"
+    ],
+    "occupations": [
+      "Master of the Seducing Woods"
+    ],
+    "origin": "Grand Line (Totto Land)",
+    "residence": [
+      "Whole Cake Island (Seducing Woods)"
+    ],
+    "status": "1",
+    "birthday": "July 13th",
+    "height": "2340 cm (76'9\")"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

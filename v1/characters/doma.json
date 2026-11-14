@@ -1,0 +1,58 @@
+{
+  "id": "doma",
+  "name": "Doma",
+  "display_name": "Doma",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-01",
+      "label": "February 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Doma_Anime_Infobox.png/revision/latest?cb=20221202185948",
+    "width": 1012,
+    "height": 2182
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Doma_Anime_Infobox.png/revision/latest/scale-to-width-down/185?cb=20221202185948",
+    "width": 185,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Doma",
+    "url": "https://onepiece.fandom.com/wiki/Doma"
+  },
+  "info": {
+    "japanese_name": "ドーマ",
+    "romanized_name": "Dōma",
+    "debut": [
+      "Chapter 551",
+      "Episode 460"
+    ],
+    "affiliations": [
+      "Subordinate of the Whitebeard Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain"
+    ],
+    "epithet": "\"Bohemian Knight\"",
+    "birthday": "February 1st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

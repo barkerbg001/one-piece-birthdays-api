@@ -1,0 +1,64 @@
+{
+  "id": "pisaro",
+  "name": "Pisaro",
+  "display_name": "Pisaro",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-14",
+      "label": "August 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Pisaro_Anime_Infobox.png/revision/latest?cb=20130424235926",
+    "width": 251,
+    "height": 291
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Pisaro_Anime_Infobox.png/revision/latest?cb=20130424235926",
+    "width": 345,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Pisaro",
+    "url": "https://onepiece.fandom.com/wiki/Pisaro"
+  },
+  "info": {
+    "japanese_name": "ピサロ",
+    "romanized_name": "Pisaro",
+    "official_english_name": "Pisaro",
+    "debut": [
+      "Chapter 72",
+      "Episode 32"
+    ],
+    "affiliations": [
+      "Arlong Pirates",
+      "Sun Pirates (former)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Musician"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Fish-Man District (former)",
+      "Arlong Park (former)"
+    ],
+    "birthday": "August 14th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

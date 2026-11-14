@@ -1,0 +1,62 @@
+{
+  "id": "take",
+  "name": "Take",
+  "display_name": "Take",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-21",
+      "label": "August 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c7/Take_Anime_Infobox.png/revision/latest?cb=20131017164140",
+    "width": 227,
+    "height": 338
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c7/Take_Anime_Infobox.png/revision/latest?cb=20131017164140",
+    "width": 268,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Take",
+    "url": "https://onepiece.fandom.com/wiki/Take"
+  },
+  "info": {
+    "japanese_name": "タケ",
+    "romanized_name": "Take",
+    "official_english_name": "Take",
+    "debut": [
+      "Chapter 75",
+      "Episode 33"
+    ],
+    "affiliations": [
+      "Arlong Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Commander of Parties"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Fish-Man District (former), Arlong Park (former)"
+    ],
+    "birthday": "August 21st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

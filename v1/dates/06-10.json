@@ -3,8 +3,38 @@
   "label": "June 10th",
   "month": 6,
   "day": 10,
-  "characters": [
+  "names": [
     "Dalton",
     "Portgas D. Rouge"
+  ],
+  "characters": [
+    {
+      "id": "dalton",
+      "name": "Dalton",
+      "display_name": "Dalton",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/07/Dalton_Anime_Infobox.png/revision/latest/scale-to-width-down/388?cb=20230101225126",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/07/Dalton_Anime_Infobox.png/revision/latest?cb=20230101225126",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Dalton",
+      "epithet": null,
+      "affiliation": "Sakura Kingdom",
+      "api": "v1/characters/dalton.json"
+    },
+    {
+      "id": "portgas-d-rouge",
+      "name": "Portgas D. Rouge",
+      "display_name": "Portgas D. Rouge",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9c/Portgas_D._Rouge_Anime_Infobox.png/revision/latest/scale-to-width-down/292?cb=20240731221040",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9c/Portgas_D._Rouge_Anime_Infobox.png/revision/latest?cb=20240731221040",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Portgas_D._Rouge",
+      "epithet": null,
+      "affiliation": "Gol D. Roger",
+      "api": "v1/characters/portgas-d-rouge.json"
+    }
   ]
 }

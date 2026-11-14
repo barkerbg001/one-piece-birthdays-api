@@ -1,0 +1,63 @@
+{
+  "id": "candre",
+  "name": "Candre",
+  "display_name": "Candre",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-19",
+      "label": "May 19th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "andre",
+      "name": "Andre"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ac/Candre_Manga_Infobox.png/revision/latest?cb=20170103202001",
+    "width": 322,
+    "height": 480
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ac/Candre_Manga_Infobox.png/revision/latest/scale-to-width-down/268?cb=20170103202001",
+    "width": 268,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Candre",
+    "url": "https://onepiece.fandom.com/wiki/Candre"
+  },
+  "info": {
+    "japanese_name": "カンドレ",
+    "romanized_name": "Kandore",
+    "official_english_name": "Kandre",
+    "debut": [
+      "Chapter 557",
+      "One Piece Film: Z"
+    ],
+    "affiliations": [
+      "Marines"
+    ],
+    "occupations": [
+      "Marine Officer"
+    ],
+    "age": "Over 30",
+    "birthday": "May 19th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

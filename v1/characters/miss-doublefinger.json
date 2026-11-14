@@ -1,0 +1,73 @@
+{
+  "id": "miss-doublefinger",
+  "name": "Miss Doublefinger",
+  "display_name": "Miss Doublefinger (Zala)",
+  "alias": "Zala",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-30",
+      "label": "July 30th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/60/Zala_Anime_Infobox.png/revision/latest?cb=20221003164424",
+    "width": 682,
+    "height": 1380
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/60/Zala_Anime_Infobox.png/revision/latest/scale-to-width-down/197?cb=20221003164424",
+    "width": 197,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Zala",
+    "url": "https://onepiece.fandom.com/wiki/Zala"
+  },
+  "info": {
+    "japanese_name": "ザラ",
+    "romanized_name": "Zara",
+    "official_english_name": "Zala",
+    "debut": [
+      "Chapter 155",
+      "Episode 103"
+    ],
+    "affiliations": [
+      "New Spiders Cafe",
+      "Baroque Works (Former)"
+    ],
+    "occupations": [
+      "Spiders Cafe Owner",
+      "Assassin (Former)",
+      "Officer Agent (Former)"
+    ],
+    "origin": "Grand Line",
+    "epithet": "\"Poison Spider Zala\"",
+    "aliases": [
+      "Miss Doublefinger",
+      "Paula"
+    ],
+    "age": "26 (debut); 28 (after timeskip)",
+    "birthday": "July 30th",
+    "height": "187 cm (6'2\")",
+    "blood_type": "X",
+    "bounty": "35,000,000",
+    "devil_fruit": "Toge Toge no Mi",
+    "devil_fruit_english": "Spike-Spike Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

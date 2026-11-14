@@ -1,0 +1,64 @@
+{
+  "id": "charlotte-joscarpone",
+  "name": "Charlotte Joscarpone",
+  "display_name": "Charlotte Joscarpone",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-27",
+      "label": "February 27th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-mascarpone",
+      "name": "Charlotte Mascarpone"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ae/Charlotte_Joscarpone_Anime_Infobox.png/revision/latest?cb=20171030014906",
+    "width": 402,
+    "height": 768
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ae/Charlotte_Joscarpone_Anime_Infobox.png/revision/latest/scale-to-width-down/209?cb=20171030014906",
+    "width": 209,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Joscarpone",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Joscarpone"
+  },
+  "info": {
+    "japanese_name": "シャーロット・ジョスカルポーネ",
+    "romanized_name": "Shārotto Josukarupōne",
+    "official_english_name": "Charlotte Joscarpone",
+    "debut": [
+      "Chapter 845",
+      "Episode 809"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "age": "20",
+    "birthday": "February 27th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

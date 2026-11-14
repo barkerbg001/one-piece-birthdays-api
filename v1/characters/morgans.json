@@ -1,0 +1,68 @@
+{
+  "id": "morgans",
+  "name": "Morgans",
+  "display_name": "Morgans",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-14",
+      "label": "July 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/87/Morgans_Anime_Infobox.png/revision/latest?cb=20260405065914",
+    "width": 657,
+    "height": 1055
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/87/Morgans_Anime_Infobox.png/revision/latest/scale-to-width-down/249?cb=20260405065914",
+    "width": 249,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Morgans",
+    "url": "https://onepiece.fandom.com/wiki/Morgans"
+  },
+  "info": {
+    "japanese_name": "モルガンズ",
+    "romanized_name": "Moruganzu",
+    "official_english_name": "Morgans",
+    "debut": [
+      "Chapter 860",
+      "Episode 828 (silhouette)",
+      "Episode 830 (actual)"
+    ],
+    "affiliations": [
+      "World Economy News Paper",
+      "Underworld"
+    ],
+    "occupations": [
+      "World Economy News Paper President",
+      "Emperor of the Underworld"
+    ],
+    "origin": "Grand Line",
+    "epithet": "\"Big News\"",
+    "age": "53",
+    "birthday": "July 14th",
+    "height": "305 cm (10'0\")",
+    "blood_type": "XF",
+    "devil_fruit": "Tori Tori no Mi, Model: Albatross",
+    "devil_fruit_english": "Tweet-Tweet Fruit, Albatross Model (Crunchy subs); Bird-Bird Fruit, Model: Albatross (One Piece Official YouTube Channel)",
+    "devil_fruit_type": "Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

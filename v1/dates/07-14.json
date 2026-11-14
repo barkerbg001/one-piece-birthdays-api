@@ -3,8 +3,38 @@
   "label": "July 14th",
   "month": 7,
   "day": 14,
-  "characters": [
+  "names": [
     "Morgans",
     "Bastille"
+  ],
+  "characters": [
+    {
+      "id": "morgans",
+      "name": "Morgans",
+      "display_name": "Morgans",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/87/Morgans_Anime_Infobox.png/revision/latest/scale-to-width-down/249?cb=20260405065914",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/87/Morgans_Anime_Infobox.png/revision/latest?cb=20260405065914",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Morgans",
+      "epithet": "\"Big News\"",
+      "affiliation": "World Economy News Paper",
+      "api": "v1/characters/morgans.json"
+    },
+    {
+      "id": "bastille",
+      "name": "Bastille",
+      "display_name": "Bastille",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Bastille_Anime_Infobox.png/revision/latest/scale-to-width-down/244?cb=20200507114049",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Bastille_Anime_Infobox.png/revision/latest?cb=20200507114049",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Bastille",
+      "epithet": "\"Shark Cutter\"",
+      "affiliation": "Marines",
+      "api": "v1/characters/bastille.json"
+    }
   ]
 }

@@ -1,0 +1,54 @@
+{
+  "id": "kairiken",
+  "name": "Kairiken",
+  "display_name": "Kairiken",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-24",
+      "label": "January 24th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9b/Kairiken_Anime_Infobox.png/revision/latest?cb=20240429005744",
+    "width": 1576,
+    "height": 1068
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9b/Kairiken_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240429005744",
+    "width": 400,
+    "height": 271
+  },
+  "wiki": {
+    "title": "Kairiken",
+    "url": "https://onepiece.fandom.com/wiki/Kairiken"
+  },
+  "info": {
+    "japanese_name": "カイリケン",
+    "romanized_name": "Kairiken",
+    "official_english_name": "Kairiken",
+    "debut": [
+      "Chapter 498",
+      "Episode 392"
+    ],
+    "occupations": [
+      "Bounty Hunter"
+    ],
+    "birthday": "January 24th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

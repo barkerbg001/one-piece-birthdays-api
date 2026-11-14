@@ -2,17 +2,80 @@
   "month": 7,
   "name": "July",
   "count": 56,
+  "calendar_image": {
+    "url": "https://i0.wp.com/thelibraryofohara.com/wp-content/uploads/2022/03/july2-1-2.png",
+    "width": 1912,
+    "height": 1472
+  },
   "days": [
     {
       "date": "07-01",
       "label": "July 1st",
       "month": 7,
       "day": 1,
-      "characters": [
+      "names": [
         "Nako",
         "Batchee",
         "Mansion Guards",
         "Kabu"
+      ],
+      "characters": [
+        {
+          "id": "nako",
+          "name": "Nako",
+          "display_name": "Nako",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Nako_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250526150303",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Nako_Anime_Infobox.png/revision/latest?cb=20250526150303",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Nako",
+          "epithet": null,
+          "affiliation": null,
+          "api": "v1/characters/nako.json"
+        },
+        {
+          "id": "batchee",
+          "name": "Batchee",
+          "display_name": "Batchee",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/37/Batchee_Manga_Infobox.png/revision/latest?cb=20241005092716",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/3/37/Batchee_Manga_Infobox.png/revision/latest?cb=20241005092716",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Batchee",
+          "epithet": null,
+          "affiliation": null,
+          "api": "v1/characters/batchee.json"
+        },
+        {
+          "id": "mansion-guards",
+          "name": "Mansion Guards",
+          "display_name": "Mansion Guards",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/78/Mansion%27s_Guards_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130127095334",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/7/78/Mansion%27s_Guards_Anime_Infobox.png/revision/latest?cb=20130127095334",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Mansion%27s_Guards",
+          "epithet": null,
+          "affiliation": "Tessle Company",
+          "api": "v1/characters/mansion-guards.json"
+        },
+        {
+          "id": "kabu",
+          "name": "Kabu",
+          "display_name": "Kabu",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/45/Kabu_Anime_Infobox.png/revision/latest/scale-to-width-down/306?cb=20141006004747",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/4/45/Kabu_Anime_Infobox.png/revision/latest?cb=20141006004747",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Kabu",
+          "epithet": null,
+          "affiliation": "Tontatta Kingdom",
+          "api": "v1/characters/kabu.json"
+        }
       ]
     },
     {
@@ -20,8 +83,24 @@
       "label": "July 2nd",
       "month": 7,
       "day": 2,
-      "characters": [
+      "names": [
         "Minister of the Left"
+      ],
+      "characters": [
+        {
+          "id": "minister-of-the-left",
+          "name": "Minister of the Left",
+          "display_name": "Minister of the Left",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Minister_of_the_Left_Anime_Infobox.png/revision/latest/scale-to-width-down/387?cb=20241229031653",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Minister_of_the_Left_Anime_Infobox.png/revision/latest?cb=20241229031653",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Minister_of_the_Left",
+          "epithet": null,
+          "affiliation": "Ryugu Kingdom",
+          "api": "v1/characters/minister-of-the-left.json"
+        }
       ]
     },
     {
@@ -29,10 +108,54 @@
       "label": "July 3rd",
       "month": 7,
       "day": 3,
-      "characters": [
+      "names": [
         "Nami",
         "Neptune",
         "Fish Nami"
+      ],
+      "characters": [
+        {
+          "id": "nami",
+          "name": "Nami",
+          "display_name": "Nami",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/68/Nami_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/239?cb=20260315214841",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/6/68/Nami_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20260315214841",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Nami",
+          "epithet": "Cat Burglar",
+          "affiliation": "Straw Hat Pirates",
+          "api": "v1/characters/nami.json"
+        },
+        {
+          "id": "neptune",
+          "name": "Neptune",
+          "display_name": "Neptune",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/40/Neptune_Anime_Infobox.png/revision/latest/scale-to-width-down/333?cb=20131206042454",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/4/40/Neptune_Anime_Infobox.png/revision/latest?cb=20131206042454",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Neptune",
+          "epithet": "\"Sea God\"; \"Great Knight of the Sea\"",
+          "affiliation": "Neptune Family",
+          "api": "v1/characters/neptune.json"
+        },
+        {
+          "id": "fish-nami",
+          "name": "Fish Nami",
+          "display_name": "Fish Nami",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": null,
+          "image": null,
+          "wiki_url": null,
+          "epithet": null,
+          "affiliation": null,
+          "api": "v1/characters/fish-nami.json"
+        }
       ]
     },
     {
@@ -40,8 +163,24 @@
       "label": "July 4th",
       "month": 7,
       "day": 4,
-      "characters": [
+      "names": [
         "Caribou"
+      ],
+      "characters": [
+        {
+          "id": "caribou",
+          "name": "Caribou",
+          "display_name": "Caribou",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/76/Caribou_Anime_Infobox.png/revision/latest/scale-to-width-down/329?cb=20221124030700",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/7/76/Caribou_Anime_Infobox.png/revision/latest?cb=20221124030700",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Caribou",
+          "epithet": "\"Wet-Haired Caribou\"",
+          "affiliation": "Caribou Pirates",
+          "api": "v1/characters/caribou.json"
+        }
       ]
     },
     {
@@ -49,8 +188,24 @@
       "label": "July 5th",
       "month": 7,
       "day": 5,
-      "characters": [
+      "names": [
         "Vergo"
+      ],
+      "characters": [
+        {
+          "id": "vergo",
+          "name": "Vergo",
+          "display_name": "Vergo",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/cf/Vergo_Anime_Infobox.png/revision/latest/scale-to-width-down/176?cb=20230101232239",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/c/cf/Vergo_Anime_Infobox.png/revision/latest?cb=20230101232239",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Vergo",
+          "epithet": "\"Demon Bamboo\" Vergo",
+          "affiliation": "Donquixote Pirates",
+          "api": "v1/characters/vergo.json"
+        }
       ]
     },
     {
@@ -58,9 +213,39 @@
       "label": "July 6th",
       "month": 7,
       "day": 6,
-      "characters": [
+      "names": [
         "Namur",
         "Lucky Roo"
+      ],
+      "characters": [
+        {
+          "id": "namur",
+          "name": "Namur",
+          "display_name": "Namur",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Namur_Anime_Infobox.png/revision/latest/scale-to-width-down/284?cb=20160102105750",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Namur_Anime_Infobox.png/revision/latest?cb=20160102105750",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Namur",
+          "epithet": null,
+          "affiliation": "Whitebeard Pirates",
+          "api": "v1/characters/namur.json"
+        },
+        {
+          "id": "lucky-roo",
+          "name": "Lucky Roo",
+          "display_name": "Lucky Roo",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/59/Lucky_Roux_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/351?cb=20220613165554",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/5/59/Lucky_Roux_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20220613165554",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Lucky_Roux",
+          "epithet": null,
+          "affiliation": "Red Hair Pirates",
+          "api": "v1/characters/lucky-roo.json"
+        }
       ]
     },
     {
@@ -68,8 +253,24 @@
       "label": "July 7th",
       "month": 7,
       "day": 7,
-      "characters": [
+      "names": [
         "Laki"
+      ],
+      "characters": [
+        {
+          "id": "laki",
+          "name": "Laki",
+          "display_name": "Laki",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Raki_Anime_Infobox.png/revision/latest/scale-to-width-down/262?cb=20260907175809",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Raki_Anime_Infobox.png/revision/latest?cb=20260907175809",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Raki",
+          "epithet": null,
+          "affiliation": "Shandia",
+          "api": "v1/characters/laki.json"
+        }
       ]
     },
     {
@@ -77,9 +278,39 @@
       "label": "July 8th",
       "month": 7,
       "day": 8,
-      "characters": [
+      "names": [
         "Daruma",
         "Paulie"
+      ],
+      "characters": [
+        {
+          "id": "daruma",
+          "name": "Daruma",
+          "display_name": "Daruma",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/0c/Daruma_Anime_Infobox.png/revision/latest/scale-to-width-down/331?cb=20230403212822",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/0/0c/Daruma_Anime_Infobox.png/revision/latest?cb=20230403212822",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Daruma",
+          "epithet": null,
+          "affiliation": "New Fish-Man Pirates",
+          "api": "v1/characters/daruma.json"
+        },
+        {
+          "id": "paulie",
+          "name": "Paulie",
+          "display_name": "Paulie",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/62/Paulie_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20251102160614",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/6/62/Paulie_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251102160614",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Paulie",
+          "epithet": null,
+          "affiliation": "Galley-La Company",
+          "api": "v1/characters/paulie.json"
+        }
       ]
     },
     {
@@ -87,8 +318,24 @@
       "label": "July 9th",
       "month": 7,
       "day": 9,
-      "characters": [
+      "names": [
         "Vinsmoke Sora"
+      ],
+      "characters": [
+        {
+          "id": "vinsmoke-sora",
+          "name": "Vinsmoke Sora",
+          "display_name": "Vinsmoke Sora",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Vinsmoke_Sora_Anime_Infobox.png/revision/latest/scale-to-width-down/336?cb=20190130220840",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Vinsmoke_Sora_Anime_Infobox.png/revision/latest?cb=20190130220840",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Vinsmoke_Sora",
+          "epithet": null,
+          "affiliation": "Vinsmoke Family",
+          "api": "v1/characters/vinsmoke-sora.json"
+        }
       ]
     },
     {
@@ -96,9 +343,39 @@
       "label": "July 10th",
       "month": 7,
       "day": 10,
-      "characters": [
+      "names": [
         "Kamakiri",
         "Ramba"
+      ],
+      "characters": [
+        {
+          "id": "kamakiri",
+          "name": "Kamakiri",
+          "display_name": "Kamakiri",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Kamakiri_Anime_Infobox.png/revision/latest/scale-to-width-down/339?cb=20230812143313",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Kamakiri_Anime_Infobox.png/revision/latest?cb=20230812143313",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Kamakiri",
+          "epithet": null,
+          "affiliation": "Shandia",
+          "api": "v1/characters/kamakiri.json"
+        },
+        {
+          "id": "ramba",
+          "name": "Ramba",
+          "display_name": "Ramba",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Ramba_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20100927002104",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Ramba_Anime_Infobox.png/revision/latest?cb=20100927002104",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Ramba",
+          "epithet": null,
+          "affiliation": "Subordinate of the Whitebeard Pirates",
+          "api": "v1/characters/ramba.json"
+        }
       ]
     },
     {
@@ -106,9 +383,39 @@
       "label": "July 11th",
       "month": 7,
       "day": 11,
-      "characters": [
+      "names": [
         "Pearl",
         "Blue Fan"
+      ],
+      "characters": [
+        {
+          "id": "pearl",
+          "name": "Pearl",
+          "display_name": "Pearl",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8f/Pearl_Anime_Infobox.png/revision/latest/scale-to-width-down/243?cb=20221003214553",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/8/8f/Pearl_Anime_Infobox.png/revision/latest?cb=20221003214553",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Pearl",
+          "epithet": "\"Pearl the Iron Wall\"",
+          "affiliation": "Krieg Pirates",
+          "api": "v1/characters/pearl.json"
+        },
+        {
+          "id": "blue-fan",
+          "name": "Blue Fan",
+          "display_name": "Blue Fan",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Blue_Fan_Anime_Infobox.png/revision/latest/scale-to-width-down/276?cb=20120929194926",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Blue_Fan_Anime_Infobox.png/revision/latest?cb=20120929194926",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Blue_Fan",
+          "epithet": null,
+          "affiliation": "Kuja Pirates",
+          "api": "v1/characters/blue-fan.json"
+        }
       ]
     },
     {
@@ -116,8 +423,24 @@
       "label": "July 12th",
       "month": 7,
       "day": 12,
-      "characters": [
+      "names": [
         "Sarkies"
+      ],
+      "characters": [
+        {
+          "id": "sarkies",
+          "name": "Sarkies",
+          "display_name": "Sarkies",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Sarquiss_Anime_Infobox.png/revision/latest/scale-to-width-down/384?cb=20230806215754",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Sarquiss_Anime_Infobox.png/revision/latest?cb=20230806215754",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Sarquiss",
+          "epithet": "\"Big Knife Sarquiss\"",
+          "affiliation": "Bellamy Pirates",
+          "api": "v1/characters/sarkies.json"
+        }
       ]
     },
     {
@@ -125,10 +448,54 @@
       "label": "July 13th",
       "month": 7,
       "day": 13,
-      "characters": [
+      "names": [
         "King Baum",
         "Acrobatic Fuwas",
         "Queen"
+      ],
+      "characters": [
+        {
+          "id": "king-baum",
+          "name": "King Baum",
+          "display_name": "King Baum",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Kingbaum_Anime_Infobox.png/revision/latest/scale-to-width-down/351?cb=20170716021602",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Kingbaum_Anime_Infobox.png/revision/latest?cb=20170716021602",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Kingbaum",
+          "epithet": null,
+          "affiliation": "Big Mom Pirates",
+          "api": "v1/characters/king-baum.json"
+        },
+        {
+          "id": "acrobatic-fuwas",
+          "name": "Acrobatic Fuwas",
+          "display_name": "Acrobatic Fuwas",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": null,
+          "image": null,
+          "wiki_url": null,
+          "epithet": null,
+          "affiliation": null,
+          "api": "v1/characters/acrobatic-fuwas.json"
+        },
+        {
+          "id": "queen",
+          "name": "Queen",
+          "display_name": "Queen",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/52/Queen_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20200920174728",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/5/52/Queen_Anime_Infobox.png/revision/latest?cb=20200920174728",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Queen",
+          "epithet": "\"Queen the Plague\"",
+          "affiliation": "Beasts Pirates",
+          "api": "v1/characters/queen.json"
+        }
       ]
     },
     {
@@ -136,9 +503,39 @@
       "label": "July 14th",
       "month": 7,
       "day": 14,
-      "characters": [
+      "names": [
         "Morgans",
         "Bastille"
+      ],
+      "characters": [
+        {
+          "id": "morgans",
+          "name": "Morgans",
+          "display_name": "Morgans",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/87/Morgans_Anime_Infobox.png/revision/latest/scale-to-width-down/249?cb=20260405065914",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/8/87/Morgans_Anime_Infobox.png/revision/latest?cb=20260405065914",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Morgans",
+          "epithet": "\"Big News\"",
+          "affiliation": "World Economy News Paper",
+          "api": "v1/characters/morgans.json"
+        },
+        {
+          "id": "bastille",
+          "name": "Bastille",
+          "display_name": "Bastille",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Bastille_Anime_Infobox.png/revision/latest/scale-to-width-down/244?cb=20200507114049",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Bastille_Anime_Infobox.png/revision/latest?cb=20200507114049",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Bastille",
+          "epithet": "\"Shark Cutter\"",
+          "affiliation": "Marines",
+          "api": "v1/characters/bastille.json"
+        }
       ]
     },
     {
@@ -146,8 +543,24 @@
       "label": "July 15th",
       "month": 7,
       "day": 15,
-      "characters": [
+      "names": [
         "Donquixote Rosinante (Corazon)"
+      ],
+      "characters": [
+        {
+          "id": "donquixote-rosinante",
+          "name": "Donquixote Rosinante",
+          "display_name": "Donquixote Rosinante (Corazon)",
+          "alias": "Corazon",
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/71/Donquixote_Rosinante_Anime_Infobox.png/revision/latest/scale-to-width-down/270?cb=20150802160734",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/7/71/Donquixote_Rosinante_Anime_Infobox.png/revision/latest?cb=20150802160734",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Donquixote_Rosinante",
+          "epithet": null,
+          "affiliation": "Marines",
+          "api": "v1/characters/donquixote-rosinante.json"
+        }
       ]
     },
     {
@@ -155,9 +568,39 @@
       "label": "July 16th",
       "month": 7,
       "day": 16,
-      "characters": [
+      "names": [
         "Seto",
         "Helmeppo"
+      ],
+      "characters": [
+        {
+          "id": "seto",
+          "name": "Seto",
+          "display_name": "Seto",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/94/Seto_Anime_Infobox.png/revision/latest/scale-to-width-down/365?cb=20130502222854",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/9/94/Seto_Anime_Infobox.png/revision/latest?cb=20130502222854",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Seto",
+          "epithet": null,
+          "affiliation": "Shandia",
+          "api": "v1/characters/seto.json"
+        },
+        {
+          "id": "helmeppo",
+          "name": "Helmeppo",
+          "display_name": "Helmeppo",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Helmeppo_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/212?cb=20230723204723",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Helmeppo_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230723204723",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Helmeppo",
+          "epithet": null,
+          "affiliation": "Marines (Headquarters",
+          "api": "v1/characters/helmeppo.json"
+        }
       ]
     },
     {
@@ -165,8 +608,24 @@
       "label": "July 17th",
       "month": 7,
       "day": 17,
-      "characters": [
+      "names": [
         "Hammond"
+      ],
+      "characters": [
+        {
+          "id": "hammond",
+          "name": "Hammond",
+          "display_name": "Hammond",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/ce/Hammond_Anime_Infobox.png/revision/latest/scale-to-width-down/264?cb=20240827194534",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/c/ce/Hammond_Anime_Infobox.png/revision/latest?cb=20240827194534",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Hammond",
+          "epithet": null,
+          "affiliation": "New Fish-Man Pirates",
+          "api": "v1/characters/hammond.json"
+        }
       ]
     },
     {
@@ -174,12 +633,84 @@
       "label": "July 18th",
       "month": 7,
       "day": 18,
-      "characters": [
+      "names": [
         "Smiley",
         "Hoicael",
         "Michael",
         "Wire",
         "Nugire Yainu"
+      ],
+      "characters": [
+        {
+          "id": "smiley",
+          "name": "Smiley",
+          "display_name": "Smiley",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Smiley_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20241114002621",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Smiley_Anime_Infobox.png/revision/latest?cb=20241114002621",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Smiley",
+          "epithet": null,
+          "affiliation": "Caesar Clown",
+          "api": "v1/characters/smiley.json"
+        },
+        {
+          "id": "hoicael",
+          "name": "Hoicael",
+          "display_name": "Hoicael",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c9/Michael_and_Hoichael_Anime_Infobox.png/revision/latest/scale-to-width-down/371?cb=20131018004246",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/c/c9/Michael_and_Hoichael_Anime_Infobox.png/revision/latest?cb=20131018004246",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Michael_and_Hoichael",
+          "epithet": null,
+          "affiliation": "Aunt",
+          "api": "v1/characters/hoicael.json"
+        },
+        {
+          "id": "michael",
+          "name": "Michael",
+          "display_name": "Michael",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c9/Michael_and_Hoichael_Anime_Infobox.png/revision/latest/scale-to-width-down/371?cb=20131018004246",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/c/c9/Michael_and_Hoichael_Anime_Infobox.png/revision/latest?cb=20131018004246",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Michael_and_Hoichael",
+          "epithet": null,
+          "affiliation": "Aunt",
+          "api": "v1/characters/michael.json"
+        },
+        {
+          "id": "wire",
+          "name": "Wire",
+          "display_name": "Wire",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Wire_Anime_Infobox.png/revision/latest/scale-to-width-down/198?cb=20240731170205",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Wire_Anime_Infobox.png/revision/latest?cb=20240731170205",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Wire",
+          "epithet": null,
+          "affiliation": "Kid Pirates",
+          "api": "v1/characters/wire.json"
+        },
+        {
+          "id": "nugire-yainu",
+          "name": "Nugire Yainu",
+          "display_name": "Nugire Yainu",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/58/Nugire_Yainu_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20221026005439",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/5/58/Nugire_Yainu_Anime_Infobox.png/revision/latest?cb=20221026005439",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Nugire_Yainu",
+          "epithet": null,
+          "affiliation": "Black Cat Pirates",
+          "api": "v1/characters/nugire-yainu.json"
+        }
       ]
     },
     {
@@ -187,9 +718,39 @@
       "label": "July 19th",
       "month": 7,
       "day": 19,
-      "characters": [
+      "names": [
         "Prometheus",
         "Yu"
+      ],
+      "characters": [
+        {
+          "id": "prometheus",
+          "name": "Prometheus",
+          "display_name": "Prometheus",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Prometheus_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180107064332",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Prometheus_Anime_Infobox.png/revision/latest?cb=20180107064332",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Prometheus",
+          "epithet": "\"Prometheus the Sun\"",
+          "affiliation": "Big Mom Pirates",
+          "api": "v1/characters/prometheus.json"
+        },
+        {
+          "id": "yu",
+          "name": "Yu",
+          "display_name": "Yu",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/5c/Yu_Anime_Infobox.png/revision/latest/scale-to-width-down/304?cb=20250409185350",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/5/5c/Yu_Anime_Infobox.png/revision/latest?cb=20250409185350",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Yu",
+          "epithet": null,
+          "affiliation": null,
+          "api": "v1/characters/yu.json"
+        }
       ]
     },
     {
@@ -197,11 +758,69 @@
       "label": "July 20th",
       "month": 7,
       "day": 20,
-      "characters": [
+      "names": [
         "Ham Burger",
         "Chess",
         "Pansy",
         "Giovanni"
+      ],
+      "characters": [
+        {
+          "id": "ham-burger",
+          "name": "Ham Burger",
+          "display_name": "Ham Burger",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/00/Ham_Burger_Anime_Infobox.png/revision/latest/scale-to-width-down/249?cb=20230101001138",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/0/00/Ham_Burger_Anime_Infobox.png/revision/latest?cb=20230101001138",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Ham_Burger",
+          "epithet": null,
+          "affiliation": null,
+          "api": "v1/characters/ham-burger.json"
+        },
+        {
+          "id": "chess",
+          "name": "Chess",
+          "display_name": "Chess",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/66/Chess_Anime_Infobox.png/revision/latest/scale-to-width-down/197?cb=20221003172343",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/6/66/Chess_Anime_Infobox.png/revision/latest?cb=20221003172343",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Chess",
+          "epithet": null,
+          "affiliation": "Bliking Pirates (disbanded), Drum Kingdom (former)",
+          "api": "v1/characters/chess.json"
+        },
+        {
+          "id": "pansy",
+          "name": "Pansy",
+          "display_name": "Pansy",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/db/Pansy_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130204204853",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/d/db/Pansy_Anime_Infobox.png/revision/latest?cb=20130204204853",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Pansy",
+          "epithet": null,
+          "affiliation": "Kuja",
+          "api": "v1/characters/pansy.json"
+        },
+        {
+          "id": "giovanni",
+          "name": "Giovanni",
+          "display_name": "Giovanni",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Giovanni_Anime_Infobox.png/revision/latest/scale-to-width-down/234?cb=20190703211533",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Giovanni_Anime_Infobox.png/revision/latest?cb=20190703211533",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Giovanni",
+          "epithet": null,
+          "affiliation": "Mokomo Dukedom",
+          "api": "v1/characters/giovanni.json"
+        }
       ]
     },
     {
@@ -209,8 +828,24 @@
       "label": "July 21st",
       "month": 7,
       "day": 21,
-      "characters": [
+      "names": [
         "Kanjuro"
+      ],
+      "characters": [
+        {
+          "id": "kanjuro",
+          "name": "Kanjuro",
+          "display_name": "Kanjuro",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kurozumi_Kanjuro_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20150503144042",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kurozumi_Kanjuro_Anime_Infobox.png/revision/latest?cb=20150503144042",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Kurozumi_Kanjuro",
+          "epithet": "\"Evening Shower\"; Ghost of Kibi",
+          "affiliation": "Kurozumi Family",
+          "api": "v1/characters/kanjuro.json"
+        }
       ]
     },
     {
@@ -218,9 +853,43 @@
       "label": "July 22nd",
       "month": 7,
       "day": 22,
-      "characters": [
+      "names": [
         "Charlotte Prim",
         "Charlotte Praline"
+      ],
+      "characters": [
+        {
+          "id": "charlotte-prim",
+          "name": "Charlotte Prim",
+          "display_name": "Charlotte Prim",
+          "alias": null,
+          "note": null,
+          "born_with": [
+            "charlotte-praline"
+          ],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/5d/Charlotte_Prim_Anime_Infobox.png/revision/latest/scale-to-width-down/284?cb=20190210125948",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/5/5d/Charlotte_Prim_Anime_Infobox.png/revision/latest?cb=20190210125948",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Prim",
+          "epithet": null,
+          "affiliation": "Charlotte Family",
+          "api": "v1/characters/charlotte-prim.json"
+        },
+        {
+          "id": "charlotte-praline",
+          "name": "Charlotte Praline",
+          "display_name": "Charlotte Praline",
+          "alias": null,
+          "note": null,
+          "born_with": [
+            "charlotte-prim"
+          ],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/11/Charlotte_Praline_Anime_Infobox.png/revision/latest/scale-to-width-down/228?cb=20170528042923",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/1/11/Charlotte_Praline_Anime_Infobox.png/revision/latest?cb=20170528042923",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Praline",
+          "epithet": null,
+          "affiliation": "Sun Pirates",
+          "api": "v1/characters/charlotte-praline.json"
+        }
       ]
     },
     {
@@ -228,8 +897,24 @@
       "label": "July 23rd",
       "month": 7,
       "day": 23,
-      "characters": [
+      "names": [
         "Richie"
+      ],
+      "characters": [
+        {
+          "id": "richie",
+          "name": "Richie",
+          "display_name": "Richie",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/ca/Richie_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/288?cb=20200111094000",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/c/ca/Richie_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200111094000",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Richie",
+          "epithet": null,
+          "affiliation": "Cross Guild",
+          "api": "v1/characters/richie.json"
+        }
       ]
     },
     {
@@ -237,8 +922,24 @@
       "label": "July 24th",
       "month": 7,
       "day": 24,
-      "characters": [
+      "names": [
         "Leo"
+      ],
+      "characters": [
+        {
+          "id": "leo",
+          "name": "Leo",
+          "display_name": "Leo",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/be/Leo_Anime_Infobox.png/revision/latest?cb=20200422024534",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/b/be/Leo_Anime_Infobox.png/revision/latest?cb=20200422024534",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Leo",
+          "epithet": "\"Warrior\"",
+          "affiliation": "Tontatta Kingdom",
+          "api": "v1/characters/leo.json"
+        }
       ]
     },
     {
@@ -246,8 +947,24 @@
       "label": "July 25th",
       "month": 7,
       "day": 25,
-      "characters": [
+      "names": [
         "Nojiko"
+      ],
+      "characters": [
+        {
+          "id": "nojiko",
+          "name": "Nojiko",
+          "display_name": "Nojiko",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Nojiko_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/111?cb=20251109161125",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Nojiko_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251109161125",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Nojiko",
+          "epithet": null,
+          "affiliation": "Bell-mère's mikan",
+          "api": "v1/characters/nojiko.json"
+        }
       ]
     },
     {
@@ -255,8 +972,24 @@
       "label": "July 26th",
       "month": 7,
       "day": 26,
-      "characters": [
+      "names": [
         "Mr. 5 (Gem)"
+      ],
+      "characters": [
+        {
+          "id": "mr-5",
+          "name": "Mr. 5",
+          "display_name": "Mr. 5 (Gem)",
+          "alias": "Gem",
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/14/Gem_Anime_Infobox.png/revision/latest/scale-to-width-down/261?cb=20221003165534",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/1/14/Gem_Anime_Infobox.png/revision/latest?cb=20221003165534",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Gem",
+          "epithet": "\"Gem of the Border\"",
+          "affiliation": "New Spiders Cafe",
+          "api": "v1/characters/mr-5.json"
+        }
       ]
     },
     {
@@ -264,9 +997,39 @@
       "label": "July 27th",
       "month": 7,
       "day": 27,
-      "characters": [
+      "names": [
         "Thalassa Lucas",
         "Kikyo"
+      ],
+      "characters": [
+        {
+          "id": "thalassa-lucas",
+          "name": "Thalassa Lucas",
+          "display_name": "Thalassa Lucas",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Thalassa_Lucas_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240804222849",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Thalassa_Lucas_Anime_Infobox.png/revision/latest?cb=20240804222849",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Thalassa_Lucas",
+          "epithet": null,
+          "affiliation": "Ilisia Kingdom",
+          "api": "v1/characters/thalassa-lucas.json"
+        },
+        {
+          "id": "kikyo",
+          "name": "Kikyo",
+          "display_name": "Kikyo",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d5/Kikyo_Anime_Infobox.png/revision/latest/scale-to-width-down/263?cb=20131126094301",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/d/d5/Kikyo_Anime_Infobox.png/revision/latest?cb=20131126094301",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Kikyo",
+          "epithet": null,
+          "affiliation": "Kuja",
+          "api": "v1/characters/kikyo.json"
+        }
       ]
     },
     {
@@ -274,9 +1037,39 @@
       "label": "July 28th",
       "month": 7,
       "day": 28,
-      "characters": [
+      "names": [
         "Flapper",
         "Hustle"
+      ],
+      "characters": [
+        {
+          "id": "flapper",
+          "name": "Flapper",
+          "display_name": "Flapper",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Flapper_Anime_Infobox.png/revision/latest/scale-to-width-down/327?cb=20140627003729",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Flapper_Anime_Infobox.png/revision/latest?cb=20140627003729",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Flapper",
+          "epithet": null,
+          "affiliation": "Tontatta Kingdom",
+          "api": "v1/characters/flapper.json"
+        },
+        {
+          "id": "hustle",
+          "name": "Hustle",
+          "display_name": "Hustle",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Hustle_Manga_Infobox.png/revision/latest?cb=20190122055907",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Hustle_Manga_Infobox.png/revision/latest?cb=20190122055907",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Hustle",
+          "epithet": null,
+          "affiliation": "Krieg Pirates",
+          "api": "v1/characters/hustle.json"
+        }
       ]
     },
     {
@@ -284,9 +1077,39 @@
       "label": "July 29th",
       "month": 7,
       "day": 29,
-      "characters": [
+      "names": [
         "Kadar",
         "Panda Shark"
+      ],
+      "characters": [
+        {
+          "id": "kadar",
+          "name": "Kadar",
+          "display_name": "Kadar",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/49/Kadar_Anime_Infobox.png/revision/latest/scale-to-width-down/316?cb=20250119021837",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/4/49/Kadar_Anime_Infobox.png/revision/latest?cb=20250119021837",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Kadar",
+          "epithet": null,
+          "affiliation": "Marines, G-2",
+          "api": "v1/characters/kadar.json"
+        },
+        {
+          "id": "panda-shark",
+          "name": "Panda Shark",
+          "display_name": "Panda Shark",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": null,
+          "image": null,
+          "wiki_url": null,
+          "epithet": null,
+          "affiliation": null,
+          "api": "v1/characters/panda-shark.json"
+        }
       ]
     },
     {
@@ -294,8 +1117,24 @@
       "label": "July 30th",
       "month": 7,
       "day": 30,
-      "characters": [
+      "names": [
         "Miss Doublefinger (Zala)"
+      ],
+      "characters": [
+        {
+          "id": "miss-doublefinger",
+          "name": "Miss Doublefinger",
+          "display_name": "Miss Doublefinger (Zala)",
+          "alias": "Zala",
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/60/Zala_Anime_Infobox.png/revision/latest/scale-to-width-down/197?cb=20221003164424",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/6/60/Zala_Anime_Infobox.png/revision/latest?cb=20221003164424",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Zala",
+          "epithet": "\"Poison Spider Zala\"",
+          "affiliation": "New Spiders Cafe",
+          "api": "v1/characters/miss-doublefinger.json"
+        }
       ]
     },
     {
@@ -303,8 +1142,24 @@
       "label": "July 31st",
       "month": 7,
       "day": 31,
-      "characters": [
+      "names": [
         "Sarie Nantokanette"
+      ],
+      "characters": [
+        {
+          "id": "sarie-nantokanette",
+          "name": "Sarie Nantokanette",
+          "display_name": "Sarie Nantokanette",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/58/Sarie_Nantokanette_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20190517173750",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/5/58/Sarie_Nantokanette_Anime_Infobox.png/revision/latest?cb=20190517173750",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Sarie_Nantokanette",
+          "epithet": null,
+          "affiliation": "Goa Kingdom",
+          "api": "v1/characters/sarie-nantokanette.json"
+        }
       ]
     }
   ]

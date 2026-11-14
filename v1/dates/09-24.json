@@ -3,9 +3,53 @@
   "label": "September 24th",
   "month": 9,
   "day": 24,
-  "characters": [
+  "names": [
     "Suu",
     "Jean Goen",
     "Black Maria"
+  ],
+  "characters": [
+    {
+      "id": "suu",
+      "name": "Suu",
+      "display_name": "Suu",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/32/Su_Anime_Infobox.png/revision/latest/scale-to-width-down/337?cb=20131012004059",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/32/Su_Anime_Infobox.png/revision/latest?cb=20131012004059",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Su",
+      "epithet": null,
+      "affiliation": "Conis",
+      "api": "v1/characters/suu.json"
+    },
+    {
+      "id": "jean-goen",
+      "name": "Jean Goen",
+      "display_name": "Jean Goen",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Jean_Goen_Anime_Infobox.png/revision/latest/scale-to-width-down/316?cb=20190404223035",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Jean_Goen_Anime_Infobox.png/revision/latest?cb=20190404223035",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Jean_Goen",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/jean-goen.json"
+    },
+    {
+      "id": "black-maria",
+      "name": "Black Maria",
+      "display_name": "Black Maria",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Black_Maria_Anime_Infobox.png/revision/latest/scale-to-width-down/357?cb=20210808144206",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Black_Maria_Anime_Infobox.png/revision/latest?cb=20210808144206",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Black_Maria",
+      "epithet": null,
+      "affiliation": "Beasts Pirates (Tobiroppo)",
+      "api": "v1/characters/black-maria.json"
+    }
   ]
 }

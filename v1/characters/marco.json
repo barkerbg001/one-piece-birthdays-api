@@ -1,0 +1,73 @@
+{
+  "id": "marco",
+  "name": "Marco",
+  "display_name": "Marco",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-05",
+      "label": "October 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Polo_Marco_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20221010015200",
+    "width": 1141,
+    "height": 3186
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Polo_Marco_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/143?cb=20221010015200",
+    "width": 143,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Polo Marco",
+    "url": "https://onepiece.fandom.com/wiki/Polo_Marco"
+  },
+  "info": {
+    "japanese_name": "ポーロ・マルコ",
+    "romanized_name": "Pōro Maruko",
+    "official_english_name": "Marco",
+    "debut": [
+      "Chapter 234",
+      "Episode 151"
+    ],
+    "affiliations": [
+      "Whitebeard Pirates (former)",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Doctor",
+      "1st Division Commander (former)",
+      "Apprentice (former)"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Sphinx"
+    ],
+    "epithet": "\"Marco the Phoenix\"",
+    "status": "3",
+    "age": "43 (debut); 45 (after timeskip)",
+    "birthday": "October 5th",
+    "height": "203 cm (6'8\")",
+    "blood_type": "X",
+    "bounty": "1,374,000,000",
+    "devil_fruit": "Tori Tori no Mi, Model: Phoenix",
+    "devil_fruit_english": "Tweet-Tweet Fruit, Phoenix Model (Crunchy subs); Bird-Bird Fruit, Model: Phoenix (One Piece Official YouTube Channel)",
+    "devil_fruit_type": "Mythical Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

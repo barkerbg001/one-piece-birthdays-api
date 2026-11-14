@@ -3,9 +3,53 @@
   "label": "April 6th",
   "month": 4,
   "day": 6,
-  "characters": [
+  "names": [
     "Edward Newgate (Whitebeard)",
     "Jean Bart",
     "Speed Jiru"
+  ],
+  "characters": [
+    {
+      "id": "edward-newgate",
+      "name": "Edward Newgate",
+      "display_name": "Edward Newgate (Whitebeard)",
+      "alias": "Whitebeard",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Edward_Newgate_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20220926165737",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Edward_Newgate_Anime_Infobox.png/revision/latest?cb=20220926165737",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Edward_Newgate",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/edward-newgate.json"
+    },
+    {
+      "id": "jean-bart",
+      "name": "Jean Bart",
+      "display_name": "Jean Bart",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/af/Jean_Bart_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240726161233",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/af/Jean_Bart_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240726161233",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Jean_Bart",
+      "epithet": null,
+      "affiliation": "Heart Pirates",
+      "api": "v1/characters/jean-bart.json"
+    },
+    {
+      "id": "speed-jiru",
+      "name": "Speed Jiru",
+      "display_name": "Speed Jiru",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/45/Speed_Jiru_Anime_Infobox.png/revision/latest/scale-to-width-down/321?cb=20240301032935",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/45/Speed_Jiru_Anime_Infobox.png/revision/latest?cb=20240301032935",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Speed_Jiru",
+      "epithet": null,
+      "affiliation": "Whitebeard Pirates",
+      "api": "v1/characters/speed-jiru.json"
+    }
   ]
 }

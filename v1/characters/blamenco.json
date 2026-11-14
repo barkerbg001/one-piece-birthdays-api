@@ -1,0 +1,62 @@
+{
+  "id": "blamenco",
+  "name": "Blamenco",
+  "display_name": "Blamenco",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-05",
+      "label": "February 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/68/Blamenco_Anime_Infobox.png/revision/latest?cb=20190413070110",
+    "width": 342,
+    "height": 464
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/68/Blamenco_Anime_Infobox.png/revision/latest/scale-to-width-down/295?cb=20190413070110",
+    "width": 295,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Blamenco",
+    "url": "https://onepiece.fandom.com/wiki/Blamenco"
+  },
+  "info": {
+    "japanese_name": "ブラメンコ",
+    "romanized_name": "Buramenko",
+    "official_english_name": "Blamenco",
+    "debut": [
+      "Chapter 553",
+      "Episode 461"
+    ],
+    "affiliations": [
+      "Whitebeard Pirates"
+    ],
+    "occupations": [
+      "6th Division Commander",
+      "Pirate"
+    ],
+    "origin": "South Blue",
+    "birthday": "February 5th",
+    "devil_fruit": "Poke Poke no Mi",
+    "devil_fruit_english": "Pocket-Pocket Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

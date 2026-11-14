@@ -3,8 +3,38 @@
   "label": "December 18th",
   "month": 12,
   "day": 18,
-  "characters": [
+  "names": [
     "Zunisha",
     "Byron"
+  ],
+  "characters": [
+    {
+      "id": "zunisha",
+      "name": "Zunisha",
+      "display_name": "Zunisha",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Zunesha_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20190117233721",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Zunesha_Anime_Infobox.png/revision/latest?cb=20190117233721",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Zunesha",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/zunisha.json"
+    },
+    {
+      "id": "byron",
+      "name": "Byron",
+      "display_name": "Byron",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/ef/Byron_Anime_Infobox.png/revision/latest/scale-to-width-down/244?cb=20140703110225",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/ef/Byron_Anime_Infobox.png/revision/latest?cb=20140703110225",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Byron",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/byron.json"
+    }
   ]
 }

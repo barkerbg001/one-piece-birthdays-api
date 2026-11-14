@@ -3,10 +3,72 @@
   "label": "December 11th",
   "month": 12,
   "day": 11,
-  "characters": [
+  "names": [
     "Scotch",
     "Rock (Yeti Cool Brothers)",
     "Mr. Shimizu",
     "Speed"
+  ],
+  "characters": [
+    {
+      "id": "scotch",
+      "name": "Scotch",
+      "display_name": "Scotch",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "rock"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/27/Scotch_Anime_Infobox.png/revision/latest/scale-to-width-down/399?cb=20241120021003",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/27/Scotch_Anime_Infobox.png/revision/latest?cb=20241120021003",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Scotch",
+      "epithet": "\"Iron Boy\"",
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/scotch.json"
+    },
+    {
+      "id": "rock",
+      "name": "Rock",
+      "display_name": "Rock (Yeti Cool Brothers)",
+      "alias": "Yeti Cool Brothers",
+      "note": null,
+      "born_with": [
+        "scotch"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/97/Yeti_Cool_Brothers_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230112041930",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/97/Yeti_Cool_Brothers_Anime_Infobox.png/revision/latest?cb=20230112041930",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Yeti_Cool_Brothers",
+      "epithet": "\"Killers of the Snowy Mountain\"",
+      "affiliation": "Caesar Clown (former)",
+      "api": "v1/characters/rock.json"
+    },
+    {
+      "id": "mr-shimizu",
+      "name": "Mr. Shimizu",
+      "display_name": "Mr. Shimizu",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/25/Mr._Shimizu_Manga_Infobox.png/revision/latest?cb=20250130012848",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/25/Mr._Shimizu_Manga_Infobox.png/revision/latest?cb=20250130012848",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mr._Shimizu",
+      "epithet": null,
+      "affiliation": "Baroque Works (Millions) (former)",
+      "api": "v1/characters/mr-shimizu.json"
+    },
+    {
+      "id": "speed",
+      "name": "Speed",
+      "display_name": "Speed",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Speed_Anime_Infobox.png/revision/latest/scale-to-width-down/307?cb=20241110183728",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Speed_Anime_Infobox.png/revision/latest?cb=20241110183728",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Speed",
+      "epithet": null,
+      "affiliation": "Beasts Pirates (former)",
+      "api": "v1/characters/speed.json"
+    }
   ]
 }

@@ -1,0 +1,61 @@
+{
+  "id": "raideen",
+  "name": "Raideen",
+  "display_name": "Raideen",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-14",
+      "label": "November 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/89/Raideen_Anime_Infobox.png/revision/latest?cb=20241030014359",
+    "width": 904,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/89/Raideen_Anime_Infobox.png/revision/latest/scale-to-width-down/335?cb=20241030014359",
+    "width": 335,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Raideen",
+    "url": "https://onepiece.fandom.com/wiki/Raideen"
+  },
+  "info": {
+    "japanese_name": "ライディーン",
+    "romanized_name": "Raidīn",
+    "official_english_name": "Rydin (Former VIZ, simulcast); Raideen (VIZ)",
+    "debut": [
+      "Chapter 129",
+      "Episode 78"
+    ],
+    "affiliations": [
+      "Giant Warrior Pirates (former)"
+    ],
+    "occupations": [
+      "Pirate (former)"
+    ],
+    "residence": [
+      "Elbaph"
+    ],
+    "age": "At least 102",
+    "birthday": "November 14th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

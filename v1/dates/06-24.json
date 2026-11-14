@@ -3,7 +3,23 @@
   "label": "June 24th",
   "month": 6,
   "day": 24,
-  "characters": [
+  "names": [
     "Ryuuboshi"
+  ],
+  "characters": [
+    {
+      "id": "ryuuboshi",
+      "name": "Ryuuboshi",
+      "display_name": "Ryuuboshi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Ryuboshi_Anime_Infobox.png/revision/latest/scale-to-width-down/230?cb=20130128033938",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Ryuboshi_Anime_Infobox.png/revision/latest?cb=20130128033938",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Ryuboshi",
+      "epithet": null,
+      "affiliation": "Neptune Family",
+      "api": "v1/characters/ryuuboshi.json"
+    }
   ]
 }

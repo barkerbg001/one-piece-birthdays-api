@@ -1,0 +1,69 @@
+{
+  "id": "machvise",
+  "name": "Machvise",
+  "display_name": "Machvise",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-13",
+      "label": "August 13th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Machvise_Anime_Infobox.png/revision/latest?cb=20140916075009",
+    "width": 518,
+    "height": 603
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Machvise_Anime_Infobox.png/revision/latest/scale-to-width-down/344?cb=20140916075009",
+    "width": 344,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Machvise",
+    "url": "https://onepiece.fandom.com/wiki/Machvise"
+  },
+  "info": {
+    "japanese_name": "マッハバイス",
+    "romanized_name": "Mahhabaisu",
+    "official_english_name": "Machvise (FUNimation Simulcast, Formerly Viz); Mach Vise (Viz)",
+    "debut": [
+      "Chapter 682",
+      "Episode 608"
+    ],
+    "affiliations": [
+      "Donquixote Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Spider Miles (former)",
+      "Dressrosa (former)"
+    ],
+    "age": "52",
+    "birthday": "August 13th",
+    "height": "440 cm (14'5\")",
+    "blood_type": "S",
+    "bounty": "11,000,000",
+    "devil_fruit": "Ton Ton no Mi",
+    "devil_fruit_english": "Ton-Ton Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

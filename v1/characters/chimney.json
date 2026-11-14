@@ -1,0 +1,63 @@
+{
+  "id": "chimney",
+  "name": "Chimney",
+  "display_name": "Chimney",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-02",
+      "label": "June 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Chimney_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20250318234329",
+    "width": 833,
+    "height": 1311
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Chimney_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/254?cb=20250318234329",
+    "width": 254,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Chimney",
+    "url": "https://onepiece.fandom.com/wiki/Chimney"
+  },
+  "info": {
+    "japanese_name": "チムニー",
+    "romanized_name": "Chimunī",
+    "debut": [
+      "Chapter 322",
+      "Episode 229"
+    ],
+    "affiliations": [
+      "Kokoro"
+    ],
+    "occupations": [
+      "Sunday stationmaster of the Shift Station"
+    ],
+    "origin": "Grand Line (Water 7)",
+    "residence": [
+      "Water 7 (Shift Station)"
+    ],
+    "age": "8 (debut); 10 (after timeskip)",
+    "birthday": "June 2nd",
+    "height": "115 cm (3'9\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

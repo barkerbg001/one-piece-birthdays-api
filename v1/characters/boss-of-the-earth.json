@@ -1,0 +1,60 @@
+{
+  "id": "boss-of-the-earth",
+  "name": "Boss of the Earth",
+  "display_name": "Boss of the Earth",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-04",
+      "label": "August 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Dirt_Boss_Manga_Infobox.png/revision/latest?cb=20220720030522",
+    "width": 358,
+    "height": 508
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Dirt_Boss_Manga_Infobox.png/revision/latest/scale-to-width-down/282?cb=20220720030522",
+    "width": 282,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Dirt Boss",
+    "url": "https://onepiece.fandom.com/wiki/Dirt_Boss"
+  },
+  "info": {
+    "japanese_name": "土番長",
+    "romanized_name": "Tsuchi Banchō",
+    "official_english_name": "Earth Boss",
+    "debut": [
+      "Chapter 326 (cover)"
+    ],
+    "affiliations": [
+      "Ukkari Hot-Spring Island",
+      "Gedatsu"
+    ],
+    "occupations": [
+      "Digger"
+    ],
+    "residence": [
+      "Ukkari Hot-Spring Island"
+    ],
+    "birthday": "August 4th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

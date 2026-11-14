@@ -1,0 +1,66 @@
+{
+  "id": "blueno",
+  "name": "Blueno",
+  "display_name": "Blueno",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-20",
+      "label": "April 20th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2b/Blueno_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240915021752",
+    "width": 1450,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2b/Blueno_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240915021752",
+    "width": 400,
+    "height": 298
+  },
+  "wiki": {
+    "title": "Blueno",
+    "url": "https://onepiece.fandom.com/wiki/Blueno"
+  },
+  "info": {
+    "japanese_name": "ブルーノ",
+    "romanized_name": "Burūno",
+    "official_english_name": "Blueno",
+    "debut": [
+      "Chapter 325",
+      "Episode 230"
+    ],
+    "affiliations": [
+      "CP0",
+      "CP9 (former)"
+    ],
+    "occupations": [
+      "Cipher Pol Agent",
+      "Bartender (undercover)"
+    ],
+    "origin": "North Blue",
+    "age": "30 (debut); 32 (after timeskip)",
+    "birthday": "April 20th",
+    "height": "258 cm (8'5½\")",
+    "blood_type": "X",
+    "devil_fruit": "Doa Doa no Mi",
+    "devil_fruit_english": "Door-Door Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

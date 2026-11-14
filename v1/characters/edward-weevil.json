@@ -1,0 +1,65 @@
+{
+  "id": "edward-weevil",
+  "name": "Edward Weevil",
+  "display_name": "Edward Weevil",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-10",
+      "label": "December 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/be/Edward_Weevil_Anime_Infobox.png/revision/latest?cb=20160807113654",
+    "width": 697,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/be/Edward_Weevil_Anime_Infobox.png/revision/latest/scale-to-width-down/387?cb=20160807113654",
+    "width": 387,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Edward Weevil",
+    "url": "https://onepiece.fandom.com/wiki/Edward_Weevil"
+  },
+  "info": {
+    "japanese_name": "エドワード・ウィーブル",
+    "romanized_name": "Edowādo Wīburu",
+    "official_english_name": "Edward Weevil",
+    "debut": [
+      "Chapter 802",
+      "Episode 751"
+    ],
+    "affiliations": [
+      "Seven Warlords of the Sea (former)"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "origin": "Grand Line",
+    "aliases": [
+      "\"Whitebeard Jr.\" (self-proclaimed)"
+    ],
+    "age": "35",
+    "birthday": "December 10th",
+    "height": "680 cm (22'4\")",
+    "blood_type": "S",
+    "bounty": "480,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

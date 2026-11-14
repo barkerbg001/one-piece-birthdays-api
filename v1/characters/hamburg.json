@@ -1,0 +1,59 @@
+{
+  "id": "hamburg",
+  "name": "Hamburg",
+  "display_name": "Hamburg",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-22",
+      "label": "February 22nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Hamburg_Anime_Infobox.png/revision/latest?cb=20240523235041",
+    "width": 1007,
+    "height": 1053
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Hamburg_Anime_Infobox.png/revision/latest/scale-to-width-down/383?cb=20240523235041",
+    "width": 383,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Hamburg",
+    "url": "https://onepiece.fandom.com/wiki/Hamburg"
+  },
+  "info": {
+    "japanese_name": "ハンバーグ",
+    "romanized_name": "Hanbāgu",
+    "debut": [
+      "Chapter 305",
+      "Episode 207"
+    ],
+    "affiliations": [
+      "Foxy Pirates",
+      "Groggy Monsters"
+    ],
+    "occupations": [
+      "Pirate",
+      "Combatant"
+    ],
+    "epithet": "\"Four-Footed Dash Freak\"",
+    "birthday": "February 22nd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

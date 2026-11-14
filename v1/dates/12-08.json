@@ -3,8 +3,38 @@
   "label": "December 8th",
   "month": 12,
   "day": 8,
-  "characters": [
+  "names": [
     "Jarl",
     "Maskeredomo Bird"
+  ],
+  "characters": [
+    {
+      "id": "jarl",
+      "name": "Jarl",
+      "display_name": "Jarl",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Jarul_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20260607162418",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Jarul_Anime_Infobox.png/revision/latest?cb=20260607162418",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Jarul",
+      "epithet": "\"Mountain Beard\" Jarul",
+      "affiliation": "Giant Warrior Pirates (former)",
+      "api": "v1/characters/jarl.json"
+    },
+    {
+      "id": "maskeredomo-bird",
+      "name": "Maskeredomo Bird",
+      "display_name": "Maskeredomo Bird",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/maskeredomo-bird.json"
+    }
   ]
 }

@@ -1,0 +1,57 @@
+{
+  "id": "rockstar",
+  "name": "Rockstar",
+  "display_name": "Rockstar",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-09",
+      "label": "June 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Rockstar_Anime_Infobox.png/revision/latest?cb=20160929234330",
+    "width": 898,
+    "height": 933
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Rockstar_Anime_Infobox.png/revision/latest/scale-to-width-down/385?cb=20160929234330",
+    "width": 385,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Rockstar",
+    "url": "https://onepiece.fandom.com/wiki/Rockstar"
+  },
+  "info": {
+    "japanese_name": "ロックスター",
+    "romanized_name": "Rokkusutā",
+    "debut": [
+      "Chapter 234",
+      "Episode 151"
+    ],
+    "affiliations": [
+      "Red Hair Pirates"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "birthday": "June 9th",
+    "bounty": "94,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

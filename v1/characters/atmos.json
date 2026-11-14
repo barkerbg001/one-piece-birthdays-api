@@ -1,0 +1,60 @@
+{
+  "id": "atmos",
+  "name": "Atmos",
+  "display_name": "Atmos",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-19",
+      "label": "March 19th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Atmos_Anime_Infobox.png/revision/latest?cb=20180904201451",
+    "width": 471,
+    "height": 580
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Atmos_Anime_Infobox.png/revision/latest/scale-to-width-down/325?cb=20180904201451",
+    "width": 325,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Atmos",
+    "url": "https://onepiece.fandom.com/wiki/Atmos"
+  },
+  "info": {
+    "japanese_name": "アトモス",
+    "romanized_name": "Atomosu",
+    "official_english_name": "Atmos",
+    "debut": [
+      "Chapter 553",
+      "Episode 461"
+    ],
+    "affiliations": [
+      "Whitebeard Pirates"
+    ],
+    "occupations": [
+      "13th Division Commander",
+      "Pirate"
+    ],
+    "origin": "West Blue",
+    "epithet": "\"Water Buffalo\"",
+    "birthday": "March 19th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

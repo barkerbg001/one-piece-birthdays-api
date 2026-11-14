@@ -3,7 +3,23 @@
   "label": "June 26th",
   "month": 6,
   "day": 26,
-  "characters": [
+  "names": [
     "Zeus"
+  ],
+  "characters": [
+    {
+      "id": "zeus",
+      "name": "Zeus",
+      "display_name": "Zeus",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9b/Zeus_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20260614161847",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9b/Zeus_Anime_Infobox.png/revision/latest?cb=20260614161847",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Zeus",
+      "epithet": "\"Zeus the Thundercloud\"",
+      "affiliation": "Straw Hat Pirates",
+      "api": "v1/characters/zeus.json"
+    }
   ]
 }

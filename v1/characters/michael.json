@@ -1,0 +1,62 @@
+{
+  "id": "michael",
+  "name": "Michael",
+  "display_name": "Michael",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-18",
+      "label": "July 18th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c9/Michael_and_Hoichael_Anime_Infobox.png/revision/latest?cb=20131018004246",
+    "width": 599,
+    "height": 645
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c9/Michael_and_Hoichael_Anime_Infobox.png/revision/latest/scale-to-width-down/371?cb=20131018004246",
+    "width": 371,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Michael and Hoichael",
+    "url": "https://onepiece.fandom.com/wiki/Michael_and_Hoichael"
+  },
+  "info": {
+    "japanese_name": "マイケル; ホイケル",
+    "romanized_name": "Maikeru; Hoikeru",
+    "official_english_name": "Michael; Hoichael",
+    "debut": [
+      "SBS Volume 39",
+      "Chapter 432",
+      "Episode 313"
+    ],
+    "affiliations": [
+      "Aunt"
+    ],
+    "occupations": [
+      "Elementary school students (pre-timeskip)"
+    ],
+    "residence": [
+      "Water 7"
+    ],
+    "age": "12 (debut); 14 (after timeskip)",
+    "birthday": "July 18th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

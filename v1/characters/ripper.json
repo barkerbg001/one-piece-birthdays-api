@@ -1,0 +1,63 @@
+{
+  "id": "ripper",
+  "name": "Ripper",
+  "display_name": "Ripper",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-13",
+      "label": "June 13th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/82/Ripper_Anime_Infobox.png/revision/latest?cb=20240306170748",
+    "width": 374,
+    "height": 516
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/82/Ripper_Anime_Infobox.png/revision/latest/scale-to-width-down/290?cb=20240306170748",
+    "width": 290,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Ripper",
+    "url": "https://onepiece.fandom.com/wiki/Ripper"
+  },
+  "info": {
+    "japanese_name": "リッパー",
+    "romanized_name": "Rippā",
+    "official_english_name": "Ripper",
+    "debut": [
+      "Chapter 7",
+      "Episode 3"
+    ],
+    "affiliations": [
+      "Marines (153rd Branch)"
+    ],
+    "occupations": [
+      "Marine Commander",
+      "Base Commander"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Shells Town (153rd Branch)"
+    ],
+    "birthday": "June 13th",
+    "bounty": "At least 1,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

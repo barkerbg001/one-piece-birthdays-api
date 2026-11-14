@@ -1,0 +1,55 @@
+{
+  "id": "lieutenant-spacey",
+  "name": "Lieutenant Spacey",
+  "display_name": "Lieutenant Spacey",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-21",
+      "label": "March 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/10/Spacey_Manga_Infobox.png/revision/latest?cb=20130913001441",
+    "width": 240,
+    "height": 377
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/10/Spacey_Manga_Infobox.png/revision/latest?cb=20130913001441",
+    "width": 254,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Spacey",
+    "url": "https://onepiece.fandom.com/wiki/Spacey"
+  },
+  "info": {
+    "japanese_name": "スペーシー中尉",
+    "romanized_name": "Supēshī Chūi",
+    "debut": [
+      "Chapter 433 (cover)("
+    ],
+    "affiliations": [
+      "Automata"
+    ],
+    "occupations": [
+      "First Lieutenant"
+    ],
+    "birthday": "March 21st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

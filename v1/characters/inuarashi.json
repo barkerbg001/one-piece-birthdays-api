@@ -1,0 +1,77 @@
+{
+  "id": "inuarashi",
+  "name": "Inuarashi",
+  "display_name": "Inuarashi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-11",
+      "label": "October 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Inuarashi_Anime_Infobox.png/revision/latest?cb=20250516022630",
+    "width": 1920,
+    "height": 3036
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Inuarashi_Anime_Infobox.png/revision/latest/scale-to-width-down/253?cb=20250516022630",
+    "width": 253,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Inuarashi",
+    "url": "https://onepiece.fandom.com/wiki/Inuarashi"
+  },
+  "info": {
+    "japanese_name": "イヌアラシ",
+    "official_english_name": "Dogstorm; Dogupine (former); Inuarashi (WT100)",
+    "debut": [
+      "Chapter 808",
+      "Episode 756"
+    ],
+    "affiliations": [
+      "Mokomo Dukedom",
+      "Musketeers",
+      "Kouzuki Family",
+      "Inuarashi Musketeer Squad",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+      "Nine Red Scabbards",
+      "Roger Pirates (former)",
+      "Whitebeard Pirates (former)"
+    ],
+    "occupations": [
+      "Daimyo",
+      "Ruler of the Mokomo Dukedom (former)",
+      "Commander of the Musketeers",
+      "Retainer",
+      "Samurai",
+      "Pirate Apprentice (former)"
+    ],
+    "origin": "Grand Line (Mokomo Dukedom)",
+    "residence": [
+      "Zou (former) (Kurau City)",
+      "Wano Country (Kuri)"
+    ],
+    "epithet": "\"Duke Inuarashi\"; \"Ruler of Day\"",
+    "age": "40",
+    "birthday": "October 11th",
+    "height": "511 cm (16'9\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

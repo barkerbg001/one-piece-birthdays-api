@@ -1,0 +1,68 @@
+{
+  "id": "tashigi",
+  "name": "Tashigi",
+  "display_name": "Tashigi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-06",
+      "label": "October 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Tashigi_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251127120726",
+    "width": 1210,
+    "height": 1851
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Tashigi_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/261?cb=20251127120726",
+    "width": 261,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Tashigi",
+    "url": "https://onepiece.fandom.com/wiki/Tashigi"
+  },
+  "info": {
+    "japanese_name": "たしぎ",
+    "debut": [
+      "Chapter 96",
+      "Episode 48"
+    ],
+    "affiliations": [
+      "Marines",
+      "G-5",
+      "Loguetown Marine Base (former)"
+    ],
+    "occupations": [
+      "Captain",
+      "Ensign (former)",
+      "Master Chief Petty Officer (former)"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "G-5",
+      "Loguetown (former)"
+    ],
+    "age": "21 (debut); 23 (after timeskip)",
+    "birthday": "October 6th",
+    "height": "170 cm (5'7\")",
+    "blood_type": "S",
+    "bounty": "At least ★"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

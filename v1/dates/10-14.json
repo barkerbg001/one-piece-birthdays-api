@@ -3,7 +3,23 @@
   "label": "October 14th",
   "month": 10,
   "day": 14,
-  "characters": [
+  "names": [
     "Haredas"
+  ],
+  "characters": [
+    {
+      "id": "haredas",
+      "name": "Haredas",
+      "display_name": "Haredas",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Haredas_Anime_Infobox.png/revision/latest/scale-to-width-down/338?cb=20251214161201",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Haredas_Anime_Infobox.png/revision/latest?cb=20251214161201",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Haredas",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/haredas.json"
+    }
   ]
 }

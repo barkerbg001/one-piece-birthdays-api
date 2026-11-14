@@ -1,0 +1,63 @@
+{
+  "id": "don-krieg",
+  "name": "Don Krieg",
+  "display_name": "Don Krieg",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-19",
+      "label": "September 19th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bb/Krieg_Anime_Infobox.png/revision/latest?cb=20230123170612",
+    "width": 1610,
+    "height": 2021
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bb/Krieg_Anime_Infobox.png/revision/latest/scale-to-width-down/319?cb=20230123170612",
+    "width": 319,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Krieg",
+    "url": "https://onepiece.fandom.com/wiki/Krieg"
+  },
+  "info": {
+    "japanese_name": "クリーク",
+    "romanized_name": "Kurīku",
+    "official_english_name": "Krieg",
+    "debut": [
+      "Chapter 45",
+      "Episode 21"
+    ],
+    "affiliations": [
+      "Krieg Pirates"
+    ],
+    "occupations": [
+      "Pirate Captain/Admiral"
+    ],
+    "origin": "East Blue",
+    "epithet": "\"Pirate Fleet Admiral\"; \"Foul Play Krieg\"",
+    "age": "42 (debut); 44 (after timeskip)",
+    "birthday": "September 19th",
+    "height": "243 cm (8'0\")",
+    "blood_type": "XF",
+    "bounty": "17,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "shyarly",
+  "name": "Shyarly",
+  "display_name": "Shyarly",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-09",
+      "label": "September 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/61/Shyarly_Anime_Infobox.png/revision/latest?cb=20131112030157",
+    "width": 1280,
+    "height": 1608
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/61/Shyarly_Anime_Infobox.png/revision/latest/scale-to-width-down/318?cb=20131112030157",
+    "width": 318,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Shyarly",
+    "url": "https://onepiece.fandom.com/wiki/Shyarly"
+  },
+  "info": {
+    "japanese_name": "シャーリー",
+    "romanized_name": "Shārī",
+    "official_english_name": "Sharley; Shirley (WT100, OPCG)",
+    "debut": [
+      "Chapter 610",
+      "Episode 529"
+    ],
+    "affiliations": [
+      "Mermaid Cafe"
+    ],
+    "occupations": [
+      "Proprietor of the Mermaid Cafe",
+      "Fortune teller (former)"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Coral Hill (Mermaid Cove)",
+      "Fish-Man District (former)"
+    ],
+    "epithet": "Madam Shyarly",
+    "age": "29",
+    "birthday": "September 9th",
+    "height": "520 cm (17'1\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

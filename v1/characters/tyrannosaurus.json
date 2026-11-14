@@ -1,0 +1,60 @@
+{
+  "id": "tyrannosaurus",
+  "name": "Tyrannosaurus",
+  "display_name": "Tyrannosaurus",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-20",
+      "label": "October 20th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/52/Tyrannosaurus_Manga_Pre_Timeskip_Infobox.png/revision/latest?cb=20170319014717",
+    "width": 129,
+    "height": 175
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/52/Tyrannosaurus_Manga_Pre_Timeskip_Infobox.png/revision/latest?cb=20170319014717",
+    "width": 295,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Tyrannosaurus",
+    "url": "https://onepiece.fandom.com/wiki/Tyrannosaurus"
+  },
+  "info": {
+    "japanese_name": "ティラノサウルス",
+    "romanized_name": "Tiranosaurusu",
+    "official_english_name": "Tyrannosaurus",
+    "debut": [
+      "Chapter 323",
+      "Episode 230"
+    ],
+    "affiliations": [
+      "Iceburg"
+    ],
+    "occupations": [
+      "Iceburg's pet"
+    ],
+    "residence": [
+      "Water 7"
+    ],
+    "birthday": "October 20th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

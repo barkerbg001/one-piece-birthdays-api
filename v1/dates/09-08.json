@@ -3,9 +3,53 @@
   "label": "September 8th",
   "month": 9,
   "day": 8,
-  "characters": [
+  "names": [
     "Cabaji",
     "Rakuyo",
     "Kureha"
+  ],
+  "characters": [
+    {
+      "id": "cabaji",
+      "name": "Cabaji",
+      "display_name": "Cabaji",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Cabaji_Anime_Infobox.png/revision/latest/scale-to-width-down/197?cb=20220921023133",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Cabaji_Anime_Infobox.png/revision/latest?cb=20220921023133",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Cabaji",
+      "epithet": "\"Cabaji the Acrobat\"",
+      "affiliation": "Cross Guild",
+      "api": "v1/characters/cabaji.json"
+    },
+    {
+      "id": "rakuyo",
+      "name": "Rakuyo",
+      "display_name": "Rakuyo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/12/Rakuyo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130507032702",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/12/Rakuyo_Anime_Infobox.png/revision/latest?cb=20130507032702",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Rakuyo",
+      "epithet": null,
+      "affiliation": "Whitebeard Pirates",
+      "api": "v1/characters/rakuyo.json"
+    },
+    {
+      "id": "kureha",
+      "name": "Kureha",
+      "display_name": "Kureha",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Kureha_Anime_Infobox.png/revision/latest/scale-to-width-down/199?cb=20150819163116",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Kureha_Anime_Infobox.png/revision/latest?cb=20150819163116",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kureha",
+      "epithet": "\"Witch\"; \"Master of Doctors\"",
+      "affiliation": "Sakura Kingdom",
+      "api": "v1/characters/kureha.json"
+    }
   ]
 }

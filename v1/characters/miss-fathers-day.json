@@ -1,0 +1,61 @@
+{
+  "id": "miss-fathers-day",
+  "name": "Miss Father’s Day",
+  "display_name": "Miss Father’s Day",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-21",
+      "label": "June 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Miss_Father%27s_Day_Anime_Infobox.png/revision/latest?cb=20221128165323",
+    "width": 355,
+    "height": 909
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Miss_Father%27s_Day_Anime_Infobox.png/revision/latest/scale-to-width-down/156?cb=20221128165323",
+    "width": 156,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Miss Father's Day",
+    "url": "https://onepiece.fandom.com/wiki/Miss_Father%27s_Day"
+  },
+  "info": {
+    "japanese_name": "ミス・ファーザーズデー",
+    "romanized_name": "Misu Fāzāzu Dē",
+    "official_english_name": "Ms. Father's Day (VIZ, 4Kids); Miss Father's Day (Funimation)",
+    "debut": [
+      "Chapter 205",
+      "Episode 124"
+    ],
+    "affiliations": [
+      "Baroque Works (former)"
+    ],
+    "occupations": [
+      "Frontier Agent",
+      "Sniper"
+    ],
+    "aliases": [
+      "Miss Father's Day"
+    ],
+    "birthday": "June 21st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

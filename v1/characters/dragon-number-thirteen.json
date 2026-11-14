@@ -1,0 +1,58 @@
+{
+  "id": "dragon-number-thirteen",
+  "name": "Dragon Number Thirteen",
+  "display_name": "Dragon Number Thirteen",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-03",
+      "label": "June 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/41/Dragon_Number_Thirteen_Anime_Infobox.png/revision/latest?cb=20230712005933",
+    "width": 1830,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/41/Dragon_Number_Thirteen_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230712005933",
+    "width": 400,
+    "height": 236
+  },
+  "wiki": {
+    "title": "Dragon Number Thirteen",
+    "url": "https://onepiece.fandom.com/wiki/Dragon_Number_Thirteen"
+  },
+  "info": {
+    "japanese_name": "ドラゴン十三號",
+    "romanized_name": "Doragon Jūsan-gō",
+    "official_english_name": "Dragon Number Thirteen",
+    "debut": [
+      "Chapter 655",
+      "Episode 579"
+    ],
+    "occupations": [
+      "Guard"
+    ],
+    "residence": [
+      "Punk Hazard"
+    ],
+    "status": "2",
+    "birthday": "June 3rd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

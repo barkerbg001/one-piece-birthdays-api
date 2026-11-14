@@ -1,0 +1,65 @@
+{
+  "id": "fukaboshi",
+  "name": "Fukaboshi",
+  "display_name": "Fukaboshi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-04",
+      "label": "February 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/29/Fukaboshi_Anime_Infobox.png/revision/latest?cb=20140107021229",
+    "width": 1176,
+    "height": 1371
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/29/Fukaboshi_Anime_Infobox.png/revision/latest/scale-to-width-down/343?cb=20140107021229",
+    "width": 343,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Fukaboshi",
+    "url": "https://onepiece.fandom.com/wiki/Fukaboshi"
+  },
+  "info": {
+    "japanese_name": "フカボシ",
+    "romanized_name": "Fukaboshi",
+    "official_english_name": "Fukaboshi",
+    "debut": [
+      "Chapter 609",
+      "Episode 528"
+    ],
+    "affiliations": [
+      "Neptune Family",
+      "Ryugu Kingdom"
+    ],
+    "occupations": [
+      "Prince of the Ryugu Kingdom"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Ryugu Palace"
+    ],
+    "age": "24",
+    "birthday": "February 4th",
+    "height": "604 cm (19’10”)",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

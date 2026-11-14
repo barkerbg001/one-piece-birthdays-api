@@ -3,7 +3,23 @@
   "label": "November 28th",
   "month": 11,
   "day": 28,
-  "characters": [
+  "names": [
     "Tank Lepanto"
+  ],
+  "characters": [
+    {
+      "id": "tank-lepanto",
+      "name": "Tank Lepanto",
+      "display_name": "Tank Lepanto",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4b/Tank_Lepanto_Anime_Infobox.png/revision/latest/scale-to-width-down/295?cb=20150301202759",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4b/Tank_Lepanto_Anime_Infobox.png/revision/latest?cb=20150301202759",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Tank_Lepanto",
+      "epithet": null,
+      "affiliation": "Riku Family",
+      "api": "v1/characters/tank-lepanto.json"
+    }
   ]
 }

@@ -1,0 +1,63 @@
+{
+  "id": "vista",
+  "name": "Vista",
+  "display_name": "Vista",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-05",
+      "label": "February 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/78/Vista_Anime_Infobox.png/revision/latest?cb=20180131180522",
+    "width": 1280,
+    "height": 1886
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/78/Vista_Anime_Infobox.png/revision/latest/scale-to-width-down/271?cb=20180131180522",
+    "width": 271,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Vista",
+    "url": "https://onepiece.fandom.com/wiki/Vista"
+  },
+  "info": {
+    "japanese_name": "ビスタ",
+    "romanized_name": "Bisuta",
+    "debut": [
+      "Chapter 552",
+      "Episode 0"
+    ],
+    "affiliations": [
+      "Whitebeard Pirates (former)"
+    ],
+    "occupations": [
+      "5th Division Commander (former)",
+      "Pirate"
+    ],
+    "origin": "North Blue",
+    "epithet": "\"Vista of the Flower Swords\"",
+    "age": "45 (debut); 47 (after timeskip)",
+    "birthday": "February 5th",
+    "height": "328 cm (10'9\")",
+    "blood_type": "X",
+    "bounty": "Unknown"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

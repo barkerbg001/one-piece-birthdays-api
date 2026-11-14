@@ -1,0 +1,54 @@
+{
+  "id": "general-franky",
+  "name": "General Franky",
+  "display_name": "General Franky",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-08",
+      "label": "January 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4b/General_Franky_Infobox.png/revision/latest?cb=20180404172055",
+    "width": 830,
+    "height": 944
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4b/General_Franky_Infobox.png/revision/latest/scale-to-width-down/352?cb=20180404172055",
+    "width": 352,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Battle Frankies/General Franky",
+    "url": "https://onepiece.fandom.com/wiki/Battle_Frankies/General_Franky"
+  },
+  "info": {
+    "japanese_name": "フランキー将軍",
+    "romanized_name": "Furankī Shōgun",
+    "official_english_name": "General Franky",
+    "debut": [
+      "Chapter 636",
+      "Episode 557"
+    ],
+    "affiliations": [
+      "Straw Hat Pirates"
+    ],
+    "height": "13 m (42'7\")"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

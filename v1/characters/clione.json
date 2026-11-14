@@ -1,0 +1,58 @@
+{
+  "id": "clione",
+  "name": "Clione",
+  "display_name": "Clione",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-17",
+      "label": "February 17th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Clione_Anime_Infobox.png/revision/latest?cb=20161104132821",
+    "width": 605,
+    "height": 725
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Clione_Anime_Infobox.png/revision/latest/scale-to-width-down/334?cb=20161104132821",
+    "width": 334,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Clione",
+    "url": "https://onepiece.fandom.com/wiki/Clione"
+  },
+  "info": {
+    "japanese_name": "クリオネ",
+    "romanized_name": "Kurione",
+    "debut": [
+      "Chapter 810",
+      "Episode 757"
+    ],
+    "affiliations": [
+      "Heart Pirates",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "status": "1",
+    "birthday": "February 17th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

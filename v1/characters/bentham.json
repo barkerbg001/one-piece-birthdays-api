@@ -1,0 +1,69 @@
+{
+  "id": "bentham",
+  "name": "Bentham",
+  "display_name": "Bentham (Mr. 2 Bon Clay)",
+  "alias": "Mr. 2 Bon Clay",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-15",
+      "label": "August 15th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/0e/Bentham_Anime_Infobox.png/revision/latest?cb=20160929070742",
+    "width": 1640,
+    "height": 2920
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/0e/Bentham_Anime_Infobox.png/revision/latest/scale-to-width-down/224?cb=20160929070742",
+    "width": 224,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Bentham",
+    "url": "https://onepiece.fandom.com/wiki/Bentham"
+  },
+  "info": {
+    "japanese_name": "ベンサム",
+    "romanized_name": "Bensamu",
+    "official_english_name": "Bentham",
+    "debut": [
+      "Chapter 129",
+      "Episode 78"
+    ],
+    "affiliations": [
+      "Newkama Land",
+      "Baroque Works (former)"
+    ],
+    "occupations": [
+      "Queen of Newkama Land",
+      "Officer Agent (former)",
+      "Prisoner of the Great Prison"
+    ],
+    "origin": "East Blue",
+    "epithet": "\"Bentham of the Wild\"",
+    "age": "30 (debut); 32 (after timeskip)",
+    "birthday": "August 15th",
+    "height": "238 cm (7'10\")",
+    "blood_type": "F",
+    "bounty": "32,000,000",
+    "devil_fruit": "Mane Mane no Mi",
+    "devil_fruit_english": "Clone-Clone Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

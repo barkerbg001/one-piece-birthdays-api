@@ -1,0 +1,73 @@
+{
+  "id": "jewelry-bonney",
+  "name": "Jewelry Bonney",
+  "display_name": "Jewelry Bonney",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-01",
+      "label": "September 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/62/Jewelry_Bonney_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230123001318",
+    "width": 1913,
+    "height": 2875
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/62/Jewelry_Bonney_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/266?cb=20230123001318",
+    "width": 266,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Jewelry Bonney",
+    "url": "https://onepiece.fandom.com/wiki/Jewelry_Bonney"
+  },
+  "info": {
+    "japanese_name": "ジュエリー・ボニー",
+    "romanized_name": "Juerī Bonī",
+    "debut": [
+      "Chapter 498",
+      "Episode 392"
+    ],
+    "affiliations": [
+      "Bonney Pirates"
+    ],
+    "occupations": [
+      "Pirate Captain",
+      "Princess (former)"
+    ],
+    "origin": "Red Line (Mary Geoise)",
+    "residence": [
+      "South Blue (Sorbet Kingdom) (former)",
+      "Egghead (former, temporary)"
+    ],
+    "epithet": "\"Big Eater\"",
+    "aliases": [
+      "Conney"
+    ],
+    "age": "10 (debut); 12 (after timeskip); 22-24 (estimated default appearance age)",
+    "birthday": "September 1st",
+    "height": "174 cm (5'9\") (debut, after timeskip)",
+    "blood_type": "F",
+    "bounty": "320,000,000",
+    "devil_fruit": "Toshi Toshi no Mi",
+    "devil_fruit_english": "Age-Age Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

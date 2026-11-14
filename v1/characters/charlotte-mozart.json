@@ -1,0 +1,64 @@
+{
+  "id": "charlotte-mozart",
+  "name": "Charlotte Mozart",
+  "display_name": "Charlotte Mozart",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-20",
+      "label": "December 20th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-marnier",
+      "name": "Charlotte Marnier"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7f/Charlotte_Mozart_Anime_Infobox.png/revision/latest?cb=20181020133405",
+    "width": 379,
+    "height": 621
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7f/Charlotte_Mozart_Anime_Infobox.png/revision/latest/scale-to-width-down/244?cb=20181020133405",
+    "width": 244,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Mozart",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Mozart"
+  },
+  "info": {
+    "japanese_name": "シャーロット・モーツアルト",
+    "romanized_name": "Shārotto Mōtsaruto",
+    "official_english_name": "Charlotte Mozart",
+    "debut": [
+      "Chapter 862",
+      "Episode 831 (fantasy), Episode 832"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "age": "37",
+    "birthday": "December 20th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

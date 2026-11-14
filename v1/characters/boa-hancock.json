@@ -1,0 +1,42 @@
+{
+  "id": "boa-hancock",
+  "name": "Boa Hancock",
+  "display_name": "Boa Hancock",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-02",
+      "label": "September 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Boa_Hancock_Anime_Infobox.png/revision/latest?cb=20230126022456",
+    "width": 1000,
+    "height": 2062
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Boa_Hancock_Anime_Infobox.png/revision/latest/scale-to-width-down/194?cb=20230126022456",
+    "width": 194,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Boa Hancock",
+    "url": "https://onepiece.fandom.com/wiki/Boa_Hancock"
+  },
+  "info": {},
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,7 +3,23 @@
   "label": "April 16th",
   "month": 4,
   "day": 16,
-  "characters": [
+  "names": [
     "Stronger"
+  ],
+  "characters": [
+    {
+      "id": "stronger",
+      "name": "Stronger",
+      "display_name": "Stronger",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d3/Stronger_Anime_Infobox.png/revision/latest/scale-to-width-down/256?cb=20231222225633",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d3/Stronger_Anime_Infobox.png/revision/latest?cb=20231222225633",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Stronger",
+      "epithet": null,
+      "affiliation": "Blackbeard Pirates",
+      "api": "v1/characters/stronger.json"
+    }
   ]
 }

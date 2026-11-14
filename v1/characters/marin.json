@@ -1,0 +1,58 @@
+{
+  "id": "marin",
+  "name": "Marin",
+  "display_name": "Marin",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-17",
+      "label": "October 17th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/44/Marin_Anime_Infobox.png/revision/latest?cb=20131120054924",
+    "width": 543,
+    "height": 580
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/44/Marin_Anime_Infobox.png/revision/latest/scale-to-width-down/374?cb=20131120054924",
+    "width": 374,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Marin",
+    "url": "https://onepiece.fandom.com/wiki/Marin"
+  },
+  "info": {
+    "japanese_name": "マリン",
+    "romanized_name": "Marin",
+    "official_english_name": "Marin",
+    "debut": [
+      "Chapter 500",
+      "Episode 394"
+    ],
+    "occupations": [
+      "Slave"
+    ],
+    "origin": "Grand Line (Sabaody Archipelago)",
+    "residence": [
+      "Sabaody Archipelago"
+    ],
+    "birthday": "October 17th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

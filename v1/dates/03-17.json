@@ -3,7 +3,23 @@
   "label": "March 17th",
   "month": 3,
   "day": 17,
-  "characters": [
+  "names": [
     "Ideaman"
+  ],
+  "characters": [
+    {
+      "id": "ideaman",
+      "name": "Ideaman",
+      "display_name": "Ideaman",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c2/Ideaman_Anime_Infobox.png/revision/latest/scale-to-width-down/289?cb=20130817215643",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c2/Ideaman_Anime_Infobox.png/revision/latest?cb=20130817215643",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Ideaman",
+      "epithet": null,
+      "affiliation": "Krieg Pirates",
+      "api": "v1/characters/ideaman.json"
+    }
   ]
 }

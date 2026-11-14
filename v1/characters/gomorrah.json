@@ -1,0 +1,65 @@
+{
+  "id": "gomorrah",
+  "name": "Gomorrah",
+  "display_name": "Gomorrah",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-06",
+      "label": "August 6th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "sodom",
+      "name": "Sodom"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Gomorrah_Anime_Infobox.png/revision/latest?cb=20250318235112",
+    "width": 961,
+    "height": 869
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Gomorrah_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250318235112",
+    "width": 400,
+    "height": 362
+  },
+  "wiki": {
+    "title": "Gomorrah",
+    "url": "https://onepiece.fandom.com/wiki/Gomorrah"
+  },
+  "info": {
+    "japanese_name": "ゴモラ",
+    "romanized_name": "Gomora",
+    "official_english_name": "Gomora (VIZ),; Gomorrah (Funimation)",
+    "debut": [
+      "Chapter 366",
+      "Episode 256"
+    ],
+    "affiliations": [
+      "Franky Family"
+    ],
+    "occupations": [
+      "Transportation"
+    ],
+    "residence": [
+      "Water 7"
+    ],
+    "birthday": "August 6th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

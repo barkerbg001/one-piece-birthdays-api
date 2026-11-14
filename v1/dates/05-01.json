@@ -3,9 +3,53 @@
   "label": "May 1st",
   "month": 5,
   "day": 1,
-  "characters": [
+  "names": [
     "Kaido",
     "Capote",
     "Hikoichi"
+  ],
+  "characters": [
+    {
+      "id": "kaido",
+      "name": "Kaido",
+      "display_name": "Kaido",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Kaidou_Anime_Infobox.png/revision/latest/scale-to-width-down/386?cb=20231102015517",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Kaidou_Anime_Infobox.png/revision/latest?cb=20231102015517",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kaidou",
+      "epithet": "\"Kaidou of the Beasts\"; \"The Strongest Creature\"; \"Wise King\"",
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/kaido.json"
+    },
+    {
+      "id": "capote",
+      "name": "Capote",
+      "display_name": "Capote",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Capote_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130421014733",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Capote_Anime_Infobox.png/revision/latest?cb=20130421014733",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Capote",
+      "epithet": null,
+      "affiliation": "Foxy Pirates (former)",
+      "api": "v1/characters/capote.json"
+    },
+    {
+      "id": "hikoichi",
+      "name": "Hikoichi",
+      "display_name": "Hikoichi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/78/Hikoichi_Anime_Infobox.png/revision/latest/scale-to-width-down/278?cb=20260530185337",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/78/Hikoichi_Anime_Infobox.png/revision/latest?cb=20260530185337",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hikoichi",
+      "epithet": null,
+      "affiliation": "Super Spot-Billed Duck Troops",
+      "api": "v1/characters/hikoichi.json"
+    }
   ]
 }

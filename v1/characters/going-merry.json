@@ -1,0 +1,55 @@
+{
+  "id": "going-merry",
+  "name": "Going Merry",
+  "display_name": "Going Merry",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-22",
+      "label": "January 22nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/41/Going_Merry_Infobox.png/revision/latest?cb=20240731210147",
+    "width": 1074,
+    "height": 898
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/41/Going_Merry_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240731210147",
+    "width": 400,
+    "height": 334
+  },
+  "wiki": {
+    "title": "Going Merry",
+    "url": "https://onepiece.fandom.com/wiki/Going_Merry"
+  },
+  "info": {
+    "japanese_name": "ゴーイング・メリー号",
+    "romanized_name": "Gōingu Merī-gō",
+    "official_english_name": "Going Merry (Funimation uncut dub, Odex); Merry Go (VIZ, Funimation edited-for-tv dub); SS Merry Go (4Kids Dub)",
+    "debut": [
+      "Chapter 41",
+      "Episode 17"
+    ],
+    "affiliations": [
+      "Straw Hat Pirates"
+    ],
+    "status": "2",
+    "height": "1100 cm (36'1\")"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

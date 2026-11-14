@@ -3,7 +3,23 @@
   "label": "January 28th",
   "month": 1,
   "day": 28,
-  "characters": [
+  "names": [
     "Mansherry"
+  ],
+  "characters": [
+    {
+      "id": "mansherry",
+      "name": "Mansherry",
+      "display_name": "Mansherry",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/54/Mansherry_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20161221094836",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/54/Mansherry_Anime_Infobox.png/revision/latest?cb=20161221094836",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mansherry",
+      "epithet": null,
+      "affiliation": "Tontatta Kingdom",
+      "api": "v1/characters/mansherry.json"
+    }
   ]
 }

@@ -3,7 +3,23 @@
   "label": "June 21st",
   "month": 6,
   "day": 21,
-  "characters": [
+  "names": [
     "Miss Father’s Day"
+  ],
+  "characters": [
+    {
+      "id": "miss-fathers-day",
+      "name": "Miss Father’s Day",
+      "display_name": "Miss Father’s Day",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Miss_Father%27s_Day_Anime_Infobox.png/revision/latest/scale-to-width-down/156?cb=20221128165323",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Miss_Father%27s_Day_Anime_Infobox.png/revision/latest?cb=20221128165323",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Miss_Father%27s_Day",
+      "epithet": null,
+      "affiliation": "Baroque Works (former)",
+      "api": "v1/characters/miss-fathers-day.json"
+    }
   ]
 }

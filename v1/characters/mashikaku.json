@@ -1,0 +1,63 @@
+{
+  "id": "mashikaku",
+  "name": "Mashikaku",
+  "display_name": "Mashikaku",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-26",
+      "label": "December 26th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/aa/Mashikaku_Anime_Infobox.png/revision/latest?cb=20181110134448",
+    "width": 464,
+    "height": 553
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/aa/Mashikaku_Anime_Infobox.png/revision/latest/scale-to-width-down/336?cb=20181110134448",
+    "width": 336,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Mashikaku",
+    "url": "https://onepiece.fandom.com/wiki/Mashikaku"
+  },
+  "info": {
+    "japanese_name": "マシカク",
+    "romanized_name": "Mashikaku",
+    "official_english_name": "Mashikaku",
+    "debut": [
+      "Chapter 98",
+      "Episode 48"
+    ],
+    "affiliations": [
+      "Marines",
+      "Loguetown Marine Base"
+    ],
+    "occupations": [
+      "Marine Chief Petty Officer"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Loguetown"
+    ],
+    "birthday": "December 26th",
+    "bounty": "At least 100,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

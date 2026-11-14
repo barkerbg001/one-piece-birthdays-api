@@ -3,8 +3,38 @@
   "label": "February 17th",
   "month": 2,
   "day": 17,
-  "characters": [
+  "names": [
     "Clione",
     "Ukkari"
+  ],
+  "characters": [
+    {
+      "id": "clione",
+      "name": "Clione",
+      "display_name": "Clione",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Clione_Anime_Infobox.png/revision/latest/scale-to-width-down/334?cb=20161104132821",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Clione_Anime_Infobox.png/revision/latest?cb=20161104132821",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Clione",
+      "epithet": null,
+      "affiliation": "Heart Pirates",
+      "api": "v1/characters/clione.json"
+    },
+    {
+      "id": "ukkari",
+      "name": "Ukkari",
+      "display_name": "Ukkari",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Ukkari_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20260816222800",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Ukkari_Anime_Infobox.png/revision/latest?cb=20260816222800",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Ukkari",
+      "epithet": null,
+      "affiliation": "Marines (Marine 153rd Branch)",
+      "api": "v1/characters/ukkari.json"
+    }
   ]
 }

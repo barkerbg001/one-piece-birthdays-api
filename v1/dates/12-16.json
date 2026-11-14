@@ -3,10 +3,77 @@
   "label": "December 16th",
   "month": 12,
   "day": 16,
-  "characters": [
+  "names": [
     "Inuppe",
     "Charlotte Moscato",
     "Charlotte Mash",
     "Charlotte Cornstarch"
+  ],
+  "characters": [
+    {
+      "id": "inuppe",
+      "name": "Inuppe",
+      "display_name": "Inuppe",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Inuppe_Anime_Infobox.png/revision/latest/scale-to-width-down/220?cb=20231212084622",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Inuppe_Anime_Infobox.png/revision/latest?cb=20231212084622",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Inuppe",
+      "epithet": null,
+      "affiliation": "Thriller Bark",
+      "api": "v1/characters/inuppe.json"
+    },
+    {
+      "id": "charlotte-moscato",
+      "name": "Charlotte Moscato",
+      "display_name": "Charlotte Moscato",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-mash",
+        "charlotte-cornstarch"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Charlotte_Moscato_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20170521232838",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Charlotte_Moscato_Anime_Infobox.png/revision/latest?cb=20170521232838",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Moscato",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-moscato.json"
+    },
+    {
+      "id": "charlotte-mash",
+      "name": "Charlotte Mash",
+      "display_name": "Charlotte Mash",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-moscato",
+        "charlotte-cornstarch"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Charlotte_Mash_Anime_Infobox.png/revision/latest/scale-to-width-down/240?cb=20181019104128",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Charlotte_Mash_Anime_Infobox.png/revision/latest?cb=20181019104128",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Mash",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-mash.json"
+    },
+    {
+      "id": "charlotte-cornstarch",
+      "name": "Charlotte Cornstarch",
+      "display_name": "Charlotte Cornstarch",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-moscato",
+        "charlotte-mash"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c7/Charlotte_Cornstarch_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20181021143336",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c7/Charlotte_Cornstarch_Anime_Infobox.png/revision/latest?cb=20181021143336",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Cornstarch",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-cornstarch.json"
+    }
   ]
 }

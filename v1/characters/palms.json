@@ -1,0 +1,59 @@
+{
+  "id": "palms",
+  "name": "Palms",
+  "display_name": "Palms",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-11",
+      "label": "March 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/93/Palms_Anime_Infobox.png/revision/latest?cb=20101121091131",
+    "width": 464,
+    "height": 356
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/93/Palms_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20101121091131",
+    "width": 400,
+    "height": 307
+  },
+  "wiki": {
+    "title": "Palms",
+    "url": "https://onepiece.fandom.com/wiki/Palms"
+  },
+  "info": {
+    "japanese_name": "パームス",
+    "romanized_name": "Pāmusu",
+    "official_english_name": "Palms",
+    "debut": [
+      "Chapter 553",
+      "Episode 470"
+    ],
+    "affiliations": [
+      "His own crew",
+      "Ally of the Whitebeard Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain"
+    ],
+    "birthday": "March 11th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

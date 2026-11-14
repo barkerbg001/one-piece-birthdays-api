@@ -3,7 +3,23 @@
   "label": "March 13th",
   "month": 3,
   "day": 13,
-  "characters": [
+  "names": [
     "Lafitte"
+  ],
+  "characters": [
+    {
+      "id": "lafitte",
+      "name": "Lafitte",
+      "display_name": "Lafitte",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/00/Laffitte_Anime_Infobox.png/revision/latest/scale-to-width-down/180?cb=20161029211833",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/00/Laffitte_Anime_Infobox.png/revision/latest?cb=20161029211833",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Laffitte",
+      "epithet": "\"Demon Sheriff\"",
+      "affiliation": "Blackbeard Pirates",
+      "api": "v1/characters/lafitte.json"
+    }
   ]
 }

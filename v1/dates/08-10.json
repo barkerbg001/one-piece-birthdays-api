@@ -3,9 +3,53 @@
   "label": "August 10th",
   "month": 8,
   "day": 10,
-  "characters": [
+  "names": [
     "Fujitora (Issho)",
     "Gedatsu",
     "Hattori"
+  ],
+  "characters": [
+    {
+      "id": "fujitora",
+      "name": "Fujitora",
+      "display_name": "Fujitora (Issho)",
+      "alias": "Issho",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Issho_Anime_Infobox.png/revision/latest/scale-to-width-down/246?cb=20220718140829",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Issho_Anime_Infobox.png/revision/latest?cb=20220718140829",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Issho",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/fujitora.json"
+    },
+    {
+      "id": "gedatsu",
+      "name": "Gedatsu",
+      "display_name": "Gedatsu",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/43/Gedatsu_Anime_Infobox.png/revision/latest/scale-to-width-down/223?cb=20230806232042",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/43/Gedatsu_Anime_Infobox.png/revision/latest?cb=20230806232042",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gedatsu",
+      "epithet": "Sky Boss; Sky Punk (4Kids, FUNimation)",
+      "affiliation": "Ukkari Hot-Spring Island",
+      "api": "v1/characters/gedatsu.json"
+    },
+    {
+      "id": "hattori",
+      "name": "Hattori",
+      "display_name": "Hattori",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Hattori_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/308?cb=20240128193359",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Hattori_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240128193359",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hattori",
+      "epithet": null,
+      "affiliation": "CP0",
+      "api": "v1/characters/hattori.json"
+    }
   ]
 }

@@ -3,7 +3,23 @@
   "label": "April 13th",
   "month": 4,
   "day": 13,
-  "characters": [
+  "names": [
     "Morgan"
+  ],
+  "characters": [
+    {
+      "id": "morgan",
+      "name": "Morgan",
+      "display_name": "Morgan",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Morgan_Anime_Infobox.png/revision/latest/scale-to-width-down/295?cb=20160802223743",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Morgan_Anime_Infobox.png/revision/latest?cb=20160802223743",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Morgan",
+      "epithet": "Axe-Hand Morgan",
+      "affiliation": "Marines (153rd Branch) (former, defected)",
+      "api": "v1/characters/morgan.json"
+    }
   ]
 }

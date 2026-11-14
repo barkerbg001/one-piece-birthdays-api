@@ -1,0 +1,69 @@
+{
+  "id": "mr-5",
+  "name": "Mr. 5",
+  "display_name": "Mr. 5 (Gem)",
+  "alias": "Gem",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-26",
+      "label": "July 26th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/14/Gem_Anime_Infobox.png/revision/latest?cb=20221003165534",
+    "width": 338,
+    "height": 517
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/14/Gem_Anime_Infobox.png/revision/latest/scale-to-width-down/261?cb=20221003165534",
+    "width": 261,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Gem",
+    "url": "https://onepiece.fandom.com/wiki/Gem"
+  },
+  "info": {
+    "japanese_name": "ジェム",
+    "romanized_name": "Jemu",
+    "official_english_name": "Gem",
+    "debut": [
+      "Chapter 110",
+      "Episode 65"
+    ],
+    "affiliations": [
+      "New Spiders Cafe",
+      "Baroque Works (former)"
+    ],
+    "occupations": [
+      "Fireman",
+      "Officer Agent (former)",
+      "Sniper (former)"
+    ],
+    "origin": "South Blue",
+    "epithet": "\"Gem of the Border\"",
+    "age": "24 (debut); 26 (after timeskip)",
+    "birthday": "July 26th",
+    "height": "197 cm (6'5\")",
+    "blood_type": "X",
+    "bounty": "10,000,000",
+    "devil_fruit": "Bomu Bomu no Mi",
+    "devil_fruit_english": "Bomb-Bomb Fruit (4Kids, Funimation, Odex); Boom-Boom Fruit (VIZ)",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

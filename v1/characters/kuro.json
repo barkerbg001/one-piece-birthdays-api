@@ -1,0 +1,70 @@
+{
+  "id": "kuro",
+  "name": "Kuro",
+  "display_name": "Kuro",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-22",
+      "label": "April 22nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Kuro_Anime_Infobox.png/revision/latest?cb=20231006042805",
+    "width": 333,
+    "height": 528
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Kuro_Anime_Infobox.png/revision/latest/scale-to-width-down/252?cb=20231006042805",
+    "width": 252,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kuro",
+    "url": "https://onepiece.fandom.com/wiki/Kuro"
+  },
+  "info": {
+    "japanese_name": "クロ",
+    "romanized_name": "Kuro",
+    "official_english_name": "Kuro",
+    "debut": [
+      "Chapter 23",
+      "Episode 9"
+    ],
+    "affiliations": [
+      "Black Cat Pirates"
+    ],
+    "occupations": [
+      "Pirate Captain (former)",
+      "Butler (former)"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Syrup Village (former)"
+    ],
+    "epithet": "\"Kuro of a Hundred Plans\"",
+    "aliases": [
+      "\"Klahadore\""
+    ],
+    "age": "33 (debut); 35 (after timeskip)",
+    "birthday": "April 22nd",
+    "height": "207 cm (6’9”)",
+    "blood_type": "X",
+    "bounty": "16,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

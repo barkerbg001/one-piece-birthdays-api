@@ -1,0 +1,61 @@
+{
+  "id": "kaya",
+  "name": "Kaya",
+  "display_name": "Kaya",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-24",
+      "label": "August 24th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Kaya_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20180617114926",
+    "width": 144,
+    "height": 514
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Kaya_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/112?cb=20180617114926",
+    "width": 112,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kaya",
+    "url": "https://onepiece.fandom.com/wiki/Kaya"
+  },
+  "info": {
+    "japanese_name": "カヤ",
+    "romanized_name": "Kaya",
+    "official_english_name": "Kaya",
+    "debut": [
+      "Chapter 23",
+      "Episode 9"
+    ],
+    "occupations": [
+      "Medical student"
+    ],
+    "origin": "East Blue (Gecko Islands)",
+    "residence": [
+      "Syrup Village"
+    ],
+    "age": "17 (debut); 19 (after timeskip)",
+    "birthday": "August 24th",
+    "height": "169 cm (5'6\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "farul",
+  "name": "Farul",
+  "display_name": "Farul",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-29",
+      "label": "August 29th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Farul_Anime_Infobox.png/revision/latest?cb=20180508215529",
+    "width": 483,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Farul_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20180508215529",
+    "width": 268,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Farul",
+    "url": "https://onepiece.fandom.com/wiki/Farul"
+  },
+  "info": {
+    "japanese_name": "ファルル",
+    "romanized_name": "Faruru",
+    "official_english_name": "Farul",
+    "debut": [
+      "Chapter 722",
+      "Episode 634"
+    ],
+    "affiliations": [
+      "Beautiful Pirates",
+      "Straw Hat Grand Fleet"
+    ],
+    "occupations": [
+      "Cavendish's steed"
+    ],
+    "birthday": "August 29th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

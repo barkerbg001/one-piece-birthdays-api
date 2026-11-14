@@ -3,8 +3,38 @@
   "label": "June 15th",
   "month": 6,
   "day": 15,
-  "characters": [
+  "names": [
     "Belo Betty",
     "Roshio"
+  ],
+  "characters": [
+    {
+      "id": "belo-betty",
+      "name": "Belo Betty",
+      "display_name": "Belo Betty",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Belo_Betty_Anime_Infobox.png/revision/latest/scale-to-width-down/200?cb=20240903112156",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Belo_Betty_Anime_Infobox.png/revision/latest?cb=20240903112156",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Belo_Betty",
+      "epithet": null,
+      "affiliation": "Revolutionary Army (East Army)",
+      "api": "v1/characters/belo-betty.json"
+    },
+    {
+      "id": "roshio",
+      "name": "Roshio",
+      "display_name": "Roshio",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Roshio_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230806182508",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Roshio_Anime_Infobox.png/revision/latest?cb=20230806182508",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Roshio",
+      "epithet": "\"Executioner\" Roshio",
+      "affiliation": "Roshio Pirates",
+      "api": "v1/characters/roshio.json"
+    }
   ]
 }

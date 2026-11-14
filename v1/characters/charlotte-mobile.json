@@ -1,0 +1,76 @@
+{
+  "id": "charlotte-mobile",
+  "name": "Charlotte Mobile",
+  "display_name": "Charlotte Mobile",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-17",
+      "label": "November 17th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-marble",
+      "name": "Charlotte Marble"
+    },
+    {
+      "id": "charlotte-myukuru",
+      "name": "Charlotte Myukuru"
+    },
+    {
+      "id": "charlotte-maple",
+      "name": "Charlotte Maple"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Charlotte_Mobile_Anime_Infobox.png/revision/latest?cb=20180429074458",
+    "width": 883,
+    "height": 1076
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Charlotte_Mobile_Anime_Infobox.png/revision/latest/scale-to-width-down/328?cb=20180429074458",
+    "width": 328,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Mobile",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Mobile"
+  },
+  "info": {
+    "japanese_name": "シャーロット・モービル",
+    "romanized_name": "Shārotto Mōbiru",
+    "official_english_name": "Charlotte Mobile",
+    "debut": [
+      "Chapter 862",
+      "Episode 832"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Minister of Tasting"
+    ],
+    "residence": [
+      "Futoru Island"
+    ],
+    "age": "25",
+    "birthday": "November 17th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,7 +3,23 @@
   "label": "May 21st",
   "month": 5,
   "day": 21,
-  "characters": [
+  "names": [
     "Gotti"
+  ],
+  "characters": [
+    {
+      "id": "gotti",
+      "name": "Gotti",
+      "display_name": "Gotti",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Gotti_Anime_Infobox.png/revision/latest/scale-to-width-down/284?cb=20230123020057",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Gotti_Anime_Infobox.png/revision/latest?cb=20230123020057",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gotti",
+      "epithet": null,
+      "affiliation": "Fire Tank Pirates",
+      "api": "v1/characters/gotti.json"
+    }
   ]
 }

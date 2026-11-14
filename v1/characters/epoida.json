@@ -1,0 +1,58 @@
+{
+  "id": "epoida",
+  "name": "Epoida",
+  "display_name": "Epoida",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-04",
+      "label": "June 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Epoida_Anime_Infobox.png/revision/latest?cb=20250303151401",
+    "width": 911,
+    "height": 1004
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Epoida_Anime_Infobox.png/revision/latest/scale-to-width-down/363?cb=20250303151401",
+    "width": 363,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Epoida",
+    "url": "https://onepiece.fandom.com/wiki/Epoida"
+  },
+  "info": {
+    "japanese_name": "エポイダ",
+    "romanized_name": "Epoida",
+    "official_english_name": "Epoida",
+    "debut": [
+      "Chapter 553",
+      "Episode 467"
+    ],
+    "affiliations": [
+      "Whitebeard Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain"
+    ],
+    "birthday": "June 4th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "donquixote-doflamingo",
+  "name": "Donquixote Doflamingo",
+  "display_name": "Donquixote Doflamingo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-23",
+      "label": "October 23rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Donquixote_Doflamingo_Anime_Infobox.png/revision/latest?cb=20231017082245",
+    "width": 930,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Donquixote_Doflamingo_Anime_Infobox.png/revision/latest/scale-to-width-down/344?cb=20231017082245",
+    "width": 344,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Donquixote Doflamingo",
+    "url": "https://onepiece.fandom.com/wiki/Donquixote_Doflamingo"
+  },
+  "info": {
+    "japanese_name": "ドンキホーテ・ドフラミンゴ",
+    "romanized_name": "Donkihōte Dofuramingo",
+    "official_english_name": "Don Quixote Doflamingo (VIZ); Donquixote Doflamingo (Funimation subs)",
+    "debut": [
+      "Chapter 233",
+      "Episode 151"
+    ],
+    "affiliations": [
+      "Donquixote Pirates",
+      "Impel Down",
+      "Underworld",
+      "World Government (secret)",
+      "Seven Warlords of the Sea (former)",
+      "Dressrosa (former)"
+    ],
+    "occupations": [
+      "Pirate Captain",
+      "Prisoner of the Great Prison",
+      "Underworld Broker",
+      "King of Dressrosa (former)",
+      "World Noble (former)"
+    ],
+    "origin": "Red Line (Mary Geoise)",
+    "residence": [
+      "Mary Geoise (former)",
+      "Downs (former)",
+      "Spider Miles (former)",
+      "Dressrosa (former)",
+      "Impel Down"
+    ],
+    "epithet": "\"Heavenly Yaksha\"",
+    "aliases": [
+      "\"Joker\""
+    ],
+    "age": "39 (debut); 41 (after timeskip)",
+    "birthday": "October 23rd",
+    "height": "305 cm (10') (debut, after timeskip)",
+    "blood_type": "X",
+    "bounty": "340,000,000",
+    "devil_fruit": "Ito Ito no Mi",
+    "devil_fruit_english": "String-String Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

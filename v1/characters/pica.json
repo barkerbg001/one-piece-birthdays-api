@@ -1,0 +1,69 @@
+{
+  "id": "pica",
+  "name": "Pica",
+  "display_name": "Pica",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-14",
+      "label": "December 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Pica_Anime_Infobox.png/revision/latest?cb=20221117040111",
+    "width": 1920,
+    "height": 2067
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Pica_Anime_Infobox.png/revision/latest/scale-to-width-down/372?cb=20221117040111",
+    "width": 372,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Pica",
+    "url": "https://onepiece.fandom.com/wiki/Pica"
+  },
+  "info": {
+    "japanese_name": "ピーカ",
+    "romanized_name": "Pīka",
+    "debut": [
+      "Chapter 700",
+      "Episode 629"
+    ],
+    "affiliations": [
+      "Donquixote Pirates"
+    ],
+    "occupations": [
+      "Pirate Executive Officer"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Downs (former)",
+      "Spider Miles (former)",
+      "Dressrosa (former)"
+    ],
+    "age": "40",
+    "birthday": "December 14th",
+    "height": "470 cm (15'5\")",
+    "blood_type": "X",
+    "bounty": "99,000,000",
+    "devil_fruit": "Ishi Ishi no Mi",
+    "devil_fruit_english": "Stone-Stone Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

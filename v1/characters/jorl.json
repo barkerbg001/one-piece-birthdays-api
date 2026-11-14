@@ -1,0 +1,66 @@
+{
+  "id": "jorl",
+  "name": "Jorl",
+  "display_name": "Jorl",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-04",
+      "label": "December 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Jorul_Anime_Infobox.png/revision/latest?cb=20180506044931",
+    "width": 841,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Jorul_Anime_Infobox.png/revision/latest/scale-to-width-down/311?cb=20180506044931",
+    "width": 311,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Jorul",
+    "url": "https://onepiece.fandom.com/wiki/Jorul"
+  },
+  "info": {
+    "japanese_name": "ヨルル",
+    "romanized_name": "Yoruru",
+    "official_english_name": "Jorul",
+    "debut": [
+      "Chapter 866",
+      "Episode 836"
+    ],
+    "affiliations": [
+      "Giant Warrior Pirates (former)",
+      "Elbaph"
+    ],
+    "occupations": [
+      "Pirate Captain (former)"
+    ],
+    "origin": "Grand Line (Elbaph)",
+    "residence": [
+      "Elbaph"
+    ],
+    "epithet": "\"Waterfall Beard\" Jorul",
+    "status": "2",
+    "birthday": "December 4th",
+    "height": "2150 cm (70'6\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

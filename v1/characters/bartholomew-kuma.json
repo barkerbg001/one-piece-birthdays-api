@@ -1,0 +1,85 @@
+{
+  "id": "bartholomew-kuma",
+  "name": "Bartholomew Kuma",
+  "display_name": "Bartholomew Kuma",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-09",
+      "label": "February 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Bartholomew_Kuma_Anime_Infobox.png/revision/latest?cb=20221012030835",
+    "width": 636,
+    "height": 1069
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Bartholomew_Kuma_Anime_Infobox.png/revision/latest/scale-to-width-down/238?cb=20221012030835",
+    "width": 238,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Bartholomew Kuma",
+    "url": "https://onepiece.fandom.com/wiki/Bartholomew_Kuma"
+  },
+  "info": {
+    "japanese_name": "バーソロミュー・くま",
+    "romanized_name": "Bāsoromyū Kuma",
+    "official_english_name": "Bartholomew Kuma",
+    "debut": [
+      "Chapter 233",
+      "Episode 151"
+    ],
+    "affiliations": [
+      "Freedom Fighters (former)",
+      "Pacifista",
+      "Revolutionary Army",
+      "Seven Warlords of the Sea (former)",
+      "Sorbet Kingdom (former)"
+    ],
+    "occupations": [
+      "Army Commander of the Revolutionary Army",
+      "Slave (former)",
+      "Warlord of the Sea (former)",
+      "King of Sorbet Kingdom (former)",
+      "Pastor (former)"
+    ],
+    "origin": "South Blue (Sorbet Kingdom)",
+    "residence": [
+      "Sorbet Kingdom (former)",
+      "Baltigo (former)",
+      "Egghead (former, temporary)",
+      "Mary Geoise (former)",
+      "Sabaody Archipelago (former, temporary)"
+    ],
+    "epithet": "\"Tyrant\"; \"Pacifist\"; \"Hero\"",
+    "aliases": [
+      "PX-0",
+      "\"Kumachi\""
+    ],
+    "age": "45 (debut); 47 (after timeskip)",
+    "birthday": "February 9th",
+    "height": "689 cm (22'7\")",
+    "blood_type": "X",
+    "bounty": "296,000,000",
+    "devil_fruit": "Nikyu Nikyu no Mi",
+    "devil_fruit_english": "Paw-Paw Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

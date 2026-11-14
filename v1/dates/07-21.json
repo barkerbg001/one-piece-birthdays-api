@@ -3,7 +3,23 @@
   "label": "July 21st",
   "month": 7,
   "day": 21,
-  "characters": [
+  "names": [
     "Kanjuro"
+  ],
+  "characters": [
+    {
+      "id": "kanjuro",
+      "name": "Kanjuro",
+      "display_name": "Kanjuro",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kurozumi_Kanjuro_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20150503144042",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kurozumi_Kanjuro_Anime_Infobox.png/revision/latest?cb=20150503144042",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kurozumi_Kanjuro",
+      "epithet": "\"Evening Shower\"; Ghost of Kibi",
+      "affiliation": "Kurozumi Family",
+      "api": "v1/characters/kanjuro.json"
+    }
   ]
 }

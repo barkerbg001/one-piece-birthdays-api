@@ -1,0 +1,72 @@
+{
+  "id": "morley",
+  "name": "Morley",
+  "display_name": "Morley",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-11",
+      "label": "September 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/48/Morley_Anime_Infobox.png/revision/latest?cb=20230517025343",
+    "width": 1081,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/48/Morley_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230517025343",
+    "width": 400,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Morley",
+    "url": "https://onepiece.fandom.com/wiki/Morley"
+  },
+  "info": {
+    "japanese_name": "モーリー",
+    "romanized_name": "Mōrī",
+    "official_english_name": "Morley",
+    "debut": [
+      "Chapter 904",
+      "Episode 880"
+    ],
+    "affiliations": [
+      "Revolutionary Army (West Army)"
+    ],
+    "occupations": [
+      "West Army Commander of the Revolutionary Army",
+      "Pirate (former)",
+      "Prisoner of Impel Down (former)"
+    ],
+    "origin": "West Blue",
+    "residence": [
+      "Baltigo (former)",
+      "Momoiro Island"
+    ],
+    "epithet": "\"Morley of Fur\"",
+    "age": "160",
+    "birthday": "September 11th",
+    "height": "1253 cm (41'1\")",
+    "blood_type": "F",
+    "bounty": "293,000,000",
+    "devil_fruit": "Oshi Oshi no Mi",
+    "devil_fruit_english": "Push-Push Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

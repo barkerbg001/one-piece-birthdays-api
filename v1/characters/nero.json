@@ -1,0 +1,61 @@
+{
+  "id": "nero",
+  "name": "Nero",
+  "display_name": "Nero",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-26",
+      "label": "January 26th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Nero_Anime_Infobox.png/revision/latest?cb=20221024015622",
+    "width": 1370,
+    "height": 2525
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Nero_Anime_Infobox.png/revision/latest/scale-to-width-down/217?cb=20221024015622",
+    "width": 217,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Nero",
+    "url": "https://onepiece.fandom.com/wiki/Nero"
+  },
+  "info": {
+    "japanese_name": "ネロ",
+    "debut": [
+      "Chapter 367",
+      "Episode 257"
+    ],
+    "affiliations": [
+      "CP9 (former)"
+    ],
+    "occupations": [
+      "Cipher Pol Agent (former)"
+    ],
+    "origin": "West Blue",
+    "epithet": "\"Nero the Sea Weasel\"",
+    "status": "1",
+    "age": "20 (debut); 22 (after timeskip)",
+    "birthday": "January 26th",
+    "height": "202 cm (6'7½\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

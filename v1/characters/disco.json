@@ -1,0 +1,62 @@
+{
+  "id": "disco",
+  "name": "Disco",
+  "display_name": "Disco",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-12",
+      "label": "June 12th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/52/Disco_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20240429004117",
+    "width": 826,
+    "height": 1039
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/52/Disco_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/318?cb=20240429004117",
+    "width": 318,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Disco",
+    "url": "https://onepiece.fandom.com/wiki/Disco"
+  },
+  "info": {
+    "japanese_name": "ディスコ",
+    "romanized_name": "Disuko",
+    "debut": [
+      "Chapter 500",
+      "Episode 394"
+    ],
+    "affiliations": [
+      "Donquixote Doflamingo (former)",
+      "Human Auctioning House (former)"
+    ],
+    "occupations": [
+      "Owner of Human Auctioning House (former)"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Sabaody Archipelago"
+    ],
+    "epithet": "\"Walking Super Bazaar\"",
+    "birthday": "June 12th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

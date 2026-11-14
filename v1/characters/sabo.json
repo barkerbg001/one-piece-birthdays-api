@@ -1,0 +1,79 @@
+{
+  "id": "sabo",
+  "name": "Sabo",
+  "display_name": "Sabo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-20",
+      "label": "March 20th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c2/Sabo_Anime_Infobox.png/revision/latest?cb=20230804035141",
+    "width": 1390,
+    "height": 2102
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c2/Sabo_Anime_Infobox.png/revision/latest/scale-to-width-down/264?cb=20230804035141",
+    "width": 264,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Sabo",
+    "url": "https://onepiece.fandom.com/wiki/Sabo"
+  },
+  "info": {
+    "japanese_name": "サボ",
+    "debut": [
+      "Chapter 583",
+      "Episode 494"
+    ],
+    "affiliations": [
+      "Revolutionary Army",
+      "Dadan Family (former)",
+      "Goa Kingdom (defected)"
+    ],
+    "occupations": [
+      "Chief of Staff of the Revolutionary Army",
+      "Noble (former)",
+      "Pirate (former)",
+      "Thief (former)",
+      "Bandit (former)"
+    ],
+    "origin": "East Blue (Goa Kingdom)",
+    "residence": [
+      "Goa Kingdom (former)",
+      "Mt. Colubo (former)",
+      "Baltigo (former)",
+      "Momoiro Island"
+    ],
+    "epithet": "\"Flame Emperor\"",
+    "aliases": [
+      "Lucy"
+    ],
+    "age": "10 (debut); 22 (after timeskip)",
+    "birthday": "March 20th",
+    "height": "100 cm (3'3\") (flashback, debut); 187 cm (6'2\") (After timeskip)",
+    "blood_type": "X",
+    "bounty": "Unknown",
+    "devil_fruit": "Mera Mera no Mi",
+    "devil_fruit_english": "Flame-Flame Fruit (VIZ, Funimation); Flare-Flare Fruit (4Kids, Funimation subs)",
+    "devil_fruit_type": "Logia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "raizou",
+  "name": "Raizou",
+  "display_name": "Raizou",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-26",
+      "label": "February 26th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/23/Raizo_Anime_Infobox.png/revision/latest?cb=20161218152812",
+    "width": 1920,
+    "height": 2339
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/23/Raizo_Anime_Infobox.png/revision/latest/scale-to-width-down/328?cb=20161218152812",
+    "width": 328,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Raizo",
+    "url": "https://onepiece.fandom.com/wiki/Raizo"
+  },
+  "info": {
+    "japanese_name": "雷ぞう",
+    "romanized_name": "Raizō",
+    "official_english_name": "Raizo",
+    "debut": [
+      "Chapter 817",
+      "Episode 768"
+    ],
+    "affiliations": [
+      "Kouzuki Family",
+      "Nine Red Scabbards",
+      "Ninja-Pirate-Mink-Samurai Alliance"
+    ],
+    "occupations": [
+      "Daimyo",
+      "Ninja",
+      "Retainer of the Kouzuki Family",
+      "Samurai",
+      "Member of the Kouzuki Family Oniwabanshu (Former)",
+      "Bandit (Former)"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Wano Country (Udon)",
+      "Wano Country (Kuri)",
+      "Wano Country (Flower Capital)"
+    ],
+    "epithet": "\"Raizo of the Mist\"",
+    "age": "35 (born 55 years ago)",
+    "birthday": "February 26th",
+    "height": "311 cm (10'2\")",
+    "blood_type": "X",
+    "devil_fruit": "Maki Maki no Mi",
+    "devil_fruit_english": "Scrolling Jutsu (VIZ); Scroll-Scroll Fruit (One Piece Official YouTube Channel)",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

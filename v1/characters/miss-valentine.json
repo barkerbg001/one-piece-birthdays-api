@@ -1,0 +1,71 @@
+{
+  "id": "miss-valentine",
+  "name": "Miss Valentine",
+  "display_name": "Miss Valentine (Mikita)",
+  "alias": "Mikita",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-14",
+      "label": "February 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Mikita_Anime_Infobox.png/revision/latest?cb=20230417164634",
+    "width": 174,
+    "height": 413
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Mikita_Anime_Infobox.png/revision/latest/scale-to-width-down/168?cb=20230417164634",
+    "width": 168,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Mikita",
+    "url": "https://onepiece.fandom.com/wiki/Mikita"
+  },
+  "info": {
+    "japanese_name": "ミキータ",
+    "romanized_name": "Mikīta",
+    "official_english_name": "Mikita",
+    "debut": [
+      "Chapter 110",
+      "Episode 65"
+    ],
+    "affiliations": [
+      "New Spiders Cafe",
+      "Baroque Works (former)"
+    ],
+    "occupations": [
+      "Cafe Pâtissier",
+      "Officer Agent (former)"
+    ],
+    "origin": "West Blue",
+    "epithet": "\"Courier\"",
+    "aliases": [
+      "\"Miss Valentine\""
+    ],
+    "age": "22 (debut); 24 (after timeskip)",
+    "birthday": "February 14th",
+    "height": "177 cm (5'10\")",
+    "blood_type": "XF",
+    "bounty": "7,500,000",
+    "devil_fruit": "Kiro Kiro no Mi",
+    "devil_fruit_english": "Kilo-Kilo Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

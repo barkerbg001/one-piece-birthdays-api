@@ -1,0 +1,68 @@
+{
+  "id": "jabra",
+  "name": "Jabra",
+  "display_name": "Jabra",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-05",
+      "label": "June 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/12/Jabra_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240915021445",
+    "width": 584,
+    "height": 742
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/12/Jabra_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/315?cb=20240915021445",
+    "width": 315,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Jabra",
+    "url": "https://onepiece.fandom.com/wiki/Jabra"
+  },
+  "info": {
+    "japanese_name": "ジャブラ",
+    "romanized_name": "Jabura",
+    "official_english_name": "Jabra",
+    "debut": [
+      "Chapter 375",
+      "Episode 264"
+    ],
+    "affiliations": [
+      "CP0",
+      "CP9 (former)"
+    ],
+    "occupations": [
+      "Cipher Pol Agent"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Guanhao (former)"
+    ],
+    "age": "35 (debut); 37 (after timeskip)",
+    "birthday": "June 5th",
+    "height": "212 cm (6'11½\")",
+    "blood_type": "S",
+    "devil_fruit": "Inu Inu no Mi, Model: Wolf",
+    "devil_fruit_english": "Mutt-Mutt Fruit Wolf Model",
+    "devil_fruit_type": "Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

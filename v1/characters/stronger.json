@@ -1,0 +1,64 @@
+{
+  "id": "stronger",
+  "name": "Stronger",
+  "display_name": "Stronger",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-16",
+      "label": "April 16th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d3/Stronger_Anime_Infobox.png/revision/latest?cb=20231222225633",
+    "width": 685,
+    "height": 1071
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d3/Stronger_Anime_Infobox.png/revision/latest/scale-to-width-down/256?cb=20231222225633",
+    "width": 256,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Stronger",
+    "url": "https://onepiece.fandom.com/wiki/Stronger"
+  },
+  "info": {
+    "japanese_name": "ストロンガー",
+    "romanized_name": "Sutorongā",
+    "official_english_name": "Stronger (Funimation, VIZ); Strongheart (Formerly VIZ)",
+    "debut": [
+      "Chapter 223",
+      "Episode 146"
+    ],
+    "affiliations": [
+      "Blackbeard Pirates"
+    ],
+    "occupations": [
+      "Doc Q's horse",
+      "Pet"
+    ],
+    "residence": [
+      "Hachinosu"
+    ],
+    "birthday": "April 16th",
+    "devil_fruit": "Uma Uma no Mi, Model: Pegasus",
+    "devil_fruit_english": "Horse-Horse Fruit, Pegasus Model",
+    "devil_fruit_type": "Mythical Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

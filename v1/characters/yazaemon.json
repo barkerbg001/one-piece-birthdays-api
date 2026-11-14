@@ -1,0 +1,65 @@
+{
+  "id": "yazaemon",
+  "name": "Yazaemon",
+  "display_name": "Yazaemon",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-08",
+      "label": "August 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Yazaemon_Anime_Infobox.png/revision/latest?cb=20200914204314",
+    "width": 727,
+    "height": 656
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Yazaemon_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20200914204314",
+    "width": 400,
+    "height": 361
+  },
+  "wiki": {
+    "title": "Yazaemon",
+    "url": "https://onepiece.fandom.com/wiki/Yazaemon"
+  },
+  "info": {
+    "japanese_name": "矢ざえもん",
+    "official_english_name": "Yazaemon",
+    "debut": [
+      "Chapter 931",
+      "Episode 925"
+    ],
+    "affiliations": [
+      "Beasts Pirates",
+      "Orochi Oniwabanshu (former)"
+    ],
+    "occupations": [
+      "Ninja",
+      "Pirate"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Flower Capital, Wano Country"
+    ],
+    "age": "24",
+    "birthday": "August 8th",
+    "height": "180 cm (5'10\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "oars",
+  "name": "Oars",
+  "display_name": "Oars",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-04",
+      "label": "October 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/55/Oars_Anime_Infobox.png/revision/latest?cb=20230528185603",
+    "width": 940,
+    "height": 1006
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/55/Oars_Anime_Infobox.png/revision/latest/scale-to-width-down/374?cb=20230528185603",
+    "width": 374,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Oars",
+    "url": "https://onepiece.fandom.com/wiki/Oars"
+  },
+  "info": {
+    "japanese_name": "オーズ",
+    "romanized_name": "Ōzu",
+    "official_english_name": "Oars",
+    "debut": [
+      "Chapter 456",
+      "Episode 350"
+    ],
+    "affiliations": [
+      "Thriller Bark Pirates"
+    ],
+    "occupations": [
+      "Special Zombie",
+      "Leader of clan of evil giants (former)"
+    ],
+    "origin": "North Blue",
+    "epithet": "\"Devil\"; \"Continent-Puller\"",
+    "status": "2",
+    "birthday": "October 4th",
+    "height": "67 m (219'10\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "karasu",
+  "name": "Karasu",
+  "display_name": "Karasu",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-18",
+      "label": "September 18th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Karasu_Anime_Infobox.png/revision/latest?cb=20190414113619",
+    "width": 1733,
+    "height": 1964
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Karasu_Anime_Infobox.png/revision/latest/scale-to-width-down/353?cb=20190414113619",
+    "width": 353,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Karasu",
+    "url": "https://onepiece.fandom.com/wiki/Karasu"
+  },
+  "info": {
+    "japanese_name": "カラス",
+    "debut": [
+      "Chapter 593",
+      "Episode 510"
+    ],
+    "affiliations": [
+      "Revolutionary Army (North Army)"
+    ],
+    "occupations": [
+      "North Army Commander of the Revolutionary Army"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Baltigo (former)",
+      "Momoiro Island"
+    ],
+    "age": "45 (debut); 47 (after timeskip)",
+    "birthday": "September 18th",
+    "height": "265 cm (8'8\")",
+    "blood_type": "S",
+    "bounty": "400,000,000",
+    "devil_fruit": "Susu Susu no Mi",
+    "devil_fruit_english": "Soot-Soot Fruit",
+    "devil_fruit_type": "Logia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

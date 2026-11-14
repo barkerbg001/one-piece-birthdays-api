@@ -1,0 +1,76 @@
+{
+  "id": "charlotte-cabaletta",
+  "name": "Charlotte Cabaletta",
+  "display_name": "Charlotte Cabaletta",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-29",
+      "label": "September 29th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-opera",
+      "name": "Charlotte Opera"
+    },
+    {
+      "id": "charlotte-counter",
+      "name": "Charlotte Counter"
+    },
+    {
+      "id": "charlotte-cadenza",
+      "name": "Charlotte Cadenza"
+    },
+    {
+      "id": "charlotte-gala",
+      "name": "Charlotte Gala"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Charlotte_Cabaletta_Anime_Infobox.png/revision/latest?cb=20180123093308",
+    "width": 1173,
+    "height": 1028
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Charlotte_Cabaletta_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180123093308",
+    "width": 400,
+    "height": 351
+  },
+  "wiki": {
+    "title": "Charlotte Cabaletta",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Cabaletta"
+  },
+  "info": {
+    "japanese_name": "シャーロット・カバレッタ",
+    "romanized_name": "Shārotto Kabaretta",
+    "official_english_name": "Charlotte Cabaletta",
+    "debut": [
+      "Chapter 845",
+      "Episode 809"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "age": "46",
+    "birthday": "September 29th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

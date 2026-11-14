@@ -1,0 +1,73 @@
+{
+  "id": "kawamatsu",
+  "name": "Kawamatsu",
+  "display_name": "Kawamatsu",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-14",
+      "label": "June 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5e/Kawamatsu_Anime_Infobox.png/revision/latest?cb=20201215013006",
+    "width": 1730,
+    "height": 1440
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5e/Kawamatsu_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20201215013006",
+    "width": 400,
+    "height": 333
+  },
+  "wiki": {
+    "title": "Kawamatsu",
+    "url": "https://onepiece.fandom.com/wiki/Kawamatsu"
+  },
+  "info": {
+    "japanese_name": "河松",
+    "debut": [
+      "Chapter 920",
+      "Episode 910"
+    ],
+    "affiliations": [
+      "Kouzuki Family",
+      "Nine Red Scabbards",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Daimyo",
+      "Retainer of the Kouzuki Family",
+      "Samurai",
+      "Sumo Wrestler",
+      "Highway Robber (former)"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Wano Country (Kuri)",
+      "Wano Country (Hakumai)"
+    ],
+    "epithet": "\"Kawamatsu the Kappa\",; \"Yokozuna Kawamatsu\"",
+    "aliases": [
+      "Gyukimaru"
+    ],
+    "age": "41",
+    "birthday": "June 14th",
+    "height": "271 cm (8'11\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

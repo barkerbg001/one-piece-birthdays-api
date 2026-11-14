@@ -3,9 +3,53 @@
   "label": "August 3rd",
   "month": 8,
   "day": 3,
-  "characters": [
+  "names": [
     "Inazuma",
     "Marshall D. Teach (Blackbeard)",
     "Hanzo"
+  ],
+  "characters": [
+    {
+      "id": "inazuma",
+      "name": "Inazuma",
+      "display_name": "Inazuma",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Inazuma_Anime_Infobox.png/revision/latest/scale-to-width-down/170?cb=20221031183404",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Inazuma_Anime_Infobox.png/revision/latest?cb=20221031183404",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Inazuma",
+      "epithet": null,
+      "affiliation": "Kamabakka Kingdom",
+      "api": "v1/characters/inazuma.json"
+    },
+    {
+      "id": "marshall-d-teach",
+      "name": "Marshall D. Teach",
+      "display_name": "Marshall D. Teach (Blackbeard)",
+      "alias": "Blackbeard",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Marshall_D._Teach_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/351?cb=20240128044952",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Marshall_D._Teach_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240128044952",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Marshall_D._Teach",
+      "epithet": "\"Blackbeard\" (\"Black Beard\" in the edited dub)",
+      "affiliation": "Blackbeard Pirates",
+      "api": "v1/characters/marshall-d-teach.json"
+    },
+    {
+      "id": "hanzo",
+      "name": "Hanzo",
+      "display_name": "Hanzo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/40/Hanzo_Anime_Infobox.png/revision/latest/scale-to-width-down/386?cb=20220213141121",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/40/Hanzo_Anime_Infobox.png/revision/latest?cb=20220213141121",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hanzo",
+      "epithet": null,
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/hanzo.json"
+    }
   ]
 }

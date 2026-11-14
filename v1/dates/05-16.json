@@ -3,8 +3,38 @@
   "label": "May 16th",
   "month": 5,
   "day": 16,
-  "characters": [
+  "names": [
     "Kolumbus",
     "Pudding Pudding"
+  ],
+  "characters": [
+    {
+      "id": "kolumbus",
+      "name": "Kolumbus",
+      "display_name": "Kolumbus",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/kolumbus.json"
+    },
+    {
+      "id": "pudding-pudding",
+      "name": "Pudding Pudding",
+      "display_name": "Pudding Pudding",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c0/Pudding_Pudding_Anime_Infobox.png/revision/latest/scale-to-width-down/264?cb=20220928043355",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c0/Pudding_Pudding_Anime_Infobox.png/revision/latest?cb=20220928043355",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Pudding_Pudding",
+      "epithet": null,
+      "affiliation": "Marines, Marine 77th Branch",
+      "api": "v1/characters/pudding-pudding.json"
+    }
   ]
 }

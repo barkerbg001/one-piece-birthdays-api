@@ -1,0 +1,64 @@
+{
+  "id": "speed",
+  "name": "Speed",
+  "display_name": "Speed",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-11",
+      "label": "December 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Speed_Anime_Infobox.png/revision/latest?cb=20241110183728",
+    "width": 713,
+    "height": 930
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Speed_Anime_Infobox.png/revision/latest/scale-to-width-down/307?cb=20241110183728",
+    "width": 307,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Speed",
+    "url": "https://onepiece.fandom.com/wiki/Speed"
+  },
+  "info": {
+    "japanese_name": "スピード",
+    "romanized_name": "Supīdo",
+    "debut": [
+      "Chapter 917",
+      "Episode 904"
+    ],
+    "affiliations": [
+      "Beasts Pirates (former)",
+      "Kurozumi Tama",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Shinuchi (former)"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "age": "24",
+    "birthday": "December 11th",
+    "height": "298 cm (9'9\")",
+    "blood_type": "X",
+    "devil_fruit_english": "Horse SMILE",
+    "devil_fruit_type": "Artificial Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

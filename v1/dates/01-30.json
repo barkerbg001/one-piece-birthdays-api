@@ -3,8 +3,38 @@
   "label": "January 30th",
   "month": 1,
   "day": 30,
-  "characters": [
+  "names": [
     "Suleiman",
     "Domo-kun"
+  ],
+  "characters": [
+    {
+      "id": "suleiman",
+      "name": "Suleiman",
+      "display_name": "Suleiman",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/06/Suleiman_Anime_Infobox.png/revision/latest/scale-to-width-down/269?cb=20141012155032",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/06/Suleiman_Anime_Infobox.png/revision/latest?cb=20141012155032",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Suleiman",
+      "epithet": "\"Suleiman the Beheader\"",
+      "affiliation": "Beautiful Pirates",
+      "api": "v1/characters/suleiman.json"
+    },
+    {
+      "id": "domo-kun",
+      "name": "Domo-kun",
+      "display_name": "Domo-kun",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/24/Domo-kun_and_Nnke-kun_Manga_Infobox.png/revision/latest?cb=20100704175157",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Domo-kun_and_Nnke-kun_Manga_Infobox.png/revision/latest?cb=20100704175157",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Domo-kun_and_Nnke-kun",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/domo-kun.json"
+    }
   ]
 }

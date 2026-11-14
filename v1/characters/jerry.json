@@ -1,0 +1,60 @@
+{
+  "id": "jerry",
+  "name": "Jerry",
+  "display_name": "Jerry",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-22",
+      "label": "February 22nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Jerry_Anime_Infobox.png/revision/latest?cb=20121227131033",
+    "width": 968,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Jerry_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20121227131033",
+    "width": 400,
+    "height": 298
+  },
+  "wiki": {
+    "title": "Jerry",
+    "url": "https://onepiece.fandom.com/wiki/Jerry"
+  },
+  "info": {
+    "japanese_name": "ジェリー",
+    "romanized_name": "Jerī",
+    "debut": [
+      "Chapter 362",
+      "Episode 253"
+    ],
+    "affiliations": [
+      "CP6"
+    ],
+    "occupations": [
+      "Cipher Pol Agent"
+    ],
+    "origin": "South Blue (Karate Island)",
+    "age": "44 (debut); 46 (after timeskip)",
+    "birthday": "February 22nd",
+    "height": "676 cm (22'2\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

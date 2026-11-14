@@ -3,9 +3,53 @@
   "label": "June 19th",
   "month": 6,
   "day": 19,
-  "characters": [
+  "names": [
     "Mr. 4 (Babe)",
     "Rokkaku",
     "Tibany"
+  ],
+  "characters": [
+    {
+      "id": "mr-4",
+      "name": "Mr. 4",
+      "display_name": "Mr. 4 (Babe)",
+      "alias": "Babe",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/da/Babe_Anime_Infobox.png/revision/latest/scale-to-width-down/259?cb=20230121225303",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/da/Babe_Anime_Infobox.png/revision/latest?cb=20230121225303",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Babe",
+      "epithet": "\"Catcher-Killing\" Babe",
+      "affiliation": "New Spiders Cafe",
+      "api": "v1/characters/mr-4.json"
+    },
+    {
+      "id": "rokkaku",
+      "name": "Rokkaku",
+      "display_name": "Rokkaku",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Rokkaku_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240306171149",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Rokkaku_Anime_Infobox.png/revision/latest?cb=20240306171149",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Rokkaku",
+      "epithet": null,
+      "affiliation": "Marines (153rd Branch)",
+      "api": "v1/characters/rokkaku.json"
+    },
+    {
+      "id": "tibany",
+      "name": "Tibany",
+      "display_name": "Tibany",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/69/Tibany_Anime_Infobox.png/revision/latest/scale-to-width-down/258?cb=20240723202013",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/69/Tibany_Anime_Infobox.png/revision/latest?cb=20240723202013",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Tibany",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/tibany.json"
+    }
   ]
 }

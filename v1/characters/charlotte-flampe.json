@@ -1,0 +1,68 @@
+{
+  "id": "charlotte-flampe",
+  "name": "Charlotte Flampé",
+  "display_name": "Charlotte Flampé",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-11",
+      "label": "February 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/91/Charlotte_Flampe_Anime_Infobox.png/revision/latest?cb=20190203105539",
+    "width": 1070,
+    "height": 891
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/91/Charlotte_Flampe_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20190203105539",
+    "width": 400,
+    "height": 333
+  },
+  "wiki": {
+    "title": "Charlotte Flampe",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Flampe"
+  },
+  "info": {
+    "japanese_name": "シャーロット・フランペ",
+    "romanized_name": "Shārotto Furanpe",
+    "official_english_name": "Charlotte Flampe",
+    "debut": [
+      "Chapter 891",
+      "Episode 865"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Minister of Honey",
+      "Special Attack Unit Captain",
+      "Katakuri Fan Club President"
+    ],
+    "origin": "Grand Line (Totto Land)",
+    "residence": [
+      "Rokumitsu Island"
+    ],
+    "age": "15",
+    "birthday": "February 11th",
+    "height": "170 cm (5'7\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

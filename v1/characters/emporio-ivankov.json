@@ -1,0 +1,75 @@
+{
+  "id": "emporio-ivankov",
+  "name": "Emporio Ivankov",
+  "display_name": "Emporio Ivankov",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-08",
+      "label": "January 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/de/Emporio_Ivankov_Anime_Infobox.png/revision/latest?cb=20261017230714",
+    "width": 792,
+    "height": 1035
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/de/Emporio_Ivankov_Anime_Infobox.png/revision/latest/scale-to-width-down/306?cb=20261017230714",
+    "width": 306,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Emporio Ivankov",
+    "url": "https://onepiece.fandom.com/wiki/Emporio_Ivankov"
+  },
+  "info": {
+    "japanese_name": "エンポリオ・イワンコフ",
+    "romanized_name": "Enporio Iwankofu",
+    "debut": [
+      "Chapter 537",
+      "Episode 438"
+    ],
+    "affiliations": [
+      "Revolutionary Army",
+      "Freedom Fighters (former)",
+      "Kamabakka Kingdom",
+      "Newkama Land (former)"
+    ],
+    "occupations": [
+      "G Army Commander of the Revolutionary Army",
+      "Queen of the Kamabakka Kingdom",
+      "Queen of Newkama Land (former)",
+      "Slave (former)"
+    ],
+    "origin": "Grand Line (Kamabakka Kingdom)",
+    "residence": [
+      "Momoiro Island",
+      "Mary Geoise (former)"
+    ],
+    "epithet": "\"Okama King\"; \"Miracle Person\"",
+    "age": "51 (debut); 53 (after timeskip)",
+    "birthday": "January 8th",
+    "height": "449 cm (14'8\")",
+    "blood_type": "XF",
+    "bounty": "At least 100,000,000",
+    "devil_fruit": "Horu Horu no Mi",
+    "devil_fruit_english": "Horm-Horm Fruit (VIZ and Funimation); Hor-Hor Fruit (One Piece Official YouTube Channel)",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

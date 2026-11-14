@@ -1,0 +1,71 @@
+{
+  "id": "catarina-devon",
+  "name": "Catarina Devon",
+  "display_name": "Catarina Devon",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-29",
+      "label": "March 29th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Catarina_Devon_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200112041332",
+    "width": 1920,
+    "height": 2141
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Catarina_Devon_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/359?cb=20200112041332",
+    "width": 359,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Catarina Devon",
+    "url": "https://onepiece.fandom.com/wiki/Catarina_Devon"
+  },
+  "info": {
+    "japanese_name": "カタリーナ・デボン",
+    "romanized_name": "Katarīna Debon",
+    "official_english_name": "Catarina Devon; Catalina Devon",
+    "debut": [
+      "Chapter 575",
+      "Episode 484"
+    ],
+    "affiliations": [
+      "Blackbeard Pirates",
+      "Impel Down (former)"
+    ],
+    "occupations": [
+      "Titanic Captain (Captain of the Sixth Ship)",
+      "Prisoner of the Great Prison (former)"
+    ],
+    "origin": "South Blue",
+    "residence": [
+      "Hachinosu"
+    ],
+    "epithet": "\"Crescent Moon Hunter\"",
+    "age": "34 (debut); 36 (after timeskip)",
+    "birthday": "March 29th",
+    "height": "361 cm (11'10\")",
+    "blood_type": "F",
+    "bounty": "Unknown",
+    "devil_fruit": "Inu Inu no Mi, Model: Kyubi no Kitsune",
+    "devil_fruit_english": "Dog-Dog Fruit, Model: Nine Tailed Fox",
+    "devil_fruit_type": "Mythical Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,7 +3,23 @@
   "label": "September 25th",
   "month": 9,
   "day": 25,
-  "characters": [
+  "names": [
     "Terracotta"
+  ],
+  "characters": [
+    {
+      "id": "terracotta",
+      "name": "Terracotta",
+      "display_name": "Terracotta",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Terracotta_Anime_Infobox.png/revision/latest/scale-to-width-down/340?cb=20240615233654",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Terracotta_Anime_Infobox.png/revision/latest?cb=20240615233654",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Terracotta",
+      "epithet": null,
+      "affiliation": "Arabasta Kingdom",
+      "api": "v1/characters/terracotta.json"
+    }
   ]
 }

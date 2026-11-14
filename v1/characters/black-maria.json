@@ -1,0 +1,69 @@
+{
+  "id": "black-maria",
+  "name": "Black Maria",
+  "display_name": "Black Maria",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-24",
+      "label": "September 24th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Black_Maria_Anime_Infobox.png/revision/latest?cb=20210808144206",
+    "width": 963,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Black_Maria_Anime_Infobox.png/revision/latest/scale-to-width-down/357?cb=20210808144206",
+    "width": 357,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Black Maria",
+    "url": "https://onepiece.fandom.com/wiki/Black_Maria"
+  },
+  "info": {
+    "japanese_name": "ブラックマリア",
+    "romanized_name": "Burakkumaria",
+    "official_english_name": "Black Maria",
+    "debut": [
+      "Chapter 977",
+      "Episode 982"
+    ],
+    "affiliations": [
+      "Beasts Pirates (Tobiroppo)"
+    ],
+    "occupations": [
+      "Shinuchi",
+      "Brothel owner"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Onigashima"
+    ],
+    "age": "29",
+    "birthday": "September 24th",
+    "height": "820 cm (26'11\")",
+    "blood_type": "S",
+    "bounty": "480,000,000",
+    "devil_fruit": "Kumo Kumo no Mi, Model: Rosamygale Grauvogeli",
+    "devil_fruit_english": "Spider-Spider Fruit, Rosamygale grauvogeli Model",
+    "devil_fruit_type": "Ancient Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

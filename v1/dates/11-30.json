@@ -3,7 +3,23 @@
   "label": "November 30th",
   "month": 11,
   "day": 30,
-  "characters": [
+  "names": [
     "Vinsmoke Reiju"
+  ],
+  "characters": [
+    {
+      "id": "vinsmoke-reiju",
+      "name": "Vinsmoke Reiju",
+      "display_name": "Vinsmoke Reiju",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Vinsmoke_Reiju_Anime_Infobox.png/revision/latest/scale-to-width-down/167?cb=20231211104854",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Vinsmoke_Reiju_Anime_Infobox.png/revision/latest?cb=20231211104854",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Vinsmoke_Reiju",
+      "epithet": "\"Poison Pink\"",
+      "affiliation": "Vinsmoke Family",
+      "api": "v1/characters/vinsmoke-reiju.json"
+    }
   ]
 }

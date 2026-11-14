@@ -1,0 +1,61 @@
+{
+  "id": "funkfreed",
+  "name": "Funkfreed",
+  "display_name": "Funkfreed",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-28",
+      "label": "April 28th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Funkfreed_Anime_Infobox.png/revision/latest?cb=20250301182705",
+    "width": 1885,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Funkfreed_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250301182705",
+    "width": 400,
+    "height": 229
+  },
+  "wiki": {
+    "title": "Funkfreed",
+    "url": "https://onepiece.fandom.com/wiki/Funkfreed"
+  },
+  "info": {
+    "japanese_name": "ファンクフリード",
+    "romanized_name": "Fankufurīdo",
+    "official_english_name": "Funkfreed (VIZ, Funimation); Funk Freed (Unlimited Adventure)",
+    "debut": [
+      "Chapter 365",
+      "Episode 254"
+    ],
+    "affiliations": [
+      "CP0, CP9 (former)"
+    ],
+    "occupations": [
+      "Spandam's sword",
+      "Pet"
+    ],
+    "birthday": "April 28th (Elephant Day)",
+    "devil_fruit": "Zou Zou no Mi",
+    "devil_fruit_english": "Elephant-Elephant Fruit (Funimation dub, VIZ); Eleph-Eleph Fruit (VIZ)",
+    "devil_fruit_type": "Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "buggy",
+  "name": "Buggy",
+  "display_name": "Buggy",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-08",
+      "label": "August 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Buggy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240813025900",
+    "width": 1920,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Buggy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240813025900",
+    "width": 400,
+    "height": 225
+  },
+  "wiki": {
+    "title": "Buggy",
+    "url": "https://onepiece.fandom.com/wiki/Buggy"
+  },
+  "info": {},
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

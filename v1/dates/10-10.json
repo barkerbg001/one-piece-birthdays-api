@@ -3,10 +3,68 @@
   "label": "October 10th",
   "month": 10,
   "day": 10,
-  "characters": [
+  "names": [
     "Den",
     "Stomp",
     "Braham",
     "Ideo"
+  ],
+  "characters": [
+    {
+      "id": "den",
+      "name": "Den",
+      "display_name": "Den",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Den_Anime_Infobox.png/revision/latest/scale-to-width-down/209?cb=20131213032246",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Den_Anime_Infobox.png/revision/latest?cb=20131213032246",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Den",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/den.json"
+    },
+    {
+      "id": "stomp",
+      "name": "Stomp",
+      "display_name": "Stomp",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/19/Stomp_Anime_Infobox.png/revision/latest/scale-to-width-down/250?cb=20260530185111",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/19/Stomp_Anime_Infobox.png/revision/latest?cb=20260530185111",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Stomp",
+      "epithet": null,
+      "affiliation": "Super Spot-Billed Duck Troops",
+      "api": "v1/characters/stomp.json"
+    },
+    {
+      "id": "braham",
+      "name": "Braham",
+      "display_name": "Braham",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/39/Braham_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230812133611",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/39/Braham_Anime_Infobox.png/revision/latest?cb=20230812133611",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Braham",
+      "epithet": null,
+      "affiliation": "Shandia",
+      "api": "v1/characters/braham.json"
+    },
+    {
+      "id": "ideo",
+      "name": "Ideo",
+      "display_name": "Ideo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/30/Ideo_Anime_Infobox.png/revision/latest/scale-to-width-down/161?cb=20140519060612",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/30/Ideo_Anime_Infobox.png/revision/latest?cb=20140519060612",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Ideo",
+      "epithet": "\"Destruction Cannon\"",
+      "affiliation": "Ideo Pirates",
+      "api": "v1/characters/ideo.json"
+    }
   ]
 }

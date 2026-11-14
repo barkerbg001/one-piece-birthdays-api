@@ -1,0 +1,57 @@
+{
+  "id": "ikkaku",
+  "name": "Ikkaku",
+  "display_name": "Ikkaku",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-07",
+      "label": "December 7th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Ikkaku_Anime_Infobox.png/revision/latest?cb=20221023211801",
+    "width": 536,
+    "height": 914
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Ikkaku_Anime_Infobox.png/revision/latest/scale-to-width-down/234?cb=20221023211801",
+    "width": 234,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Ikkaku",
+    "url": "https://onepiece.fandom.com/wiki/Ikkaku"
+  },
+  "info": {
+    "japanese_name": "イッカク",
+    "debut": [
+      "Chapter 810",
+      "Episode 757"
+    ],
+    "affiliations": [
+      "Heart Pirates",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "status": "1",
+    "birthday": "December 7th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

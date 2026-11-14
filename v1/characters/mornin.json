@@ -1,0 +1,58 @@
+{
+  "id": "mornin",
+  "name": "Mornin",
+  "display_name": "Mornin",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-15",
+      "label": "October 15th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/67/Mornin_Anime_Infobox.png/revision/latest?cb=20250719205356",
+    "width": 654,
+    "height": 768
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/67/Mornin_Anime_Infobox.png/revision/latest/scale-to-width-down/341?cb=20250719205356",
+    "width": 341,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Mornin",
+    "url": "https://onepiece.fandom.com/wiki/Mornin"
+  },
+  "info": {
+    "japanese_name": "モーニン",
+    "romanized_name": "Mōnin",
+    "official_english_name": "Mornin",
+    "debut": [
+      "Chapter 23",
+      "Episode of East Blue"
+    ],
+    "occupations": [
+      "Mayor"
+    ],
+    "origin": "East Blue (Syrup Village)",
+    "residence": [
+      "Syrup Village"
+    ],
+    "birthday": "October 15th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

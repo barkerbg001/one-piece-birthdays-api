@@ -1,0 +1,61 @@
+{
+  "id": "manjaro",
+  "name": "Manjaro",
+  "display_name": "Manjaro",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-09",
+      "label": "September 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Manjaro_Anime_Infobox.png/revision/latest?cb=20130129021007",
+    "width": 430,
+    "height": 663
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Manjaro_Anime_Infobox.png/revision/latest/scale-to-width-down/259?cb=20130129021007",
+    "width": 259,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Manjaro",
+    "url": "https://onepiece.fandom.com/wiki/Manjaro"
+  },
+  "info": {
+    "japanese_name": "マンジャロウ",
+    "romanized_name": "Manjarō",
+    "official_english_name": "Manjaro",
+    "debut": [
+      "Chapter 598",
+      "Episode 518"
+    ],
+    "affiliations": [
+      "Fake Straw Hat Crew"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "origin": "East Blue",
+    "age": "25",
+    "birthday": "September 9th",
+    "height": "202 cm (6'7\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

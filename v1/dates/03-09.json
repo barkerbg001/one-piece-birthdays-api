@@ -3,9 +3,53 @@
   "label": "March 9th",
   "month": 3,
   "day": 9,
-  "characters": [
+  "names": [
     "Shanks",
     "Dracule Mihawk",
     "Franky"
+  ],
+  "characters": [
+    {
+      "id": "shanks",
+      "name": "Shanks",
+      "display_name": "Shanks",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/66/Shanks_Anime_Infobox.png/revision/latest/scale-to-width-down/279?cb=20240829145447",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/66/Shanks_Anime_Infobox.png/revision/latest?cb=20240829145447",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Shanks",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/shanks.json"
+    },
+    {
+      "id": "dracule-mihawk",
+      "name": "Dracule Mihawk",
+      "display_name": "Dracule Mihawk",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Dracule_Mihawk_Anime_Infobox.png/revision/latest/scale-to-width-down/257?cb=20151222105910",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Dracule_Mihawk_Anime_Infobox.png/revision/latest?cb=20151222105910",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Dracule_Mihawk",
+      "epithet": "\"Hawk Eyes Mihawk\"; \"Strongest Swordsman in the World\"; \"Marine Hunter\"",
+      "affiliation": "Cross Guild",
+      "api": "v1/characters/dracule-mihawk.json"
+    },
+    {
+      "id": "franky",
+      "name": "Franky",
+      "display_name": "Franky",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Franky_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20241110020715",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Franky_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241110020715",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Franky",
+      "epithet": "\"Iron Man\" Franky; (former)",
+      "affiliation": "Straw Hat Pirates",
+      "api": "v1/characters/franky.json"
+    }
   ]
 }

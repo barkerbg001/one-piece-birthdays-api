@@ -1,0 +1,65 @@
+{
+  "id": "manboshi",
+  "name": "Manboshi",
+  "display_name": "Manboshi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-30",
+      "label": "March 30th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/82/Manboshi_Anime_Infobox.png/revision/latest?cb=20130430234840",
+    "width": 453,
+    "height": 697
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/82/Manboshi_Anime_Infobox.png/revision/latest/scale-to-width-down/260?cb=20130430234840",
+    "width": 260,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Manboshi",
+    "url": "https://onepiece.fandom.com/wiki/Manboshi"
+  },
+  "info": {
+    "japanese_name": "マンボシ",
+    "romanized_name": "Manboshi",
+    "official_english_name": "Mamboshi; Manboshi (Funimation simulcast, formerly)",
+    "debut": [
+      "Chapter 609",
+      "Episode 528"
+    ],
+    "affiliations": [
+      "Neptune Family",
+      "Ryugu Kingdom"
+    ],
+    "occupations": [
+      "Prince of the Ryugu Kingdom"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Ryugu Palace"
+    ],
+    "age": "20",
+    "birthday": "March 30th",
+    "height": "473 cm (15'6\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

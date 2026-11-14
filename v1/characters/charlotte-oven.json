@@ -1,0 +1,80 @@
+{
+  "id": "charlotte-oven",
+  "name": "Charlotte Oven",
+  "display_name": "Charlotte Oven",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-25",
+      "label": "November 25th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-katakuri",
+      "name": "Charlotte Katakuri"
+    },
+    {
+      "id": "charlotte-daifuku",
+      "name": "Charlotte Daifuku"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Charlotte_Oven_Anime_Infobox.png/revision/latest?cb=20181028111159",
+    "width": 402,
+    "height": 769
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Charlotte_Oven_Anime_Infobox.png/revision/latest/scale-to-width-down/209?cb=20181028111159",
+    "width": 209,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Oven",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Oven"
+  },
+  "info": {
+    "japanese_name": "シャーロット・オーブン",
+    "romanized_name": "Shārotto Ōbun",
+    "official_english_name": "Charlotte Oven",
+    "debut": [
+      "Chapter 861",
+      "Episode 827"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Minister of Browned Food"
+    ],
+    "origin": "Grand Line (On a boat)",
+    "residence": [
+      "Yakigashi Island",
+      "Hachinosu (former)"
+    ],
+    "age": "48",
+    "birthday": "November 25th",
+    "height": "492 cm (16'2\")",
+    "blood_type": "F",
+    "bounty": "300,000,000",
+    "devil_fruit": "Netsu Netsu no Mi",
+    "devil_fruit_english": "Heat-Heat Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

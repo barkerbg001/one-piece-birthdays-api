@@ -3,7 +3,23 @@
   "label": "December 4th",
   "month": 12,
   "day": 4,
-  "characters": [
+  "names": [
     "Jorl"
+  ],
+  "characters": [
+    {
+      "id": "jorl",
+      "name": "Jorl",
+      "display_name": "Jorl",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Jorul_Anime_Infobox.png/revision/latest/scale-to-width-down/311?cb=20180506044931",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Jorul_Anime_Infobox.png/revision/latest?cb=20180506044931",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Jorul",
+      "epithet": "\"Waterfall Beard\" Jorul",
+      "affiliation": "Giant Warrior Pirates (former)",
+      "api": "v1/characters/jorl.json"
+    }
   ]
 }

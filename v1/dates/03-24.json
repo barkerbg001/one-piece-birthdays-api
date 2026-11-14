@@ -3,7 +3,23 @@
   "label": "March 24th",
   "month": 3,
   "day": 24,
-  "characters": [
+  "names": [
     "Thatch"
+  ],
+  "characters": [
+    {
+      "id": "thatch",
+      "name": "Thatch",
+      "display_name": "Thatch",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/15/Thatch_Anime_Infobox.png/revision/latest/scale-to-width-down/351?cb=20230520115925",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/15/Thatch_Anime_Infobox.png/revision/latest?cb=20230520115925",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Thatch",
+      "epithet": null,
+      "affiliation": "Whitebeard Pirates",
+      "api": "v1/characters/thatch.json"
+    }
   ]
 }

@@ -3,7 +3,23 @@
   "label": "December 21st",
   "month": 12,
   "day": 21,
-  "characters": [
+  "names": [
     "Mother Carmel"
+  ],
+  "characters": [
+    {
+      "id": "mother-carmel",
+      "name": "Mother Carmel",
+      "display_name": "Mother Carmel",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/81/Carmel_Anime_Infobox.png/revision/latest/scale-to-width-down/177?cb=20230204190309",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Carmel_Anime_Infobox.png/revision/latest?cb=20230204190309",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Carmel",
+      "epithet": "\"Holy Mother\"",
+      "affiliation": "Underworld",
+      "api": "v1/characters/mother-carmel.json"
+    }
   ]
 }

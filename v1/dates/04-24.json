@@ -3,8 +3,38 @@
   "label": "April 24th",
   "month": 4,
   "day": 24,
-  "characters": [
+  "names": [
     "Stussy",
     "Chome"
+  ],
+  "characters": [
+    {
+      "id": "stussy",
+      "name": "Stussy",
+      "display_name": "Stussy",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Stussy_Anime_Infobox.png/revision/latest/scale-to-width-down/336?cb=20240512081047",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Stussy_Anime_Infobox.png/revision/latest?cb=20240512081047",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Stussy",
+      "epithet": "Queen of the Pleasure District",
+      "affiliation": "Vegapunk",
+      "api": "v1/characters/stussy.json"
+    },
+    {
+      "id": "chome",
+      "name": "Chome",
+      "display_name": "Chome",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Chome_Anime_Infobox.png/revision/latest/scale-to-width-down/287?cb=20200323071143",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Chome_Anime_Infobox.png/revision/latest?cb=20200323071143",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Chome",
+      "epithet": null,
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/chome.json"
+    }
   ]
 }

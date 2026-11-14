@@ -1,0 +1,65 @@
+{
+  "id": "mont-blanc-noland",
+  "name": "Mont Blanc Noland",
+  "display_name": "Mont Blanc Noland",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-09",
+      "label": "October 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/27/Mont_Blanc_Noland_Anime_Infobox.png/revision/latest?cb=20230806162218",
+    "width": 622,
+    "height": 514
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/27/Mont_Blanc_Noland_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230806162218",
+    "width": 400,
+    "height": 331
+  },
+  "wiki": {
+    "title": "Mont Blanc Noland",
+    "url": "https://onepiece.fandom.com/wiki/Mont_Blanc_Noland"
+  },
+  "info": {
+    "japanese_name": "モンブラン・ノーランド",
+    "romanized_name": "Monburan Nōrando",
+    "official_english_name": "Mont Blanc Noland; Montblanc Noland; Monbran Noland; Mombran Noland",
+    "debut": [
+      "Chapter 286",
+      "Episode 187"
+    ],
+    "affiliations": [
+      "Lvneel Kingdom",
+      "Mont Blanc Family"
+    ],
+    "occupations": [
+      "Explorer",
+      "Botanist",
+      "Admiral"
+    ],
+    "origin": "North Blue (Lvneel Kingdom)",
+    "epithet": "\"Liar Noland\"",
+    "status": "2",
+    "birthday": "October 9th",
+    "height": "220 cm (7'2\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

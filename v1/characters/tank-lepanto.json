@@ -1,0 +1,57 @@
+{
+  "id": "tank-lepanto",
+  "name": "Tank Lepanto",
+  "display_name": "Tank Lepanto",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-28",
+      "label": "November 28th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4b/Tank_Lepanto_Anime_Infobox.png/revision/latest?cb=20150301202759",
+    "width": 1220,
+    "height": 1655
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4b/Tank_Lepanto_Anime_Infobox.png/revision/latest/scale-to-width-down/295?cb=20150301202759",
+    "width": 295,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Tank Lepanto",
+    "url": "https://onepiece.fandom.com/wiki/Tank_Lepanto"
+  },
+  "info": {
+    "japanese_name": "タンク・レパント",
+    "romanized_name": "Tanku Repanto",
+    "official_english_name": "Tank Lepant (FUNimation)",
+    "debut": [
+      "Chapter 706",
+      "Episode 636"
+    ],
+    "affiliations": [
+      "Riku Family"
+    ],
+    "occupations": [
+      "Army Commander (Viz: Military Captain)"
+    ],
+    "birthday": "November 28th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

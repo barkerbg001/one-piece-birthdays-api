@@ -3,11 +3,99 @@
   "label": "November 17th",
   "month": 11,
   "day": 17,
-  "characters": [
+  "names": [
     "Charlotte Mobile",
     "Charlotte Marble",
     "Charlotte Myukuru",
     "Charlotte Maple",
     "Moodie"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-mobile",
+      "name": "Charlotte Mobile",
+      "display_name": "Charlotte Mobile",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-marble",
+        "charlotte-myukuru",
+        "charlotte-maple"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Charlotte_Mobile_Anime_Infobox.png/revision/latest/scale-to-width-down/328?cb=20180429074458",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Charlotte_Mobile_Anime_Infobox.png/revision/latest?cb=20180429074458",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Mobile",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-mobile.json"
+    },
+    {
+      "id": "charlotte-marble",
+      "name": "Charlotte Marble",
+      "display_name": "Charlotte Marble",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-mobile",
+        "charlotte-myukuru",
+        "charlotte-maple"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Charlotte_Marble_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20190210133123",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Charlotte_Marble_Anime_Infobox.png/revision/latest?cb=20190210133123",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Marble",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-marble.json"
+    },
+    {
+      "id": "charlotte-myukuru",
+      "name": "Charlotte Myukuru",
+      "display_name": "Charlotte Myukuru",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-mobile",
+        "charlotte-marble",
+        "charlotte-maple"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/03/Charlotte_Myukuru_Anime_Infobox.png/revision/latest/scale-to-width-down/237?cb=20171122125803",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/03/Charlotte_Myukuru_Anime_Infobox.png/revision/latest?cb=20171122125803",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Myukuru",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-myukuru.json"
+    },
+    {
+      "id": "charlotte-maple",
+      "name": "Charlotte Maple",
+      "display_name": "Charlotte Maple",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-mobile",
+        "charlotte-marble",
+        "charlotte-myukuru"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Charlotte_Maple_Manga_Infobox.png/revision/latest/scale-to-width-down/276?cb=20181020074217",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Charlotte_Maple_Manga_Infobox.png/revision/latest?cb=20181020074217",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Maple",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-maple.json"
+    },
+    {
+      "id": "moodie",
+      "name": "Moodie",
+      "display_name": "Moodie",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Moodie_Anime_Infobox.png/revision/latest/scale-to-width-down/292?cb=20240308005758",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Moodie_Anime_Infobox.png/revision/latest?cb=20240308005758",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Moodie",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/moodie.json"
+    }
   ]
 }

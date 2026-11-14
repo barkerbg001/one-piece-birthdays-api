@@ -3,7 +3,23 @@
   "label": "March 15th",
   "month": 3,
   "day": 15,
-  "characters": [
+  "names": [
     "Who’s Who"
+  ],
+  "characters": [
+    {
+      "id": "whos-who",
+      "name": "Who’s Who",
+      "display_name": "Who’s Who",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/94/Who%27s-Who_Anime_Infobox.png/revision/latest/scale-to-width-down/269?cb=20211201215156",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/94/Who%27s-Who_Anime_Infobox.png/revision/latest?cb=20211201215156",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Who%27s-Who",
+      "epithet": "\"Who of the Droplets\"",
+      "affiliation": "Beasts Pirates (Tobiroppo)",
+      "api": "v1/characters/whos-who.json"
+    }
   ]
 }

@@ -3,9 +3,53 @@
   "label": "May 5th",
   "month": 5,
   "day": 5,
-  "characters": [
+  "names": [
     "Demaro Black",
     "Monkey D. Luffy",
     "G-5 Base"
+  ],
+  "characters": [
+    {
+      "id": "demaro-black",
+      "name": "Demaro Black",
+      "display_name": "Demaro Black",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Demalo_Black_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20241103021619",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Demalo_Black_Anime_Infobox.png/revision/latest?cb=20241103021619",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Demalo_Black",
+      "epithet": "\"Three-Tongued\" Demalo Black; (Viz, Funimation: \"Triple-Tongued\")",
+      "affiliation": "Fake Straw Hat Crew",
+      "api": "v1/characters/demaro-black.json"
+    },
+    {
+      "id": "monkey-d-luffy",
+      "name": "Monkey D. Luffy",
+      "display_name": "Monkey D. Luffy",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/191?cb=20260611004637",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20260611004637",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Monkey_D._Luffy",
+      "epithet": "Straw Hat Luffy",
+      "affiliation": "Straw Hat Pirates",
+      "api": "v1/characters/monkey-d-luffy.json"
+    },
+    {
+      "id": "g-5-base",
+      "name": "G-5 Base",
+      "display_name": "G-5 Base",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7a/G-5_Infobox.png/revision/latest/scale-to-width-down/400?cb=20220128180632",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7a/G-5_Infobox.png/revision/latest?cb=20220128180632",
+      "wiki_url": "https://onepiece.fandom.com/wiki/G-5",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/g-5-base.json"
+    }
   ]
 }

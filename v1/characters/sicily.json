@@ -1,0 +1,58 @@
+{
+  "id": "sicily",
+  "name": "Sicily",
+  "display_name": "Sicily",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-05",
+      "label": "June 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Sicily_Manga_Infobox.png/revision/latest?cb=20170318232006",
+    "width": 205,
+    "height": 341
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Sicily_Manga_Infobox.png/revision/latest?cb=20170318232006",
+    "width": 240,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Sicily",
+    "url": "https://onepiece.fandom.com/wiki/Sicily"
+  },
+  "info": {
+    "japanese_name": "シシリー",
+    "romanized_name": "Shishirī",
+    "official_english_name": "Sicily",
+    "debut": [
+      "Chapter 504"
+    ],
+    "affiliations": [
+      "Marines"
+    ],
+    "occupations": [
+      "Rear Admiral"
+    ],
+    "origin": "South Blue",
+    "birthday": "June 5th",
+    "bounty": "At least ★★"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

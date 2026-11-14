@@ -1,0 +1,70 @@
+{
+  "id": "basil-hawkins",
+  "name": "Basil Hawkins",
+  "display_name": "Basil Hawkins",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-09",
+      "label": "September 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Basil_Hawkins_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230906163534",
+    "width": 1870,
+    "height": 1588
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Basil_Hawkins_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230906163534",
+    "width": 400,
+    "height": 340
+  },
+  "wiki": {
+    "title": "Basil Hawkins",
+    "url": "https://onepiece.fandom.com/wiki/Basil_Hawkins"
+  },
+  "info": {
+    "japanese_name": "バジル・ホーキンス",
+    "romanized_name": "Bajiru Hōkinsu",
+    "official_english_name": "Basil Hawkins",
+    "debut": [
+      "Chapter 498",
+      "Episode 392"
+    ],
+    "affiliations": [
+      "Hawkins Pirates",
+      "Beasts Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain",
+      "Shinuchi"
+    ],
+    "origin": "North Blue",
+    "epithet": "\"Magician\"",
+    "status": "1",
+    "age": "29 (debut); 31 (after timeskip)",
+    "birthday": "September 9th",
+    "height": "210 cm (6'10½\") (debut, after timeskip)",
+    "blood_type": "S",
+    "bounty": "320,000,000",
+    "devil_fruit": "Wara Wara no Mi",
+    "devil_fruit_english": "Straw-Straw Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

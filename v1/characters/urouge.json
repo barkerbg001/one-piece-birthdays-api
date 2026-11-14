@@ -1,0 +1,65 @@
+{
+  "id": "urouge",
+  "name": "Urouge",
+  "display_name": "Urouge",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-01",
+      "label": "August 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fb/Urouge_Anime_Infobox.png/revision/latest?cb=20230126223235",
+    "width": 1237,
+    "height": 1692
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fb/Urouge_Anime_Infobox.png/revision/latest/scale-to-width-down/292?cb=20230126223235",
+    "width": 292,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Urouge",
+    "url": "https://onepiece.fandom.com/wiki/Urouge"
+  },
+  "info": {
+    "japanese_name": "ウルージ",
+    "romanized_name": "Urūji",
+    "debut": [
+      "Chapter 498",
+      "Episode 392"
+    ],
+    "affiliations": [
+      "Fallen Monk Pirates"
+    ],
+    "occupations": [
+      "Pirate Captain"
+    ],
+    "origin": "Sky Island",
+    "residence": [
+      "Ballon Terminal"
+    ],
+    "epithet": "\"Mad Monk\"",
+    "age": "45 (debut); 47 (after timeskip)",
+    "birthday": "August 1st",
+    "height": "388 cm (12'9\") (debut, after timeskip)",
+    "blood_type": "S",
+    "bounty": "108,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "bas",
+  "name": "Bas",
+  "display_name": "Bas",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-30",
+      "label": "March 30th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Baskerville_Anime_Infobox.png/revision/latest?cb=20240624215454",
+    "width": 1919,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Baskerville_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240624215454",
+    "width": 400,
+    "height": 225
+  },
+  "wiki": {
+    "title": "Baskerville",
+    "url": "https://onepiece.fandom.com/wiki/Baskerville"
+  },
+  "info": {
+    "japanese_name": "バスカビル",
+    "romanized_name": "Basukabiru",
+    "official_english_name": "Baskerville",
+    "debut": [
+      "Chapter 379",
+      "Episode 267"
+    ],
+    "affiliations": [
+      "World Government (Enies Lobby)"
+    ],
+    "occupations": [
+      "Chief Justices of Enies Lobby"
+    ],
+    "origin": "Grand Line",
+    "epithet": "\"Three-Headed Baskerville\"",
+    "status": "1",
+    "age": "Bas: 48; And: 53; Kerville: 42",
+    "birthday": "Bas: March 30th; And: March 31st; Kerville: April 1st",
+    "height": "512 cm (16'9½\") (combined)",
+    "blood_type": "Bas: X; And: XF; Kerville: F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

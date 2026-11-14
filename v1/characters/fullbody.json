@@ -1,0 +1,64 @@
+{
+  "id": "fullbody",
+  "name": "Fullbody",
+  "display_name": "Fullbody",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-07",
+      "label": "September 7th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/96/Fullbody_Anime_Infobox.png/revision/latest?cb=20230527233610",
+    "width": 982,
+    "height": 866
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/96/Fullbody_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230527233610",
+    "width": 400,
+    "height": 353
+  },
+  "wiki": {
+    "title": "Fullbody",
+    "url": "https://onepiece.fandom.com/wiki/Fullbody"
+  },
+  "info": {
+    "japanese_name": "フルボディ",
+    "romanized_name": "Furubodi",
+    "official_english_name": "Fullbody; Full Body (Odex, Live-Action)",
+    "debut": [
+      "Chapter 43",
+      "Episode 20"
+    ],
+    "affiliations": [
+      "Marines"
+    ],
+    "occupations": [
+      "Marine Lieutenant Commander",
+      "Marine Seaman Recruit (promoted), Marine Lieutenant (demoted)"
+    ],
+    "origin": "North Blue",
+    "epithet": "\"Double Ironfist Fullbody\"; \"Ironfist Fullbody\" (former)",
+    "age": "26 (debut); 28 (after timeskip)",
+    "birthday": "September 7th",
+    "height": "184 cm (6'0\")",
+    "blood_type": "F",
+    "bounty": "(At least 1,000,000)"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

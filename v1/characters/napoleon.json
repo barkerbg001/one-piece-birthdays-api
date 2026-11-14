@@ -1,0 +1,61 @@
+{
+  "id": "napoleon",
+  "name": "Napoleon",
+  "display_name": "Napoleon",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-02",
+      "label": "December 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/12/Napoleon_Anime_Infobox.png/revision/latest?cb=20220731071824",
+    "width": 1050,
+    "height": 768
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/12/Napoleon_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20220731071824",
+    "width": 400,
+    "height": 293
+  },
+  "wiki": {
+    "title": "Napoleon",
+    "url": "https://onepiece.fandom.com/wiki/Napoleon"
+  },
+  "info": {
+    "japanese_name": "ナポレオン",
+    "romanized_name": "Naporeon",
+    "debut": [
+      "Chapter 651",
+      "Episode 571"
+    ],
+    "affiliations": [
+      "Big Mom Pirates",
+      "Rocks Pirates (former)"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Whole Cake Island"
+    ],
+    "status": "1",
+    "age": "At least 38",
+    "birthday": "December 2nd",
+    "height": "At least 848 cm (27'10\") (As a sword)"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

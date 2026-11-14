@@ -3,7 +3,23 @@
   "label": "May 6th",
   "month": 5,
   "day": 6,
-  "characters": [
+  "names": [
     "Enel"
+  ],
+  "characters": [
+    {
+      "id": "enel",
+      "name": "Enel",
+      "display_name": "Enel",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Enel_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230520213625",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Enel_Anime_Infobox.png/revision/latest?cb=20230520213625",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Enel",
+      "epithet": null,
+      "affiliation": "God's Army (former)",
+      "api": "v1/characters/enel.json"
+    }
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "id": "marguerite",
+  "name": "Marguerite",
+  "display_name": "Marguerite",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-09",
+      "label": "April 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cc/Marguerite_Anime_Infobox.png/revision/latest?cb=20140928162219",
+    "width": 578,
+    "height": 924
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cc/Marguerite_Anime_Infobox.png/revision/latest/scale-to-width-down/250?cb=20140928162219",
+    "width": 250,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Marguerite",
+    "url": "https://onepiece.fandom.com/wiki/Marguerite"
+  },
+  "info": {
+    "japanese_name": "マーガレット",
+    "romanized_name": "Māgaretto",
+    "official_english_name": "Marguerite (VIZ),; Margaret (Funimation)",
+    "debut": [
+      "Chapter 514",
+      "Episode 408"
+    ],
+    "affiliations": [
+      "Kuja Pirates"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "origin": "Calm Belt (Amazon Lily)",
+    "residence": [
+      "Amazon Lily"
+    ],
+    "age": "16 (debut); 18 (after timeskip)",
+    "birthday": "April 9th",
+    "height": "178 cm (5'10\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

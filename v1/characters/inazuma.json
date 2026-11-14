@@ -1,0 +1,73 @@
+{
+  "id": "inazuma",
+  "name": "Inazuma",
+  "display_name": "Inazuma",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-03",
+      "label": "August 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Inazuma_Anime_Infobox.png/revision/latest?cb=20221031183404",
+    "width": 1293,
+    "height": 3046
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Inazuma_Anime_Infobox.png/revision/latest/scale-to-width-down/170?cb=20221031183404",
+    "width": 170,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Inazuma",
+    "url": "https://onepiece.fandom.com/wiki/Inazuma"
+  },
+  "info": {
+    "japanese_name": "イナズマ",
+    "romanized_name": "Inazuma",
+    "official_english_name": "Inazuma",
+    "debut": [
+      "Chapter 536",
+      "Episode 438"
+    ],
+    "affiliations": [
+      "Kamabakka Kingdom",
+      "Newkama Land",
+      "Revolutionary Army",
+      "Impel Down (former)"
+    ],
+    "occupations": [
+      "Revolutionary",
+      "Prisoner of the Great Prison (former)"
+    ],
+    "origin": "South Blue",
+    "residence": [
+      "Baltigo (former)",
+      "Momoiro Island"
+    ],
+    "age": "27 (debut); 29 (after timeskip)",
+    "birthday": "August 3rd",
+    "height": "228 cm (7'5\")",
+    "blood_type": "F",
+    "bounty": "At least 100,000,000",
+    "devil_fruit": "Choki Choki no Mi",
+    "devil_fruit_english": "Snip-Snip Fruit (VIZ and Funimation); Shear-Shear Fruit (One Piece Official YouTube Channel)",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

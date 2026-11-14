@@ -3,7 +3,23 @@
   "label": "August 22nd",
   "month": 8,
   "day": 22,
-  "characters": [
+  "names": [
     "Vander Decken IX"
+  ],
+  "characters": [
+    {
+      "id": "vander-decken-ix",
+      "name": "Vander Decken IX",
+      "display_name": "Vander Decken IX",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d3/Vander_Decken_IX_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130504034305",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d3/Vander_Decken_IX_Anime_Infobox.png/revision/latest?cb=20130504034305",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Vander_Decken_IX",
+      "epithet": null,
+      "affiliation": "Flying Pirates",
+      "api": "v1/characters/vander-decken-ix.json"
+    }
   ]
 }

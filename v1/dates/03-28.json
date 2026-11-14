@@ -3,7 +3,23 @@
   "label": "March 28th",
   "month": 3,
   "day": 28,
-  "characters": [
+  "names": [
     "Sarue"
+  ],
+  "characters": [
+    {
+      "id": "sarue",
+      "name": "Sarue",
+      "display_name": "Sarue",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/sarue.json"
+    }
   ]
 }

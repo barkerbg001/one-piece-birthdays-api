@@ -1,0 +1,59 @@
+{
+  "id": "vinsmoke-sora",
+  "name": "Vinsmoke Sora",
+  "display_name": "Vinsmoke Sora",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-09",
+      "label": "July 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Vinsmoke_Sora_Anime_Infobox.png/revision/latest?cb=20190130220840",
+    "width": 712,
+    "height": 847
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Vinsmoke_Sora_Anime_Infobox.png/revision/latest/scale-to-width-down/336?cb=20190130220840",
+    "width": 336,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Vinsmoke Sora",
+    "url": "https://onepiece.fandom.com/wiki/Vinsmoke_Sora"
+  },
+  "info": {
+    "japanese_name": "ヴィンスモーク・ソラ",
+    "romanized_name": "Vinsumōku Sora",
+    "official_english_name": "Vinsmoke Sora",
+    "debut": [
+      "Chapter 841",
+      "Episode 803 (image), Episode 804"
+    ],
+    "affiliations": [
+      "Vinsmoke Family",
+      "Germa Kingdom"
+    ],
+    "occupations": [
+      "Queen of the Germa Kingdom"
+    ],
+    "status": "2",
+    "birthday": "July 9th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

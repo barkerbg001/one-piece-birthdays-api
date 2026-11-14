@@ -1,0 +1,70 @@
+{
+  "id": "kouzuki-hiyori",
+  "name": "Kouzuki Hiyori",
+  "display_name": "Kouzuki Hiyori",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-23",
+      "label": "December 23rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/97/Kouzuki_Hiyori_Anime_Infobox.png/revision/latest?cb=20200811195812",
+    "width": 1632,
+    "height": 2084
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/97/Kouzuki_Hiyori_Anime_Infobox.png/revision/latest/scale-to-width-down/313?cb=20200811195812",
+    "width": 313,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kouzuki Hiyori",
+    "url": "https://onepiece.fandom.com/wiki/Kouzuki_Hiyori"
+  },
+  "info": {
+    "japanese_name": "光月日和",
+    "romanized_name": "Kōzuki Hiyori",
+    "official_english_name": "Kozuki Hiyori; Kouzuki Hiyori (OPCG)",
+    "debut": [
+      "Chapter 909",
+      "Episode 892"
+    ],
+    "affiliations": [
+      "Kouzuki Family",
+      "Ninja-Pirate-Mink-Samurai Alliance(disbanded)"
+    ],
+    "occupations": [
+      "Oiran"
+    ],
+    "origin": "Grand Line (Moby Dick)",
+    "residence": [
+      "Wano Country (Kuri",
+      "Flower Capital)",
+      "Flower Capital (Shogun Castle)"
+    ],
+    "aliases": [
+      "\"Komurasaki\""
+    ],
+    "age": "26",
+    "birthday": "December 23rd",
+    "height": "170 cm (5'7\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

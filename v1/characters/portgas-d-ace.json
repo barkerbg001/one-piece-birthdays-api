@@ -1,0 +1,42 @@
+{
+  "id": "portgas-d-ace",
+  "name": "Portgas D. Ace",
+  "display_name": "Portgas D. Ace",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-01",
+      "label": "January 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Portgas_D._Ace_Anime_Infobox.png/revision/latest?cb=20240629132600",
+    "width": 678,
+    "height": 1132
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Portgas_D._Ace_Anime_Infobox.png/revision/latest/scale-to-width-down/239?cb=20240629132600",
+    "width": 239,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Portgas D. Ace",
+    "url": "https://onepiece.fandom.com/wiki/Portgas_D._Ace"
+  },
+  "info": {},
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

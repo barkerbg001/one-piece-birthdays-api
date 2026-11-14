@@ -1,0 +1,70 @@
+{
+  "id": "charlotte-snack",
+  "name": "Charlotte Snack",
+  "display_name": "Charlotte Snack",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-29",
+      "label": "October 29th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-bavarois",
+      "name": "Charlotte Bavarois"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/18/Charlotte_Snack_Anime_Infobox.png/revision/latest?cb=20190303110418",
+    "width": 1073,
+    "height": 860
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/18/Charlotte_Snack_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20190303110418",
+    "width": 400,
+    "height": 321
+  },
+  "wiki": {
+    "title": "Charlotte Snack",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Snack"
+  },
+  "info": {
+    "japanese_name": "シャーロット・スナック",
+    "romanized_name": "Shārotto Sunakku",
+    "official_english_name": "Charlotte Snack",
+    "debut": [
+      "Chapter 894",
+      "Episode 798 (silhouette)"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Minister of Fries",
+      "Sweet Commander (former)"
+    ],
+    "residence": [
+      "Potato Island"
+    ],
+    "age": "30",
+    "birthday": "October 29th",
+    "bounty": "600,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,7 +3,23 @@
   "label": "May 29th",
   "month": 5,
   "day": 29,
-  "characters": [
+  "names": [
     "Diamante"
+  ],
+  "characters": [
+    {
+      "id": "diamante",
+      "name": "Diamante",
+      "display_name": "Diamante",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/72/Diamante_Anime_Infobox.png/revision/latest/scale-to-width-down/308?cb=20151011043134",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/72/Diamante_Anime_Infobox.png/revision/latest?cb=20151011043134",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Diamante",
+      "epithet": null,
+      "affiliation": "Donquixote Pirates",
+      "api": "v1/characters/diamante.json"
+    }
   ]
 }

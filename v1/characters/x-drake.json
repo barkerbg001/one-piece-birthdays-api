@@ -1,0 +1,77 @@
+{
+  "id": "x-drake",
+  "name": "X Drake",
+  "display_name": "X Drake (Diez Drake)",
+  "alias": "Diez Drake",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-24",
+      "label": "October 24th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/04/X_Drake_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200209080003",
+    "width": 640,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/04/X_Drake_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/237?cb=20200209080003",
+    "width": 237,
+    "height": 400
+  },
+  "wiki": {
+    "title": "X Drake",
+    "url": "https://onepiece.fandom.com/wiki/X_Drake"
+  },
+  "info": {
+    "japanese_name": "X・ドレーク",
+    "romanized_name": "Diesu Dorēku",
+    "official_english_name": "X. Drake",
+    "debut": [
+      "Chapter 498",
+      "Episode 392"
+    ],
+    "affiliations": [
+      "Marines (SWORD)",
+      "Drake Pirates",
+      "Beasts Pirates (Tobiroppo, former)",
+      "Barrels Pirates (defected)",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Captain of SWORD",
+      "Pirate (undercover)",
+      "Captain (undercover)",
+      "Shinuchi (undercover, former)",
+      "Marine Rear Admiral (former)"
+    ],
+    "origin": "North Blue",
+    "epithet": "\"Red Flag\"",
+    "aliases": [
+      "Dory"
+    ],
+    "age": "31 (debut); 33 (after timeskip)",
+    "birthday": "October 24th",
+    "height": "233 cm (7'8\") (debut, after timeskip)",
+    "blood_type": "X",
+    "bounty": "222,000,000",
+    "devil_fruit": "Ryu Ryu no Mi, Model: Allosaurus",
+    "devil_fruit_english": "Dragon-Dragon Fruit, Model: Allosaurus",
+    "devil_fruit_type": "Ancient Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

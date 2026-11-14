@@ -3,7 +3,23 @@
   "label": "March 21st",
   "month": 3,
   "day": 21,
-  "characters": [
+  "names": [
     "Lieutenant Spacey"
+  ],
+  "characters": [
+    {
+      "id": "lieutenant-spacey",
+      "name": "Lieutenant Spacey",
+      "display_name": "Lieutenant Spacey",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/10/Spacey_Manga_Infobox.png/revision/latest?cb=20130913001441",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/10/Spacey_Manga_Infobox.png/revision/latest?cb=20130913001441",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Spacey",
+      "epithet": null,
+      "affiliation": "Automata",
+      "api": "v1/characters/lieutenant-spacey.json"
+    }
   ]
 }

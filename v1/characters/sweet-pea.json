@@ -1,0 +1,61 @@
+{
+  "id": "sweet-pea",
+  "name": "Sweet Pea",
+  "display_name": "Sweet Pea",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-14",
+      "label": "January 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/50/Sweet_Pea_Anime_Infobox.png/revision/latest?cb=20140928162454",
+    "width": 999,
+    "height": 679
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/50/Sweet_Pea_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20140928162454",
+    "width": 400,
+    "height": 272
+  },
+  "wiki": {
+    "title": "Sweet Pea",
+    "url": "https://onepiece.fandom.com/wiki/Sweet_Pea"
+  },
+  "info": {
+    "japanese_name": "スイトピー",
+    "romanized_name": "Suitopī",
+    "official_english_name": "Sweetpea",
+    "debut": [
+      "Chapter 514",
+      "Episode 408"
+    ],
+    "affiliations": [
+      "Kuja Pirates"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "origin": "Calm Belt (Amazon Lily)",
+    "residence": [
+      "Amazon Lily"
+    ],
+    "birthday": "January 14th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

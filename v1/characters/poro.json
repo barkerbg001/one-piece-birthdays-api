@@ -1,0 +1,61 @@
+{
+  "id": "poro",
+  "name": "Poro",
+  "display_name": "Poro",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-11",
+      "label": "May 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/65/Poro_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20190120065016",
+    "width": 157,
+    "height": 302
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/65/Poro_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20190120065016",
+    "width": 208,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Poro",
+    "url": "https://onepiece.fandom.com/wiki/Poro"
+  },
+  "info": {
+    "japanese_name": "ポロ",
+    "romanized_name": "Poro",
+    "official_english_name": "Poro (WT100)",
+    "debut": [
+      "Chapter 14",
+      "Episode 8"
+    ],
+    "affiliations": [
+      "Orange Town"
+    ],
+    "occupations": [
+      "Bookstore Owner"
+    ],
+    "origin": "East Blue (Orange Town)",
+    "residence": [
+      "Orange Town"
+    ],
+    "birthday": "May 11th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

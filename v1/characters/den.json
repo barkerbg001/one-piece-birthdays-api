@@ -1,0 +1,63 @@
+{
+  "id": "den",
+  "name": "Den",
+  "display_name": "Den",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-10",
+      "label": "October 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Den_Anime_Infobox.png/revision/latest?cb=20131213032246",
+    "width": 1280,
+    "height": 2450
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Den_Anime_Infobox.png/revision/latest/scale-to-width-down/209?cb=20131213032246",
+    "width": 209,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Den",
+    "url": "https://onepiece.fandom.com/wiki/Den"
+  },
+  "info": {
+    "japanese_name": "デン",
+    "romanized_name": "Den",
+    "official_english_name": "Den",
+    "debut": [
+      "Chapter 616",
+      "Episode 534"
+    ],
+    "occupations": [
+      "Shipwright",
+      "Sea Forest Researcher",
+      "Coating Mechanic"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Sea Forest"
+    ],
+    "age": "62",
+    "birthday": "October 10th",
+    "height": "435 cm (14'3\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

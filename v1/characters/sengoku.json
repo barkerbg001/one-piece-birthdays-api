@@ -1,0 +1,70 @@
+{
+  "id": "sengoku",
+  "name": "Sengoku",
+  "display_name": "Sengoku",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-09",
+      "label": "May 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/24/Sengoku_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20210208064630",
+    "width": 770,
+    "height": 1063
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/24/Sengoku_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/290?cb=20210208064630",
+    "width": 290,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Sengoku",
+    "url": "https://onepiece.fandom.com/wiki/Sengoku"
+  },
+  "info": {
+    "japanese_name": "センゴク",
+    "debut": [
+      "Chapter 234",
+      "Episode 151"
+    ],
+    "affiliations": [
+      "Marines (semi-retired)"
+    ],
+    "occupations": [
+      "Inspector General",
+      "Fleet Admiral (former)",
+      "Admiral (former)",
+      "Admiral (former)",
+      "Vice Admiral (former)"
+    ],
+    "origin": "South Blue",
+    "residence": [
+      "Marine Headquarters (Marineford) (former)"
+    ],
+    "epithet": "\"Sengoku the Buddha\"; \"The Resourceful General\"",
+    "age": "77 (debut); 79 (after timeskip)",
+    "birthday": "May 9th",
+    "height": "278 cm (9'1\")",
+    "blood_type": "F",
+    "devil_fruit": "Hito Hito no Mi, Model: Daibutsu",
+    "devil_fruit_english": "Human-Human Fruit, Model: Buddha",
+    "devil_fruit_type": "Mythical Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

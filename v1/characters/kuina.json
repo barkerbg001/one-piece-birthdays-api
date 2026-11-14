@@ -1,0 +1,63 @@
+{
+  "id": "kuina",
+  "name": "Kuina",
+  "display_name": "Kuina",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-17",
+      "label": "September 17th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Shimotsuki_Kuina_Anime_Infobox.png/revision/latest?cb=20241110050028",
+    "width": 564,
+    "height": 889
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Shimotsuki_Kuina_Anime_Infobox.png/revision/latest/scale-to-width-down/254?cb=20241110050028",
+    "width": 254,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Shimotsuki Kuina",
+    "url": "https://onepiece.fandom.com/wiki/Shimotsuki_Kuina"
+  },
+  "info": {
+    "japanese_name": "霜月くいな",
+    "official_english_name": "Shimotsuki Kuina",
+    "debut": [
+      "Chapter 5",
+      "Episode 2"
+    ],
+    "affiliations": [
+      "Shimotsuki Family"
+    ],
+    "occupations": [
+      "Trainee Swordsman"
+    ],
+    "origin": "East Blue (Shimotsuki Village)",
+    "residence": [
+      "Shimotsuki Village"
+    ],
+    "status": "2",
+    "birthday": "September 17th",
+    "height": "150 cm (4'11\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

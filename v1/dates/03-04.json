@@ -3,8 +3,38 @@
   "label": "March 4th",
   "month": 3,
   "day": 4,
-  "characters": [
+  "names": [
     "Masira",
     "Minotaurs"
+  ],
+  "characters": [
+    {
+      "id": "masira",
+      "name": "Masira",
+      "display_name": "Masira",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Masira_Anime_Infobox.png/revision/latest?cb=20230904222812",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Masira_Anime_Infobox.png/revision/latest?cb=20230904222812",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Masira",
+      "epithet": "\"Salvage King\" Masira",
+      "affiliation": "Saruyama Alliance (Masira Pirates)",
+      "api": "v1/characters/masira.json"
+    },
+    {
+      "id": "minotaurs",
+      "name": "Minotaurs",
+      "display_name": "Minotaurs",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/15/Minotaurus_Anime_Infobox.png/revision/latest/scale-to-width-down/315?cb=20240229081420",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/15/Minotaurus_Anime_Infobox.png/revision/latest?cb=20240229081420",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Minotaurus",
+      "epithet": null,
+      "affiliation": "Impel Down",
+      "api": "v1/characters/minotaurs.json"
+    }
   ]
 }

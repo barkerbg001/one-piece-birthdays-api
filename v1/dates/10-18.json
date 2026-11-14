@@ -3,8 +3,38 @@
   "label": "October 18th",
   "month": 10,
   "day": 18,
-  "characters": [
+  "names": [
     "Doc Q",
     "Jigoku Benten"
+  ],
+  "characters": [
+    {
+      "id": "doc-q",
+      "name": "Doc Q",
+      "display_name": "Doc Q",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Doc_Q_Anime_Infobox.png/revision/latest/scale-to-width-down/307?cb=20240211200456",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Doc_Q_Anime_Infobox.png/revision/latest?cb=20240211200456",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Doc_Q",
+      "epithet": "\"Death God\"",
+      "affiliation": "Blackbeard Pirates",
+      "api": "v1/characters/doc-q.json"
+    },
+    {
+      "id": "jigoku-benten",
+      "name": "Jigoku Benten",
+      "display_name": "Jigoku Benten",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b5/Jigoku_Benten_Anime_Infobox.png/revision/latest/scale-to-width-down/286?cb=20200927052340",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b5/Jigoku_Benten_Anime_Infobox.png/revision/latest?cb=20200927052340",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Jigoku_Benten",
+      "epithet": null,
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/jigoku-benten.json"
+    }
   ]
 }

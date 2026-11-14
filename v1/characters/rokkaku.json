@@ -1,0 +1,62 @@
+{
+  "id": "rokkaku",
+  "name": "Rokkaku",
+  "display_name": "Rokkaku",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-19",
+      "label": "June 19th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Rokkaku_Anime_Infobox.png/revision/latest?cb=20240306171149",
+    "width": 593,
+    "height": 497
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Rokkaku_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240306171149",
+    "width": 400,
+    "height": 335
+  },
+  "wiki": {
+    "title": "Rokkaku",
+    "url": "https://onepiece.fandom.com/wiki/Rokkaku"
+  },
+  "info": {
+    "japanese_name": "ロッカク",
+    "romanized_name": "Rokkaku",
+    "official_english_name": "Rokkaku",
+    "debut": [
+      "Chapter 4",
+      "Episode 2"
+    ],
+    "affiliations": [
+      "Marines (153rd Branch)"
+    ],
+    "occupations": [
+      "Marine Lieutenant Junior Grade"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Shells Town (153rd Branch)"
+    ],
+    "birthday": "June 19th",
+    "bounty": "At least 1,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

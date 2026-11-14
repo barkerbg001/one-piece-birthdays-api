@@ -3,11 +3,83 @@
   "label": "July 18th",
   "month": 7,
   "day": 18,
-  "characters": [
+  "names": [
     "Smiley",
     "Hoicael",
     "Michael",
     "Wire",
     "Nugire Yainu"
+  ],
+  "characters": [
+    {
+      "id": "smiley",
+      "name": "Smiley",
+      "display_name": "Smiley",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Smiley_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20241114002621",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Smiley_Anime_Infobox.png/revision/latest?cb=20241114002621",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Smiley",
+      "epithet": null,
+      "affiliation": "Caesar Clown",
+      "api": "v1/characters/smiley.json"
+    },
+    {
+      "id": "hoicael",
+      "name": "Hoicael",
+      "display_name": "Hoicael",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c9/Michael_and_Hoichael_Anime_Infobox.png/revision/latest/scale-to-width-down/371?cb=20131018004246",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c9/Michael_and_Hoichael_Anime_Infobox.png/revision/latest?cb=20131018004246",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Michael_and_Hoichael",
+      "epithet": null,
+      "affiliation": "Aunt",
+      "api": "v1/characters/hoicael.json"
+    },
+    {
+      "id": "michael",
+      "name": "Michael",
+      "display_name": "Michael",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c9/Michael_and_Hoichael_Anime_Infobox.png/revision/latest/scale-to-width-down/371?cb=20131018004246",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c9/Michael_and_Hoichael_Anime_Infobox.png/revision/latest?cb=20131018004246",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Michael_and_Hoichael",
+      "epithet": null,
+      "affiliation": "Aunt",
+      "api": "v1/characters/michael.json"
+    },
+    {
+      "id": "wire",
+      "name": "Wire",
+      "display_name": "Wire",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Wire_Anime_Infobox.png/revision/latest/scale-to-width-down/198?cb=20240731170205",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Wire_Anime_Infobox.png/revision/latest?cb=20240731170205",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Wire",
+      "epithet": null,
+      "affiliation": "Kid Pirates",
+      "api": "v1/characters/wire.json"
+    },
+    {
+      "id": "nugire-yainu",
+      "name": "Nugire Yainu",
+      "display_name": "Nugire Yainu",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/58/Nugire_Yainu_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20221026005439",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/58/Nugire_Yainu_Anime_Infobox.png/revision/latest?cb=20221026005439",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Nugire_Yainu",
+      "epithet": null,
+      "affiliation": "Black Cat Pirates",
+      "api": "v1/characters/nugire-yainu.json"
+    }
   ]
 }

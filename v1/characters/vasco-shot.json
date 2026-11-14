@@ -1,0 +1,70 @@
+{
+  "id": "vasco-shot",
+  "name": "Vasco Shot",
+  "display_name": "Vasco Shot",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-05",
+      "label": "August 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/66/Vasco_Shot_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240728020838",
+    "width": 1068,
+    "height": 1003
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/66/Vasco_Shot_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240728020838",
+    "width": 400,
+    "height": 376
+  },
+  "wiki": {
+    "title": "Vasco Shot",
+    "url": "https://onepiece.fandom.com/wiki/Vasco_Shot"
+  },
+  "info": {
+    "japanese_name": "バスコ・ショット",
+    "romanized_name": "Basuko Shotto",
+    "debut": [
+      "Chapter 575",
+      "Episode 484"
+    ],
+    "affiliations": [
+      "Blackbeard Pirates",
+      "Impel Down (former)"
+    ],
+    "occupations": [
+      "Titanic Captain (Captain of the Eighth Ship)",
+      "Prisoner of the Great Prison (former)"
+    ],
+    "origin": "South Blue",
+    "residence": [
+      "Hachinosu"
+    ],
+    "epithet": "\"Heavy Drinker\" Vasco Shot",
+    "age": "36 (debut); 38 (after timeskip)",
+    "birthday": "August 5th",
+    "height": "573 cm (18'10\")",
+    "blood_type": "X",
+    "bounty": "Unknown",
+    "devil_fruit": "Gabu Gabu no Mi",
+    "devil_fruit_english": "Glug-Glug Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

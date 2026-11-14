@@ -3,9 +3,53 @@
   "label": "March 29th",
   "month": 3,
   "day": 29,
-  "characters": [
+  "names": [
     "Catarina Devon",
     "St. Shalulia",
     "Fukurokuju"
+  ],
+  "characters": [
+    {
+      "id": "catarina-devon",
+      "name": "Catarina Devon",
+      "display_name": "Catarina Devon",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Catarina_Devon_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/359?cb=20200112041332",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Catarina_Devon_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200112041332",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Catarina_Devon",
+      "epithet": "\"Crescent Moon Hunter\"",
+      "affiliation": "Blackbeard Pirates",
+      "api": "v1/characters/catarina-devon.json"
+    },
+    {
+      "id": "st-shalulia",
+      "name": "St. Shalulia",
+      "display_name": "St. Shalulia",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/34/Rosward_Shalria_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250309015351",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/34/Rosward_Shalria_Anime_Infobox.png/revision/latest?cb=20250309015351",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Rosward_Shalria",
+      "epithet": null,
+      "affiliation": "World Government (Rosward Family)",
+      "api": "v1/characters/st-shalulia.json"
+    },
+    {
+      "id": "fukurokuju",
+      "name": "Fukurokuju",
+      "display_name": "Fukurokuju",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Fukurokuju_Anime_Infobox.png/revision/latest/scale-to-width-down/383?cb=20210330145927",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Fukurokuju_Anime_Infobox.png/revision/latest?cb=20210330145927",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Fukurokuju",
+      "epithet": null,
+      "affiliation": "Kurozumi Family",
+      "api": "v1/characters/fukurokuju.json"
+    }
   ]
 }

@@ -1,0 +1,58 @@
+{
+  "id": "islewan",
+  "name": "Islewan",
+  "display_name": "Islewan",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-01",
+      "label": "January 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Islewan_Anime_Infobox.png/revision/latest?cb=20130303084246",
+    "width": 1280,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Islewan_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130303084246",
+    "width": 400,
+    "height": 225
+  },
+  "wiki": {
+    "title": "Islewan",
+    "url": "https://onepiece.fandom.com/wiki/Islewan"
+  },
+  "info": {
+    "japanese_name": "アイルワン",
+    "romanized_name": "Airuwan",
+    "official_english_name": "Islewan",
+    "debut": [
+      "Chapter 553",
+      "Episode 462"
+    ],
+    "affiliations": [
+      "Whitebeard Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain"
+    ],
+    "birthday": "January 1st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

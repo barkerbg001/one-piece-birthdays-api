@@ -1,0 +1,73 @@
+{
+  "id": "fujitora",
+  "name": "Fujitora",
+  "display_name": "Fujitora (Issho)",
+  "alias": "Issho",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-10",
+      "label": "August 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Issho_Anime_Infobox.png/revision/latest?cb=20220718140829",
+    "width": 1210,
+    "height": 1966
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Issho_Anime_Infobox.png/revision/latest/scale-to-width-down/246?cb=20220718140829",
+    "width": 246,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Issho",
+    "url": "https://onepiece.fandom.com/wiki/Issho"
+  },
+  "info": {
+    "japanese_name": "イッショウ",
+    "romanized_name": "Isshō",
+    "debut": [
+      "Chapter 701",
+      "Episode 630"
+    ],
+    "affiliations": [
+      "Marines"
+    ],
+    "occupations": [
+      "Admiral",
+      "Guard Captain (former)",
+      "Bodyguard (former)"
+    ],
+    "origin": "Grand Line (Aoi Kingdom)",
+    "residence": [
+      "Aoi Kingdom (former)",
+      "Soja Island (former)"
+    ],
+    "aliases": [
+      "\"Fujitora\""
+    ],
+    "age": "54",
+    "birthday": "August 10th",
+    "height": "270 cm (8'10\")",
+    "blood_type": "S",
+    "bounty": "(3,000,000,000)",
+    "devil_fruit": "Zushi Zushi no Mi",
+    "devil_fruit_english": "Press-Press Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

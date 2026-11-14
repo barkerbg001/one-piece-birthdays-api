@@ -3,8 +3,38 @@
   "label": "March 26th",
   "month": 3,
   "day": 26,
-  "characters": [
+  "names": [
     "Tsuru",
     "Mikio Itoo"
+  ],
+  "characters": [
+    {
+      "id": "tsuru",
+      "name": "Tsuru",
+      "display_name": "Tsuru",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/91/Tsuru_Anime_Infobox.png/revision/latest/scale-to-width-down/278?cb=20240730231455",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/91/Tsuru_Anime_Infobox.png/revision/latest?cb=20240730231455",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Tsuru",
+      "epithet": "\"Great Staff Officer\"",
+      "affiliation": "Marines",
+      "api": "v1/characters/tsuru.json"
+    },
+    {
+      "id": "mikio-itoo",
+      "name": "Mikio Itoo",
+      "display_name": "Mikio Itoo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d5/Mikio_Itoo_Manga_Infobox.png/revision/latest?cb=20261002174946",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d5/Mikio_Itoo_Manga_Infobox.png/revision/latest?cb=20261002174946",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mikio_Itoo",
+      "epithet": null,
+      "affiliation": "Easter Egg",
+      "api": "v1/characters/mikio-itoo.json"
+    }
   ]
 }

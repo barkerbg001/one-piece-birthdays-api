@@ -1,0 +1,66 @@
+{
+  "id": "sentomaru",
+  "name": "Sentomaru",
+  "display_name": "Sentomaru",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-10",
+      "label": "March 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/97/Sentomaru_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241117020846",
+    "width": 1654,
+    "height": 1066
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/97/Sentomaru_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20241117020846",
+    "width": 400,
+    "height": 258
+  },
+  "wiki": {
+    "title": "Sentomaru",
+    "url": "https://onepiece.fandom.com/wiki/Sentomaru"
+  },
+  "info": {
+    "japanese_name": "戦桃丸",
+    "romanized_name": "Sentōmaru",
+    "debut": [
+      "Chapter 497",
+      "Episode 401"
+    ],
+    "affiliations": [
+      "Marines (former)"
+    ],
+    "occupations": [
+      "Marine Officer (former)",
+      "Captain of the Science Unit (former)",
+      "Dr. Vegapunk's bodyguard (former)"
+    ],
+    "origin": "Grand Line (Mt. Kintoki)",
+    "residence": [
+      "Egghead (former)"
+    ],
+    "age": "32 (debut); 34 (after timeskip)",
+    "birthday": "March 10th",
+    "height": "279 cm (9'1\")",
+    "blood_type": "F",
+    "bounty": "★★★★★"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

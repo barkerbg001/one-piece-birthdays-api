@@ -3,9 +3,53 @@
   "label": "March 12th",
   "month": 3,
   "day": 12,
-  "characters": [
+  "names": [
     "Stelly",
     "Patty",
     "Sarutobi"
+  ],
+  "characters": [
+    {
+      "id": "stelly",
+      "name": "Stelly",
+      "display_name": "Stelly",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/34/Sterry_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230112045914",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/34/Sterry_Anime_Infobox.png/revision/latest?cb=20230112045914",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sterry",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/stelly.json"
+    },
+    {
+      "id": "patty",
+      "name": "Patty",
+      "display_name": "Patty",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/51/Patty_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20251207161125",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/51/Patty_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251207161125",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Patty",
+      "epithet": null,
+      "affiliation": "Baratie",
+      "api": "v1/characters/patty.json"
+    },
+    {
+      "id": "sarutobi",
+      "name": "Sarutobi",
+      "display_name": "Sarutobi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/1f/Sarutobi_Anime_Infobox.png/revision/latest/scale-to-width-down/280?cb=20200927052139",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/1f/Sarutobi_Anime_Infobox.png/revision/latest?cb=20200927052139",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sarutobi",
+      "epithet": null,
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/sarutobi.json"
+    }
   ]
 }

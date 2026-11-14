@@ -3,7 +3,23 @@
   "label": "April 14th",
   "month": 4,
   "day": 14,
-  "characters": [
+  "names": [
     "Hody Jones"
+  ],
+  "characters": [
+    {
+      "id": "hody-jones",
+      "name": "Hody Jones",
+      "display_name": "Hody Jones",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f3/Hody_Jones_Anime_Infobox.png/revision/latest/scale-to-width-down/376?cb=20230609234039",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f3/Hody_Jones_Anime_Infobox.png/revision/latest?cb=20230609234039",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hody_Jones",
+      "epithet": null,
+      "affiliation": "New Fish-Man Pirates",
+      "api": "v1/characters/hody-jones.json"
+    }
   ]
 }

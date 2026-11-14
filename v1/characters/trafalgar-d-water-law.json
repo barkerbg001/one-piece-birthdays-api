@@ -1,0 +1,77 @@
+{
+  "id": "trafalgar-d-water-law",
+  "name": "Trafalgar D. Water Law",
+  "display_name": "Trafalgar D. Water Law",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-06",
+      "label": "October 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Trafalgar_D._Water_Law_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230124163510",
+    "width": 752,
+    "height": 1694
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Trafalgar_D._Water_Law_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/177?cb=20230124163510",
+    "width": 177,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Trafalgar D. Water Law",
+    "url": "https://onepiece.fandom.com/wiki/Trafalgar_D._Water_Law"
+  },
+  "info": {
+    "japanese_name": "トラファルガー・D・ワーテル・ロー",
+    "romanized_name": "Torafarugā Dī Wāteru Rō",
+    "official_english_name": "Trafalgar D. Water Law",
+    "debut": [
+      "Chapter 498",
+      "Episode 392"
+    ],
+    "affiliations": [
+      "Heart Pirates",
+      "Clan of D.",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+      "Seven Warlords of the Sea (revoked)",
+      "Donquixote Pirates (defected)"
+    ],
+    "occupations": [
+      "Pirate Captain",
+      "Doctor",
+      "Warlord of the Sea (former)"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Flevance (former)",
+      "Spider Miles (former)",
+      "Swallow Island (former)"
+    ],
+    "epithet": "\"Surgeon of Death\"",
+    "age": "24 (debut); 26 (after timeskip)",
+    "birthday": "October 6th",
+    "height": "191 cm (6'3\") (debut, after timeskip)",
+    "blood_type": "F",
+    "bounty": "3,000,000,000",
+    "devil_fruit": "Ope Ope no Mi",
+    "devil_fruit_english": "Op-Op Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

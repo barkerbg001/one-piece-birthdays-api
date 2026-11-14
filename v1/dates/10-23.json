@@ -3,8 +3,38 @@
   "label": "October 23rd",
   "month": 10,
   "day": 23,
-  "characters": [
+  "names": [
     "Donquixote Doflamingo",
     "Shinobu"
+  ],
+  "characters": [
+    {
+      "id": "donquixote-doflamingo",
+      "name": "Donquixote Doflamingo",
+      "display_name": "Donquixote Doflamingo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Donquixote_Doflamingo_Anime_Infobox.png/revision/latest/scale-to-width-down/344?cb=20231017082245",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Donquixote_Doflamingo_Anime_Infobox.png/revision/latest?cb=20231017082245",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Donquixote_Doflamingo",
+      "epithet": "\"Heavenly Yaksha\"",
+      "affiliation": "Donquixote Pirates",
+      "api": "v1/characters/donquixote-doflamingo.json"
+    },
+    {
+      "id": "shinobu",
+      "name": "Shinobu",
+      "display_name": "Shinobu",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Shinobu_Anime_Infobox.png/revision/latest/scale-to-width-down/231?cb=20241015051553",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Shinobu_Anime_Infobox.png/revision/latest?cb=20241015051553",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Shinobu",
+      "epithet": "\"Bewitching Kunoichi\"; \"Shinobu the Man-Killer\"",
+      "affiliation": "Kouzuki Family",
+      "api": "v1/characters/shinobu.json"
+    }
   ]
 }

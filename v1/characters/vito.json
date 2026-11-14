@@ -1,0 +1,64 @@
+{
+  "id": "vito",
+  "name": "Vito",
+  "display_name": "Vito",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-21",
+      "label": "October 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/09/Vito_Anime_Infobox.png/revision/latest?cb=20221124193213",
+    "width": 1800,
+    "height": 2144
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/09/Vito_Anime_Infobox.png/revision/latest/scale-to-width-down/336?cb=20221124193213",
+    "width": 336,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Vito",
+    "url": "https://onepiece.fandom.com/wiki/Vito"
+  },
+  "info": {
+    "japanese_name": "ヴィト",
+    "romanized_name": "Vito",
+    "official_english_name": "Vito",
+    "debut": [
+      "Chapter 812",
+      "Episode 763"
+    ],
+    "affiliations": [
+      "Fire Tank Pirates"
+    ],
+    "occupations": [
+      "Pirate, Advisor",
+      "Mafia gangster (former)"
+    ],
+    "origin": "West Blue",
+    "epithet": "\"Monster Gun\"",
+    "age": "36",
+    "birthday": "October 21st",
+    "height": "242 cm (7'11\")",
+    "blood_type": "S",
+    "bounty": "95,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

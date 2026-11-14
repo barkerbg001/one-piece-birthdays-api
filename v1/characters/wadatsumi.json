@@ -1,0 +1,62 @@
+{
+  "id": "wadatsumi",
+  "name": "Wadatsumi",
+  "display_name": "Wadatsumi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-09",
+      "label": "February 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/98/Wadatsumi_Anime_Infobox.png/revision/latest?cb=20130512052620",
+    "width": 820,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/98/Wadatsumi_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130512052620",
+    "width": 400,
+    "height": 351
+  },
+  "wiki": {
+    "title": "Wadatsumi",
+    "url": "https://onepiece.fandom.com/wiki/Wadatsumi"
+  },
+  "info": {
+    "japanese_name": "ワダツミ",
+    "romanized_name": "Wadatsumi",
+    "debut": [
+      "Chapter 606",
+      "Episode 525"
+    ],
+    "affiliations": [
+      "Sun Pirates",
+      "Flying Pirates (former)"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "epithet": "\"Large Monk\"",
+    "age": "25",
+    "birthday": "February 9th (Pufferfish Day)",
+    "height": "80 m (262'5\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

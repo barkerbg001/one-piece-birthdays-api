@@ -1,0 +1,56 @@
+{
+  "id": "zunisha",
+  "name": "Zunisha",
+  "display_name": "Zunisha",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-18",
+      "label": "December 18th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Zunesha_Anime_Infobox.png/revision/latest?cb=20190117233721",
+    "width": 3206,
+    "height": 2018
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Zunesha_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20190117233721",
+    "width": 400,
+    "height": 252
+  },
+  "wiki": {
+    "title": "Zunesha",
+    "url": "https://onepiece.fandom.com/wiki/Zunesha"
+  },
+  "info": {
+    "japanese_name": "象主",
+    "romanized_name": "Zunīsha",
+    "debut": [
+      "Chapter 802",
+      "Episode 751"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "New World"
+    ],
+    "age": "Over 1000",
+    "birthday": "December 18th",
+    "height": "Over 5 km (3.1 miles)"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "kyuin",
+  "name": "Kyuin",
+  "display_name": "Kyuin",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-30",
+      "label": "May 30th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Kyuin_Anime_Infobox.png/revision/latest?cb=20150510163904",
+    "width": 770,
+    "height": 660
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Kyuin_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20150510163904",
+    "width": 400,
+    "height": 343
+  },
+  "wiki": {
+    "title": "Kyuin",
+    "url": "https://onepiece.fandom.com/wiki/Kyuin"
+  },
+  "info": {
+    "japanese_name": "キュイーン",
+    "romanized_name": "Kyuīn",
+    "official_english_name": "Kuween",
+    "debut": [
+      "Chapter 755",
+      "Episode 692"
+    ],
+    "affiliations": [
+      "Donquixote Pirates (former)"
+    ],
+    "occupations": [
+      "Pirate",
+      "SMILE Factory Manager (former)"
+    ],
+    "age": "20",
+    "birthday": "May 30th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

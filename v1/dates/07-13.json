@@ -3,9 +3,53 @@
   "label": "July 13th",
   "month": 7,
   "day": 13,
-  "characters": [
+  "names": [
     "King Baum",
     "Acrobatic Fuwas",
     "Queen"
+  ],
+  "characters": [
+    {
+      "id": "king-baum",
+      "name": "King Baum",
+      "display_name": "King Baum",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Kingbaum_Anime_Infobox.png/revision/latest/scale-to-width-down/351?cb=20170716021602",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Kingbaum_Anime_Infobox.png/revision/latest?cb=20170716021602",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kingbaum",
+      "epithet": null,
+      "affiliation": "Big Mom Pirates",
+      "api": "v1/characters/king-baum.json"
+    },
+    {
+      "id": "acrobatic-fuwas",
+      "name": "Acrobatic Fuwas",
+      "display_name": "Acrobatic Fuwas",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/acrobatic-fuwas.json"
+    },
+    {
+      "id": "queen",
+      "name": "Queen",
+      "display_name": "Queen",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/52/Queen_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20200920174728",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/52/Queen_Anime_Infobox.png/revision/latest?cb=20200920174728",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Queen",
+      "epithet": "\"Queen the Plague\"",
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/queen.json"
+    }
   ]
 }

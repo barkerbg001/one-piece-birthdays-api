@@ -1,12 +1,29 @@
 {
   "name": "One Piece Birthday API",
   "version": 1,
-  "characters": 729,
-  "entries": 730,
+  "built": "2026-11-14",
+  "source_fetched": "2026-11-14",
+  "characters": 727,
+  "entries": 728,
+  "with_images": 708,
   "endpoints": {
     "date": "v1/dates/{MM}-{DD}.json",
     "month": "v1/months/{MM}.json",
-    "all": "v1/all.json",
-    "characters": "v1/characters.json"
+    "character": "v1/characters/{id}.json",
+    "characters": "v1/characters.json",
+    "all": "v1/all.json"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
   }
 }

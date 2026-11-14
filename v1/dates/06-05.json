@@ -3,8 +3,38 @@
   "label": "June 5th",
   "month": 6,
   "day": 5,
-  "characters": [
+  "names": [
     "Jabra",
     "Sicily"
+  ],
+  "characters": [
+    {
+      "id": "jabra",
+      "name": "Jabra",
+      "display_name": "Jabra",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/12/Jabra_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/315?cb=20240915021445",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/12/Jabra_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240915021445",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Jabra",
+      "epithet": null,
+      "affiliation": "CP0",
+      "api": "v1/characters/jabra.json"
+    },
+    {
+      "id": "sicily",
+      "name": "Sicily",
+      "display_name": "Sicily",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Sicily_Manga_Infobox.png/revision/latest?cb=20170318232006",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Sicily_Manga_Infobox.png/revision/latest?cb=20170318232006",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sicily",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/sicily.json"
+    }
   ]
 }

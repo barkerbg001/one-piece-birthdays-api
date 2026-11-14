@@ -3,8 +3,38 @@
   "label": "July 29th",
   "month": 7,
   "day": 29,
-  "characters": [
+  "names": [
     "Kadar",
     "Panda Shark"
+  ],
+  "characters": [
+    {
+      "id": "kadar",
+      "name": "Kadar",
+      "display_name": "Kadar",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/49/Kadar_Anime_Infobox.png/revision/latest/scale-to-width-down/316?cb=20250119021837",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/49/Kadar_Anime_Infobox.png/revision/latest?cb=20250119021837",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kadar",
+      "epithet": null,
+      "affiliation": "Marines, G-2",
+      "api": "v1/characters/kadar.json"
+    },
+    {
+      "id": "panda-shark",
+      "name": "Panda Shark",
+      "display_name": "Panda Shark",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/panda-shark.json"
+    }
   ]
 }

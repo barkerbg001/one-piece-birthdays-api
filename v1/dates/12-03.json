@@ -3,7 +3,23 @@
   "label": "December 3rd",
   "month": 12,
   "day": 3,
-  "characters": [
+  "names": [
     "Bell-mère"
+  ],
+  "characters": [
+    {
+      "id": "bell-mere",
+      "name": "Bell-mère",
+      "display_name": "Bell-mère",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Bell-m%C3%A8re_Anime_Infobox.png/revision/latest/scale-to-width-down/241?cb=20231128171918",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Bell-m%C3%A8re_Anime_Infobox.png/revision/latest?cb=20231128171918",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Bell-m%C3%A8re",
+      "epithet": null,
+      "affiliation": "Marines (former)",
+      "api": "v1/characters/bell-mere.json"
+    }
   ]
 }

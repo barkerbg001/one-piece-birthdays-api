@@ -3,7 +3,23 @@
   "label": "September 30th",
   "month": 9,
   "day": 30,
-  "characters": [
+  "names": [
     "Avalo Pizarro"
+  ],
+  "characters": [
+    {
+      "id": "avalo-pizarro",
+      "name": "Avalo Pizarro",
+      "display_name": "Avalo Pizarro",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/ef/Avalo_Pizarro_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/369?cb=20200112042123",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/ef/Avalo_Pizarro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200112042123",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Avalo_Pizarro",
+      "epithet": "\"Corrupt King\"",
+      "affiliation": "Blackbeard Pirates",
+      "api": "v1/characters/avalo-pizarro.json"
+    }
   ]
 }

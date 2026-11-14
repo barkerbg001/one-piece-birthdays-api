@@ -1,0 +1,67 @@
+{
+  "id": "iceburg",
+  "name": "Iceburg",
+  "display_name": "Iceburg",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-03",
+      "label": "January 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/00/Iceburg_Anime_Infobox.png/revision/latest?cb=20230620131854",
+    "width": 775,
+    "height": 956
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/00/Iceburg_Anime_Infobox.png/revision/latest/scale-to-width-down/324?cb=20230620131854",
+    "width": 324,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Iceburg",
+    "url": "https://onepiece.fandom.com/wiki/Iceburg"
+  },
+  "info": {
+    "japanese_name": "アイスバーグ",
+    "romanized_name": "Aisubāgu",
+    "official_english_name": "Iceberg",
+    "debut": [
+      "Chapter 323",
+      "Episode 230"
+    ],
+    "affiliations": [
+      "Galley-La Company",
+      "Water 7",
+      "Tom's Workers (former)"
+    ],
+    "occupations": [
+      "President of the Galley-La Company",
+      "Mayor of Water 7"
+    ],
+    "origin": "Grand Line (Water 7)",
+    "residence": [
+      "Water 7"
+    ],
+    "age": "38 (debut); 40 (after timeskip)",
+    "birthday": "January 3rd",
+    "height": "199 cm (6'6\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,7 +3,23 @@
   "label": "June 7th",
   "month": 6,
   "day": 7,
-  "characters": [
+  "names": [
     "Perona"
+  ],
+  "characters": [
+    {
+      "id": "perona",
+      "name": "Perona",
+      "display_name": "Perona",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Perona_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/188?cb=20260921004558",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Perona_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20260921004558",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Perona",
+      "epithet": "\"Ghost Princess\"",
+      "affiliation": "Thriller Bark Pirates (Mysterious Four)",
+      "api": "v1/characters/perona.json"
+    }
   ]
 }

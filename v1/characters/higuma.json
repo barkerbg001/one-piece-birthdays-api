@@ -1,0 +1,62 @@
+{
+  "id": "higuma",
+  "name": "Higuma",
+  "display_name": "Higuma",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-18",
+      "label": "November 18th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Higuma_Anime_Infobox.png/revision/latest?cb=20260930012451",
+    "width": 614,
+    "height": 1073
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Higuma_Anime_Infobox.png/revision/latest/scale-to-width-down/229?cb=20260930012451",
+    "width": 229,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Higuma",
+    "url": "https://onepiece.fandom.com/wiki/Higuma"
+  },
+  "info": {
+    "japanese_name": "ヒグマ",
+    "romanized_name": "Higuma",
+    "official_english_name": "Higuma",
+    "debut": [
+      "Chapter 1",
+      "Episode 4"
+    ],
+    "affiliations": [
+      "Higuma Bandits"
+    ],
+    "occupations": [
+      "Bandit Leader"
+    ],
+    "origin": "East Blue",
+    "status": "2",
+    "birthday": "November 18th",
+    "height": "190 cm (6'3\")",
+    "blood_type": "X",
+    "bounty": "8,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,8 +3,38 @@
   "label": "December 17th",
   "month": 12,
   "day": 17,
-  "characters": [
+  "names": [
     "Banchina",
     "Yuki"
+  ],
+  "characters": [
+    {
+      "id": "banchina",
+      "name": "Banchina",
+      "display_name": "Banchina",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/48/Banchina_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250717210954",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/48/Banchina_Anime_Infobox.png/revision/latest?cb=20250717210954",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Banchina",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/banchina.json"
+    },
+    {
+      "id": "yuki",
+      "name": "Yuki",
+      "display_name": "Yuki",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Yuki_Anime_Infobox.png/revision/latest/scale-to-width-down/284?cb=20190904170446",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Yuki_Anime_Infobox.png/revision/latest?cb=20190904170446",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Yuki",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/yuki.json"
+    }
   ]
 }

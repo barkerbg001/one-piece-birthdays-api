@@ -1,0 +1,57 @@
+{
+  "id": "suu",
+  "name": "Suu",
+  "display_name": "Suu",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-24",
+      "label": "September 24th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/32/Su_Anime_Infobox.png/revision/latest?cb=20131012004059",
+    "width": 404,
+    "height": 480
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/32/Su_Anime_Infobox.png/revision/latest/scale-to-width-down/337?cb=20131012004059",
+    "width": 337,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Su",
+    "url": "https://onepiece.fandom.com/wiki/Su"
+  },
+  "info": {
+    "japanese_name": "スー",
+    "romanized_name": "Sū",
+    "official_english_name": "Su; Suu (Funimation)",
+    "debut": [
+      "Chapter 239",
+      "Episode 154"
+    ],
+    "affiliations": [
+      "Conis"
+    ],
+    "occupations": [
+      "Pet"
+    ],
+    "birthday": "September 24th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

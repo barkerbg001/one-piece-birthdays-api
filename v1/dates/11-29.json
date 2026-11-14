@@ -3,9 +3,53 @@
   "label": "November 29th",
   "month": 11,
   "day": 29,
-  "characters": [
+  "names": [
     "Agyo",
     "Cerberus",
     "Bacura"
+  ],
+  "characters": [
+    {
+      "id": "agyo",
+      "name": "Agyo",
+      "display_name": "Agyo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/11/Agyo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20140707173009",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/11/Agyo_Anime_Infobox.png/revision/latest?cb=20140707173009",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Agyo",
+      "epithet": null,
+      "affiliation": "Corrida Colosseum",
+      "api": "v1/characters/agyo.json"
+    },
+    {
+      "id": "cerberus",
+      "name": "Cerberus",
+      "display_name": "Cerberus",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Cerberus_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180714234700",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Cerberus_Anime_Infobox.png/revision/latest?cb=20180714234700",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Cerberus",
+      "epithet": null,
+      "affiliation": "Thriller Bark Pirates",
+      "api": "v1/characters/cerberus.json"
+    },
+    {
+      "id": "bacura",
+      "name": "Bacura",
+      "display_name": "Bacura",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/10/Bacura_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130115215548",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/10/Bacura_Anime_Infobox.png/revision/latest?cb=20130115215548",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Bacura",
+      "epithet": null,
+      "affiliation": "Kuja Pirates",
+      "api": "v1/characters/bacura.json"
+    }
   ]
 }

@@ -3,7 +3,23 @@
   "label": "May 15th",
   "month": 5,
   "day": 15,
-  "characters": [
+  "names": [
     "Baby 5"
+  ],
+  "characters": [
+    {
+      "id": "baby-5",
+      "name": "Baby 5",
+      "display_name": "Baby 5",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Baby_5_Anime_Infobox.png/revision/latest/scale-to-width-down/173?cb=20221011013323",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Baby_5_Anime_Infobox.png/revision/latest?cb=20221011013323",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Baby_5",
+      "epithet": null,
+      "affiliation": "Happo Navy",
+      "api": "v1/characters/baby-5.json"
+    }
   ]
 }

@@ -1,0 +1,73 @@
+{
+  "id": "jesus-burgess",
+  "name": "Jesus Burgess",
+  "display_name": "Jesus Burgess",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-25",
+      "label": "December 25th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/43/Jesus_Burgess_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240128022349",
+    "width": 1920,
+    "height": 1981
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/43/Jesus_Burgess_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/388?cb=20240128022349",
+    "width": 388,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Jesus Burgess",
+    "url": "https://onepiece.fandom.com/wiki/Jesus_Burgess"
+  },
+  "info": {
+    "japanese_name": "ジーザス・バージェス",
+    "romanized_name": "Jīzasu Bājesu",
+    "official_english_name": "Jesus Burgess (VIZ, uncut dub); G. Zass Burgess (edited dub)",
+    "debut": [
+      "Chapter 222",
+      "Episode 146"
+    ],
+    "affiliations": [
+      "Blackbeard Pirates"
+    ],
+    "occupations": [
+      "Titanic Captain (Captain of the First Ship)",
+      "Helmsman"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Hachinosu"
+    ],
+    "epithet": "\"Champion\"",
+    "aliases": [
+      "\"Mr. Store\""
+    ],
+    "age": "27 (debut); 29 (after timeskip)",
+    "birthday": "December 25th",
+    "height": "355 cm (11'8\")",
+    "blood_type": "F",
+    "bounty": "At least 20,000,000",
+    "devil_fruit": "Riki Riki no Mi",
+    "devil_fruit_english": "Strong-Strong Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

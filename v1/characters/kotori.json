@@ -1,0 +1,71 @@
+{
+  "id": "kotori",
+  "name": "Kotori",
+  "display_name": "Kotori",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-10",
+      "label": "March 10th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "satori",
+      "name": "Satori"
+    },
+    {
+      "id": "hotori",
+      "name": "Hotori"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/28/Hotori_and_Kotori_Anime_Infobox.png/revision/latest?cb=20230806235842",
+    "width": 704,
+    "height": 528
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/28/Hotori_and_Kotori_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230806235842",
+    "width": 400,
+    "height": 300
+  },
+  "wiki": {
+    "title": "Hotori and Kotori",
+    "url": "https://onepiece.fandom.com/wiki/Hotori_and_Kotori"
+  },
+  "info": {
+    "japanese_name": "ホトリとコトリ",
+    "romanized_name": "Hotori to Kotori",
+    "official_english_name": "Hotori and Kotori",
+    "debut": [
+      "Chapter 260",
+      "Episode 171"
+    ],
+    "affiliations": [
+      "God's Army"
+    ],
+    "occupations": [
+      "Lieutenants of the Divine Soldiers"
+    ],
+    "origin": "Sky Islands (Birka)",
+    "status": "1",
+    "age": "25 (debut); 27 (after timeskip)",
+    "birthday": "March 10th",
+    "height": "179 cm (5'10\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

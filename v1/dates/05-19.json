@@ -3,10 +3,72 @@
   "label": "May 19th",
   "month": 5,
   "day": 19,
-  "characters": [
+  "names": [
     "Andre",
     "Candre",
     "John Giant",
     "Tenguyama Hitetsu"
+  ],
+  "characters": [
+    {
+      "id": "andre",
+      "name": "Andre",
+      "display_name": "Andre",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "candre"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b0/Andre_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230601232700",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b0/Andre_Anime_Infobox.png/revision/latest?cb=20230601232700",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Andre",
+      "epithet": null,
+      "affiliation": "Whitebeard Pirates",
+      "api": "v1/characters/andre.json"
+    },
+    {
+      "id": "candre",
+      "name": "Candre",
+      "display_name": "Candre",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "andre"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/ac/Candre_Manga_Infobox.png/revision/latest/scale-to-width-down/268?cb=20170103202001",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/ac/Candre_Manga_Infobox.png/revision/latest?cb=20170103202001",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Candre",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/candre.json"
+    },
+    {
+      "id": "john-giant",
+      "name": "John Giant",
+      "display_name": "John Giant",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/28/John_Giant_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230222232558",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/28/John_Giant_Anime_Infobox.png/revision/latest?cb=20230222232558",
+      "wiki_url": "https://onepiece.fandom.com/wiki/John_Giant",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/john-giant.json"
+    },
+    {
+      "id": "tenguyama-hitetsu",
+      "name": "Tenguyama Hitetsu",
+      "display_name": "Tenguyama Hitetsu",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/06/Kouzuki_Sukiyaki_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20231110021918",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/06/Kouzuki_Sukiyaki_Anime_Infobox.png/revision/latest?cb=20231110021918",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kouzuki_Sukiyaki",
+      "epithet": null,
+      "affiliation": "Kouzuki Family",
+      "api": "v1/characters/tenguyama-hitetsu.json"
+    }
   ]
 }

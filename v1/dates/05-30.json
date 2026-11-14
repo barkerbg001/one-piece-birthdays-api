@@ -3,7 +3,23 @@
   "label": "May 30th",
   "month": 5,
   "day": 30,
-  "characters": [
+  "names": [
     "Kyuin"
+  ],
+  "characters": [
+    {
+      "id": "kyuin",
+      "name": "Kyuin",
+      "display_name": "Kyuin",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Kyuin_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20150510163904",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Kyuin_Anime_Infobox.png/revision/latest?cb=20150510163904",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kyuin",
+      "epithet": null,
+      "affiliation": "Donquixote Pirates (former)",
+      "api": "v1/characters/kyuin.json"
+    }
   ]
 }

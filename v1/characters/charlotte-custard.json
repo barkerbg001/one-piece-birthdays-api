@@ -1,0 +1,72 @@
+{
+  "id": "charlotte-custard",
+  "name": "Charlotte Custard",
+  "display_name": "Charlotte Custard",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-28",
+      "label": "February 28th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-cracker",
+      "name": "Charlotte Cracker"
+    },
+    {
+      "id": "charlotte-angel",
+      "name": "Charlotte Angel"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/da/Charlotte_Custard_Anime_Infobox.png/revision/latest?cb=20181118084826",
+    "width": 826,
+    "height": 870
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/da/Charlotte_Custard_Anime_Infobox.png/revision/latest/scale-to-width-down/380?cb=20181118084826",
+    "width": 380,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Custard",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Custard"
+  },
+  "info": {
+    "japanese_name": "シャーロット・カスタード",
+    "romanized_name": "Shārotto Kasutādo",
+    "official_english_name": "Charlotte Custard",
+    "debut": [
+      "Chapter 862",
+      "Episode 831 (fantasy), Episode 832"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "origin": "Grand Line (On a boat)",
+    "residence": [
+      "Totto Land"
+    ],
+    "age": "45",
+    "birthday": "February 28th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

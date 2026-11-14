@@ -3,9 +3,53 @@
   "label": "October 8th",
   "month": 10,
   "day": 8,
-  "characters": [
+  "names": [
     "Doberman",
     "Pierre",
     "Hatcha"
+  ],
+  "characters": [
+    {
+      "id": "doberman",
+      "name": "Doberman",
+      "display_name": "Doberman",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Doberman_Anime_Infobox.png/revision/latest/scale-to-width-down/308?cb=20221101021412",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Doberman_Anime_Infobox.png/revision/latest?cb=20221101021412",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Doberman",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/doberman.json"
+    },
+    {
+      "id": "pierre",
+      "name": "Pierre",
+      "display_name": "Pierre",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6a/Pierre_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130502235859",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6a/Pierre_Anime_Infobox.png/revision/latest?cb=20130502235859",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Pierre",
+      "epithet": null,
+      "affiliation": "Gan Fall",
+      "api": "v1/characters/pierre.json"
+    },
+    {
+      "id": "hatcha",
+      "name": "Hatcha",
+      "display_name": "Hatcha",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Hatcha_Anime_Infobox.png/revision/latest/scale-to-width-down/298?cb=20211205050907",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Hatcha_Anime_Infobox.png/revision/latest?cb=20211205050907",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hatcha",
+      "epithet": null,
+      "affiliation": "Beasts Pirates (Numbers)",
+      "api": "v1/characters/hatcha.json"
+    }
   ]
 }

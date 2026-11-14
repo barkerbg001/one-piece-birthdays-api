@@ -1,0 +1,79 @@
+{
+  "id": "jinbe",
+  "name": "Jinbe",
+  "display_name": "Jinbe",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-02",
+      "label": "April 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/81/Jinbe_Anime_Infobox.png/revision/latest?cb=20170521201349",
+    "width": 994,
+    "height": 1268
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/81/Jinbe_Anime_Infobox.png/revision/latest/scale-to-width-down/313?cb=20170521201349",
+    "width": 313,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Jinbe",
+    "url": "https://onepiece.fandom.com/wiki/Jinbe"
+  },
+  "info": {
+    "japanese_name": "ジンベエ",
+    "romanized_name": "Jinbē",
+    "official_english_name": "Jinbe (OPCG, Crunchyroll); Jimbei (VIZ, Crunchyroll (former))",
+    "debut": [
+      "Chapter 528",
+      "Episode 430"
+    ],
+    "affiliations": [
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet",
+      "Sun Pirates (former)",
+      "Ally of the Big Mom Pirates (former)",
+      "Seven Warlords of the Sea (former)",
+      "Ryugu Kingdom (resigned)",
+      "Impel Down (former)",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Helmsman",
+      "Senior Officer",
+      "Captain (former)",
+      "Warlord of the Sea (former)",
+      "Soldier (former)",
+      "Prisoner of the Great Prison (former)"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Fish-Man District (former)"
+    ],
+    "epithet": "\"Knight of the Sea\" Jinbe; \"Boss Jinbe\"",
+    "age": "44 (debut); 46 (after timeskip)",
+    "birthday": "April 2nd",
+    "height": "301 cm (9'11\") (debut, after timeskip)",
+    "blood_type": "F",
+    "bounty": "1,100,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

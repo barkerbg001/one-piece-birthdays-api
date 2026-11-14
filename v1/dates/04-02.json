@@ -3,8 +3,38 @@
   "label": "April 2nd",
   "month": 4,
   "day": 2,
-  "characters": [
+  "names": [
     "Jinbe",
     "Zeff"
+  ],
+  "characters": [
+    {
+      "id": "jinbe",
+      "name": "Jinbe",
+      "display_name": "Jinbe",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/81/Jinbe_Anime_Infobox.png/revision/latest/scale-to-width-down/313?cb=20170521201349",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Jinbe_Anime_Infobox.png/revision/latest?cb=20170521201349",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Jinbe",
+      "epithet": "\"Knight of the Sea\" Jinbe; \"Boss Jinbe\"",
+      "affiliation": "Straw Hat Pirates",
+      "api": "v1/characters/jinbe.json"
+    },
+    {
+      "id": "zeff",
+      "name": "Zeff",
+      "display_name": "Zeff",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d9/Zeff_Anime_Infobox.png/revision/latest/scale-to-width-down/267?cb=20230617083525",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d9/Zeff_Anime_Infobox.png/revision/latest?cb=20230617083525",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Zeff",
+      "epithet": "\"Red-Leg Zeff\"",
+      "affiliation": "Baratie",
+      "api": "v1/characters/zeff.json"
+    }
   ]
 }

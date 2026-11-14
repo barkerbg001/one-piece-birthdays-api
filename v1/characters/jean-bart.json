@@ -1,0 +1,61 @@
+{
+  "id": "jean-bart",
+  "name": "Jean Bart",
+  "display_name": "Jean Bart",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-06",
+      "label": "April 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/af/Jean_Bart_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240726161233",
+    "width": 1162,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/af/Jean_Bart_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240726161233",
+    "width": 400,
+    "height": 372
+  },
+  "wiki": {
+    "title": "Jean Bart",
+    "url": "https://onepiece.fandom.com/wiki/Jean_Bart"
+  },
+  "info": {
+    "japanese_name": "ジャンバール",
+    "romanized_name": "Janbāru",
+    "debut": [
+      "Chapter 497",
+      "Episode 391"
+    ],
+    "affiliations": [
+      "Heart Pirates",
+      "his own crew (former)",
+      "Ninja-Pirate-Mink-Samurai Alliance"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain (former)",
+      "Slave (former)"
+    ],
+    "status": "1",
+    "birthday": "April 6th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

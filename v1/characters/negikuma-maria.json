@@ -1,0 +1,59 @@
+{
+  "id": "negikuma-maria",
+  "name": "Negikuma Maria",
+  "display_name": "Negikuma Maria",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-14",
+      "label": "November 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Negikuma_Maria_Anime_Infobox.png/revision/latest?cb=20130624224333",
+    "width": 642,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Negikuma_Maria_Anime_Infobox.png/revision/latest/scale-to-width-down/357?cb=20130624224333",
+    "width": 357,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Negikuma Maria",
+    "url": "https://onepiece.fandom.com/wiki/Negikuma_Maria"
+  },
+  "info": {
+    "japanese_name": "ネギ熊まりあ",
+    "romanized_name": "Negikuma Maria",
+    "official_english_name": "Maria Onion Bear (VIZ); Mrs. Negi (Funimation); Big Mama (4Kids)",
+    "debut": [
+      "Chapter 133",
+      "Episode 80"
+    ],
+    "occupations": [
+      "Housewife"
+    ],
+    "origin": "Grand Line (Drum Island)",
+    "residence": [
+      "Bighorn"
+    ],
+    "age": "43 (debut); 45 (post-timeskip)",
+    "birthday": "November 14th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

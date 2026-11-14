@@ -1,0 +1,64 @@
+{
+  "id": "tamanegi",
+  "name": "Tamanegi",
+  "display_name": "Tamanegi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-10",
+      "label": "April 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Tamanegi_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251026160607",
+    "width": 672,
+    "height": 961
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Tamanegi_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/280?cb=20251026160607",
+    "width": 280,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Tamanegi",
+    "url": "https://onepiece.fandom.com/wiki/Tamanegi"
+  },
+  "info": {
+    "japanese_name": "たまねぎ",
+    "official_english_name": "Onion; Tamanegi (Odex)",
+    "debut": [
+      "Chapter 23",
+      "Episode 9"
+    ],
+    "affiliations": [
+      "Usopp Pirates (disbanded)",
+      "Usopp Security Force"
+    ],
+    "occupations": [
+      "Pretend Pirate (formerly)"
+    ],
+    "origin": "East Blue (Gecko Islands)",
+    "residence": [
+      "Syrup Village"
+    ],
+    "age": "9 (debut); 11 (after timeskip)",
+    "birthday": "April 10th",
+    "height": "124 cm (4'1\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

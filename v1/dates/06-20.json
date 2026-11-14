@@ -3,7 +3,23 @@
   "label": "June 20th",
   "month": 6,
   "day": 20,
-  "characters": [
+  "names": [
     "Amadob"
+  ],
+  "characters": [
+    {
+      "id": "amadob",
+      "name": "Amadob",
+      "display_name": "Amadob",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/81/Amadob_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130722051116",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Amadob_Anime_Infobox.png/revision/latest?cb=20130722051116",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Amadob",
+      "epithet": null,
+      "affiliation": "Ally of the Whitebeard Pirates",
+      "api": "v1/characters/amadob.json"
+    }
   ]
 }

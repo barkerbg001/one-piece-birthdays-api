@@ -1,0 +1,68 @@
+{
+  "id": "mont-blanc-cricket",
+  "name": "Mont Blanc Cricket",
+  "display_name": "Mont Blanc Cricket",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-11",
+      "label": "September 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Mont_Blanc_Cricket_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251116160951",
+    "width": 582,
+    "height": 632
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Mont_Blanc_Cricket_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/368?cb=20251116160951",
+    "width": 368,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Mont Blanc Cricket",
+    "url": "https://onepiece.fandom.com/wiki/Mont_Blanc_Cricket"
+  },
+  "info": {
+    "japanese_name": "モンブラン・クリケット",
+    "romanized_name": "Monburan Kuriketto",
+    "official_english_name": "Mont Blanc Cricket (Viz),; Montblanc Cricket (Uncut Funimation),; Monbran Cricket (Edited Funimation),; Mombran Cricket (4Kids)",
+    "debut": [
+      "Chapter 227",
+      "Episode 148"
+    ],
+    "affiliations": [
+      "Saruyama Alliance",
+      "Mont Blanc Family",
+      "His original crew (former)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain (former)"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Jaya (former)"
+    ],
+    "age": "41 (debut); 43 (after timeskip)",
+    "birthday": "September 11th",
+    "height": "242 cm (7'11\")",
+    "blood_type": "S",
+    "bounty": "25,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

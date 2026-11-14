@@ -1,0 +1,70 @@
+{
+  "id": "charlotte-perospero",
+  "name": "Charlotte Perospero",
+  "display_name": "Charlotte Perospero",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-14",
+      "label": "March 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Charlotte_Perospero_Anime_Infobox.png/revision/latest?cb=20211101122146",
+    "width": 832,
+    "height": 1078
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Charlotte_Perospero_Anime_Infobox.png/revision/latest/scale-to-width-down/309?cb=20211101122146",
+    "width": 309,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Perospero",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Perospero"
+  },
+  "info": {
+    "japanese_name": "シャーロット・ペロスペロー",
+    "romanized_name": "Shārotto Perosuperō",
+    "official_english_name": "Charlotte Perospero (Viz); Charlotte Perosperaw (WT100)",
+    "debut": [
+      "Chapter 834",
+      "Episode 795"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Minister of Candy"
+    ],
+    "origin": "Grand Line (At a random port)",
+    "residence": [
+      "Candy Island"
+    ],
+    "age": "50",
+    "birthday": "March 14th",
+    "height": "333 cm (10'11\")",
+    "blood_type": "X",
+    "bounty": "700,000,000",
+    "devil_fruit": "Pero Pero no Mi",
+    "devil_fruit_english": "Lick-Lick Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "gonbe",
+  "name": "Gonbe",
+  "display_name": "Gonbe",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-08",
+      "label": "February 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Gonbe_Anime_Infobox.png/revision/latest?cb=20250318234500",
+    "width": 702,
+    "height": 1337
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Gonbe_Anime_Infobox.png/revision/latest/scale-to-width-down/210?cb=20250318234500",
+    "width": 210,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Gonbe",
+    "url": "https://onepiece.fandom.com/wiki/Gonbe"
+  },
+  "info": {
+    "japanese_name": "ゴンベ",
+    "romanized_name": "Gonbe",
+    "official_english_name": "Gonbe",
+    "debut": [
+      "Chapter 322",
+      "Episode 229"
+    ],
+    "affiliations": [
+      "Chimney"
+    ],
+    "occupations": [
+      "Pet"
+    ],
+    "residence": [
+      "Water 7 (Shift Station)"
+    ],
+    "birthday": "February 8th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

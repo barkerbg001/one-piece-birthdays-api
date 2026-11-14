@@ -1,0 +1,58 @@
+{
+  "id": "capote",
+  "name": "Capote",
+  "display_name": "Capote",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-01",
+      "label": "May 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Capote_Anime_Infobox.png/revision/latest?cb=20130421014733",
+    "width": 963,
+    "height": 719
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Capote_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130421014733",
+    "width": 400,
+    "height": 299
+  },
+  "wiki": {
+    "title": "Capote",
+    "url": "https://onepiece.fandom.com/wiki/Capote"
+  },
+  "info": {
+    "japanese_name": "カポーティ",
+    "romanized_name": "Kapōti",
+    "official_english_name": "Capote",
+    "debut": [
+      "Chapter 306",
+      "Episode 209"
+    ],
+    "affiliations": [
+      "Foxy Pirates (former)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Combatant"
+    ],
+    "birthday": "May 1st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

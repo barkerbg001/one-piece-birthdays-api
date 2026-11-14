@@ -1,0 +1,57 @@
+{
+  "id": "peterman",
+  "name": "Peterman",
+  "display_name": "Peterman",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-04",
+      "label": "January 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/da/Peterman_Anime_Infobox.png/revision/latest?cb=20240429004755",
+    "width": 658,
+    "height": 1073
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/da/Peterman_Anime_Infobox.png/revision/latest/scale-to-width-down/245?cb=20240429004755",
+    "width": 245,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Peterman",
+    "url": "https://onepiece.fandom.com/wiki/Peterman"
+  },
+  "info": {
+    "japanese_name": "ピーターマン",
+    "romanized_name": "Pītāman",
+    "official_english_name": "Peterman",
+    "debut": [
+      "Chapter 499",
+      "Episode 393"
+    ],
+    "affiliations": [
+      "Hound Pets"
+    ],
+    "occupations": [
+      "Slave trader"
+    ],
+    "birthday": "January 4th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

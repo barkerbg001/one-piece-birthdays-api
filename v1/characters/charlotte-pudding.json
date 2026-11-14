@@ -1,0 +1,70 @@
+{
+  "id": "charlotte-pudding",
+  "name": "Charlotte Pudding",
+  "display_name": "Charlotte Pudding",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-25",
+      "label": "June 25th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/60/Charlotte_Pudding_Anime_Infobox.png/revision/latest?cb=20250106015531",
+    "width": 522,
+    "height": 1001
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/60/Charlotte_Pudding_Anime_Infobox.png/revision/latest/scale-to-width-down/208?cb=20250106015531",
+    "width": 208,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Pudding",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Pudding"
+  },
+  "info": {
+    "japanese_name": "シャーロット・プリン",
+    "romanized_name": "Shārotto Purin",
+    "official_english_name": "Charlotte Pudding",
+    "debut": [
+      "Chapter 651",
+      "Episode 571"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Chocolatier",
+      "Cafe Owner"
+    ],
+    "origin": "Grand Line (Totto Land)",
+    "residence": [
+      "Cacao Island"
+    ],
+    "age": "16",
+    "birthday": "June 25th",
+    "height": "166 cm (5'5\")",
+    "blood_type": "XF",
+    "devil_fruit": "Memo Memo no Mi",
+    "devil_fruit_english": "Memo-Memo Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

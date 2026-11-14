@@ -3,8 +3,38 @@
   "label": "January 26th",
   "month": 1,
   "day": 26,
-  "characters": [
+  "names": [
     "Nero",
     "Kuromarimo"
+  ],
+  "characters": [
+    {
+      "id": "nero",
+      "name": "Nero",
+      "display_name": "Nero",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Nero_Anime_Infobox.png/revision/latest/scale-to-width-down/217?cb=20221024015622",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Nero_Anime_Infobox.png/revision/latest?cb=20221024015622",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Nero",
+      "epithet": "\"Nero the Sea Weasel\"",
+      "affiliation": "CP9 (former)",
+      "api": "v1/characters/nero.json"
+    },
+    {
+      "id": "kuromarimo",
+      "name": "Kuromarimo",
+      "display_name": "Kuromarimo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Kuromarimo_Anime_Infobox.png/revision/latest/scale-to-width-down/334?cb=20260929223524",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Kuromarimo_Anime_Infobox.png/revision/latest?cb=20260929223524",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kuromarimo",
+      "epithet": null,
+      "affiliation": "Bliking Pirates (disbanded), Drum Kingdom (former)",
+      "api": "v1/characters/kuromarimo.json"
+    }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "id": "moodie",
+  "name": "Moodie",
+  "display_name": "Moodie",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-17",
+      "label": "November 17th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Moodie_Anime_Infobox.png/revision/latest?cb=20240308005758",
+    "width": 385,
+    "height": 528
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Moodie_Anime_Infobox.png/revision/latest/scale-to-width-down/292?cb=20240308005758",
+    "width": 292,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Moodie",
+    "url": "https://onepiece.fandom.com/wiki/Moodie"
+  },
+  "info": {
+    "japanese_name": "ムーディ",
+    "romanized_name": "Mūdi",
+    "official_english_name": "Moody",
+    "debut": [
+      "Chapter 43",
+      "Episode 20"
+    ],
+    "origin": "East Blue",
+    "birthday": "November 17th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

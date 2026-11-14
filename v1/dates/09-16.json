@@ -3,8 +3,38 @@
   "label": "September 16th",
   "month": 9,
   "day": 16,
-  "characters": [
+  "names": [
     "Laboon",
     "Rindo"
+  ],
+  "characters": [
+    {
+      "id": "laboon",
+      "name": "Laboon",
+      "display_name": "Laboon",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/88/Laboon_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180508212232",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/88/Laboon_Anime_Infobox.png/revision/latest?cb=20180508212232",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Laboon",
+      "epithet": null,
+      "affiliation": "Rumbar Pirates (former)",
+      "api": "v1/characters/laboon.json"
+    },
+    {
+      "id": "rindo",
+      "name": "Rindo",
+      "display_name": "Rindo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/55/Rindo_Anime_Infobox.png/revision/latest/scale-to-width-down/157?cb=20100423085744",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/55/Rindo_Anime_Infobox.png/revision/latest?cb=20100423085744",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Rindo",
+      "epithet": null,
+      "affiliation": "Kuja Pirates",
+      "api": "v1/characters/rindo.json"
+    }
   ]
 }

@@ -1,0 +1,66 @@
+{
+  "id": "masira",
+  "name": "Masira",
+  "display_name": "Masira",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-04",
+      "label": "March 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Masira_Anime_Infobox.png/revision/latest?cb=20230904222812",
+    "width": 303,
+    "height": 367
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Masira_Anime_Infobox.png/revision/latest?cb=20230904222812",
+    "width": 330,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Masira",
+    "url": "https://onepiece.fandom.com/wiki/Masira"
+  },
+  "info": {
+    "japanese_name": "マシラ",
+    "romanized_name": "Mashira",
+    "debut": [
+      "Chapter 219",
+      "Episode 144"
+    ],
+    "affiliations": [
+      "Saruyama Alliance (Masira Pirates)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Boss"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Jaya"
+    ],
+    "epithet": "\"Salvage King\" Masira",
+    "age": "23 (debut); 25 (after timeskip)",
+    "birthday": "March 4th",
+    "height": "345 cm (11'4\")",
+    "blood_type": "F",
+    "bounty": "23,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

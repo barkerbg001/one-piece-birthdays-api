@@ -3,8 +3,38 @@
   "label": "July 19th",
   "month": 7,
   "day": 19,
-  "characters": [
+  "names": [
     "Prometheus",
     "Yu"
+  ],
+  "characters": [
+    {
+      "id": "prometheus",
+      "name": "Prometheus",
+      "display_name": "Prometheus",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Prometheus_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180107064332",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Prometheus_Anime_Infobox.png/revision/latest?cb=20180107064332",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Prometheus",
+      "epithet": "\"Prometheus the Sun\"",
+      "affiliation": "Big Mom Pirates",
+      "api": "v1/characters/prometheus.json"
+    },
+    {
+      "id": "yu",
+      "name": "Yu",
+      "display_name": "Yu",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/5c/Yu_Anime_Infobox.png/revision/latest/scale-to-width-down/304?cb=20250409185350",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/5c/Yu_Anime_Infobox.png/revision/latest?cb=20250409185350",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Yu",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/yu.json"
+    }
   ]
 }

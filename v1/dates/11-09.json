@@ -3,9 +3,53 @@
   "label": "November 9th",
   "month": 11,
   "day": 9,
-  "characters": [
+  "names": [
     "Albion",
     "St. Jalmack",
     "Benn Beckman"
+  ],
+  "characters": [
+    {
+      "id": "albion",
+      "name": "Albion",
+      "display_name": "Albion",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c9/Albion_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130207055626",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c9/Albion_Anime_Infobox.png/revision/latest?cb=20130207055626",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Albion",
+      "epithet": "\"Gashed Albion\"",
+      "affiliation": "Fake Straw Hat Crew (Former)",
+      "api": "v1/characters/albion.json"
+    },
+    {
+      "id": "st-jalmack",
+      "name": "St. Jalmack",
+      "display_name": "St. Jalmack",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/65/Jalmack_Anime_Infobox.png/revision/latest/scale-to-width-down/390?cb=20231111013331",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/65/Jalmack_Anime_Infobox.png/revision/latest?cb=20231111013331",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Jalmack",
+      "epithet": null,
+      "affiliation": "World Government",
+      "api": "v1/characters/st-jalmack.json"
+    },
+    {
+      "id": "benn-beckman",
+      "name": "Benn Beckman",
+      "display_name": "Benn Beckman",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/12/Benn_Beckman_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240623091906",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/12/Benn_Beckman_Anime_Infobox.png/revision/latest?cb=20240623091906",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Benn_Beckman",
+      "epithet": null,
+      "affiliation": "Red Hair Pirates",
+      "api": "v1/characters/benn-beckman.json"
+    }
   ]
 }

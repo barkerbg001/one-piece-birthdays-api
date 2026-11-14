@@ -3,9 +3,53 @@
   "label": "April 1st",
   "month": 4,
   "day": 1,
-  "characters": [
+  "names": [
     "Usopp",
     "Kashi",
     "Kerville"
+  ],
+  "characters": [
+    {
+      "id": "usopp",
+      "name": "Usopp",
+      "display_name": "Usopp",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/35/Usopp_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/215?cb=20221127233827",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/35/Usopp_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20221127233827",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Usopp",
+      "epithet": "\"King of Snipers\"; \"God\"",
+      "affiliation": "Straw Hat Pirates",
+      "api": "v1/characters/usopp.json"
+    },
+    {
+      "id": "kashi",
+      "name": "Kashi",
+      "display_name": "Kashi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/72/Kashii_Anime_Infobox.png/revision/latest/scale-to-width-down/326?cb=20170529154313",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/72/Kashii_Anime_Infobox.png/revision/latest?cb=20170529154313",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kashii",
+      "epithet": null,
+      "affiliation": "World Government (defected), Giant Warrior Pirates",
+      "api": "v1/characters/kashi.json"
+    },
+    {
+      "id": "kerville",
+      "name": "Kerville",
+      "display_name": "Kerville",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Baskerville_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240624215454",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Baskerville_Anime_Infobox.png/revision/latest?cb=20240624215454",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Baskerville",
+      "epithet": "\"Three-Headed Baskerville\"",
+      "affiliation": "World Government (Enies Lobby)",
+      "api": "v1/characters/kerville.json"
+    }
   ]
 }

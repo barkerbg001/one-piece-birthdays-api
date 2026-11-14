@@ -1,0 +1,55 @@
+{
+  "id": "brontosaurus",
+  "name": "Brontosaurus",
+  "display_name": "Brontosaurus",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-19",
+      "label": "November 19th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Brontosaurus_Manga_Infobox.png/revision/latest?cb=20200929235824",
+    "width": 259,
+    "height": 364
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Brontosaurus_Manga_Infobox.png/revision/latest?cb=20200929235824",
+    "width": 284,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Brontosaurus",
+    "url": "https://onepiece.fandom.com/wiki/Brontosaurus"
+  },
+  "info": {
+    "japanese_name": "ブロントザウルス",
+    "romanized_name": "Burontozaurusu",
+    "official_english_name": "Brontosaurus",
+    "debut": [
+      "Chapter 115"
+    ],
+    "origin": "Grand Line (Little Garden)",
+    "residence": [
+      "Little Garden"
+    ],
+    "status": "2",
+    "birthday": "November 19th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

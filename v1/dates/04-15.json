@@ -3,7 +3,23 @@
   "label": "April 15th",
   "month": 4,
   "day": 15,
-  "characters": [
+  "names": [
     "Fossa"
+  ],
+  "characters": [
+    {
+      "id": "fossa",
+      "name": "Fossa",
+      "display_name": "Fossa",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/14/Fossa_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20211009011318",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/14/Fossa_Anime_Infobox.png/revision/latest?cb=20211009011318",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Fossa",
+      "epithet": null,
+      "affiliation": "Whitebeard Pirates",
+      "api": "v1/characters/fossa.json"
+    }
   ]
 }

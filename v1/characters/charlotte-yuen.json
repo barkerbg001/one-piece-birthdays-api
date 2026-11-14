@@ -1,0 +1,59 @@
+{
+  "id": "charlotte-yuen",
+  "name": "Charlotte Yuen",
+  "display_name": "Charlotte Yuen",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-15",
+      "label": "October 15th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a0/Charlotte_Yuen_Anime_Infobox.png/revision/latest?cb=20190203034427",
+    "width": 665,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a0/Charlotte_Yuen_Anime_Infobox.png/revision/latest/scale-to-width-down/369?cb=20190203034427",
+    "width": 369,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Yuen",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Yuen"
+  },
+  "info": {
+    "japanese_name": "シャーロット・ユーエン",
+    "romanized_name": "Shārotto Yūen",
+    "official_english_name": "Charlotte Yuen",
+    "debut": [
+      "Chapter 894",
+      "Episode 869"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "age": "19",
+    "birthday": "October 15th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

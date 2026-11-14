@@ -1,0 +1,63 @@
+{
+  "id": "bastille",
+  "name": "Bastille",
+  "display_name": "Bastille",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-14",
+      "label": "July 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Bastille_Anime_Infobox.png/revision/latest?cb=20200507114049",
+    "width": 495,
+    "height": 811
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Bastille_Anime_Infobox.png/revision/latest/scale-to-width-down/244?cb=20200507114049",
+    "width": 244,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Bastille",
+    "url": "https://onepiece.fandom.com/wiki/Bastille"
+  },
+  "info": {
+    "japanese_name": "バスティーユ",
+    "romanized_name": "Basutīyu",
+    "official_english_name": "Bastille",
+    "debut": [
+      "Chapter 553",
+      "Episode 462"
+    ],
+    "affiliations": [
+      "Marines"
+    ],
+    "occupations": [
+      "Vice Admiral"
+    ],
+    "origin": "Grand Line",
+    "epithet": "\"Shark Cutter\"",
+    "age": "36 (debut); 38 (after timeskip)",
+    "birthday": "July 14th",
+    "height": "291 cm (9'7\")",
+    "blood_type": "F",
+    "bounty": "At least ★★★★★"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "daz-bones",
+  "name": "Daz Bones",
+  "display_name": "Daz Bones (Mr. 1)",
+  "alias": "Mr. 1",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-01",
+      "label": "January 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Daz_Bonez_Anime_Infobox.png/revision/latest?cb=20221102004113",
+    "width": 684,
+    "height": 1467
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Daz_Bonez_Anime_Infobox.png/revision/latest/scale-to-width-down/186?cb=20221102004113",
+    "width": 186,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Daz Bonez",
+    "url": "https://onepiece.fandom.com/wiki/Daz_Bonez"
+  },
+  "info": {
+    "japanese_name": "ダズ・ボーネス",
+    "romanized_name": "Dazu Bōnesu",
+    "official_english_name": "Daz Bonez",
+    "debut": [
+      "Chapter 160",
+      "Episode 103"
+    ],
+    "affiliations": [
+      "Cross Guild",
+      "Baroque Works (former)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Assassin",
+      "Officer Agent (former)",
+      "Bounty Hunter (former)"
+    ],
+    "origin": "West Blue",
+    "epithet": "\"The Killer\"",
+    "age": "29 (debut); 31 (after timeskip)",
+    "birthday": "January 1st",
+    "height": "212 cm (6'11½\")",
+    "blood_type": "F",
+    "bounty": "75,000,000",
+    "devil_fruit": "Supa Supa no Mi",
+    "devil_fruit_english": "Dice-Dice Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

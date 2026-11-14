@@ -1,0 +1,56 @@
+{
+  "id": "jean-goen",
+  "name": "Jean Goen",
+  "display_name": "Jean Goen",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-24",
+      "label": "September 24th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Jean_Goen_Anime_Infobox.png/revision/latest?cb=20190404223035",
+    "width": 681,
+    "height": 861
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Jean_Goen_Anime_Infobox.png/revision/latest/scale-to-width-down/316?cb=20190404223035",
+    "width": 316,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Jean Goen",
+    "url": "https://onepiece.fandom.com/wiki/Jean_Goen"
+  },
+  "info": {
+    "japanese_name": "ジャン・ゴエン",
+    "romanized_name": "Jan Goen",
+    "official_english_name": "Dez Tinny",
+    "debut": [
+      "Chapter 526",
+      "Episode 423"
+    ],
+    "occupations": [
+      "Prisoner"
+    ],
+    "origin": "Grand Line",
+    "birthday": "September 24th",
+    "bounty": "Less than 15,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "pell",
+  "name": "Pell",
+  "display_name": "Pell",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-23",
+      "label": "August 23rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/be/Pell_Anime_Infobox.png/revision/latest?cb=20240903112506",
+    "width": 836,
+    "height": 998
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/be/Pell_Anime_Infobox.png/revision/latest/scale-to-width-down/335?cb=20240903112506",
+    "width": 335,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Pell",
+    "url": "https://onepiece.fandom.com/wiki/Pell"
+  },
+  "info": {
+    "japanese_name": "ペル",
+    "romanized_name": "Peru",
+    "official_english_name": "Pell; Pelu (Odex subtitles)",
+    "debut": [
+      "Chapter 155",
+      "Episode 91"
+    ],
+    "affiliations": [
+      "Arabasta Kingdom"
+    ],
+    "occupations": [
+      "Commander of Royal Guards"
+    ],
+    "origin": "Grand Line (Arabasta Kingdom)",
+    "epithet": "\"Pell the Falcon\"",
+    "age": "33 (debut); 35 (after timeskip)",
+    "birthday": "August 23rd",
+    "height": "189 cm (6'2¾\")",
+    "blood_type": "X",
+    "devil_fruit": "Tori Tori no Mi, Model: Falcon",
+    "devil_fruit_english": "Tweet-Tweet Fruit Falcon Type (VIZ); Tweet-Tweet Fruit (4Kids); Bird-Bird Fruit, Model: Falcon (Funimation)",
+    "devil_fruit_type": "Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

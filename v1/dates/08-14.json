@@ -3,10 +3,68 @@
   "label": "August 14th",
   "month": 8,
   "day": 14,
-  "characters": [
+  "names": [
     "Giberson",
     "Jean Ango",
     "Bomba",
     "Pisaro"
+  ],
+  "characters": [
+    {
+      "id": "giberson",
+      "name": "Giberson",
+      "display_name": "Giberson",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/ef/Giberson_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180401081604",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/ef/Giberson_Anime_Infobox.png/revision/latest?cb=20180401081604",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Giberson",
+      "epithet": "\"The Concealer\"",
+      "affiliation": "Underworld",
+      "api": "v1/characters/giberson.json"
+    },
+    {
+      "id": "jean-ango",
+      "name": "Jean Ango",
+      "display_name": "Jean Ango",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Jean_Ango_Anime_Infobox.png/revision/latest/scale-to-width-down/389?cb=20140518034728",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Jean_Ango_Anime_Infobox.png/revision/latest?cb=20140518034728",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Jean_Ango",
+      "epithet": "\"Jean the Bandit\"",
+      "affiliation": null,
+      "api": "v1/characters/jean-ango.json"
+    },
+    {
+      "id": "bomba",
+      "name": "Bomba",
+      "display_name": "Bomba",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Bomba_Anime_Infobox.png/revision/latest/scale-to-width-down/253?cb=20171201224959",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Bomba_Anime_Infobox.png/revision/latest?cb=20171201224959",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Bomba",
+      "epithet": null,
+      "affiliation": "Tontatta Kingdom",
+      "api": "v1/characters/bomba.json"
+    },
+    {
+      "id": "pisaro",
+      "name": "Pisaro",
+      "display_name": "Pisaro",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Pisaro_Anime_Infobox.png/revision/latest?cb=20130424235926",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Pisaro_Anime_Infobox.png/revision/latest?cb=20130424235926",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Pisaro",
+      "epithet": null,
+      "affiliation": "Arlong Pirates",
+      "api": "v1/characters/pisaro.json"
+    }
   ]
 }

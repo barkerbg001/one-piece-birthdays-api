@@ -1,0 +1,56 @@
+{
+  "id": "kashigami",
+  "name": "Kashigami",
+  "display_name": "Kashigami",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-04",
+      "label": "November 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9c/Kashigami_Anime_Infobox.png/revision/latest?cb=20230318022344",
+    "width": 367,
+    "height": 390
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9c/Kashigami_Anime_Infobox.png/revision/latest?cb=20230318022344",
+    "width": 376,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kashigami",
+    "url": "https://onepiece.fandom.com/wiki/Kashigami"
+  },
+  "info": {
+    "japanese_name": "カシ神",
+    "romanized_name": "Kashigami",
+    "official_english_name": "Kashigami (Viz); Kashi God, Kashi (Funimation)",
+    "debut": [
+      "Chapter 287",
+      "Episode 187"
+    ],
+    "affiliations": [
+      "Shandia"
+    ],
+    "epithet": "\"God of the Sun\"; \"God of the Rain\"; \"God of the Forest\"; \"God of the Earth\"",
+    "status": "2",
+    "birthday": "November 4th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,9 +3,62 @@
   "label": "November 25th",
   "month": 11,
   "day": 25,
-  "characters": [
+  "names": [
     "Charlotte Katakuri",
     "Charlotte Daifuku",
     "Charlotte Oven"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-katakuri",
+      "name": "Charlotte Katakuri",
+      "display_name": "Charlotte Katakuri",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-daifuku",
+        "charlotte-oven"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Charlotte_Katakuri_Anime_Infobox.png/revision/latest/scale-to-width-down/267?cb=20230204155539",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Charlotte_Katakuri_Anime_Infobox.png/revision/latest?cb=20230204155539",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Katakuri",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-katakuri.json"
+    },
+    {
+      "id": "charlotte-daifuku",
+      "name": "Charlotte Daifuku",
+      "display_name": "Charlotte Daifuku",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-katakuri",
+        "charlotte-oven"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Charlotte_Daifuku_Anime_Infobox.png/revision/latest/scale-to-width-down/318?cb=20230215154338",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Charlotte_Daifuku_Anime_Infobox.png/revision/latest?cb=20230215154338",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Daifuku",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-daifuku.json"
+    },
+    {
+      "id": "charlotte-oven",
+      "name": "Charlotte Oven",
+      "display_name": "Charlotte Oven",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-katakuri",
+        "charlotte-daifuku"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Charlotte_Oven_Anime_Infobox.png/revision/latest/scale-to-width-down/209?cb=20181028111159",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Charlotte_Oven_Anime_Infobox.png/revision/latest?cb=20181028111159",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Oven",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-oven.json"
+    }
   ]
 }

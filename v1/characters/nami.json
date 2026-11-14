@@ -1,0 +1,82 @@
+{
+  "id": "nami",
+  "name": "Nami",
+  "display_name": "Nami",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-03",
+      "label": "July 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/68/Nami_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20260315214841",
+    "width": 1146,
+    "height": 1920
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/68/Nami_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/239?cb=20260315214841",
+    "width": 239,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Nami",
+    "url": "https://onepiece.fandom.com/wiki/Nami"
+  },
+  "info": {
+    "japanese_name": "ナミ",
+    "romanized_name": "Nami",
+    "official_english_name": "Nami",
+    "debut": [
+      "Chapter 8",
+      "Episode 1",
+      "Chapter 1 (cover)"
+    ],
+    "affiliations": [
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet",
+      "Arlong Pirates (defected)",
+      "Ganzack Pirates (movie, former)",
+      "Golden Lion Pirates (movie, former)",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Navigator",
+      "Senior Officer",
+      "Thief",
+      "Pirate Officer (Arlong Pirates, former)",
+      "Kunoichi (temporary)"
+    ],
+    "origin": "East Blue (Conomi Islands)",
+    "residence": [
+      "Oykot Kingdom (former)",
+      "Cocoyasi Village (former)",
+      "Weatheria (former, temporary)"
+    ],
+    "epithet": "Cat Burglar",
+    "aliases": [
+      "\"Namizo\"",
+      "\"O-Nami\""
+    ],
+    "age": "18 (debut); 20 (after timeskip)",
+    "birthday": "July 3rd",
+    "height": "169 cm (5'7\") (debut); 170 cm (5'7\") (after timeskip)",
+    "blood_type": "X",
+    "bounty": "366,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

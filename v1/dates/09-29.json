@@ -3,7 +3,7 @@
   "label": "September 29th",
   "month": 9,
   "day": 29,
-  "characters": [
+  "names": [
     "Charlotte Opera",
     "Charlotte Counter",
     "Charlotte Cadenza",
@@ -11,5 +11,130 @@
     "Charlotte Gala",
     "Drug. Peclo",
     "Pinky"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-opera",
+      "name": "Charlotte Opera",
+      "display_name": "Charlotte Opera",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-counter",
+        "charlotte-cadenza",
+        "charlotte-cabaletta",
+        "charlotte-gala"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/56/Charlotte_Opera_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20170528044001",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/56/Charlotte_Opera_Anime_Infobox.png/revision/latest?cb=20170528044001",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Opera",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-opera.json"
+    },
+    {
+      "id": "charlotte-counter",
+      "name": "Charlotte Counter",
+      "display_name": "Charlotte Counter",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-opera",
+        "charlotte-cadenza",
+        "charlotte-cabaletta",
+        "charlotte-gala"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/0a/Charlotte_Counter_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180129042546",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/0a/Charlotte_Counter_Anime_Infobox.png/revision/latest?cb=20180129042546",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Counter",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-counter.json"
+    },
+    {
+      "id": "charlotte-cadenza",
+      "name": "Charlotte Cadenza",
+      "display_name": "Charlotte Cadenza",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-opera",
+        "charlotte-counter",
+        "charlotte-cabaletta",
+        "charlotte-gala"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f2/Charlotte_Cadenza_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20181023140810",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f2/Charlotte_Cadenza_Anime_Infobox.png/revision/latest?cb=20181023140810",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Cadenza",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-cadenza.json"
+    },
+    {
+      "id": "charlotte-cabaletta",
+      "name": "Charlotte Cabaletta",
+      "display_name": "Charlotte Cabaletta",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-opera",
+        "charlotte-counter",
+        "charlotte-cadenza",
+        "charlotte-gala"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Charlotte_Cabaletta_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180123093308",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Charlotte_Cabaletta_Anime_Infobox.png/revision/latest?cb=20180123093308",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Cabaletta",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-cabaletta.json"
+    },
+    {
+      "id": "charlotte-gala",
+      "name": "Charlotte Gala",
+      "display_name": "Charlotte Gala",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-opera",
+        "charlotte-counter",
+        "charlotte-cadenza",
+        "charlotte-cabaletta"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Charlotte_Gala_Manga_Infobox.png/revision/latest/scale-to-width-down/337?cb=20200118111554",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Charlotte_Gala_Manga_Infobox.png/revision/latest?cb=20200118111554",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Gala",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-gala.json"
+    },
+    {
+      "id": "drug-peclo",
+      "name": "Drug. Peclo",
+      "display_name": "Drug. Peclo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Drug_Peclo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180401081618",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Drug_Peclo_Anime_Infobox.png/revision/latest?cb=20180401081618",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Drug_Peclo",
+      "epithet": "\"Major Undertaker\"",
+      "affiliation": "Underworld",
+      "api": "v1/characters/drug-peclo.json"
+    },
+    {
+      "id": "pinky",
+      "name": "Pinky",
+      "display_name": "Pinky",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/63/Pinky_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250526230606",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/63/Pinky_Anime_Infobox.png/revision/latest?cb=20250526230606",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Pinky",
+      "epithet": "\"Monstrous Bird\"",
+      "affiliation": null,
+      "api": "v1/characters/pinky.json"
+    }
   ]
 }

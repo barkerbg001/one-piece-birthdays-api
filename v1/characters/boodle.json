@@ -1,0 +1,61 @@
+{
+  "id": "boodle",
+  "name": "Boodle",
+  "display_name": "Boodle",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-16",
+      "label": "January 16th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Boodle_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251102161418",
+    "width": 1013,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Boodle_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/375?cb=20251102161418",
+    "width": 375,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Boodle",
+    "url": "https://onepiece.fandom.com/wiki/Boodle"
+  },
+  "info": {
+    "japanese_name": "ブードル",
+    "romanized_name": "Būdoru",
+    "official_english_name": "Boodle",
+    "debut": [
+      "Chapter 12",
+      "Episode 6"
+    ],
+    "occupations": [
+      "Mayor"
+    ],
+    "origin": "East Blue (Organ Islands)",
+    "residence": [
+      "Orange Town"
+    ],
+    "age": "73 (debut); 75 (after timeskip)",
+    "birthday": "January 16th",
+    "height": "172 cm (5'8\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

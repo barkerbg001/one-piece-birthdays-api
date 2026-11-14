@@ -1,0 +1,70 @@
+{
+  "id": "van-augur",
+  "name": "Van Augur",
+  "display_name": "Van Augur",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-05",
+      "label": "October 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/95/Van_Augur_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240211025011",
+    "width": 1920,
+    "height": 1939
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/95/Van_Augur_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/396?cb=20240211025011",
+    "width": 396,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Van Augur",
+    "url": "https://onepiece.fandom.com/wiki/Van_Augur"
+  },
+  "info": {
+    "japanese_name": "ヴァン・オーガー",
+    "romanized_name": "Van Ōgā",
+    "official_english_name": "Van Augur (VIZ); Van Ogre (Formerly VIZ, Edited Funimation); Van Auger (Uncut Funimation)",
+    "debut": [
+      "Chapter 222",
+      "Episode 146"
+    ],
+    "affiliations": [
+      "Blackbeard Pirates"
+    ],
+    "occupations": [
+      "Titanic Captain (Captain of the Third Ship)",
+      "Sniper"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Hachinosu"
+    ],
+    "epithet": "\"The Supersonic\"",
+    "age": "25 (debut); 27 (after timeskip)",
+    "birthday": "October 5th",
+    "height": "340 cm (11'2\")",
+    "blood_type": "X",
+    "bounty": "At least 64,000,000",
+    "devil_fruit": "Wapu Wapu no Mi",
+    "devil_fruit_english": "Warp-Warp Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

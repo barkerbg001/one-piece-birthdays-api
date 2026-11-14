@@ -1,0 +1,60 @@
+{
+  "id": "heat",
+  "name": "Heat",
+  "display_name": "Heat",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-01",
+      "label": "December 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/30/Heat_Anime_Infobox.png/revision/latest?cb=20231216144053",
+    "width": 768,
+    "height": 1045
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/30/Heat_Anime_Infobox.png/revision/latest/scale-to-width-down/294?cb=20231216144053",
+    "width": 294,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Heat",
+    "url": "https://onepiece.fandom.com/wiki/Heat"
+  },
+  "info": {
+    "japanese_name": "ヒート",
+    "romanized_name": "Hīto",
+    "official_english_name": "Heat",
+    "debut": [
+      "Chapter 500",
+      "Episode 394"
+    ],
+    "affiliations": [
+      "Kid Pirates",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "origin": "South Blue (Kutsukku Island)",
+    "status": "1",
+    "birthday": "December 1st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

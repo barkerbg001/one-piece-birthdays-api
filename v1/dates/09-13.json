@@ -3,7 +3,23 @@
   "label": "September 13th",
   "month": 9,
   "day": 13,
-  "characters": [
+  "names": [
     "Hoe"
+  ],
+  "characters": [
+    {
+      "id": "hoe",
+      "name": "Hoe",
+      "display_name": "Hoe",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Hoe_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20120226023513",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Hoe_Anime_Infobox.png/revision/latest?cb=20120226023513",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hoe",
+      "epithet": null,
+      "affiliation": "King Neptune",
+      "api": "v1/characters/hoe.json"
+    }
   ]
 }

@@ -3,7 +3,23 @@
   "label": "July 12th",
   "month": 7,
   "day": 12,
-  "characters": [
+  "names": [
     "Sarkies"
+  ],
+  "characters": [
+    {
+      "id": "sarkies",
+      "name": "Sarkies",
+      "display_name": "Sarkies",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Sarquiss_Anime_Infobox.png/revision/latest/scale-to-width-down/384?cb=20230806215754",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Sarquiss_Anime_Infobox.png/revision/latest?cb=20230806215754",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sarquiss",
+      "epithet": "\"Big Knife Sarquiss\"",
+      "affiliation": "Bellamy Pirates",
+      "api": "v1/characters/sarkies.json"
+    }
   ]
 }

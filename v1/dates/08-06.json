@@ -3,10 +3,72 @@
   "label": "August 6th",
   "month": 8,
   "day": 6,
-  "characters": [
+  "names": [
     "Gladius",
     "Gomorrah",
     "Sodom",
     "Blenheim"
+  ],
+  "characters": [
+    {
+      "id": "gladius",
+      "name": "Gladius",
+      "display_name": "Gladius",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Gladius_Anime_Infobox.png/revision/latest/scale-to-width-down/316?cb=20231025224459",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Gladius_Anime_Infobox.png/revision/latest?cb=20231025224459",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gladius",
+      "epithet": null,
+      "affiliation": "Donquixote Pirates",
+      "api": "v1/characters/gladius.json"
+    },
+    {
+      "id": "gomorrah",
+      "name": "Gomorrah",
+      "display_name": "Gomorrah",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "sodom"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Gomorrah_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250318235112",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Gomorrah_Anime_Infobox.png/revision/latest?cb=20250318235112",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gomorrah",
+      "epithet": null,
+      "affiliation": "Franky Family",
+      "api": "v1/characters/gomorrah.json"
+    },
+    {
+      "id": "sodom",
+      "name": "Sodom",
+      "display_name": "Sodom",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "gomorrah"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Sodom_Anime_Infobox.png/revision/latest/scale-to-width-down/290?cb=20250318235056",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Sodom_Anime_Infobox.png/revision/latest?cb=20250318235056",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sodom",
+      "epithet": null,
+      "affiliation": "Franky Family",
+      "api": "v1/characters/sodom.json"
+    },
+    {
+      "id": "blenheim",
+      "name": "Blenheim",
+      "display_name": "Blenheim",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/40/Blenheim_Anime_Infobox.png/revision/latest/scale-to-width-down/357?cb=20130315043150",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/40/Blenheim_Anime_Infobox.png/revision/latest?cb=20130315043150",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Blenheim",
+      "epithet": null,
+      "affiliation": "Whitebeard Pirates",
+      "api": "v1/characters/blenheim.json"
+    }
   ]
 }

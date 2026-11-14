@@ -1,0 +1,57 @@
+{
+  "id": "hatcha",
+  "name": "Hatcha",
+  "display_name": "Hatcha",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-08",
+      "label": "October 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Hatcha_Anime_Infobox.png/revision/latest?cb=20211205050907",
+    "width": 1030,
+    "height": 1380
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Hatcha_Anime_Infobox.png/revision/latest/scale-to-width-down/298?cb=20211205050907",
+    "width": 298,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Hatcha",
+    "url": "https://onepiece.fandom.com/wiki/Hatcha"
+  },
+  "info": {
+    "japanese_name": "八茶",
+    "official_english_name": "Haccha",
+    "debut": [
+      "Chapter 981",
+      "Episode 987"
+    ],
+    "affiliations": [
+      "Beasts Pirates (Numbers)"
+    ],
+    "origin": "Grand Line (Punk Hazard)",
+    "age": "188",
+    "birthday": "October 8th",
+    "height": "3675 cm (120'7\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

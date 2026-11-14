@@ -3,7 +3,23 @@
   "label": "June 22nd",
   "month": 6,
   "day": 22,
-  "characters": [
+  "names": [
     "Gyro"
+  ],
+  "characters": [
+    {
+      "id": "gyro",
+      "name": "Gyro",
+      "display_name": "Gyro",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/29/Gyro_Anime_Infobox.png/revision/latest/scale-to-width-down/196?cb=20230614230012",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/29/Gyro_Anime_Infobox.png/revision/latest?cb=20230614230012",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gyro",
+      "epithet": "\"Crab-Hand Gyro\"",
+      "affiliation": "Gyro Pirates, New Fish-Man Pirates (ruse, former)",
+      "api": "v1/characters/gyro.json"
+    }
   ]
 }

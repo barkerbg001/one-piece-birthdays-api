@@ -1,0 +1,72 @@
+{
+  "id": "charlotte-angel",
+  "name": "Charlotte Angel",
+  "display_name": "Charlotte Angel",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-28",
+      "label": "February 28th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-cracker",
+      "name": "Charlotte Cracker"
+    },
+    {
+      "id": "charlotte-custard",
+      "name": "Charlotte Custard"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/35/Charlotte_Angel_Anime_Infobox.png/revision/latest?cb=20181019103814",
+    "width": 297,
+    "height": 295
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/35/Charlotte_Angel_Anime_Infobox.png/revision/latest?cb=20181019103814",
+    "width": 400,
+    "height": 397
+  },
+  "wiki": {
+    "title": "Charlotte Angel",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Angel"
+  },
+  "info": {
+    "japanese_name": "シャーロット・エンゼル",
+    "romanized_name": "Shārotto Enzeru",
+    "official_english_name": "Charlotte Angel",
+    "debut": [
+      "Chapter 860",
+      "Episode 830"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "origin": "Grand Line (On a boat)",
+    "residence": [
+      "Totto Land"
+    ],
+    "age": "45",
+    "birthday": "February 28th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

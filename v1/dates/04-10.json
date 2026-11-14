@@ -3,10 +3,68 @@
   "label": "April 10th",
   "month": 4,
   "day": 10,
-  "characters": [
+  "names": [
     "Tamanegi",
     "Boss of the Forest",
     "Nora Gitsune",
     "Ashura Douji"
+  ],
+  "characters": [
+    {
+      "id": "tamanegi",
+      "name": "Tamanegi",
+      "display_name": "Tamanegi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Tamanegi_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/280?cb=20251026160607",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Tamanegi_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251026160607",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Tamanegi",
+      "epithet": null,
+      "affiliation": "Usopp Pirates (disbanded)",
+      "api": "v1/characters/tamanegi.json"
+    },
+    {
+      "id": "boss-of-the-forest",
+      "name": "Boss of the Forest",
+      "display_name": "Boss of the Forest",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/46/Forest_Boss_Manga_Infobox.png/revision/latest/scale-to-width-down/286?cb=20220720155918",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/46/Forest_Boss_Manga_Infobox.png/revision/latest?cb=20220720155918",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Forest_Boss",
+      "epithet": null,
+      "affiliation": "Ukkari Hot-Spring Island",
+      "api": "v1/characters/boss-of-the-forest.json"
+    },
+    {
+      "id": "nora-gitsune",
+      "name": "Nora Gitsune",
+      "display_name": "Nora Gitsune",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3b/Nora_Gitsune_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230830204212",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3b/Nora_Gitsune_Anime_Infobox.png/revision/latest?cb=20230830204212",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Nora_Gitsune",
+      "epithet": null,
+      "affiliation": "Fake Straw Hat Crew",
+      "api": "v1/characters/nora-gitsune.json"
+    },
+    {
+      "id": "ashura-douji",
+      "name": "Ashura Douji",
+      "display_name": "Ashura Douji",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/44/Ashura_Doji_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20191201102956",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/44/Ashura_Doji_Anime_Infobox.png/revision/latest?cb=20191201102956",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Ashura_Doji",
+      "epithet": "Strongest Monster of Kuri",
+      "affiliation": "Mt. Atama Thieves",
+      "api": "v1/characters/ashura-douji.json"
+    }
   ]
 }

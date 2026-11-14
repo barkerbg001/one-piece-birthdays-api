@@ -3,9 +3,53 @@
   "label": "September 21st",
   "month": 9,
   "day": 21,
-  "characters": [
+  "names": [
     "Kuzan (Aokiji)",
     "Pappag",
     "Chocolat"
+  ],
+  "characters": [
+    {
+      "id": "kuzan",
+      "name": "Kuzan",
+      "display_name": "Kuzan (Aokiji)",
+      "alias": "Aokiji",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Kuzan_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/326?cb=20240811021341",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Kuzan_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240811021341",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kuzan",
+      "epithet": null,
+      "affiliation": "Blackbeard Pirates",
+      "api": "v1/characters/kuzan.json"
+    },
+    {
+      "id": "pappag",
+      "name": "Pappag",
+      "display_name": "Pappag",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/32/Pappag_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/363?cb=20140413064635",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/32/Pappag_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20140413064635",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Pappag",
+      "epithet": null,
+      "affiliation": "Criminal brand",
+      "api": "v1/characters/pappag.json"
+    },
+    {
+      "id": "chocolat",
+      "name": "Chocolat",
+      "display_name": "Chocolat",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/1f/Chocolat_Anime_Infobox.png/revision/latest/scale-to-width-down/313?cb=20130206215833",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/1f/Chocolat_Anime_Infobox.png/revision/latest?cb=20130206215833",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Chocolat",
+      "epithet": null,
+      "affiliation": "Fake Straw Hat Crew",
+      "api": "v1/characters/chocolat.json"
+    }
   ]
 }

@@ -1,0 +1,63 @@
+{
+  "id": "charlotte-noisette",
+  "name": "Charlotte Noisette",
+  "display_name": "Charlotte Noisette",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-15",
+      "label": "December 15th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/34/Charlotte_Noisette_Anime_Infobox.png/revision/latest?cb=20180617135150",
+    "width": 576,
+    "height": 611
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/34/Charlotte_Noisette_Anime_Infobox.png/revision/latest/scale-to-width-down/377?cb=20180617135150",
+    "width": 377,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Noisette",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Noisette"
+  },
+  "info": {
+    "japanese_name": "シャーロット・ノアゼット",
+    "romanized_name": "Shārotto Noazetto",
+    "official_english_name": "Charlotte Noisette",
+    "debut": [
+      "Chapter 862",
+      "Episode 832"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Minister of Finance"
+    ],
+    "residence": [
+      "Kinko Island"
+    ],
+    "age": "41",
+    "birthday": "December 15th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

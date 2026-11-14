@@ -1,0 +1,5896 @@
+{
+  "source": "https://thelibraryofohara.com/birthday-calendar/",
+  "fetched": "2026-11-14",
+  "calendar_images": {
+    "01": {
+      "url": "https://i0.wp.com/thelibraryofohara.com/wp-content/uploads/2022/03/january1-1-2.png",
+      "width": 1902,
+      "height": 1450
+    },
+    "02": {
+      "url": "https://i0.wp.com/thelibraryofohara.com/wp-content/uploads/2022/03/february2-1-2.png",
+      "width": 1910,
+      "height": 1456
+    },
+    "03": {
+      "url": "https://i0.wp.com/thelibraryofohara.com/wp-content/uploads/2022/03/march1-1-2.png",
+      "width": 1912,
+      "height": 1462
+    },
+    "04": {
+      "url": "https://i0.wp.com/thelibraryofohara.com/wp-content/uploads/2022/03/april1-1-2.png",
+      "width": 1940,
+      "height": 1484
+    },
+    "05": {
+      "url": "https://i0.wp.com/thelibraryofohara.com/wp-content/uploads/2022/03/may1-1zc-2.png",
+      "width": 1922,
+      "height": 1472
+    },
+    "06": {
+      "url": "https://i0.wp.com/thelibraryofohara.com/wp-content/uploads/2022/03/june1-1-2.png",
+      "width": 1928,
+      "height": 1470
+    },
+    "07": {
+      "url": "https://i0.wp.com/thelibraryofohara.com/wp-content/uploads/2022/03/july2-1-2.png",
+      "width": 1912,
+      "height": 1472
+    },
+    "08": {
+      "url": "https://i0.wp.com/thelibraryofohara.com/wp-content/uploads/2022/03/august1-copy-1-2.png",
+      "width": 1918,
+      "height": 1458
+    },
+    "09": {
+      "url": "https://i0.wp.com/thelibraryofohara.com/wp-content/uploads/2022/03/september1-copy-2-1-2.png",
+      "width": 1946,
+      "height": 1542
+    },
+    "10": {
+      "url": "https://i0.wp.com/thelibraryofohara.com/wp-content/uploads/2022/03/october1-1-2.png",
+      "width": 1912,
+      "height": 1454
+    },
+    "11": {
+      "url": "https://i0.wp.com/thelibraryofohara.com/wp-content/uploads/2022/03/november1-1-2.png",
+      "width": 1922,
+      "height": 1456
+    },
+    "12": {
+      "url": "https://i0.wp.com/thelibraryofohara.com/wp-content/uploads/2022/03/december1-1-2.png",
+      "width": 1914,
+      "height": 1472
+    }
+  },
+  "days": {
+    "01-01": [
+      {
+        "name": "Portgas D. Ace",
+        "alias": null,
+        "note": null,
+        "source_text": "Portgas D. Ace",
+        "group": null
+      },
+      {
+        "name": "Anjo",
+        "alias": null,
+        "note": null,
+        "source_text": "Anjo",
+        "group": null
+      },
+      {
+        "name": "Daz Bones",
+        "alias": "Mr. 1",
+        "note": null,
+        "source_text": "Daz Bones (Mr. 1)",
+        "group": null
+      },
+      {
+        "name": "Islewan",
+        "alias": null,
+        "note": null,
+        "source_text": "Islewan",
+        "group": null
+      }
+    ],
+    "01-02": [
+      {
+        "name": "Peepley Lulu",
+        "alias": null,
+        "note": null,
+        "source_text": "Peepley Lulu",
+        "group": null
+      }
+    ],
+    "01-03": [
+      {
+        "name": "Aisa",
+        "alias": null,
+        "note": null,
+        "source_text": "Aisa",
+        "group": null
+      },
+      {
+        "name": "Iceburg",
+        "alias": null,
+        "note": null,
+        "source_text": "Iceburg",
+        "group": null
+      }
+    ],
+    "01-04": [
+      {
+        "name": "Peterman",
+        "alias": null,
+        "note": null,
+        "source_text": "Peterman",
+        "group": null
+      },
+      {
+        "name": "Lassoo",
+        "alias": null,
+        "note": null,
+        "source_text": "Lassoo",
+        "group": null
+      },
+      {
+        "name": "Ulti",
+        "alias": null,
+        "note": null,
+        "source_text": "Ulti",
+        "group": null
+      }
+    ],
+    "01-05": [
+      {
+        "name": "Strawberry",
+        "alias": null,
+        "note": null,
+        "source_text": "Strawberry",
+        "group": null
+      }
+    ],
+    "01-06": [
+      {
+        "name": "Oimo",
+        "alias": null,
+        "note": null,
+        "source_text": "Oimo",
+        "group": null
+      },
+      {
+        "name": "Tilestone",
+        "alias": null,
+        "note": null,
+        "source_text": "Tilestone",
+        "group": null
+      }
+    ],
+    "01-07": [
+      {
+        "name": "Mozu",
+        "alias": null,
+        "note": null,
+        "source_text": "Mozu",
+        "group": null
+      }
+    ],
+    "01-08": [
+      {
+        "name": "Emporio Ivankov",
+        "alias": null,
+        "note": null,
+        "source_text": "Emporio Ivankov",
+        "group": null
+      },
+      {
+        "name": "Ivan X",
+        "alias": null,
+        "note": null,
+        "source_text": "Ivan X",
+        "group": null
+      },
+      {
+        "name": "General Franky",
+        "alias": null,
+        "note": null,
+        "source_text": "General Franky",
+        "group": null
+      }
+    ],
+    "01-09": [
+      {
+        "name": "Pickles",
+        "alias": null,
+        "note": null,
+        "source_text": "Pickles",
+        "group": null
+      },
+      {
+        "name": "Mountblutain",
+        "alias": null,
+        "note": null,
+        "source_text": "Mountblutain",
+        "group": null
+      }
+    ],
+    "01-10": [
+      {
+        "name": "Otohime",
+        "alias": null,
+        "note": null,
+        "source_text": "Otohime",
+        "group": null
+      },
+      {
+        "name": "Eustass Kid",
+        "alias": null,
+        "note": null,
+        "source_text": "Eustass Kid",
+        "group": null
+      }
+    ],
+    "01-11": [
+      {
+        "name": "Itomimizu",
+        "alias": null,
+        "note": null,
+        "source_text": "Itomimizu",
+        "group": null
+      }
+    ],
+    "01-12": [
+      {
+        "name": "Hiriluk",
+        "alias": null,
+        "note": null,
+        "source_text": "Hiriluk",
+        "group": null
+      }
+    ],
+    "01-13": [
+      {
+        "name": "Ikaros Much",
+        "alias": null,
+        "note": null,
+        "source_text": "Ikaros Much",
+        "group": null
+      }
+    ],
+    "01-14": [
+      {
+        "name": "Sweet Pea",
+        "alias": null,
+        "note": null,
+        "source_text": "Sweet Pea",
+        "group": null
+      }
+    ],
+    "01-15": [
+      {
+        "name": "A.O",
+        "alias": null,
+        "note": null,
+        "source_text": "A.O",
+        "group": null
+      }
+    ],
+    "01-16": [
+      {
+        "name": "Boodle",
+        "alias": null,
+        "note": null,
+        "source_text": "Boodle",
+        "group": null
+      }
+    ],
+    "01-17": [
+      {
+        "name": "Capone Bege",
+        "alias": null,
+        "note": null,
+        "source_text": "Capone Bege",
+        "group": null
+      }
+    ],
+    "01-18": [
+      {
+        "name": "Splash",
+        "alias": null,
+        "note": null,
+        "source_text": "Splash",
+        "group": "01-18-0"
+      },
+      {
+        "name": "Splatter",
+        "alias": null,
+        "note": null,
+        "source_text": "Splatter",
+        "group": "01-18-0"
+      }
+    ],
+    "01-19": [
+      {
+        "name": "Spandine",
+        "alias": null,
+        "note": null,
+        "source_text": "Spandine",
+        "group": null
+      },
+      {
+        "name": "Kouzuki Toki",
+        "alias": null,
+        "note": null,
+        "source_text": "Kouzuki Toki",
+        "group": null
+      }
+    ],
+    "01-20": [
+      {
+        "name": "Kinderella",
+        "alias": null,
+        "note": null,
+        "source_text": "Kinderella",
+        "group": null
+      }
+    ],
+    "01-21": [
+      {
+        "name": "Miss Friday",
+        "alias": null,
+        "note": null,
+        "source_text": "Miss Friday",
+        "group": null
+      },
+      {
+        "name": "Antonio",
+        "alias": null,
+        "note": null,
+        "source_text": "Antonio",
+        "group": null
+      }
+    ],
+    "01-22": [
+      {
+        "name": "Going Merry",
+        "alias": null,
+        "note": null,
+        "source_text": "Going Merry",
+        "group": null
+      },
+      {
+        "name": "Merry",
+        "alias": null,
+        "note": null,
+        "source_text": "Merry",
+        "group": null
+      },
+      {
+        "name": "Pez",
+        "alias": null,
+        "note": null,
+        "source_text": "Pez",
+        "group": null
+      }
+    ],
+    "01-23": [
+      {
+        "name": "Charlotte Nusstorte",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Nusstorte",
+        "group": "01-23-0"
+      },
+      {
+        "name": "Charlotte Basskarte",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Basskarte",
+        "group": "01-23-0"
+      },
+      {
+        "name": "Charlotte Dosmarche",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Dosmarche",
+        "group": "01-23-0"
+      },
+      {
+        "name": "Ginrummy",
+        "alias": null,
+        "note": null,
+        "source_text": "Ginrummy",
+        "group": null
+      },
+      {
+        "name": "Roxanne",
+        "alias": null,
+        "note": null,
+        "source_text": "Roxanne",
+        "group": null
+      }
+    ],
+    "01-24": [
+      {
+        "name": "Gild Tesoro",
+        "alias": null,
+        "note": null,
+        "source_text": "Gild Tesoro",
+        "group": null
+      },
+      {
+        "name": "Miss Monday",
+        "alias": null,
+        "note": null,
+        "source_text": "Miss Monday",
+        "group": null
+      },
+      {
+        "name": "Kairiken",
+        "alias": null,
+        "note": null,
+        "source_text": "Kairiken",
+        "group": null
+      }
+    ],
+    "01-25": [
+      {
+        "name": "Giolla",
+        "alias": null,
+        "note": "previously stated to be 27th in the SBS, later retconned to 25th",
+        "source_text": "Giolla (previously stated to be 27th in the SBS, later retconned to 25th)",
+        "group": null
+      }
+    ],
+    "01-26": [
+      {
+        "name": "Nero",
+        "alias": null,
+        "note": null,
+        "source_text": "Nero",
+        "group": null
+      },
+      {
+        "name": "Kuromarimo",
+        "alias": null,
+        "note": null,
+        "source_text": "Kuromarimo",
+        "group": null
+      }
+    ],
+    "01-27": [
+      {
+        "name": "Charlotte Chiffon",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Chiffon",
+        "group": "01-27-0"
+      },
+      {
+        "name": "Charlotte Lola",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Lola",
+        "group": "01-27-0"
+      }
+    ],
+    "01-28": [
+      {
+        "name": "Mansherry",
+        "alias": null,
+        "note": null,
+        "source_text": "Mansherry",
+        "group": null
+      }
+    ],
+    "01-29": [
+      {
+        "name": "Kin’emon",
+        "alias": null,
+        "note": null,
+        "source_text": "Kin’emon",
+        "group": null
+      }
+    ],
+    "01-30": [
+      {
+        "name": "Suleiman",
+        "alias": null,
+        "note": null,
+        "source_text": "Suleiman",
+        "group": null
+      },
+      {
+        "name": "Domo-kun",
+        "alias": null,
+        "note": null,
+        "source_text": "Domo-kun",
+        "group": null
+      }
+    ],
+    "01-31": [
+      {
+        "name": "Aladine",
+        "alias": null,
+        "note": null,
+        "source_text": "Aladine",
+        "group": null
+      },
+      {
+        "name": "Ipponmatsu",
+        "alias": null,
+        "note": null,
+        "source_text": "Ipponmatsu",
+        "group": null
+      },
+      {
+        "name": "An Zengaiina",
+        "alias": null,
+        "note": null,
+        "source_text": "An Zengaiina",
+        "group": null
+      }
+    ],
+    "02-01": [
+      {
+        "name": "Doma",
+        "alias": null,
+        "note": null,
+        "source_text": "Doma",
+        "group": null
+      },
+      {
+        "name": "Brogy",
+        "alias": null,
+        "note": null,
+        "source_text": "Brogy",
+        "group": null
+      }
+    ],
+    "02-02": [
+      {
+        "name": "Killer",
+        "alias": null,
+        "note": null,
+        "source_text": "Killer",
+        "group": null
+      },
+      {
+        "name": "Ninjin",
+        "alias": null,
+        "note": null,
+        "source_text": "Ninjin",
+        "group": null
+      },
+      {
+        "name": "Nefertari Vivi",
+        "alias": null,
+        "note": null,
+        "source_text": "Nefertari Vivi",
+        "group": null
+      },
+      {
+        "name": "Elizabello II",
+        "alias": null,
+        "note": null,
+        "source_text": "Elizabello II",
+        "group": null
+      }
+    ],
+    "02-03": [
+      {
+        "name": "Brownbeard",
+        "alias": "Chadros Higelyges",
+        "note": null,
+        "source_text": "Brownbeard (Chadros Higelyges)",
+        "group": null
+      },
+      {
+        "name": "Bizarre",
+        "alias": null,
+        "note": null,
+        "source_text": "Bizarre",
+        "group": null
+      },
+      {
+        "name": "Fuza",
+        "alias": null,
+        "note": null,
+        "source_text": "Fuza",
+        "group": null
+      },
+      {
+        "name": "Sasaki",
+        "alias": null,
+        "note": null,
+        "source_text": "Sasaki",
+        "group": null
+      }
+    ],
+    "02-04": [
+      {
+        "name": "Gloriosa",
+        "alias": null,
+        "note": null,
+        "source_text": "Gloriosa",
+        "group": null
+      },
+      {
+        "name": "Haruta",
+        "alias": null,
+        "note": null,
+        "source_text": "Haruta",
+        "group": null
+      },
+      {
+        "name": "Fukaboshi",
+        "alias": null,
+        "note": null,
+        "source_text": "Fukaboshi",
+        "group": null
+      },
+      {
+        "name": "Fujin",
+        "alias": null,
+        "note": null,
+        "source_text": "Fujin",
+        "group": null
+      }
+    ],
+    "02-05": [
+      {
+        "name": "Vista",
+        "alias": null,
+        "note": null,
+        "source_text": "Vista",
+        "group": null
+      },
+      {
+        "name": "Blamenco",
+        "alias": null,
+        "note": null,
+        "source_text": "Blamenco",
+        "group": null
+      }
+    ],
+    "02-06": [
+      {
+        "name": "Nico Olivia",
+        "alias": null,
+        "note": null,
+        "source_text": "Nico Olivia",
+        "group": null
+      },
+      {
+        "name": "Nico Robin",
+        "alias": null,
+        "note": null,
+        "source_text": "Nico Robin",
+        "group": null
+      },
+      {
+        "name": "Blondie",
+        "alias": null,
+        "note": null,
+        "source_text": "Blondie",
+        "group": null
+      }
+    ],
+    "02-07": [
+      {
+        "name": "Buchi",
+        "alias": null,
+        "note": null,
+        "source_text": "Buchi",
+        "group": null
+      }
+    ],
+    "02-08": [
+      {
+        "name": "Onigumo",
+        "alias": null,
+        "note": null,
+        "source_text": "Onigumo",
+        "group": null
+      },
+      {
+        "name": "Chiken",
+        "alias": null,
+        "note": null,
+        "source_text": "Chiken",
+        "group": null
+      },
+      {
+        "name": "Gonbe",
+        "alias": null,
+        "note": null,
+        "source_text": "Gonbe",
+        "group": null
+      }
+    ],
+    "02-09": [
+      {
+        "name": "Carne",
+        "alias": null,
+        "note": null,
+        "source_text": "Carne",
+        "group": null
+      },
+      {
+        "name": "Genbo",
+        "alias": null,
+        "note": null,
+        "source_text": "Genbo",
+        "group": null
+      },
+      {
+        "name": "Bartholomew Kuma",
+        "alias": null,
+        "note": null,
+        "source_text": "Bartholomew Kuma",
+        "group": null
+      },
+      {
+        "name": "Wadatsumi",
+        "alias": null,
+        "note": null,
+        "source_text": "Wadatsumi",
+        "group": null
+      }
+    ],
+    "02-10": [
+      {
+        "name": "Mikazuki",
+        "alias": null,
+        "note": null,
+        "source_text": "Mikazuki",
+        "group": null
+      },
+      {
+        "name": "Page One",
+        "alias": null,
+        "note": null,
+        "source_text": "Page One",
+        "group": null
+      }
+    ],
+    "02-11": [
+      {
+        "name": "Charlotte Flampé",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Flampé",
+        "group": null
+      }
+    ],
+    "02-12": [
+      {
+        "name": "Little Oars Jr.",
+        "alias": null,
+        "note": null,
+        "source_text": "Little Oars Jr.",
+        "group": null
+      }
+    ],
+    "02-13": [
+      {
+        "name": "Nefertari Cobra",
+        "alias": null,
+        "note": null,
+        "source_text": "Nefertari Cobra",
+        "group": null
+      }
+    ],
+    "02-14": [
+      {
+        "name": "Miss Valentine",
+        "alias": "Mikita",
+        "note": null,
+        "source_text": "Miss Valentine (Mikita)",
+        "group": null
+      },
+      {
+        "name": "Hyogoro",
+        "alias": null,
+        "note": null,
+        "source_text": "Hyogoro",
+        "group": null
+      }
+    ],
+    "02-15": [
+      {
+        "name": "Charlotte Linlin",
+        "alias": "Big Mom",
+        "note": null,
+        "source_text": "Charlotte Linlin (Big Mom)",
+        "group": null
+      },
+      {
+        "name": "Daisy",
+        "alias": null,
+        "note": null,
+        "source_text": "Daisy",
+        "group": null
+      }
+    ],
+    "02-16": [
+      {
+        "name": "Bluejam",
+        "alias": null,
+        "note": null,
+        "source_text": "Bluejam",
+        "group": null
+      }
+    ],
+    "02-17": [
+      {
+        "name": "Clione",
+        "alias": null,
+        "note": null,
+        "source_text": "Clione",
+        "group": null
+      },
+      {
+        "name": "Ukkari",
+        "alias": null,
+        "note": null,
+        "source_text": "Ukkari",
+        "group": null
+      }
+    ],
+    "02-18": [
+      {
+        "name": "Gambia",
+        "alias": null,
+        "note": null,
+        "source_text": "Gambia",
+        "group": null
+      },
+      {
+        "name": "Minolva",
+        "alias": null,
+        "note": null,
+        "source_text": "Minolva",
+        "group": null
+      },
+      {
+        "name": "Snowma-san",
+        "alias": null,
+        "note": null,
+        "source_text": "Snowma-san",
+        "group": null
+      },
+      {
+        "name": "Snow Queen",
+        "alias": null,
+        "note": null,
+        "source_text": "Snow Queen",
+        "group": null
+      }
+    ],
+    "02-19": [
+      {
+        "name": "Bobby Funk",
+        "alias": null,
+        "note": null,
+        "source_text": "Bobby Funk",
+        "group": null
+      },
+      {
+        "name": "Road",
+        "alias": null,
+        "note": null,
+        "source_text": "Road",
+        "group": null
+      },
+      {
+        "name": "Cocox",
+        "alias": null,
+        "note": null,
+        "source_text": "Cocox",
+        "group": null
+      },
+      {
+        "name": "Superhuman Domingos",
+        "alias": null,
+        "note": null,
+        "source_text": "Superhuman Domingos",
+        "group": null
+      },
+      {
+        "name": "Henohenounchi",
+        "alias": null,
+        "note": null,
+        "source_text": "Henohenounchi",
+        "group": null
+      }
+    ],
+    "02-20": [
+      {
+        "name": "Kumadori",
+        "alias": null,
+        "note": null,
+        "source_text": "Kumadori",
+        "group": null
+      }
+    ],
+    "02-21": [
+      {
+        "name": "Jigoro",
+        "alias": null,
+        "note": null,
+        "source_text": "Jigoro",
+        "group": null
+      },
+      {
+        "name": "Charlotte Dragée",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Dragée",
+        "group": "02-21-0"
+      },
+      {
+        "name": "Charlotte Dolce",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Dolce",
+        "group": "02-21-0"
+      },
+      {
+        "name": "Pascia",
+        "alias": null,
+        "note": null,
+        "source_text": "Pascia",
+        "group": null
+      }
+    ],
+    "02-22": [
+      {
+        "name": "Jerry",
+        "alias": null,
+        "note": null,
+        "source_text": "Jerry",
+        "group": null
+      },
+      {
+        "name": "Hamburg",
+        "alias": null,
+        "note": null,
+        "source_text": "Hamburg",
+        "group": null
+      },
+      {
+        "name": "Oden",
+        "alias": null,
+        "note": null,
+        "source_text": "Oden",
+        "group": null
+      }
+    ],
+    "02-23": [
+      {
+        "name": "Makino",
+        "alias": null,
+        "note": null,
+        "source_text": "Makino",
+        "group": null
+      }
+    ],
+    "02-24": [
+      {
+        "name": "Enishida",
+        "alias": null,
+        "note": null,
+        "source_text": "Enishida",
+        "group": null
+      },
+      {
+        "name": "Mr. Beans",
+        "alias": null,
+        "note": null,
+        "source_text": "Mr. Beans",
+        "group": null
+      }
+    ],
+    "02-25": [
+      {
+        "name": "Tightrope Walking Funan Bros.",
+        "alias": null,
+        "note": null,
+        "source_text": "Tightrope Walking Funan Bros.",
+        "group": null
+      },
+      {
+        "name": "Gerd",
+        "alias": null,
+        "note": null,
+        "source_text": "Gerd",
+        "group": null
+      }
+    ],
+    "02-26": [
+      {
+        "name": "Raizou",
+        "alias": null,
+        "note": null,
+        "source_text": "Raizou",
+        "group": null
+      }
+    ],
+    "02-27": [
+      {
+        "name": "Charlotte Joscarpone",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Joscarpone",
+        "group": "02-27-0"
+      },
+      {
+        "name": "Charlotte Mascarpone",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Mascarpone",
+        "group": "02-27-0"
+      }
+    ],
+    "02-28": [
+      {
+        "name": "Woop Slap",
+        "alias": null,
+        "note": null,
+        "source_text": "Woop Slap",
+        "group": null
+      },
+      {
+        "name": "Charlotte Cracker",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Cracker",
+        "group": "02-28-0"
+      },
+      {
+        "name": "Charlotte Custard",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Custard",
+        "group": "02-28-0"
+      },
+      {
+        "name": "Charlotte Angel",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Angel",
+        "group": "02-28-0"
+      },
+      {
+        "name": "Kazekage",
+        "alias": null,
+        "note": null,
+        "source_text": "Kazekage",
+        "group": null
+      }
+    ],
+    "02-29": [
+      {
+        "name": "Pandaman",
+        "alias": null,
+        "note": null,
+        "source_text": "Pandaman",
+        "group": null
+      },
+      {
+        "name": "Pandawoman",
+        "alias": null,
+        "note": null,
+        "source_text": "Pandawoman",
+        "group": null
+      }
+    ],
+    "03-01": [
+      {
+        "name": "Mhinorinoceros",
+        "alias": null,
+        "note": null,
+        "source_text": "Mhinorinoceros",
+        "group": null
+      }
+    ],
+    "03-02": [
+      {
+        "name": "Vinsmoke Ichiji",
+        "alias": null,
+        "note": null,
+        "source_text": "Vinsmoke Ichiji",
+        "group": "03-02-0"
+      },
+      {
+        "name": "Vinsmoke Niji",
+        "alias": null,
+        "note": null,
+        "source_text": "Vinsmoke Niji",
+        "group": "03-02-0"
+      },
+      {
+        "name": "Sanji",
+        "alias": null,
+        "note": null,
+        "source_text": "Sanji",
+        "group": "03-02-0"
+      },
+      {
+        "name": "Vinsmoke Yonji",
+        "alias": null,
+        "note": null,
+        "source_text": "Vinsmoke Yonji",
+        "group": "03-02-0"
+      },
+      {
+        "name": "Sanjuan Wolf",
+        "alias": null,
+        "note": null,
+        "source_text": "Sanjuan Wolf",
+        "group": null
+      }
+    ],
+    "03-03": [
+      {
+        "name": "Galdino",
+        "alias": "Mr. 3",
+        "note": null,
+        "source_text": "Galdino (Mr. 3)",
+        "group": null
+      },
+      {
+        "name": "Hina",
+        "alias": null,
+        "note": null,
+        "source_text": "Hina",
+        "group": null
+      },
+      {
+        "name": "O-Tama",
+        "alias": null,
+        "note": null,
+        "source_text": "O-Tama",
+        "group": null
+      }
+    ],
+    "03-04": [
+      {
+        "name": "Masira",
+        "alias": null,
+        "note": null,
+        "source_text": "Masira",
+        "group": null
+      },
+      {
+        "name": "Minotaurs",
+        "alias": null,
+        "note": null,
+        "source_text": "Minotaurs",
+        "group": null
+      }
+    ],
+    "03-05": [
+      {
+        "name": "Sadi",
+        "alias": null,
+        "note": null,
+        "source_text": "Sadi",
+        "group": null
+      },
+      {
+        "name": "Minokoala",
+        "alias": null,
+        "note": null,
+        "source_text": "Minokoala",
+        "group": null
+      }
+    ],
+    "03-06": [
+      {
+        "name": "Salome",
+        "alias": null,
+        "note": null,
+        "source_text": "Salome",
+        "group": null
+      },
+      {
+        "name": "Charlotte Brûlée",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Brûlée",
+        "group": null
+      },
+      {
+        "name": "Jaguar D. Saul",
+        "alias": null,
+        "note": null,
+        "source_text": "Jaguar D. Saul",
+        "group": null
+      }
+    ],
+    "03-07": [
+      {
+        "name": "Gyoru",
+        "alias": null,
+        "note": null,
+        "source_text": "Gyoru",
+        "group": null
+      },
+      {
+        "name": "Minozebra",
+        "alias": null,
+        "note": null,
+        "source_text": "Minozebra",
+        "group": null
+      }
+    ],
+    "03-08": [
+      {
+        "name": "Zambai",
+        "alias": null,
+        "note": null,
+        "source_text": "Zambai",
+        "group": null
+      },
+      {
+        "name": "Samurai Butts",
+        "alias": null,
+        "note": null,
+        "source_text": "Samurai Butts",
+        "group": null
+      }
+    ],
+    "03-09": [
+      {
+        "name": "Shanks",
+        "alias": null,
+        "note": null,
+        "source_text": "Shanks",
+        "group": null
+      },
+      {
+        "name": "Dracule Mihawk",
+        "alias": null,
+        "note": null,
+        "source_text": "Dracule Mihawk",
+        "group": null
+      },
+      {
+        "name": "Franky",
+        "alias": null,
+        "note": null,
+        "source_text": "Franky",
+        "group": null
+      }
+    ],
+    "03-10": [
+      {
+        "name": "Satori",
+        "alias": null,
+        "note": null,
+        "source_text": "Satori",
+        "group": "03-10-0"
+      },
+      {
+        "name": "Hotori",
+        "alias": null,
+        "note": null,
+        "source_text": "Hotori",
+        "group": "03-10-0"
+      },
+      {
+        "name": "Kotori",
+        "alias": null,
+        "note": null,
+        "source_text": "Kotori",
+        "group": "03-10-0"
+      },
+      {
+        "name": "Sentomaru",
+        "alias": null,
+        "note": null,
+        "source_text": "Sentomaru",
+        "group": null
+      },
+      {
+        "name": "Nola",
+        "alias": null,
+        "note": null,
+        "source_text": "Nola",
+        "group": null
+      }
+    ],
+    "03-11": [
+      {
+        "name": "Spandam",
+        "alias": null,
+        "note": null,
+        "source_text": "Spandam",
+        "group": null
+      },
+      {
+        "name": "Palms",
+        "alias": null,
+        "note": null,
+        "source_text": "Palms",
+        "group": null
+      }
+    ],
+    "03-12": [
+      {
+        "name": "Stelly",
+        "alias": null,
+        "note": null,
+        "source_text": "Stelly",
+        "group": null
+      },
+      {
+        "name": "Patty",
+        "alias": null,
+        "note": null,
+        "source_text": "Patty",
+        "group": null
+      },
+      {
+        "name": "Sarutobi",
+        "alias": null,
+        "note": null,
+        "source_text": "Sarutobi",
+        "group": null
+      }
+    ],
+    "03-13": [
+      {
+        "name": "Lafitte",
+        "alias": null,
+        "note": null,
+        "source_text": "Lafitte",
+        "group": null
+      }
+    ],
+    "03-14": [
+      {
+        "name": "Alvida",
+        "alias": null,
+        "note": null,
+        "source_text": "Alvida",
+        "group": null
+      },
+      {
+        "name": "Charlotte Perospero",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Perospero",
+        "group": null
+      },
+      {
+        "name": "Smoker",
+        "alias": null,
+        "note": null,
+        "source_text": "Smoker",
+        "group": null
+      }
+    ],
+    "03-15": [
+      {
+        "name": "Who’s Who",
+        "alias": null,
+        "note": null,
+        "source_text": "Who’s Who",
+        "group": null
+      }
+    ],
+    "03-16": [
+      {
+        "name": "Tom",
+        "alias": null,
+        "note": null,
+        "source_text": "Tom",
+        "group": null
+      }
+    ],
+    "03-17": [
+      {
+        "name": "Ideaman",
+        "alias": null,
+        "note": null,
+        "source_text": "Ideaman",
+        "group": null
+      }
+    ],
+    "03-18": [
+      {
+        "name": "Trebol",
+        "alias": null,
+        "note": null,
+        "source_text": "Trebol",
+        "group": null
+      }
+    ],
+    "03-19": [
+      {
+        "name": "Atmos",
+        "alias": null,
+        "note": null,
+        "source_text": "Atmos",
+        "group": null
+      },
+      {
+        "name": "Scratchmen Apoo",
+        "alias": null,
+        "note": null,
+        "source_text": "Scratchmen Apoo",
+        "group": null
+      }
+    ],
+    "03-20": [
+      {
+        "name": "Sabo",
+        "alias": null,
+        "note": null,
+        "source_text": "Sabo",
+        "group": null
+      },
+      {
+        "name": "Shiki",
+        "alias": null,
+        "note": null,
+        "source_text": "Shiki",
+        "group": null
+      }
+    ],
+    "03-21": [
+      {
+        "name": "Lieutenant Spacey",
+        "alias": null,
+        "note": null,
+        "source_text": "Lieutenant Spacey",
+        "group": null
+      }
+    ],
+    "03-22": [
+      {
+        "name": "Sapi",
+        "alias": null,
+        "note": null,
+        "source_text": "Sapi",
+        "group": null
+      }
+    ],
+    "03-23": [
+      {
+        "name": "Charlotte Raisin",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Raisin",
+        "group": null
+      },
+      {
+        "name": "Miss Catherine",
+        "alias": null,
+        "note": null,
+        "source_text": "Miss Catherine",
+        "group": null
+      }
+    ],
+    "03-24": [
+      {
+        "name": "Thatch",
+        "alias": null,
+        "note": null,
+        "source_text": "Thatch",
+        "group": null
+      }
+    ],
+    "03-25": [
+      {
+        "name": "Ohm",
+        "alias": null,
+        "note": null,
+        "source_text": "Ohm",
+        "group": null
+      },
+      {
+        "name": "Thousand Sunny",
+        "alias": null,
+        "note": null,
+        "source_text": "Thousand Sunny",
+        "group": null
+      }
+    ],
+    "03-26": [
+      {
+        "name": "Tsuru",
+        "alias": null,
+        "note": null,
+        "source_text": "Tsuru",
+        "group": null
+      },
+      {
+        "name": "Mikio Itoo",
+        "alias": null,
+        "note": null,
+        "source_text": "Mikio Itoo",
+        "group": null
+      }
+    ],
+    "03-27": [
+      {
+        "name": "Pinkbeard",
+        "alias": null,
+        "note": null,
+        "source_text": "Pinkbeard",
+        "group": null
+      },
+      {
+        "name": "Shioyaki",
+        "alias": null,
+        "note": null,
+        "source_text": "Shioyaki",
+        "group": null
+      }
+    ],
+    "03-28": [
+      {
+        "name": "Sarue",
+        "alias": null,
+        "note": null,
+        "source_text": "Sarue",
+        "group": null
+      }
+    ],
+    "03-29": [
+      {
+        "name": "Catarina Devon",
+        "alias": null,
+        "note": null,
+        "source_text": "Catarina Devon",
+        "group": null
+      },
+      {
+        "name": "St. Shalulia",
+        "alias": null,
+        "note": null,
+        "source_text": "St. Shalulia",
+        "group": null
+      },
+      {
+        "name": "Fukurokuju",
+        "alias": null,
+        "note": null,
+        "source_text": "Fukurokuju",
+        "group": null
+      }
+    ],
+    "03-30": [
+      {
+        "name": "Manboshi",
+        "alias": null,
+        "note": null,
+        "source_text": "Manboshi",
+        "group": null
+      },
+      {
+        "name": "Bas",
+        "alias": null,
+        "note": null,
+        "source_text": "Bas",
+        "group": null
+      }
+    ],
+    "03-31": [
+      {
+        "name": "And",
+        "alias": null,
+        "note": null,
+        "source_text": "And",
+        "group": null
+      }
+    ],
+    "04-01": [
+      {
+        "name": "Usopp",
+        "alias": null,
+        "note": null,
+        "source_text": "Usopp",
+        "group": null
+      },
+      {
+        "name": "Kashi",
+        "alias": null,
+        "note": null,
+        "source_text": "Kashi",
+        "group": null
+      },
+      {
+        "name": "Kerville",
+        "alias": null,
+        "note": null,
+        "source_text": "Kerville",
+        "group": null
+      }
+    ],
+    "04-02": [
+      {
+        "name": "Jinbe",
+        "alias": null,
+        "note": null,
+        "source_text": "Jinbe",
+        "group": null
+      },
+      {
+        "name": "Zeff",
+        "alias": null,
+        "note": null,
+        "source_text": "Zeff",
+        "group": null
+      }
+    ],
+    "04-03": [
+      {
+        "name": "Brook",
+        "alias": null,
+        "note": null,
+        "source_text": "Brook",
+        "group": null
+      },
+      {
+        "name": "Porchemi",
+        "alias": null,
+        "note": null,
+        "source_text": "Porchemi",
+        "group": null
+      },
+      {
+        "name": "Monda",
+        "alias": null,
+        "note": null,
+        "source_text": "Monda",
+        "group": null
+      }
+    ],
+    "04-04": [
+      {
+        "name": "Shirahoshi",
+        "alias": null,
+        "note": null,
+        "source_text": "Shirahoshi",
+        "group": null
+      },
+      {
+        "name": "Foxy",
+        "alias": null,
+        "note": null,
+        "source_text": "Foxy",
+        "group": null
+      },
+      {
+        "name": "Shishilian",
+        "alias": null,
+        "note": null,
+        "source_text": "Shishilian",
+        "group": null
+      }
+    ],
+    "04-05": [
+      {
+        "name": "Minister of the Right",
+        "alias": null,
+        "note": null,
+        "source_text": "Minister of the Right",
+        "group": null
+      },
+      {
+        "name": "Yamakaji",
+        "alias": null,
+        "note": null,
+        "source_text": "Yamakaji",
+        "group": null
+      }
+    ],
+    "04-06": [
+      {
+        "name": "Edward Newgate",
+        "alias": "Whitebeard",
+        "note": null,
+        "source_text": "Edward Newgate (Whitebeard)",
+        "group": null
+      },
+      {
+        "name": "Jean Bart",
+        "alias": null,
+        "note": null,
+        "source_text": "Jean Bart",
+        "group": null
+      },
+      {
+        "name": "Speed Jiru",
+        "alias": null,
+        "note": null,
+        "source_text": "Speed Jiru",
+        "group": null
+      }
+    ],
+    "04-07": [
+      {
+        "name": "Gin",
+        "alias": null,
+        "note": null,
+        "source_text": "Gin",
+        "group": null
+      },
+      {
+        "name": "Shachi",
+        "alias": null,
+        "note": null,
+        "source_text": "Shachi",
+        "group": null
+      }
+    ],
+    "04-08": [
+      {
+        "name": "Clover",
+        "alias": null,
+        "note": null,
+        "source_text": "Clover",
+        "group": null
+      },
+      {
+        "name": "Buffalo",
+        "alias": null,
+        "note": null,
+        "source_text": "Buffalo",
+        "group": null
+      },
+      {
+        "name": "Megalo",
+        "alias": null,
+        "note": null,
+        "source_text": "Megalo",
+        "group": null
+      },
+      {
+        "name": "Bourbon Jr.",
+        "alias": null,
+        "note": null,
+        "source_text": "Bourbon Jr.",
+        "group": null
+      }
+    ],
+    "04-09": [
+      {
+        "name": "Caesar Clown",
+        "alias": null,
+        "note": null,
+        "source_text": "Caesar Clown",
+        "group": null
+      },
+      {
+        "name": "Piiman",
+        "alias": null,
+        "note": null,
+        "source_text": "Piiman",
+        "group": null
+      },
+      {
+        "name": "Marguerite",
+        "alias": null,
+        "note": null,
+        "source_text": "Marguerite",
+        "group": null
+      },
+      {
+        "name": "Mohmoo",
+        "alias": null,
+        "note": null,
+        "source_text": "Mohmoo",
+        "group": null
+      },
+      {
+        "name": "Yorki",
+        "alias": null,
+        "note": null,
+        "source_text": "Yorki",
+        "group": null
+      }
+    ],
+    "04-10": [
+      {
+        "name": "Tamanegi",
+        "alias": null,
+        "note": null,
+        "source_text": "Tamanegi",
+        "group": null
+      },
+      {
+        "name": "Boss of the Forest",
+        "alias": null,
+        "note": null,
+        "source_text": "Boss of the Forest",
+        "group": null
+      },
+      {
+        "name": "Nora Gitsune",
+        "alias": null,
+        "note": null,
+        "source_text": "Nora Gitsune",
+        "group": null
+      },
+      {
+        "name": "Ashura Douji",
+        "alias": null,
+        "note": null,
+        "source_text": "Ashura Douji",
+        "group": null
+      }
+    ],
+    "04-11": [
+      {
+        "name": "Pekoms",
+        "alias": null,
+        "note": null,
+        "source_text": "Pekoms",
+        "group": null
+      }
+    ],
+    "04-12": [
+      {
+        "name": "Bakkin",
+        "alias": null,
+        "note": null,
+        "source_text": "Bakkin",
+        "group": null
+      },
+      {
+        "name": "Cowboy",
+        "alias": null,
+        "note": null,
+        "source_text": "Cowboy",
+        "group": null
+      }
+    ],
+    "04-13": [
+      {
+        "name": "Morgan",
+        "alias": null,
+        "note": null,
+        "source_text": "Morgan",
+        "group": null
+      }
+    ],
+    "04-14": [
+      {
+        "name": "Hody Jones",
+        "alias": null,
+        "note": null,
+        "source_text": "Hody Jones",
+        "group": null
+      }
+    ],
+    "04-15": [
+      {
+        "name": "Fossa",
+        "alias": null,
+        "note": null,
+        "source_text": "Fossa",
+        "group": null
+      }
+    ],
+    "04-16": [
+      {
+        "name": "Stronger",
+        "alias": null,
+        "note": null,
+        "source_text": "Stronger",
+        "group": null
+      }
+    ],
+    "04-17": [
+      {
+        "name": "Charlotte Anana",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Anana",
+        "group": null
+      }
+    ],
+    "04-18": [
+      {
+        "name": "Hyouzou",
+        "alias": null,
+        "note": null,
+        "source_text": "Hyouzou",
+        "group": null
+      }
+    ],
+    "04-19": [
+      {
+        "name": "Sham",
+        "alias": null,
+        "note": null,
+        "source_text": "Sham",
+        "group": null
+      }
+    ],
+    "04-20": [
+      {
+        "name": "Blueno",
+        "alias": null,
+        "note": null,
+        "source_text": "Blueno",
+        "group": null
+      }
+    ],
+    "04-21": [
+      {
+        "name": "Ucy",
+        "alias": null,
+        "note": null,
+        "source_text": "Ucy",
+        "group": null
+      },
+      {
+        "name": "Island Eater",
+        "alias": null,
+        "note": null,
+        "source_text": "Island Eater",
+        "group": null
+      }
+    ],
+    "04-22": [
+      {
+        "name": "Kuro",
+        "alias": null,
+        "note": null,
+        "source_text": "Kuro",
+        "group": null
+      }
+    ],
+    "04-23": [
+      {
+        "name": "Kalifa",
+        "alias": null,
+        "note": null,
+        "source_text": "Kalifa",
+        "group": null
+      },
+      {
+        "name": "Charlotte Mont-d’Or",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Mont-d’Or",
+        "group": null
+      }
+    ],
+    "04-24": [
+      {
+        "name": "Stussy",
+        "alias": null,
+        "note": null,
+        "source_text": "Stussy",
+        "group": null
+      },
+      {
+        "name": "Chome",
+        "alias": null,
+        "note": null,
+        "source_text": "Chome",
+        "group": null
+      }
+    ],
+    "04-25": [
+      {
+        "name": "Penguin",
+        "alias": null,
+        "note": null,
+        "source_text": "Penguin",
+        "group": null
+      }
+    ],
+    "04-26": [
+      {
+        "name": "Chaka",
+        "alias": null,
+        "note": null,
+        "source_text": "Chaka",
+        "group": null
+      }
+    ],
+    "04-27": [
+      {
+        "name": "Streusen",
+        "alias": null,
+        "note": null,
+        "source_text": "Streusen",
+        "group": null
+      }
+    ],
+    "04-28": [
+      {
+        "name": "Funkfreed",
+        "alias": null,
+        "note": null,
+        "source_text": "Funkfreed",
+        "group": null
+      }
+    ],
+    "04-29": [
+      {
+        "name": "Miss Goldenweek",
+        "alias": "Marianne",
+        "note": null,
+        "source_text": "Miss Goldenweek (Marianne)",
+        "group": null
+      }
+    ],
+    "04-30": [
+      {
+        "name": "Viola",
+        "alias": null,
+        "note": null,
+        "source_text": "Viola",
+        "group": null
+      }
+    ],
+    "05-01": [
+      {
+        "name": "Kaido",
+        "alias": null,
+        "note": null,
+        "source_text": "Kaido",
+        "group": null
+      },
+      {
+        "name": "Capote",
+        "alias": null,
+        "note": null,
+        "source_text": "Capote",
+        "group": null
+      },
+      {
+        "name": "Hikoichi",
+        "alias": null,
+        "note": null,
+        "source_text": "Hikoichi",
+        "group": null
+      }
+    ],
+    "05-02": [
+      {
+        "name": "Cosette",
+        "alias": null,
+        "note": null,
+        "source_text": "Cosette",
+        "group": null
+      },
+      {
+        "name": "Coribou",
+        "alias": null,
+        "note": null,
+        "source_text": "Coribou",
+        "group": null
+      },
+      {
+        "name": "Monkey D. Garp",
+        "alias": null,
+        "note": null,
+        "source_text": "Monkey D. Garp",
+        "group": null
+      }
+    ],
+    "05-03": [
+      {
+        "name": "Arlong",
+        "alias": null,
+        "note": null,
+        "source_text": "Arlong",
+        "group": null
+      }
+    ],
+    "05-04": [
+      {
+        "name": "Isshily",
+        "alias": null,
+        "note": null,
+        "source_text": "Isshily",
+        "group": null
+      },
+      {
+        "name": "Koushirou",
+        "alias": null,
+        "note": null,
+        "source_text": "Koushirou",
+        "group": null
+      },
+      {
+        "name": "Cindry",
+        "alias": null,
+        "note": null,
+        "source_text": "Cindry",
+        "group": null
+      }
+    ],
+    "05-05": [
+      {
+        "name": "Demaro Black",
+        "alias": null,
+        "note": null,
+        "source_text": "Demaro Black",
+        "group": null
+      },
+      {
+        "name": "Monkey D. Luffy",
+        "alias": null,
+        "note": null,
+        "source_text": "Monkey D. Luffy",
+        "group": null
+      },
+      {
+        "name": "G-5 Base",
+        "alias": null,
+        "note": null,
+        "source_text": "G-5 Base",
+        "group": null
+      }
+    ],
+    "05-06": [
+      {
+        "name": "Enel",
+        "alias": null,
+        "note": null,
+        "source_text": "Enel",
+        "group": null
+      }
+    ],
+    "05-07": [
+      {
+        "name": "Maynard",
+        "alias": null,
+        "note": null,
+        "source_text": "Maynard",
+        "group": null
+      }
+    ],
+    "05-08": [
+      {
+        "name": "Shakuyaku",
+        "alias": "Shakky",
+        "note": null,
+        "source_text": "Shakuyaku (Shakky)",
+        "group": null
+      },
+      {
+        "name": "Shoujou",
+        "alias": null,
+        "note": null,
+        "source_text": "Shoujou",
+        "group": null
+      }
+    ],
+    "05-09": [
+      {
+        "name": "Kong",
+        "alias": null,
+        "note": null,
+        "source_text": "Kong",
+        "group": null
+      },
+      {
+        "name": "Sengoku",
+        "alias": null,
+        "note": null,
+        "source_text": "Sengoku",
+        "group": null
+      }
+    ],
+    "05-10": [
+      {
+        "name": "Heracles",
+        "alias": null,
+        "note": null,
+        "source_text": "Heracles",
+        "group": null
+      }
+    ],
+    "05-11": [
+      {
+        "name": "Goldberg",
+        "alias": null,
+        "note": null,
+        "source_text": "Goldberg",
+        "group": null
+      },
+      {
+        "name": "Poro",
+        "alias": null,
+        "note": null,
+        "source_text": "Poro",
+        "group": null
+      }
+    ],
+    "05-12": [
+      {
+        "name": "Vinsmoke Judge",
+        "alias": null,
+        "note": null,
+        "source_text": "Vinsmoke Judge",
+        "group": null
+      },
+      {
+        "name": "Daikoku",
+        "alias": null,
+        "note": null,
+        "source_text": "Daikoku",
+        "group": null
+      }
+    ],
+    "05-13": [
+      {
+        "name": "Koby",
+        "alias": null,
+        "note": null,
+        "source_text": "Koby",
+        "group": null
+      },
+      {
+        "name": "Silvers Rayleigh",
+        "alias": null,
+        "note": null,
+        "source_text": "Silvers Rayleigh",
+        "group": null
+      }
+    ],
+    "05-14": [
+      {
+        "name": "Niwatori",
+        "alias": "Tamago",
+        "note": null,
+        "source_text": "Niwatori (Tamago)",
+        "group": null
+      }
+    ],
+    "05-15": [
+      {
+        "name": "Baby 5",
+        "alias": null,
+        "note": null,
+        "source_text": "Baby 5",
+        "group": null
+      }
+    ],
+    "05-16": [
+      {
+        "name": "Kolumbus",
+        "alias": null,
+        "note": null,
+        "source_text": "Kolumbus",
+        "group": null
+      },
+      {
+        "name": "Pudding Pudding",
+        "alias": null,
+        "note": null,
+        "source_text": "Pudding Pudding",
+        "group": null
+      }
+    ],
+    "05-17": [
+      {
+        "name": "Mr. 13",
+        "alias": null,
+        "note": null,
+        "source_text": "Mr. 13",
+        "group": null
+      },
+      {
+        "name": "Hocker",
+        "alias": null,
+        "note": null,
+        "source_text": "Hocker",
+        "group": null
+      },
+      {
+        "name": "Poppy",
+        "alias": null,
+        "note": null,
+        "source_text": "Poppy",
+        "group": null
+      }
+    ],
+    "05-18": [
+      {
+        "name": "Gorilla",
+        "alias": null,
+        "note": null,
+        "source_text": "Gorilla",
+        "group": null
+      }
+    ],
+    "05-19": [
+      {
+        "name": "Andre",
+        "alias": null,
+        "note": null,
+        "source_text": "Andre",
+        "group": "05-19-0"
+      },
+      {
+        "name": "Candre",
+        "alias": null,
+        "note": null,
+        "source_text": "Candre",
+        "group": "05-19-0"
+      },
+      {
+        "name": "John Giant",
+        "alias": null,
+        "note": null,
+        "source_text": "John Giant",
+        "group": null
+      },
+      {
+        "name": "Tenguyama Hitetsu",
+        "alias": null,
+        "note": null,
+        "source_text": "Tenguyama Hitetsu",
+        "group": null
+      }
+    ],
+    "05-20": [
+      {
+        "name": "Conis",
+        "alias": null,
+        "note": null,
+        "source_text": "Conis",
+        "group": null
+      }
+    ],
+    "05-21": [
+      {
+        "name": "Gotti",
+        "alias": null,
+        "note": null,
+        "source_text": "Gotti",
+        "group": null
+      }
+    ],
+    "05-22": [
+      {
+        "name": "Decalvan Brothers",
+        "alias": null,
+        "note": null,
+        "source_text": "Decalvan Brothers",
+        "group": "05-22-0"
+      },
+      {
+        "name": "Lindbergh",
+        "alias": null,
+        "note": null,
+        "source_text": "Lindbergh",
+        "group": null
+      }
+    ],
+    "05-23": [
+      {
+        "name": "Chew",
+        "alias": null,
+        "note": null,
+        "source_text": "Chew",
+        "group": null
+      }
+    ],
+    "05-24": [
+      {
+        "name": "Carrot",
+        "alias": null,
+        "note": null,
+        "source_text": "Carrot",
+        "group": null
+      }
+    ],
+    "05-25": [
+      {
+        "name": "Big Pan",
+        "alias": null,
+        "note": null,
+        "source_text": "Big Pan",
+        "group": null
+      }
+    ],
+    "05-26": [
+      {
+        "name": "Kohza",
+        "alias": null,
+        "note": null,
+        "source_text": "Kohza",
+        "group": null
+      }
+    ],
+    "05-27": [
+      {
+        "name": "Stansen",
+        "alias": null,
+        "note": null,
+        "source_text": "Stansen",
+        "group": null
+      },
+      {
+        "name": "Koze",
+        "alias": null,
+        "note": null,
+        "source_text": "Koze",
+        "group": null
+      }
+    ],
+    "05-28": [
+      {
+        "name": "Cat-car",
+        "alias": null,
+        "note": null,
+        "source_text": "Cat-car",
+        "group": null
+      }
+    ],
+    "05-29": [
+      {
+        "name": "Diamante",
+        "alias": null,
+        "note": null,
+        "source_text": "Diamante",
+        "group": null
+      }
+    ],
+    "05-30": [
+      {
+        "name": "Kyuin",
+        "alias": null,
+        "note": null,
+        "source_text": "Kyuin",
+        "group": null
+      }
+    ],
+    "05-31": [
+      {
+        "name": "Lacuba",
+        "alias": null,
+        "note": null,
+        "source_text": "Lacuba",
+        "group": null
+      }
+    ],
+    "06-01": [
+      {
+        "name": "St. Charloss",
+        "alias": null,
+        "note": null,
+        "source_text": "St. Charloss",
+        "group": null
+      },
+      {
+        "name": "Moda",
+        "alias": null,
+        "note": null,
+        "source_text": "Moda",
+        "group": null
+      }
+    ],
+    "06-02": [
+      {
+        "name": "Chimney",
+        "alias": null,
+        "note": null,
+        "source_text": "Chimney",
+        "group": null
+      },
+      {
+        "name": "Rob Lucci",
+        "alias": null,
+        "note": null,
+        "source_text": "Rob Lucci",
+        "group": null
+      },
+      {
+        "name": "Ronse",
+        "alias": null,
+        "note": null,
+        "source_text": "Ronse",
+        "group": null
+      }
+    ],
+    "06-03": [
+      {
+        "name": "Mousse",
+        "alias": null,
+        "note": null,
+        "source_text": "Mousse",
+        "group": null
+      },
+      {
+        "name": "Dragon Number Thirteen",
+        "alias": null,
+        "note": null,
+        "source_text": "Dragon Number Thirteen",
+        "group": null
+      }
+    ],
+    "06-04": [
+      {
+        "name": "Epoida",
+        "alias": null,
+        "note": null,
+        "source_text": "Epoida",
+        "group": null
+      },
+      {
+        "name": "Crocus",
+        "alias": null,
+        "note": null,
+        "source_text": "Crocus",
+        "group": null
+      },
+      {
+        "name": "Raijin",
+        "alias": null,
+        "note": null,
+        "source_text": "Raijin",
+        "group": null
+      }
+    ],
+    "06-05": [
+      {
+        "name": "Jabra",
+        "alias": null,
+        "note": null,
+        "source_text": "Jabra",
+        "group": null
+      },
+      {
+        "name": "Sicily",
+        "alias": null,
+        "note": null,
+        "source_text": "Sicily",
+        "group": null
+      }
+    ],
+    "06-06": [
+      {
+        "name": "Karma",
+        "alias": null,
+        "note": null,
+        "source_text": "Karma",
+        "group": null
+      },
+      {
+        "name": "Momonga",
+        "alias": null,
+        "note": null,
+        "source_text": "Momonga",
+        "group": null
+      },
+      {
+        "name": "Sheepshead",
+        "alias": null,
+        "note": null,
+        "source_text": "Sheepshead",
+        "group": null
+      }
+    ],
+    "06-07": [
+      {
+        "name": "Perona",
+        "alias": null,
+        "note": null,
+        "source_text": "Perona",
+        "group": null
+      }
+    ],
+    "06-08": [
+      {
+        "name": "Saldeath",
+        "alias": null,
+        "note": null,
+        "source_text": "Saldeath",
+        "group": null
+      },
+      {
+        "name": "Lacroix",
+        "alias": null,
+        "note": null,
+        "source_text": "Lacroix",
+        "group": null
+      }
+    ],
+    "06-09": [
+      {
+        "name": "Surume",
+        "alias": "the kraken",
+        "note": null,
+        "source_text": "Surume (the kraken)",
+        "group": null
+      },
+      {
+        "name": "Rockstar",
+        "alias": null,
+        "note": null,
+        "source_text": "Rockstar",
+        "group": null
+      }
+    ],
+    "06-10": [
+      {
+        "name": "Dalton",
+        "alias": null,
+        "note": null,
+        "source_text": "Dalton",
+        "group": null
+      },
+      {
+        "name": "Portgas D. Rouge",
+        "alias": null,
+        "note": null,
+        "source_text": "Portgas D. Rouge",
+        "group": null
+      }
+    ],
+    "06-11": [
+      {
+        "name": "Shiliew",
+        "alias": null,
+        "note": null,
+        "source_text": "Shiliew",
+        "group": null
+      }
+    ],
+    "06-12": [
+      {
+        "name": "Senor Pink",
+        "alias": null,
+        "note": null,
+        "source_text": "Senor Pink",
+        "group": null
+      },
+      {
+        "name": "Disco",
+        "alias": null,
+        "note": null,
+        "source_text": "Disco",
+        "group": null
+      }
+    ],
+    "06-13": [
+      {
+        "name": "Ripper",
+        "alias": null,
+        "note": null,
+        "source_text": "Ripper",
+        "group": null
+      }
+    ],
+    "06-14": [
+      {
+        "name": "Chabo",
+        "alias": null,
+        "note": null,
+        "source_text": "Chabo",
+        "group": null
+      },
+      {
+        "name": "Candy",
+        "alias": null,
+        "note": null,
+        "source_text": "Candy",
+        "group": null
+      },
+      {
+        "name": "Kawamatsu",
+        "alias": null,
+        "note": null,
+        "source_text": "Kawamatsu",
+        "group": null
+      }
+    ],
+    "06-15": [
+      {
+        "name": "Belo Betty",
+        "alias": null,
+        "note": null,
+        "source_text": "Belo Betty",
+        "group": null
+      },
+      {
+        "name": "Roshio",
+        "alias": null,
+        "note": null,
+        "source_text": "Roshio",
+        "group": null
+      }
+    ],
+    "06-16": [
+      {
+        "name": "Pedro",
+        "alias": null,
+        "note": null,
+        "source_text": "Pedro",
+        "group": null
+      }
+    ],
+    "06-17": [
+      {
+        "name": "Toto",
+        "alias": null,
+        "note": null,
+        "source_text": "Toto",
+        "group": null
+      },
+      {
+        "name": "Genzo",
+        "alias": null,
+        "note": null,
+        "source_text": "Genzo",
+        "group": null
+      },
+      {
+        "name": "Tamachibi",
+        "alias": null,
+        "note": null,
+        "source_text": "Tamachibi",
+        "group": null
+      }
+    ],
+    "06-18": [
+      {
+        "name": "Rika",
+        "alias": null,
+        "note": null,
+        "source_text": "Rika",
+        "group": null
+      }
+    ],
+    "06-19": [
+      {
+        "name": "Mr. 4",
+        "alias": "Babe",
+        "note": null,
+        "source_text": "Mr. 4 (Babe)",
+        "group": null
+      },
+      {
+        "name": "Rokkaku",
+        "alias": null,
+        "note": null,
+        "source_text": "Rokkaku",
+        "group": null
+      },
+      {
+        "name": "Tibany",
+        "alias": null,
+        "note": null,
+        "source_text": "Tibany",
+        "group": null
+      }
+    ],
+    "06-20": [
+      {
+        "name": "Amadob",
+        "alias": null,
+        "note": null,
+        "source_text": "Amadob",
+        "group": null
+      }
+    ],
+    "06-21": [
+      {
+        "name": "Miss Father’s Day",
+        "alias": null,
+        "note": null,
+        "source_text": "Miss Father’s Day",
+        "group": null
+      }
+    ],
+    "06-22": [
+      {
+        "name": "Gyro",
+        "alias": null,
+        "note": null,
+        "source_text": "Gyro",
+        "group": null
+      }
+    ],
+    "06-23": [
+      {
+        "name": "Orlumbus",
+        "alias": null,
+        "note": null,
+        "source_text": "Orlumbus",
+        "group": null
+      }
+    ],
+    "06-24": [
+      {
+        "name": "Ryuuboshi",
+        "alias": null,
+        "note": null,
+        "source_text": "Ryuuboshi",
+        "group": null
+      }
+    ],
+    "06-25": [
+      {
+        "name": "Charlotte Pudding",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Pudding",
+        "group": null
+      }
+    ],
+    "06-26": [
+      {
+        "name": "Zeus",
+        "alias": null,
+        "note": null,
+        "source_text": "Zeus",
+        "group": null
+      }
+    ],
+    "06-27": [
+      {
+        "name": "Riku Dold III",
+        "alias": null,
+        "note": null,
+        "source_text": "Riku Dold III",
+        "group": null
+      }
+    ],
+    "06-28": [
+      {
+        "name": "St. Roswald",
+        "alias": null,
+        "note": null,
+        "source_text": "St. Roswald",
+        "group": null
+      },
+      {
+        "name": "Mocha",
+        "alias": null,
+        "note": null,
+        "source_text": "Mocha",
+        "group": null
+      }
+    ],
+    "06-29": [
+      {
+        "name": "Fukuro",
+        "alias": null,
+        "note": null,
+        "source_text": "Fukuro",
+        "group": null
+      },
+      {
+        "name": "Pankuuta Dakeyan",
+        "alias": null,
+        "note": null,
+        "source_text": "Pankuuta Dakeyan",
+        "group": null
+      }
+    ],
+    "06-30": [
+      {
+        "name": "Elmy",
+        "alias": null,
+        "note": null,
+        "source_text": "Elmy",
+        "group": null
+      }
+    ],
+    "07-01": [
+      {
+        "name": "Nako",
+        "alias": null,
+        "note": null,
+        "source_text": "Nako",
+        "group": null
+      },
+      {
+        "name": "Batchee",
+        "alias": null,
+        "note": null,
+        "source_text": "Batchee",
+        "group": null
+      },
+      {
+        "name": "Mansion Guards",
+        "alias": null,
+        "note": null,
+        "source_text": "Mansion Guards",
+        "group": null
+      },
+      {
+        "name": "Kabu",
+        "alias": null,
+        "note": null,
+        "source_text": "Kabu",
+        "group": null
+      }
+    ],
+    "07-02": [
+      {
+        "name": "Minister of the Left",
+        "alias": null,
+        "note": null,
+        "source_text": "Minister of the Left",
+        "group": null
+      }
+    ],
+    "07-03": [
+      {
+        "name": "Nami",
+        "alias": null,
+        "note": null,
+        "source_text": "Nami",
+        "group": null
+      },
+      {
+        "name": "Neptune",
+        "alias": null,
+        "note": null,
+        "source_text": "Neptune",
+        "group": null
+      },
+      {
+        "name": "Fish Nami",
+        "alias": null,
+        "note": null,
+        "source_text": "Fish Nami",
+        "group": null
+      }
+    ],
+    "07-04": [
+      {
+        "name": "Caribou",
+        "alias": null,
+        "note": null,
+        "source_text": "Caribou",
+        "group": null
+      }
+    ],
+    "07-05": [
+      {
+        "name": "Vergo",
+        "alias": null,
+        "note": null,
+        "source_text": "Vergo",
+        "group": null
+      }
+    ],
+    "07-06": [
+      {
+        "name": "Namur",
+        "alias": null,
+        "note": null,
+        "source_text": "Namur",
+        "group": null
+      },
+      {
+        "name": "Lucky Roo",
+        "alias": null,
+        "note": null,
+        "source_text": "Lucky Roo",
+        "group": null
+      }
+    ],
+    "07-07": [
+      {
+        "name": "Laki",
+        "alias": null,
+        "note": null,
+        "source_text": "Laki",
+        "group": null
+      }
+    ],
+    "07-08": [
+      {
+        "name": "Daruma",
+        "alias": null,
+        "note": null,
+        "source_text": "Daruma",
+        "group": null
+      },
+      {
+        "name": "Paulie",
+        "alias": null,
+        "note": null,
+        "source_text": "Paulie",
+        "group": null
+      }
+    ],
+    "07-09": [
+      {
+        "name": "Vinsmoke Sora",
+        "alias": null,
+        "note": null,
+        "source_text": "Vinsmoke Sora",
+        "group": null
+      }
+    ],
+    "07-10": [
+      {
+        "name": "Kamakiri",
+        "alias": null,
+        "note": null,
+        "source_text": "Kamakiri",
+        "group": null
+      },
+      {
+        "name": "Ramba",
+        "alias": null,
+        "note": null,
+        "source_text": "Ramba",
+        "group": null
+      }
+    ],
+    "07-11": [
+      {
+        "name": "Pearl",
+        "alias": null,
+        "note": null,
+        "source_text": "Pearl",
+        "group": null
+      },
+      {
+        "name": "Blue Fan",
+        "alias": null,
+        "note": null,
+        "source_text": "Blue Fan",
+        "group": null
+      }
+    ],
+    "07-12": [
+      {
+        "name": "Sarkies",
+        "alias": null,
+        "note": null,
+        "source_text": "Sarkies",
+        "group": null
+      }
+    ],
+    "07-13": [
+      {
+        "name": "King Baum",
+        "alias": null,
+        "note": null,
+        "source_text": "King Baum",
+        "group": null
+      },
+      {
+        "name": "Acrobatic Fuwas",
+        "alias": null,
+        "note": null,
+        "source_text": "Acrobatic Fuwas",
+        "group": null
+      },
+      {
+        "name": "Queen",
+        "alias": null,
+        "note": null,
+        "source_text": "Queen",
+        "group": null
+      }
+    ],
+    "07-14": [
+      {
+        "name": "Morgans",
+        "alias": null,
+        "note": null,
+        "source_text": "Morgans",
+        "group": null
+      },
+      {
+        "name": "Bastille",
+        "alias": null,
+        "note": null,
+        "source_text": "Bastille",
+        "group": null
+      }
+    ],
+    "07-15": [
+      {
+        "name": "Donquixote Rosinante",
+        "alias": "Corazon",
+        "note": null,
+        "source_text": "Donquixote Rosinante (Corazon)",
+        "group": null
+      }
+    ],
+    "07-16": [
+      {
+        "name": "Seto",
+        "alias": null,
+        "note": null,
+        "source_text": "Seto",
+        "group": null
+      },
+      {
+        "name": "Helmeppo",
+        "alias": null,
+        "note": null,
+        "source_text": "Helmeppo",
+        "group": null
+      }
+    ],
+    "07-17": [
+      {
+        "name": "Hammond",
+        "alias": null,
+        "note": null,
+        "source_text": "Hammond",
+        "group": null
+      }
+    ],
+    "07-18": [
+      {
+        "name": "Smiley",
+        "alias": null,
+        "note": null,
+        "source_text": "Smiley",
+        "group": null
+      },
+      {
+        "name": "Hoicael",
+        "alias": null,
+        "note": null,
+        "source_text": "Hoicael",
+        "group": null
+      },
+      {
+        "name": "Michael",
+        "alias": null,
+        "note": null,
+        "source_text": "Michael",
+        "group": null
+      },
+      {
+        "name": "Wire",
+        "alias": null,
+        "note": null,
+        "source_text": "Wire",
+        "group": null
+      },
+      {
+        "name": "Nugire Yainu",
+        "alias": null,
+        "note": null,
+        "source_text": "Nugire Yainu",
+        "group": null
+      }
+    ],
+    "07-19": [
+      {
+        "name": "Prometheus",
+        "alias": null,
+        "note": null,
+        "source_text": "Prometheus",
+        "group": null
+      },
+      {
+        "name": "Yu",
+        "alias": null,
+        "note": null,
+        "source_text": "Yu",
+        "group": null
+      }
+    ],
+    "07-20": [
+      {
+        "name": "Ham Burger",
+        "alias": null,
+        "note": null,
+        "source_text": "Ham Burger",
+        "group": null
+      },
+      {
+        "name": "Chess",
+        "alias": null,
+        "note": null,
+        "source_text": "Chess",
+        "group": null
+      },
+      {
+        "name": "Pansy",
+        "alias": null,
+        "note": null,
+        "source_text": "Pansy",
+        "group": null
+      },
+      {
+        "name": "Giovanni",
+        "alias": null,
+        "note": null,
+        "source_text": "Giovanni",
+        "group": null
+      }
+    ],
+    "07-21": [
+      {
+        "name": "Kanjuro",
+        "alias": null,
+        "note": null,
+        "source_text": "Kanjuro",
+        "group": null
+      }
+    ],
+    "07-22": [
+      {
+        "name": "Charlotte Prim",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Prim",
+        "group": "07-22-0"
+      },
+      {
+        "name": "Charlotte Praline",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Praline",
+        "group": "07-22-0"
+      }
+    ],
+    "07-23": [
+      {
+        "name": "Richie",
+        "alias": null,
+        "note": null,
+        "source_text": "Richie",
+        "group": null
+      }
+    ],
+    "07-24": [
+      {
+        "name": "Leo",
+        "alias": null,
+        "note": null,
+        "source_text": "Leo",
+        "group": null
+      }
+    ],
+    "07-25": [
+      {
+        "name": "Nojiko",
+        "alias": null,
+        "note": null,
+        "source_text": "Nojiko",
+        "group": null
+      }
+    ],
+    "07-26": [
+      {
+        "name": "Mr. 5",
+        "alias": "Gem",
+        "note": null,
+        "source_text": "Mr. 5 (Gem)",
+        "group": null
+      }
+    ],
+    "07-27": [
+      {
+        "name": "Thalassa Lucas",
+        "alias": null,
+        "note": null,
+        "source_text": "Thalassa Lucas",
+        "group": null
+      },
+      {
+        "name": "Kikyo",
+        "alias": null,
+        "note": null,
+        "source_text": "Kikyo",
+        "group": null
+      }
+    ],
+    "07-28": [
+      {
+        "name": "Flapper",
+        "alias": null,
+        "note": null,
+        "source_text": "Flapper",
+        "group": null
+      },
+      {
+        "name": "Hustle",
+        "alias": null,
+        "note": null,
+        "source_text": "Hustle",
+        "group": null
+      }
+    ],
+    "07-29": [
+      {
+        "name": "Kadar",
+        "alias": null,
+        "note": null,
+        "source_text": "Kadar",
+        "group": null
+      },
+      {
+        "name": "Panda Shark",
+        "alias": null,
+        "note": null,
+        "source_text": "Panda Shark",
+        "group": null
+      }
+    ],
+    "07-30": [
+      {
+        "name": "Miss Doublefinger",
+        "alias": "Zala",
+        "note": null,
+        "source_text": "Miss Doublefinger (Zala)",
+        "group": null
+      }
+    ],
+    "07-31": [
+      {
+        "name": "Sarie Nantokanette",
+        "alias": null,
+        "note": null,
+        "source_text": "Sarie Nantokanette",
+        "group": null
+      }
+    ],
+    "08-01": [
+      {
+        "name": "Aphelandra",
+        "alias": null,
+        "note": null,
+        "source_text": "Aphelandra",
+        "group": null
+      },
+      {
+        "name": "Urouge",
+        "alias": null,
+        "note": null,
+        "source_text": "Urouge",
+        "group": null
+      },
+      {
+        "name": "Bishamon",
+        "alias": null,
+        "note": null,
+        "source_text": "Bishamon",
+        "group": null
+      }
+    ],
+    "08-02": [
+      {
+        "name": "Époni",
+        "alias": null,
+        "note": null,
+        "source_text": "Époni",
+        "group": null
+      },
+      {
+        "name": "Yasopp",
+        "alias": null,
+        "note": null,
+        "source_text": "Yasopp",
+        "group": null
+      }
+    ],
+    "08-03": [
+      {
+        "name": "Inazuma",
+        "alias": null,
+        "note": null,
+        "source_text": "Inazuma",
+        "group": null
+      },
+      {
+        "name": "Marshall D. Teach",
+        "alias": "Blackbeard",
+        "note": null,
+        "source_text": "Marshall D. Teach (Blackbeard)",
+        "group": null
+      },
+      {
+        "name": "Hanzo",
+        "alias": null,
+        "note": null,
+        "source_text": "Hanzo",
+        "group": null
+      }
+    ],
+    "08-04": [
+      {
+        "name": "Amazon",
+        "alias": null,
+        "note": null,
+        "source_text": "Amazon",
+        "group": null
+      },
+      {
+        "name": "Boss of the Earth",
+        "alias": null,
+        "note": null,
+        "source_text": "Boss of the Earth",
+        "group": null
+      },
+      {
+        "name": "Rebecca",
+        "alias": null,
+        "note": null,
+        "source_text": "Rebecca",
+        "group": null
+      }
+    ],
+    "08-05": [
+      {
+        "name": "Octopako",
+        "alias": null,
+        "note": null,
+        "source_text": "Octopako",
+        "group": null
+      },
+      {
+        "name": "Gaimon",
+        "alias": null,
+        "note": null,
+        "source_text": "Gaimon",
+        "group": null
+      },
+      {
+        "name": "Vasco Shot",
+        "alias": null,
+        "note": null,
+        "source_text": "Vasco Shot",
+        "group": null
+      }
+    ],
+    "08-06": [
+      {
+        "name": "Gladius",
+        "alias": null,
+        "note": null,
+        "source_text": "Gladius",
+        "group": null
+      },
+      {
+        "name": "Gomorrah",
+        "alias": null,
+        "note": null,
+        "source_text": "Gomorrah",
+        "group": "08-06-0"
+      },
+      {
+        "name": "Sodom",
+        "alias": null,
+        "note": null,
+        "source_text": "Sodom",
+        "group": "08-06-0"
+      },
+      {
+        "name": "Blenheim",
+        "alias": null,
+        "note": null,
+        "source_text": "Blenheim",
+        "group": null
+      }
+    ],
+    "08-07": [
+      {
+        "name": "Kaku",
+        "alias": null,
+        "note": null,
+        "source_text": "Kaku",
+        "group": null
+      },
+      {
+        "name": "Bellamy",
+        "alias": null,
+        "note": null,
+        "source_text": "Bellamy",
+        "group": null
+      }
+    ],
+    "08-08": [
+      {
+        "name": "Buggy",
+        "alias": null,
+        "note": null,
+        "source_text": "Buggy",
+        "group": null
+      },
+      {
+        "name": "Hatchan",
+        "alias": null,
+        "note": null,
+        "source_text": "Hatchan",
+        "group": null
+      },
+      {
+        "name": "Yazaemon",
+        "alias": null,
+        "note": null,
+        "source_text": "Yazaemon",
+        "group": null
+      }
+    ],
+    "08-09": [
+      {
+        "name": "Hack",
+        "alias": null,
+        "note": null,
+        "source_text": "Hack",
+        "group": null
+      },
+      {
+        "name": "Wapol",
+        "alias": null,
+        "note": null,
+        "source_text": "Wapol",
+        "group": null
+      },
+      {
+        "name": "Vegapunk",
+        "alias": null,
+        "note": null,
+        "source_text": "Vegapunk",
+        "group": null
+      }
+    ],
+    "08-10": [
+      {
+        "name": "Fujitora",
+        "alias": "Issho",
+        "note": null,
+        "source_text": "Fujitora (Issho)",
+        "group": null
+      },
+      {
+        "name": "Gedatsu",
+        "alias": null,
+        "note": null,
+        "source_text": "Gedatsu",
+        "group": null
+      },
+      {
+        "name": "Hattori",
+        "alias": null,
+        "note": null,
+        "source_text": "Hattori",
+        "group": null
+      }
+    ],
+    "08-11": [
+      {
+        "name": "Duval",
+        "alias": null,
+        "note": null,
+        "source_text": "Duval",
+        "group": null
+      },
+      {
+        "name": "Dellinger",
+        "alias": null,
+        "note": null,
+        "source_text": "Dellinger",
+        "group": null
+      }
+    ],
+    "08-12": [
+      {
+        "name": "Hajrudin",
+        "alias": null,
+        "note": null,
+        "source_text": "Hajrudin",
+        "group": null
+      }
+    ],
+    "08-13": [
+      {
+        "name": "Don Sai",
+        "alias": null,
+        "note": null,
+        "source_text": "Don Sai",
+        "group": null
+      },
+      {
+        "name": "Machvise",
+        "alias": null,
+        "note": null,
+        "source_text": "Machvise",
+        "group": null
+      }
+    ],
+    "08-14": [
+      {
+        "name": "Giberson",
+        "alias": null,
+        "note": null,
+        "source_text": "Giberson",
+        "group": null
+      },
+      {
+        "name": "Jean Ango",
+        "alias": null,
+        "note": null,
+        "source_text": "Jean Ango",
+        "group": null
+      },
+      {
+        "name": "Bomba",
+        "alias": null,
+        "note": null,
+        "source_text": "Bomba",
+        "group": null
+      },
+      {
+        "name": "Pisaro",
+        "alias": null,
+        "note": null,
+        "source_text": "Pisaro",
+        "group": null
+      }
+    ],
+    "08-15": [
+      {
+        "name": "Dr. Tsukimi",
+        "alias": null,
+        "note": null,
+        "source_text": "Dr. Tsukimi",
+        "group": null
+      },
+      {
+        "name": "Bentham",
+        "alias": "Mr. 2 Bon Clay",
+        "note": null,
+        "source_text": "Bentham (Mr. 2 Bon Clay)",
+        "group": null
+      }
+    ],
+    "08-16": [
+      {
+        "name": "Sakazuki",
+        "alias": "Akainu",
+        "note": null,
+        "source_text": "Sakazuki (Akainu)",
+        "group": null
+      }
+    ],
+    "08-17": [
+      {
+        "name": "Matsuge",
+        "alias": null,
+        "note": null,
+        "source_text": "Matsuge",
+        "group": null
+      },
+      {
+        "name": "Pagaya",
+        "alias": null,
+        "note": null,
+        "source_text": "Pagaya",
+        "group": null
+      }
+    ],
+    "08-18": [
+      {
+        "name": "Wiper",
+        "alias": null,
+        "note": null,
+        "source_text": "Wiper",
+        "group": null
+      }
+    ],
+    "08-19": [
+      {
+        "name": "Motobaro",
+        "alias": null,
+        "note": null,
+        "source_text": "Motobaro",
+        "group": null
+      }
+    ],
+    "08-20": [
+      {
+        "name": "Boo",
+        "alias": null,
+        "note": null,
+        "source_text": "Boo",
+        "group": null
+      }
+    ],
+    "08-21": [
+      {
+        "name": "Pound",
+        "alias": null,
+        "note": null,
+        "source_text": "Pound",
+        "group": null
+      },
+      {
+        "name": "Take",
+        "alias": null,
+        "note": null,
+        "source_text": "Take",
+        "group": null
+      },
+      {
+        "name": "Holdem",
+        "alias": null,
+        "note": null,
+        "source_text": "Holdem",
+        "group": null
+      }
+    ],
+    "08-22": [
+      {
+        "name": "Vander Decken IX",
+        "alias": null,
+        "note": null,
+        "source_text": "Vander Decken IX",
+        "group": null
+      }
+    ],
+    "08-23": [
+      {
+        "name": "Pell",
+        "alias": null,
+        "note": null,
+        "source_text": "Pell",
+        "group": null
+      }
+    ],
+    "08-24": [
+      {
+        "name": "Kaya",
+        "alias": null,
+        "note": null,
+        "source_text": "Kaya",
+        "group": null
+      },
+      {
+        "name": "Daigin",
+        "alias": null,
+        "note": null,
+        "source_text": "Daigin",
+        "group": null
+      }
+    ],
+    "08-25": [
+      {
+        "name": "Corgi",
+        "alias": null,
+        "note": null,
+        "source_text": "Corgi",
+        "group": null
+      }
+    ],
+    "08-26": [
+      {
+        "name": "Gyatz",
+        "alias": null,
+        "note": null,
+        "source_text": "Gyatz",
+        "group": null
+      }
+    ],
+    "08-27": [
+      {
+        "name": "Monet",
+        "alias": null,
+        "note": null,
+        "source_text": "Monet",
+        "group": null
+      }
+    ],
+    "08-28": [
+      {
+        "name": "Hannyabal",
+        "alias": null,
+        "note": null,
+        "source_text": "Hannyabal",
+        "group": null
+      }
+    ],
+    "08-29": [
+      {
+        "name": "Farul",
+        "alias": null,
+        "note": null,
+        "source_text": "Farul",
+        "group": null
+      },
+      {
+        "name": "Panda Shark",
+        "alias": null,
+        "note": null,
+        "source_text": "Panda Shark",
+        "group": null
+      }
+    ],
+    "08-30": [
+      {
+        "name": "Curly Dadan",
+        "alias": null,
+        "note": null,
+        "source_text": "Curly Dadan",
+        "group": null
+      }
+    ],
+    "08-31": [
+      {
+        "name": "Cavendish",
+        "alias": null,
+        "note": null,
+        "source_text": "Cavendish",
+        "group": null
+      }
+    ],
+    "09-01": [
+      {
+        "name": "Kiwi",
+        "alias": null,
+        "note": null,
+        "source_text": "Kiwi",
+        "group": null
+      },
+      {
+        "name": "Jewelry Bonney",
+        "alias": null,
+        "note": null,
+        "source_text": "Jewelry Bonney",
+        "group": null
+      },
+      {
+        "name": "Delacuaji",
+        "alias": null,
+        "note": null,
+        "source_text": "Delacuaji",
+        "group": null
+      }
+    ],
+    "09-02": [
+      {
+        "name": "Heppoko",
+        "alias": null,
+        "note": null,
+        "source_text": "Heppoko",
+        "group": "09-02-0"
+      },
+      {
+        "name": "Peppoko",
+        "alias": null,
+        "note": null,
+        "source_text": "Peppoko",
+        "group": "09-02-0"
+      },
+      {
+        "name": "Poppoko",
+        "alias": null,
+        "note": null,
+        "source_text": "Poppoko",
+        "group": "09-02-0"
+      },
+      {
+        "name": "Boa Hancock",
+        "alias": null,
+        "note": null,
+        "source_text": "Boa Hancock",
+        "group": null
+      }
+    ],
+    "09-03": [
+      {
+        "name": "Brannew",
+        "alias": null,
+        "note": null,
+        "source_text": "Brannew",
+        "group": null
+      },
+      {
+        "name": "Boa Sandersonia",
+        "alias": null,
+        "note": null,
+        "source_text": "Boa Sandersonia",
+        "group": null
+      },
+      {
+        "name": "Mcguy",
+        "alias": null,
+        "note": null,
+        "source_text": "Mcguy",
+        "group": null
+      }
+    ],
+    "09-04": [
+      {
+        "name": "Kumashi",
+        "alias": null,
+        "note": null,
+        "source_text": "Kumashi",
+        "group": null
+      },
+      {
+        "name": "Wanze",
+        "alias": null,
+        "note": null,
+        "source_text": "Wanze",
+        "group": null
+      }
+    ],
+    "09-05": [
+      {
+        "name": "Crocodile",
+        "alias": null,
+        "note": null,
+        "source_text": "Crocodile",
+        "group": null
+      },
+      {
+        "name": "Boa Marigold",
+        "alias": null,
+        "note": null,
+        "source_text": "Boa Marigold",
+        "group": null
+      }
+    ],
+    "09-06": [
+      {
+        "name": "Gekko Moriah",
+        "alias": null,
+        "note": null,
+        "source_text": "Gekko Moriah",
+        "group": null
+      },
+      {
+        "name": "Squard",
+        "alias": null,
+        "note": null,
+        "source_text": "Squard",
+        "group": null
+      },
+      {
+        "name": "Macro",
+        "alias": null,
+        "note": null,
+        "source_text": "Macro",
+        "group": null
+      }
+    ],
+    "09-07": [
+      {
+        "name": "Fullbody",
+        "alias": null,
+        "note": null,
+        "source_text": "Fullbody",
+        "group": null
+      },
+      {
+        "name": "Motzel",
+        "alias": null,
+        "note": null,
+        "source_text": "Motzel",
+        "group": null
+      }
+    ],
+    "09-08": [
+      {
+        "name": "Cabaji",
+        "alias": null,
+        "note": null,
+        "source_text": "Cabaji",
+        "group": null
+      },
+      {
+        "name": "Rakuyo",
+        "alias": null,
+        "note": null,
+        "source_text": "Rakuyo",
+        "group": null
+      },
+      {
+        "name": "Kureha",
+        "alias": null,
+        "note": null,
+        "source_text": "Kureha",
+        "group": null
+      }
+    ],
+    "09-09": [
+      {
+        "name": "Shyarly",
+        "alias": null,
+        "note": null,
+        "source_text": "Shyarly",
+        "group": null
+      },
+      {
+        "name": "Basil Hawkins",
+        "alias": null,
+        "note": null,
+        "source_text": "Basil Hawkins",
+        "group": null
+      },
+      {
+        "name": "Manjaro",
+        "alias": null,
+        "note": null,
+        "source_text": "Manjaro",
+        "group": null
+      },
+      {
+        "name": "O-Kiku",
+        "alias": null,
+        "note": null,
+        "source_text": "O-Kiku",
+        "group": null
+      }
+    ],
+    "09-10": [
+      {
+        "name": "T-Bone",
+        "alias": null,
+        "note": null,
+        "source_text": "T-Bone",
+        "group": null
+      },
+      {
+        "name": "Very Good",
+        "alias": null,
+        "note": null,
+        "source_text": "Very Good",
+        "group": null
+      }
+    ],
+    "09-11": [
+      {
+        "name": "Mont Blanc Cricket",
+        "alias": null,
+        "note": null,
+        "source_text": "Mont Blanc Cricket",
+        "group": null
+      },
+      {
+        "name": "Morley",
+        "alias": null,
+        "note": null,
+        "source_text": "Morley",
+        "group": null
+      }
+    ],
+    "09-12": [
+      {
+        "name": "Curiel",
+        "alias": null,
+        "note": null,
+        "source_text": "Curiel",
+        "group": null
+      }
+    ],
+    "09-13": [
+      {
+        "name": "Hoe",
+        "alias": null,
+        "note": null,
+        "source_text": "Hoe",
+        "group": null
+      }
+    ],
+    "09-14": [
+      {
+        "name": "Lord of the Coast",
+        "alias": null,
+        "note": null,
+        "source_text": "Lord of the Coast",
+        "group": null
+      }
+    ],
+    "09-15": [
+      {
+        "name": "Spoil",
+        "alias": null,
+        "note": null,
+        "source_text": "Spoil",
+        "group": null
+      },
+      {
+        "name": "O-Tsuru",
+        "alias": null,
+        "note": null,
+        "source_text": "O-Tsuru",
+        "group": null
+      }
+    ],
+    "09-16": [
+      {
+        "name": "Laboon",
+        "alias": null,
+        "note": null,
+        "source_text": "Laboon",
+        "group": null
+      },
+      {
+        "name": "Rindo",
+        "alias": null,
+        "note": null,
+        "source_text": "Rindo",
+        "group": null
+      }
+    ],
+    "09-17": [
+      {
+        "name": "Kuina",
+        "alias": null,
+        "note": null,
+        "source_text": "Kuina",
+        "group": null
+      }
+    ],
+    "09-18": [
+      {
+        "name": "Devil Dias",
+        "alias": null,
+        "note": null,
+        "source_text": "Devil Dias",
+        "group": null
+      },
+      {
+        "name": "Karasu",
+        "alias": null,
+        "note": null,
+        "source_text": "Karasu",
+        "group": null
+      }
+    ],
+    "09-19": [
+      {
+        "name": "Don Krieg",
+        "alias": null,
+        "note": null,
+        "source_text": "Don Krieg",
+        "group": null
+      }
+    ],
+    "09-20": [
+      {
+        "name": "Shura",
+        "alias": null,
+        "note": null,
+        "source_text": "Shura",
+        "group": null
+      }
+    ],
+    "09-21": [
+      {
+        "name": "Kuzan",
+        "alias": "Aokiji",
+        "note": null,
+        "source_text": "Kuzan (Aokiji)",
+        "group": null
+      },
+      {
+        "name": "Pappag",
+        "alias": null,
+        "note": null,
+        "source_text": "Pappag",
+        "group": null
+      },
+      {
+        "name": "Chocolat",
+        "alias": null,
+        "note": null,
+        "source_text": "Chocolat",
+        "group": null
+      }
+    ],
+    "09-22": [
+      {
+        "name": "Kyros",
+        "alias": null,
+        "note": null,
+        "source_text": "Kyros",
+        "group": null
+      }
+    ],
+    "09-23": [
+      {
+        "name": "Umit",
+        "alias": null,
+        "note": null,
+        "source_text": "Umit",
+        "group": null
+      },
+      {
+        "name": "Hanger",
+        "alias": null,
+        "note": null,
+        "source_text": "Hanger",
+        "group": null
+      },
+      {
+        "name": "Orochi",
+        "alias": null,
+        "note": null,
+        "source_text": "Orochi",
+        "group": null
+      }
+    ],
+    "09-24": [
+      {
+        "name": "Suu",
+        "alias": null,
+        "note": null,
+        "source_text": "Suu",
+        "group": null
+      },
+      {
+        "name": "Jean Goen",
+        "alias": null,
+        "note": null,
+        "source_text": "Jean Goen",
+        "group": null
+      },
+      {
+        "name": "Black Maria",
+        "alias": null,
+        "note": null,
+        "source_text": "Black Maria",
+        "group": null
+      }
+    ],
+    "09-25": [
+      {
+        "name": "Terracotta",
+        "alias": null,
+        "note": null,
+        "source_text": "Terracotta",
+        "group": null
+      }
+    ],
+    "09-26": [
+      {
+        "name": "Dagama",
+        "alias": null,
+        "note": null,
+        "source_text": "Dagama",
+        "group": null
+      },
+      {
+        "name": "Cosmos",
+        "alias": null,
+        "note": null,
+        "source_text": "Cosmos",
+        "group": null
+      }
+    ],
+    "09-27": [
+      {
+        "name": "Mr. 9",
+        "alias": null,
+        "note": null,
+        "source_text": "Mr. 9",
+        "group": null
+      }
+    ],
+    "09-28": [
+      {
+        "name": "Jack",
+        "alias": null,
+        "note": null,
+        "source_text": "Jack",
+        "group": null
+      },
+      {
+        "name": "Stalker",
+        "alias": null,
+        "note": null,
+        "source_text": "Stalker",
+        "group": null
+      }
+    ],
+    "09-29": [
+      {
+        "name": "Charlotte Opera",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Opera",
+        "group": "09-29-0"
+      },
+      {
+        "name": "Charlotte Counter",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Counter",
+        "group": "09-29-0"
+      },
+      {
+        "name": "Charlotte Cadenza",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Cadenza",
+        "group": "09-29-0"
+      },
+      {
+        "name": "Charlotte Cabaletta",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Cabaletta",
+        "group": "09-29-0"
+      },
+      {
+        "name": "Charlotte Gala",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Gala",
+        "group": "09-29-0"
+      },
+      {
+        "name": "Drug. Peclo",
+        "alias": null,
+        "note": null,
+        "source_text": "Drug. Peclo",
+        "group": null
+      },
+      {
+        "name": "Pinky",
+        "alias": null,
+        "note": null,
+        "source_text": "Pinky",
+        "group": null
+      }
+    ],
+    "09-30": [
+      {
+        "name": "Avalo Pizarro",
+        "alias": null,
+        "note": null,
+        "source_text": "Avalo Pizarro",
+        "group": null
+      }
+    ],
+    "10-01": [
+      {
+        "name": "Comile",
+        "alias": null,
+        "note": null,
+        "source_text": "Comile",
+        "group": null
+      },
+      {
+        "name": "Mohji",
+        "alias": null,
+        "note": null,
+        "source_text": "Mohji",
+        "group": null
+      }
+    ],
+    "10-02": [
+      {
+        "name": "Dorry",
+        "alias": null,
+        "note": null,
+        "source_text": "Dorry",
+        "group": null
+      },
+      {
+        "name": "Tonjit",
+        "alias": null,
+        "note": null,
+        "source_text": "Tonjit",
+        "group": null
+      }
+    ],
+    "10-03": [
+      {
+        "name": "Yama",
+        "alias": null,
+        "note": null,
+        "source_text": "Yama",
+        "group": null
+      }
+    ],
+    "10-04": [
+      {
+        "name": "Oars",
+        "alias": null,
+        "note": null,
+        "source_text": "Oars",
+        "group": null
+      },
+      {
+        "name": "Calgara",
+        "alias": null,
+        "note": null,
+        "source_text": "Calgara",
+        "group": null
+      },
+      {
+        "name": "Shandia Chief",
+        "alias": null,
+        "note": null,
+        "source_text": "Shandia Chief",
+        "group": null
+      }
+    ],
+    "10-05": [
+      {
+        "name": "Van Augur",
+        "alias": null,
+        "note": null,
+        "source_text": "Van Augur",
+        "group": null
+      },
+      {
+        "name": "Kokoro",
+        "alias": null,
+        "note": null,
+        "source_text": "Kokoro",
+        "group": null
+      },
+      {
+        "name": "Marco",
+        "alias": null,
+        "note": null,
+        "source_text": "Marco",
+        "group": null
+      },
+      {
+        "name": "Monkey D. Dragon",
+        "alias": null,
+        "note": null,
+        "source_text": "Monkey D. Dragon",
+        "group": null
+      },
+      {
+        "name": "O-Toko",
+        "alias": null,
+        "note": null,
+        "source_text": "O-Toko",
+        "group": null
+      }
+    ],
+    "10-06": [
+      {
+        "name": "Tashigi",
+        "alias": null,
+        "note": null,
+        "source_text": "Tashigi",
+        "group": null
+      },
+      {
+        "name": "Trafalgar D. Water Law",
+        "alias": null,
+        "note": null,
+        "source_text": "Trafalgar D. Water Law",
+        "group": null
+      },
+      {
+        "name": "Bartolomeo",
+        "alias": null,
+        "note": null,
+        "source_text": "Bartolomeo",
+        "group": null
+      }
+    ],
+    "10-07": [
+      {
+        "name": "Lao G",
+        "alias": null,
+        "note": null,
+        "source_text": "Lao G",
+        "group": null
+      },
+      {
+        "name": "Kouzuki Momonosuke",
+        "alias": null,
+        "note": null,
+        "source_text": "Kouzuki Momonosuke",
+        "group": null
+      }
+    ],
+    "10-08": [
+      {
+        "name": "Doberman",
+        "alias": null,
+        "note": null,
+        "source_text": "Doberman",
+        "group": null
+      },
+      {
+        "name": "Pierre",
+        "alias": null,
+        "note": null,
+        "source_text": "Pierre",
+        "group": null
+      },
+      {
+        "name": "Hatcha",
+        "alias": null,
+        "note": null,
+        "source_text": "Hatcha",
+        "group": null
+      }
+    ],
+    "10-09": [
+      {
+        "name": "Dosun",
+        "alias": null,
+        "note": null,
+        "source_text": "Dosun",
+        "group": null
+      },
+      {
+        "name": "Magellan",
+        "alias": null,
+        "note": null,
+        "source_text": "Magellan",
+        "group": null
+      },
+      {
+        "name": "Mont Blanc Noland",
+        "alias": null,
+        "note": null,
+        "source_text": "Mont Blanc Noland",
+        "group": null
+      }
+    ],
+    "10-10": [
+      {
+        "name": "Den",
+        "alias": null,
+        "note": null,
+        "source_text": "Den",
+        "group": null
+      },
+      {
+        "name": "Stomp",
+        "alias": null,
+        "note": null,
+        "source_text": "Stomp",
+        "group": null
+      },
+      {
+        "name": "Braham",
+        "alias": null,
+        "note": null,
+        "source_text": "Braham",
+        "group": null
+      },
+      {
+        "name": "Ideo",
+        "alias": null,
+        "note": null,
+        "source_text": "Ideo",
+        "group": null
+      }
+    ],
+    "10-11": [
+      {
+        "name": "Inuarashi",
+        "alias": null,
+        "note": null,
+        "source_text": "Inuarashi",
+        "group": null
+      }
+    ],
+    "10-12": [
+      {
+        "name": "Charlotte Smoothie",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Smoothie",
+        "group": "10-12-0"
+      },
+      {
+        "name": "Charlotte Citron",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Citron",
+        "group": "10-12-0"
+      },
+      {
+        "name": "Charlotte Cinnamon",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Cinnamon",
+        "group": "10-12-0"
+      }
+    ],
+    "10-13": [
+      {
+        "name": "Izou",
+        "alias": null,
+        "note": null,
+        "source_text": "Izou",
+        "group": null
+      }
+    ],
+    "10-14": [
+      {
+        "name": "Haredas",
+        "alias": null,
+        "note": null,
+        "source_text": "Haredas",
+        "group": null
+      }
+    ],
+    "10-15": [
+      {
+        "name": "Charlotte Compote",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Compote",
+        "group": null
+      },
+      {
+        "name": "Mornin",
+        "alias": null,
+        "note": null,
+        "source_text": "Mornin",
+        "group": null
+      },
+      {
+        "name": "Charlotte Yuen",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Yuen",
+        "group": null
+      }
+    ],
+    "10-16": [
+      {
+        "name": "Taroimo",
+        "alias": null,
+        "note": null,
+        "source_text": "Taroimo",
+        "group": null
+      }
+    ],
+    "10-17": [
+      {
+        "name": "Noble Croc",
+        "alias": null,
+        "note": null,
+        "source_text": "Noble Croc",
+        "group": null
+      },
+      {
+        "name": "Marin",
+        "alias": null,
+        "note": null,
+        "source_text": "Marin",
+        "group": null
+      }
+    ],
+    "10-18": [
+      {
+        "name": "Doc Q",
+        "alias": null,
+        "note": null,
+        "source_text": "Doc Q",
+        "group": null
+      },
+      {
+        "name": "Jigoku Benten",
+        "alias": null,
+        "note": null,
+        "source_text": "Jigoku Benten",
+        "group": null
+      }
+    ],
+    "10-19": [
+      {
+        "name": "Charlotte Galette",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Galette",
+        "group": "10-19-0"
+      },
+      {
+        "name": "Charlotte Poire",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Poire",
+        "group": "10-19-0"
+      },
+      {
+        "name": "Sea Bunny",
+        "alias": null,
+        "note": null,
+        "source_text": "Sea Bunny",
+        "group": null
+      },
+      {
+        "name": "Charlotte Anglais",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Anglais",
+        "group": null
+      }
+    ],
+    "10-20": [
+      {
+        "name": "Tyrannosaurus",
+        "alias": null,
+        "note": null,
+        "source_text": "Tyrannosaurus",
+        "group": null
+      }
+    ],
+    "10-21": [
+      {
+        "name": "Vito",
+        "alias": null,
+        "note": null,
+        "source_text": "Vito",
+        "group": null
+      },
+      {
+        "name": "Sam",
+        "alias": null,
+        "note": null,
+        "source_text": "Sam",
+        "group": null
+      }
+    ],
+    "10-22": [
+      {
+        "name": "Sugar",
+        "alias": null,
+        "note": null,
+        "source_text": "Sugar",
+        "group": null
+      },
+      {
+        "name": "Drip",
+        "alias": null,
+        "note": null,
+        "source_text": "Drip",
+        "group": null
+      }
+    ],
+    "10-23": [
+      {
+        "name": "Donquixote Doflamingo",
+        "alias": null,
+        "note": null,
+        "source_text": "Donquixote Doflamingo",
+        "group": null
+      },
+      {
+        "name": "Shinobu",
+        "alias": null,
+        "note": null,
+        "source_text": "Shinobu",
+        "group": null
+      }
+    ],
+    "10-24": [
+      {
+        "name": "X Drake",
+        "alias": "Diez Drake",
+        "note": null,
+        "source_text": "X Drake (Diez Drake)",
+        "group": null
+      }
+    ],
+    "10-25": [
+      {
+        "name": "Kuroobi",
+        "alias": null,
+        "note": null,
+        "source_text": "Kuroobi",
+        "group": null
+      },
+      {
+        "name": "Koala",
+        "alias": null,
+        "note": null,
+        "source_text": "Koala",
+        "group": null
+      }
+    ],
+    "10-26": [
+      {
+        "name": "Belladonna",
+        "alias": null,
+        "note": null,
+        "source_text": "Belladonna",
+        "group": null
+      },
+      {
+        "name": "Denjiro",
+        "alias": null,
+        "note": null,
+        "source_text": "Denjiro",
+        "group": null
+      }
+    ],
+    "10-27": [
+      {
+        "name": "Kagikko",
+        "alias": null,
+        "note": null,
+        "source_text": "Kagikko",
+        "group": null
+      }
+    ],
+    "10-28": [
+      {
+        "name": "Scarlet",
+        "alias": null,
+        "note": null,
+        "source_text": "Scarlet",
+        "group": null
+      }
+    ],
+    "10-29": [
+      {
+        "name": "Charlotte Snack",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Snack",
+        "group": "10-29-0"
+      },
+      {
+        "name": "Charlotte Bavarois",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Bavarois",
+        "group": "10-29-0"
+      },
+      {
+        "name": "Turco",
+        "alias": null,
+        "note": null,
+        "source_text": "Turco",
+        "group": null
+      }
+    ],
+    "10-30": [
+      {
+        "name": "Domino",
+        "alias": null,
+        "note": null,
+        "source_text": "Domino",
+        "group": null
+      },
+      {
+        "name": "Magra",
+        "alias": null,
+        "note": null,
+        "source_text": "Magra",
+        "group": null
+      }
+    ],
+    "10-31": [
+      {
+        "name": "Sherrie",
+        "alias": null,
+        "note": null,
+        "source_text": "Sherrie",
+        "group": null
+      },
+      {
+        "name": "Whitey Bay",
+        "alias": null,
+        "note": null,
+        "source_text": "Whitey Bay",
+        "group": null
+      },
+      {
+        "name": "Monstar",
+        "alias": null,
+        "note": null,
+        "source_text": "Monstar",
+        "group": null
+      }
+    ],
+    "11-01": [
+      {
+        "name": "Dalmatian",
+        "alias": null,
+        "note": null,
+        "source_text": "Dalmatian",
+        "group": null
+      },
+      {
+        "name": "Wanda",
+        "alias": null,
+        "note": null,
+        "source_text": "Wanda",
+        "group": null
+      }
+    ],
+    "11-02": [
+      {
+        "name": "Marie",
+        "alias": null,
+        "note": null,
+        "source_text": "Marie",
+        "group": null
+      },
+      {
+        "name": "Judy",
+        "alias": null,
+        "note": null,
+        "source_text": "Judy",
+        "group": null
+      },
+      {
+        "name": "Koncelot",
+        "alias": null,
+        "note": null,
+        "source_text": "Koncelot",
+        "group": null
+      }
+    ],
+    "11-03": [
+      {
+        "name": "Camie",
+        "alias": null,
+        "note": null,
+        "source_text": "Camie",
+        "group": null
+      },
+      {
+        "name": "Yamato",
+        "alias": null,
+        "note": null,
+        "source_text": "Yamato",
+        "group": null
+      }
+    ],
+    "11-04": [
+      {
+        "name": "Kashigami",
+        "alias": null,
+        "note": null,
+        "source_text": "Kashigami",
+        "group": null
+      }
+    ],
+    "11-05": [
+      {
+        "name": "Fisher Tiger",
+        "alias": null,
+        "note": null,
+        "source_text": "Fisher Tiger",
+        "group": null
+      }
+    ],
+    "11-06": [
+      {
+        "name": "Ryuuma",
+        "alias": null,
+        "note": null,
+        "source_text": "Ryuuma",
+        "group": null
+      }
+    ],
+    "11-07": [
+      {
+        "name": "Holy",
+        "alias": null,
+        "note": null,
+        "source_text": "Holy",
+        "group": null
+      },
+      {
+        "name": "Cocoa",
+        "alias": null,
+        "note": null,
+        "source_text": "Cocoa",
+        "group": null
+      }
+    ],
+    "11-08": [
+      {
+        "name": "Carue",
+        "alias": null,
+        "note": null,
+        "source_text": "Carue",
+        "group": null
+      },
+      {
+        "name": "Shamba",
+        "alias": null,
+        "note": null,
+        "source_text": "Shamba",
+        "group": null
+      }
+    ],
+    "11-09": [
+      {
+        "name": "Albion",
+        "alias": null,
+        "note": null,
+        "source_text": "Albion",
+        "group": null
+      },
+      {
+        "name": "St. Jalmack",
+        "alias": null,
+        "note": null,
+        "source_text": "St. Jalmack",
+        "group": null
+      },
+      {
+        "name": "Benn Beckman",
+        "alias": null,
+        "note": null,
+        "source_text": "Benn Beckman",
+        "group": null
+      }
+    ],
+    "11-10": [
+      {
+        "name": "Yosaku",
+        "alias": null,
+        "note": null,
+        "source_text": "Yosaku",
+        "group": null
+      }
+    ],
+    "11-11": [
+      {
+        "name": "Jozu",
+        "alias": null,
+        "note": null,
+        "source_text": "Jozu",
+        "group": null
+      },
+      {
+        "name": "Zeo",
+        "alias": null,
+        "note": null,
+        "source_text": "Zeo",
+        "group": null
+      },
+      {
+        "name": "Soro",
+        "alias": null,
+        "note": null,
+        "source_text": "Soro",
+        "group": null
+      },
+      {
+        "name": "Roronoa Zoro",
+        "alias": null,
+        "note": null,
+        "source_text": "Roronoa Zoro",
+        "group": null
+      }
+    ],
+    "11-12": [
+      {
+        "name": "Johnny",
+        "alias": null,
+        "note": null,
+        "source_text": "Johnny",
+        "group": null
+      }
+    ],
+    "11-13": [
+      {
+        "name": "Kingdew",
+        "alias": null,
+        "note": null,
+        "source_text": "Kingdew",
+        "group": null
+      }
+    ],
+    "11-14": [
+      {
+        "name": "Raideen",
+        "alias": null,
+        "note": null,
+        "source_text": "Raideen",
+        "group": null
+      },
+      {
+        "name": "Negikuma Maria",
+        "alias": null,
+        "note": null,
+        "source_text": "Negikuma Maria",
+        "group": null
+      },
+      {
+        "name": "Coffee Monkeys",
+        "alias": null,
+        "note": null,
+        "source_text": "Coffee Monkeys",
+        "group": null
+      }
+    ],
+    "11-15": [
+      {
+        "name": "Ririka",
+        "alias": null,
+        "note": null,
+        "source_text": "Ririka",
+        "group": null
+      }
+    ],
+    "11-16": [
+      {
+        "name": "Porche",
+        "alias": null,
+        "note": null,
+        "source_text": "Porche",
+        "group": null
+      }
+    ],
+    "11-17": [
+      {
+        "name": "Charlotte Mobile",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Mobile",
+        "group": "11-17-0"
+      },
+      {
+        "name": "Charlotte Marble",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Marble",
+        "group": "11-17-0"
+      },
+      {
+        "name": "Charlotte Myukuru",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Myukuru",
+        "group": "11-17-0"
+      },
+      {
+        "name": "Charlotte Maple",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Maple",
+        "group": "11-17-0"
+      },
+      {
+        "name": "Moodie",
+        "alias": null,
+        "note": null,
+        "source_text": "Moodie",
+        "group": null
+      }
+    ],
+    "11-18": [
+      {
+        "name": "Higuma",
+        "alias": null,
+        "note": null,
+        "source_text": "Higuma",
+        "group": null
+      }
+    ],
+    "11-19": [
+      {
+        "name": "Brontosaurus",
+        "alias": null,
+        "note": null,
+        "source_text": "Brontosaurus",
+        "group": null
+      },
+      {
+        "name": "Onimaru",
+        "alias": null,
+        "note": null,
+        "source_text": "Onimaru",
+        "group": null
+      }
+    ],
+    "11-20": [
+      {
+        "name": "Bepo",
+        "alias": null,
+        "note": null,
+        "source_text": "Bepo",
+        "group": null
+      }
+    ],
+    "11-21": [
+      {
+        "name": "Mummy Mee",
+        "alias": null,
+        "note": null,
+        "source_text": "Mummy Mee",
+        "group": null
+      },
+      {
+        "name": "Mr. 11",
+        "alias": null,
+        "note": null,
+        "source_text": "Mr. 11",
+        "group": null
+      }
+    ],
+    "11-22": [
+      {
+        "name": "Shushu",
+        "alias": null,
+        "note": null,
+        "source_text": "Shushu",
+        "group": null
+      },
+      {
+        "name": "Nekomamushi",
+        "alias": null,
+        "note": null,
+        "source_text": "Nekomamushi",
+        "group": null
+      }
+    ],
+    "11-23": [
+      {
+        "name": "Ankoro",
+        "alias": null,
+        "note": null,
+        "source_text": "Ankoro",
+        "group": null
+      },
+      {
+        "name": "Kizaru",
+        "alias": "Borsalino",
+        "note": null,
+        "source_text": "Kizaru (Borsalino)",
+        "group": null
+      },
+      {
+        "name": "Kentauros",
+        "alias": null,
+        "note": null,
+        "source_text": "Kentauros",
+        "group": null
+      }
+    ],
+    "11-24": [
+      {
+        "name": "Ran",
+        "alias": null,
+        "note": null,
+        "source_text": "Ran",
+        "group": null
+      }
+    ],
+    "11-25": [
+      {
+        "name": "Charlotte Katakuri",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Katakuri",
+        "group": "11-25-0"
+      },
+      {
+        "name": "Charlotte Daifuku",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Daifuku",
+        "group": "11-25-0"
+      },
+      {
+        "name": "Charlotte Oven",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Oven",
+        "group": "11-25-0"
+      }
+    ],
+    "11-26": [
+      {
+        "name": "Goro",
+        "alias": null,
+        "note": null,
+        "source_text": "Goro",
+        "group": null
+      }
+    ],
+    "11-27": [
+      {
+        "name": "Blue Gilly",
+        "alias": null,
+        "note": null,
+        "source_text": "Blue Gilly",
+        "group": null
+      }
+    ],
+    "11-28": [
+      {
+        "name": "Tank Lepanto",
+        "alias": null,
+        "note": null,
+        "source_text": "Tank Lepanto",
+        "group": null
+      }
+    ],
+    "11-29": [
+      {
+        "name": "Agyo",
+        "alias": null,
+        "note": null,
+        "source_text": "Agyo",
+        "group": null
+      },
+      {
+        "name": "Cerberus",
+        "alias": null,
+        "note": null,
+        "source_text": "Cerberus",
+        "group": null
+      },
+      {
+        "name": "Bacura",
+        "alias": null,
+        "note": null,
+        "source_text": "Bacura",
+        "group": null
+      }
+    ],
+    "11-30": [
+      {
+        "name": "Vinsmoke Reiju",
+        "alias": null,
+        "note": null,
+        "source_text": "Vinsmoke Reiju",
+        "group": null
+      }
+    ],
+    "12-01": [
+      {
+        "name": "Heat",
+        "alias": null,
+        "note": null,
+        "source_text": "Heat",
+        "group": null
+      },
+      {
+        "name": "Ipponume",
+        "alias": null,
+        "note": null,
+        "source_text": "Ipponume",
+        "group": null
+      }
+    ],
+    "12-02": [
+      {
+        "name": "Napoleon",
+        "alias": null,
+        "note": null,
+        "source_text": "Napoleon",
+        "group": null
+      },
+      {
+        "name": "Kaneshiro",
+        "alias": null,
+        "note": null,
+        "source_text": "Kaneshiro",
+        "group": null
+      },
+      {
+        "name": "Charlotte Newichi",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Newichi",
+        "group": "12-02-0"
+      },
+      {
+        "name": "Charlotte Newji",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Newji",
+        "group": "12-02-0"
+      },
+      {
+        "name": "Charlotte Newsan",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Newsan",
+        "group": "12-02-0"
+      },
+      {
+        "name": "Charlotte Newshi",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Newshi",
+        "group": "12-02-0"
+      },
+      {
+        "name": "Charlotte Newgo",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Newgo",
+        "group": "12-02-0"
+      },
+      {
+        "name": "Charlotte Nutmeg",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Nutmeg",
+        "group": "12-02-0"
+      },
+      {
+        "name": "Charlotte Akimeg",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Akimeg",
+        "group": "12-02-0"
+      },
+      {
+        "name": "Charlotte Allmeg",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Allmeg",
+        "group": "12-02-0"
+      },
+      {
+        "name": "Charlotte Harumeg",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Harumeg",
+        "group": "12-02-0"
+      },
+      {
+        "name": "Charlotte Fuyumeg",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Fuyumeg",
+        "group": "12-02-0"
+      }
+    ],
+    "12-03": [
+      {
+        "name": "Bell-mère",
+        "alias": null,
+        "note": null,
+        "source_text": "Bell-mère",
+        "group": null
+      }
+    ],
+    "12-04": [
+      {
+        "name": "Jorl",
+        "alias": null,
+        "note": null,
+        "source_text": "Jorl",
+        "group": null
+      }
+    ],
+    "12-05": [
+      {
+        "name": "Indigo",
+        "alias": null,
+        "note": null,
+        "source_text": "Indigo",
+        "group": null
+      }
+    ],
+    "12-06": [
+      {
+        "name": "Igaram",
+        "alias": null,
+        "note": null,
+        "source_text": "Igaram",
+        "group": null
+      }
+    ],
+    "12-07": [
+      {
+        "name": "Ikkaku",
+        "alias": null,
+        "note": null,
+        "source_text": "Ikkaku",
+        "group": null
+      },
+      {
+        "name": "Yuda Snakes",
+        "alias": null,
+        "note": null,
+        "source_text": "Yuda Snakes",
+        "group": null
+      }
+    ],
+    "12-08": [
+      {
+        "name": "Jarl",
+        "alias": null,
+        "note": null,
+        "source_text": "Jarl",
+        "group": null
+      },
+      {
+        "name": "Maskeredomo Bird",
+        "alias": null,
+        "note": null,
+        "source_text": "Maskeredomo Bird",
+        "group": null
+      }
+    ],
+    "12-09": [
+      {
+        "name": "Tacos",
+        "alias": null,
+        "note": null,
+        "source_text": "Tacos",
+        "group": null
+      },
+      {
+        "name": "Packy",
+        "alias": null,
+        "note": null,
+        "source_text": "Packy",
+        "group": null
+      },
+      {
+        "name": "Kelly Funk",
+        "alias": null,
+        "note": null,
+        "source_text": "Kelly Funk",
+        "group": null
+      }
+    ],
+    "12-10": [
+      {
+        "name": "Edward Weevil",
+        "alias": null,
+        "note": null,
+        "source_text": "Edward Weevil",
+        "group": null
+      },
+      {
+        "name": "Charlotte Mondée",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Mondée",
+        "group": "12-10-0"
+      },
+      {
+        "name": "Charlotte Amande",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Amande",
+        "group": "12-10-0"
+      },
+      {
+        "name": "Charlotte Hachée",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Hachée",
+        "group": "12-10-0"
+      },
+      {
+        "name": "Charlotte Effilée",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Effilée",
+        "group": "12-10-0"
+      }
+    ],
+    "12-11": [
+      {
+        "name": "Scotch",
+        "alias": null,
+        "note": null,
+        "source_text": "Scotch",
+        "group": "12-11-0"
+      },
+      {
+        "name": "Rock",
+        "alias": "Yeti Cool Brothers",
+        "note": null,
+        "source_text": "Rock (Yeti Cool Brothers)",
+        "group": "12-11-0"
+      },
+      {
+        "name": "Mr. Shimizu",
+        "alias": null,
+        "note": null,
+        "source_text": "Mr. Shimizu",
+        "group": null
+      },
+      {
+        "name": "Speed",
+        "alias": null,
+        "note": null,
+        "source_text": "Speed",
+        "group": null
+      }
+    ],
+    "12-12": [
+      {
+        "name": "Chinjao",
+        "alias": null,
+        "note": null,
+        "source_text": "Chinjao",
+        "group": null
+      },
+      {
+        "name": "Nezumi",
+        "alias": null,
+        "note": null,
+        "source_text": "Nezumi",
+        "group": null
+      },
+      {
+        "name": "King",
+        "alias": null,
+        "note": null,
+        "source_text": "King",
+        "group": null
+      }
+    ],
+    "12-13": [
+      {
+        "name": "St. Mjosgard",
+        "alias": null,
+        "note": null,
+        "source_text": "St. Mjosgard",
+        "group": null
+      },
+      {
+        "name": "Faust",
+        "alias": null,
+        "note": null,
+        "source_text": "Faust",
+        "group": null
+      }
+    ],
+    "12-14": [
+      {
+        "name": "Pica",
+        "alias": null,
+        "note": null,
+        "source_text": "Pica",
+        "group": null
+      }
+    ],
+    "12-15": [
+      {
+        "name": "Charlotte Noisette",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Noisette",
+        "group": null
+      },
+      {
+        "name": "Nerine",
+        "alias": null,
+        "note": null,
+        "source_text": "Nerine",
+        "group": null
+      }
+    ],
+    "12-16": [
+      {
+        "name": "Inuppe",
+        "alias": null,
+        "note": null,
+        "source_text": "Inuppe",
+        "group": null
+      },
+      {
+        "name": "Charlotte Moscato",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Moscato",
+        "group": "12-16-0"
+      },
+      {
+        "name": "Charlotte Mash",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Mash",
+        "group": "12-16-0"
+      },
+      {
+        "name": "Charlotte Cornstarch",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Cornstarch",
+        "group": "12-16-0"
+      }
+    ],
+    "12-17": [
+      {
+        "name": "Banchina",
+        "alias": null,
+        "note": null,
+        "source_text": "Banchina",
+        "group": null
+      },
+      {
+        "name": "Yuki",
+        "alias": null,
+        "note": null,
+        "source_text": "Yuki",
+        "group": null
+      }
+    ],
+    "12-18": [
+      {
+        "name": "Zunisha",
+        "alias": null,
+        "note": null,
+        "source_text": "Zunisha",
+        "group": null
+      },
+      {
+        "name": "Byron",
+        "alias": null,
+        "note": null,
+        "source_text": "Byron",
+        "group": null
+      }
+    ],
+    "12-19": [
+      {
+        "name": "Hogback",
+        "alias": null,
+        "note": null,
+        "source_text": "Hogback",
+        "group": null
+      },
+      {
+        "name": "Dogra",
+        "alias": null,
+        "note": null,
+        "source_text": "Dogra",
+        "group": null
+      }
+    ],
+    "12-20": [
+      {
+        "name": "Charlotte Mozart",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Mozart",
+        "group": "12-20-0"
+      },
+      {
+        "name": "Charlotte Marnier",
+        "alias": null,
+        "note": null,
+        "source_text": "Charlotte Marnier",
+        "group": "12-20-0"
+      },
+      {
+        "name": "Louis Arnote",
+        "alias": null,
+        "note": null,
+        "source_text": "Louis Arnote",
+        "group": null
+      }
+    ],
+    "12-21": [
+      {
+        "name": "Mother Carmel",
+        "alias": null,
+        "note": null,
+        "source_text": "Mother Carmel",
+        "group": null
+      }
+    ],
+    "12-22": [
+      {
+        "name": "Gan Fall",
+        "alias": null,
+        "note": null,
+        "source_text": "Gan Fall",
+        "group": null
+      },
+      {
+        "name": "Miyagi",
+        "alias": null,
+        "note": null,
+        "source_text": "Miyagi",
+        "group": null
+      }
+    ],
+    "12-23": [
+      {
+        "name": "Kouzuki Hiyori",
+        "alias": null,
+        "note": null,
+        "source_text": "Kouzuki Hiyori",
+        "group": null
+      }
+    ],
+    "12-24": [
+      {
+        "name": "Tony Tony Chopper",
+        "alias": null,
+        "note": null,
+        "source_text": "Tony Tony Chopper",
+        "group": null
+      }
+    ],
+    "12-25": [
+      {
+        "name": "Jesus Burgess",
+        "alias": null,
+        "note": null,
+        "source_text": "Jesus Burgess",
+        "group": null
+      },
+      {
+        "name": "Miss Merry Christmas",
+        "alias": "Drophy",
+        "note": null,
+        "source_text": "Miss Merry Christmas (Drophy)",
+        "group": null
+      }
+    ],
+    "12-26": [
+      {
+        "name": "Charlotte Broyé",
+        "alias": null,
+        "note": "a continuity mistake, given how she’s Brûlée’s twin",
+        "source_text": "Charlotte Broyé (a continuity mistake, given how she’s Brûlée’s twin)",
+        "group": null
+      },
+      {
+        "name": "Mashikaku",
+        "alias": null,
+        "note": null,
+        "source_text": "Mashikaku",
+        "group": null
+      }
+    ],
+    "12-27": [
+      {
+        "name": "Lines",
+        "alias": null,
+        "note": null,
+        "source_text": "Lines",
+        "group": null
+      },
+      {
+        "name": "Akumai",
+        "alias": null,
+        "note": null,
+        "source_text": "Akumai",
+        "group": null
+      }
+    ],
+    "12-28": [
+      {
+        "name": "Jango",
+        "alias": null,
+        "note": null,
+        "source_text": "Jango",
+        "group": null
+      }
+    ],
+    "12-29": [
+      {
+        "name": "Du Feld",
+        "alias": null,
+        "note": null,
+        "source_text": "Du Feld",
+        "group": null
+      }
+    ],
+    "12-30": [
+      {
+        "name": "Absalom",
+        "alias": null,
+        "note": null,
+        "source_text": "Absalom",
+        "group": null
+      }
+    ],
+    "12-31": [
+      {
+        "name": "Gol D. Roger",
+        "alias": null,
+        "note": null,
+        "source_text": "Gol D. Roger",
+        "group": null
+      }
+    ]
+  }
+}

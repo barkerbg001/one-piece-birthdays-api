@@ -3,8 +3,38 @@
   "label": "October 2nd",
   "month": 10,
   "day": 2,
-  "characters": [
+  "names": [
     "Dorry",
     "Tonjit"
+  ],
+  "characters": [
+    {
+      "id": "dorry",
+      "name": "Dorry",
+      "display_name": "Dorry",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Dorry_Anime_Infobox.png/revision/latest/scale-to-width-down/318?cb=20250927120409",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Dorry_Anime_Infobox.png/revision/latest?cb=20250927120409",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Dorry",
+      "epithet": "Dorry the Blue Ogre",
+      "affiliation": "Giant Warrior Pirates",
+      "api": "v1/characters/dorry.json"
+    },
+    {
+      "id": "tonjit",
+      "name": "Tonjit",
+      "display_name": "Tonjit",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Tonjit_Anime_Infobox.png/revision/latest/scale-to-width-down/178?cb=20251102175624",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Tonjit_Anime_Infobox.png/revision/latest?cb=20251102175624",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Tonjit",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/tonjit.json"
+    }
   ]
 }

@@ -1,0 +1,75 @@
+{
+  "id": "donquixote-rosinante",
+  "name": "Donquixote Rosinante",
+  "display_name": "Donquixote Rosinante (Corazon)",
+  "alias": "Corazon",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-15",
+      "label": "July 15th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/71/Donquixote_Rosinante_Anime_Infobox.png/revision/latest?cb=20150802160734",
+    "width": 1280,
+    "height": 1897
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/71/Donquixote_Rosinante_Anime_Infobox.png/revision/latest/scale-to-width-down/270?cb=20150802160734",
+    "width": 270,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Donquixote Rosinante",
+    "url": "https://onepiece.fandom.com/wiki/Donquixote_Rosinante"
+  },
+  "info": {
+    "japanese_name": "ドンキホーテ・ロシナンテ",
+    "romanized_name": "Donkihōte Roshinante",
+    "official_english_name": "Don Quixote Rocinante (Viz); Donquixote Rosinante (Funimation subs); Don Quixote Rosinante (Funimation dub)",
+    "debut": [
+      "Chapter 761",
+      "Episode 686"
+    ],
+    "affiliations": [
+      "Marines",
+      "Donquixote Pirates (undercover)",
+      "World Government (former)"
+    ],
+    "occupations": [
+      "Marine Commander",
+      "Pirate Elite Officer (undercover)",
+      "World Noble (former)"
+    ],
+    "origin": "Red Line (Mary Geoise)",
+    "residence": [
+      "Mary Geoise (former)",
+      "Spider Miles (former)"
+    ],
+    "aliases": [
+      "Corazon"
+    ],
+    "status": "2",
+    "birthday": "July 15th",
+    "height": "293 cm (9'7½\")",
+    "blood_type": "S",
+    "devil_fruit": "Nagi Nagi no Mi",
+    "devil_fruit_english": "Calm-Calm Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

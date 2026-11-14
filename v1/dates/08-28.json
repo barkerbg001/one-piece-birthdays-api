@@ -3,7 +3,23 @@
   "label": "August 28th",
   "month": 8,
   "day": 28,
-  "characters": [
+  "names": [
     "Hannyabal"
+  ],
+  "characters": [
+    {
+      "id": "hannyabal",
+      "name": "Hannyabal",
+      "display_name": "Hannyabal",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/86/Hannyabal_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/251?cb=20230920224617",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/86/Hannyabal_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20230920224617",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hannyabal",
+      "epithet": null,
+      "affiliation": "Impel Down",
+      "api": "v1/characters/hannyabal.json"
+    }
   ]
 }

@@ -3,8 +3,38 @@
   "label": "September 28th",
   "month": 9,
   "day": 28,
-  "characters": [
+  "names": [
     "Jack",
     "Stalker"
+  ],
+  "characters": [
+    {
+      "id": "jack",
+      "name": "Jack",
+      "display_name": "Jack",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Jack_Anime_Infobox.png/revision/latest/scale-to-width-down/316?cb=20161009223938",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Jack_Anime_Infobox.png/revision/latest?cb=20161009223938",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Jack",
+      "epithet": "\"Jack the Drought\"",
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/jack.json"
+    },
+    {
+      "id": "stalker",
+      "name": "Stalker",
+      "display_name": "Stalker",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Stalker_Anime_Infobox.png/revision/latest/scale-to-width-down/315?cb=20251203234037",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Stalker_Anime_Infobox.png/revision/latest?cb=20251203234037",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Stalker",
+      "epithet": null,
+      "affiliation": "Marines G-1 Branch",
+      "api": "v1/characters/stalker.json"
+    }
   ]
 }

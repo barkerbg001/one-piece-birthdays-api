@@ -1,0 +1,62 @@
+{
+  "id": "pandaman",
+  "name": "Pandaman",
+  "display_name": "Pandaman",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-29",
+      "label": "February 29th (Leap Day)"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Pandaman_Manga_Infobox.png/revision/latest?cb=20231114045015",
+    "width": 789,
+    "height": 1598
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Pandaman_Manga_Infobox.png/revision/latest/scale-to-width-down/197?cb=20231114045015",
+    "width": 197,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Pandaman",
+    "url": "https://onepiece.fandom.com/wiki/Pandaman"
+  },
+  "info": {
+    "japanese_name": "パンダマン",
+    "romanized_name": "Pandaman",
+    "official_english_name": "Panda Man; Pandaman (WT100)",
+    "debut": [
+      "Chapter 44",
+      "We Are!",
+      "Episode 16"
+    ],
+    "occupations": [
+      "Wrestler"
+    ],
+    "origin": "Tibet",
+    "residence": [
+      "Panda Island (rumored)"
+    ],
+    "age": "Even he does not know",
+    "birthday": "February 29th",
+    "height": "200 cm (6'7\")",
+    "bounty": "3,333,333"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

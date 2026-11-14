@@ -3,9 +3,53 @@
   "label": "November 2nd",
   "month": 11,
   "day": 2,
-  "characters": [
+  "names": [
     "Marie",
     "Judy",
     "Koncelot"
+  ],
+  "characters": [
+    {
+      "id": "marie",
+      "name": "Marie",
+      "display_name": "Marie",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f4/Marie_Anime_Infobox.png/revision/latest/scale-to-width-down/228?cb=20100123233337",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f4/Marie_Anime_Infobox.png/revision/latest?cb=20100123233337",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Marie",
+      "epithet": null,
+      "affiliation": "Saint Charlos",
+      "api": "v1/characters/marie.json"
+    },
+    {
+      "id": "judy",
+      "name": "Judy",
+      "display_name": "Judy",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Judy_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20241022125941",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Judy_Anime_Infobox.png/revision/latest?cb=20241022125941",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Judy",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/judy.json"
+    },
+    {
+      "id": "koncelot",
+      "name": "Koncelot",
+      "display_name": "Koncelot",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Concelot_Anime_Infobox.png/revision/latest/scale-to-width-down/207?cb=20190703214546",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Concelot_Anime_Infobox.png/revision/latest?cb=20190703214546",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Concelot",
+      "epithet": null,
+      "affiliation": "Mokomo Dukedom",
+      "api": "v1/characters/koncelot.json"
+    }
   ]
 }

@@ -1,0 +1,60 @@
+{
+  "id": "magra",
+  "name": "Magra",
+  "display_name": "Magra",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-30",
+      "label": "October 30th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/06/Magra_Anime_Infobox.png/revision/latest?cb=20200114164801",
+    "width": 355,
+    "height": 564
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/06/Magra_Anime_Infobox.png/revision/latest/scale-to-width-down/252?cb=20200114164801",
+    "width": 252,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Magra",
+    "url": "https://onepiece.fandom.com/wiki/Magra"
+  },
+  "info": {
+    "japanese_name": "マグラ",
+    "romanized_name": "Magura",
+    "official_english_name": "Magura (VIZ); Magra (Funimation)",
+    "debut": [
+      "Chapter 582",
+      "Episode 493"
+    ],
+    "affiliations": [
+      "Dadan Family"
+    ],
+    "occupations": [
+      "Bandit"
+    ],
+    "residence": [
+      "Mt. Colubo"
+    ],
+    "birthday": "October 30th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

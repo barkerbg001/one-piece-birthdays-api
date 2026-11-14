@@ -3,7 +3,23 @@
   "label": "July 24th",
   "month": 7,
   "day": 24,
-  "characters": [
+  "names": [
     "Leo"
+  ],
+  "characters": [
+    {
+      "id": "leo",
+      "name": "Leo",
+      "display_name": "Leo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/be/Leo_Anime_Infobox.png/revision/latest?cb=20200422024534",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/be/Leo_Anime_Infobox.png/revision/latest?cb=20200422024534",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Leo",
+      "epithet": "\"Warrior\"",
+      "affiliation": "Tontatta Kingdom",
+      "api": "v1/characters/leo.json"
+    }
   ]
 }

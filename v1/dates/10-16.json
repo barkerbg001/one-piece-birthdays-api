@@ -3,7 +3,23 @@
   "label": "October 16th",
   "month": 10,
   "day": 16,
-  "characters": [
+  "names": [
     "Taroimo"
+  ],
+  "characters": [
+    {
+      "id": "taroimo",
+      "name": "Taroimo",
+      "display_name": "Taroimo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Taroimo_Anime_Infobox.png/revision/latest?cb=20110918030150",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Taroimo_Anime_Infobox.png/revision/latest?cb=20110918030150",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Taroimo",
+      "epithet": null,
+      "affiliation": "Karakuri Island",
+      "api": "v1/characters/taroimo.json"
+    }
   ]
 }

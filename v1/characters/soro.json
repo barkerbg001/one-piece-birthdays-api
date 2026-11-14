@@ -1,0 +1,62 @@
+{
+  "id": "soro",
+  "name": "Soro",
+  "display_name": "Soro",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-11",
+      "label": "November 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/22/Soro_Anime_Infobox.png/revision/latest?cb=20260816222744",
+    "width": 806,
+    "height": 528
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/22/Soro_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20260816222744",
+    "width": 400,
+    "height": 262
+  },
+  "wiki": {
+    "title": "Soro",
+    "url": "https://onepiece.fandom.com/wiki/Soro"
+  },
+  "info": {
+    "japanese_name": "ソーロ",
+    "romanized_name": "Sōro",
+    "official_english_name": "Solo (WT100); Snuggles (Odex)",
+    "debut": [
+      "Chapter 3",
+      "Episode 2"
+    ],
+    "affiliations": [
+      "Helmeppo"
+    ],
+    "occupations": [
+      "Pet"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Shells Town"
+    ],
+    "status": "2",
+    "birthday": "November 11th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

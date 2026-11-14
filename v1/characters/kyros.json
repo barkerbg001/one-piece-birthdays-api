@@ -1,0 +1,67 @@
+{
+  "id": "kyros",
+  "name": "Kyros",
+  "display_name": "Kyros",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-22",
+      "label": "September 22nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Kyros_Anime_Infobox.png/revision/latest?cb=20221018190117",
+    "width": 1920,
+    "height": 4196
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Kyros_Anime_Infobox.png/revision/latest/scale-to-width-down/183?cb=20221018190117",
+    "width": 183,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kyros",
+    "url": "https://onepiece.fandom.com/wiki/Kyros"
+  },
+  "info": {
+    "japanese_name": "キュロス",
+    "romanized_name": "Kyurosu",
+    "debut": [
+      "Chapter 702",
+      "Episode 631"
+    ],
+    "affiliations": [
+      "Corrida Colosseum (former)",
+      "Riku Family"
+    ],
+    "occupations": [
+      "Gladiator (former)",
+      "Riku Royal Army Captain (former)"
+    ],
+    "origin": "Grand Line (Dressrosa)",
+    "aliases": [
+      "\"Thunder Soldier of Rage\"",
+      "\"The Invincible Gladiator\""
+    ],
+    "age": "44",
+    "birthday": "September 22nd",
+    "height": "298 cm (9'9\")",
+    "blood_type": "S",
+    "bounty": "Unknown (as Thunder Soldier)"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

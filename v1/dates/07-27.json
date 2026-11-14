@@ -3,8 +3,38 @@
   "label": "July 27th",
   "month": 7,
   "day": 27,
-  "characters": [
+  "names": [
     "Thalassa Lucas",
     "Kikyo"
+  ],
+  "characters": [
+    {
+      "id": "thalassa-lucas",
+      "name": "Thalassa Lucas",
+      "display_name": "Thalassa Lucas",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Thalassa_Lucas_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240804222849",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Thalassa_Lucas_Anime_Infobox.png/revision/latest?cb=20240804222849",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Thalassa_Lucas",
+      "epithet": null,
+      "affiliation": "Ilisia Kingdom",
+      "api": "v1/characters/thalassa-lucas.json"
+    },
+    {
+      "id": "kikyo",
+      "name": "Kikyo",
+      "display_name": "Kikyo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d5/Kikyo_Anime_Infobox.png/revision/latest/scale-to-width-down/263?cb=20131126094301",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d5/Kikyo_Anime_Infobox.png/revision/latest?cb=20131126094301",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kikyo",
+      "epithet": null,
+      "affiliation": "Kuja",
+      "api": "v1/characters/kikyo.json"
+    }
   ]
 }

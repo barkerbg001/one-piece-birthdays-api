@@ -3,7 +3,23 @@
   "label": "November 12th",
   "month": 11,
   "day": 12,
-  "characters": [
+  "names": [
     "Johnny"
+  ],
+  "characters": [
+    {
+      "id": "johnny",
+      "name": "Johnny",
+      "display_name": "Johnny",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Johnny_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/192?cb=20231120150337",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Johnny_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20231120150337",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Johnny",
+      "epithet": null,
+      "affiliation": "Yosaku",
+      "api": "v1/characters/johnny.json"
+    }
   ]
 }

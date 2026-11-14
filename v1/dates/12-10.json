@@ -3,11 +3,99 @@
   "label": "December 10th",
   "month": 12,
   "day": 10,
-  "characters": [
+  "names": [
     "Edward Weevil",
     "Charlotte Mondée",
     "Charlotte Amande",
     "Charlotte Hachée",
     "Charlotte Effilée"
+  ],
+  "characters": [
+    {
+      "id": "edward-weevil",
+      "name": "Edward Weevil",
+      "display_name": "Edward Weevil",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/be/Edward_Weevil_Anime_Infobox.png/revision/latest/scale-to-width-down/387?cb=20160807113654",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/be/Edward_Weevil_Anime_Infobox.png/revision/latest?cb=20160807113654",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Edward_Weevil",
+      "epithet": null,
+      "affiliation": "Seven Warlords of the Sea (former)",
+      "api": "v1/characters/edward-weevil.json"
+    },
+    {
+      "id": "charlotte-mondee",
+      "name": "Charlotte Mondée",
+      "display_name": "Charlotte Mondée",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-amande",
+        "charlotte-hachee",
+        "charlotte-effilee"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Charlotte_Mond%C3%A9e_Anime_Infobox.png/revision/latest/scale-to-width-down/390?cb=20181028141559",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Charlotte_Mond%C3%A9e_Anime_Infobox.png/revision/latest?cb=20181028141559",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Mond%C3%A9e",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-mondee.json"
+    },
+    {
+      "id": "charlotte-amande",
+      "name": "Charlotte Amande",
+      "display_name": "Charlotte Amande",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-mondee",
+        "charlotte-hachee",
+        "charlotte-effilee"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Charlotte_Amande_Anime_Infobox.png/revision/latest/scale-to-width-down/370?cb=20171016155845",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Charlotte_Amande_Anime_Infobox.png/revision/latest?cb=20171016155845",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Amande",
+      "epithet": "\"Demon Lady\"",
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-amande.json"
+    },
+    {
+      "id": "charlotte-hachee",
+      "name": "Charlotte Hachée",
+      "display_name": "Charlotte Hachée",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-mondee",
+        "charlotte-amande",
+        "charlotte-effilee"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/aa/Charlotte_Hach%C3%A9e_Manga_Infobox.png/revision/latest/scale-to-width-down/189?cb=20181020074924",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/aa/Charlotte_Hach%C3%A9e_Manga_Infobox.png/revision/latest?cb=20181020074924",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Hach%C3%A9e",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-hachee.json"
+    },
+    {
+      "id": "charlotte-effilee",
+      "name": "Charlotte Effilée",
+      "display_name": "Charlotte Effilée",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-mondee",
+        "charlotte-amande",
+        "charlotte-hachee"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2a/Charlotte_Effil%C3%A9e_Anime_Infobox.png/revision/latest/scale-to-width-down/269?cb=20181028095212",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/2a/Charlotte_Effil%C3%A9e_Anime_Infobox.png/revision/latest?cb=20181028095212",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Effil%C3%A9e",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-effilee.json"
+    }
   ]
 }

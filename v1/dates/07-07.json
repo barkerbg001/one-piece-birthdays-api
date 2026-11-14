@@ -3,7 +3,23 @@
   "label": "July 7th",
   "month": 7,
   "day": 7,
-  "characters": [
+  "names": [
     "Laki"
+  ],
+  "characters": [
+    {
+      "id": "laki",
+      "name": "Laki",
+      "display_name": "Laki",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Raki_Anime_Infobox.png/revision/latest/scale-to-width-down/262?cb=20260907175809",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Raki_Anime_Infobox.png/revision/latest?cb=20260907175809",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Raki",
+      "epithet": null,
+      "affiliation": "Shandia",
+      "api": "v1/characters/laki.json"
+    }
   ]
 }

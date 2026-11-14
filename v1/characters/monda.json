@@ -1,0 +1,57 @@
+{
+  "id": "monda",
+  "name": "Monda",
+  "display_name": "Monda",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-03",
+      "label": "April 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fb/Monda_Anime_Infobox.png/revision/latest?cb=20220602150533",
+    "width": 952,
+    "height": 577
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fb/Monda_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20220602150533",
+    "width": 400,
+    "height": 242
+  },
+  "wiki": {
+    "title": "Monda",
+    "url": "https://onepiece.fandom.com/wiki/Monda"
+  },
+  "info": {
+    "japanese_name": "モンダ",
+    "romanized_name": "Monda",
+    "official_english_name": "Monda",
+    "debut": [
+      "Chapter 306",
+      "Episode 209"
+    ],
+    "affiliations": [
+      "Foxy Pirates (former)"
+    ],
+    "occupations": [
+      "Pet"
+    ],
+    "birthday": "April 3rd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "bell-mere",
+  "name": "Bell-mère",
+  "display_name": "Bell-mère",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-03",
+      "label": "December 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Bell-m%C3%A8re_Anime_Infobox.png/revision/latest?cb=20231128171918",
+    "width": 643,
+    "height": 1066
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Bell-m%C3%A8re_Anime_Infobox.png/revision/latest/scale-to-width-down/241?cb=20231128171918",
+    "width": 241,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Bell-mère",
+    "url": "https://onepiece.fandom.com/wiki/Bell-m%C3%A8re"
+  },
+  "info": {
+    "japanese_name": "ベルメール",
+    "romanized_name": "Berumēru",
+    "official_english_name": "Belle-Mère (VIZ Media); Bellemere (Funimation); Bell-mère (OPCG)",
+    "debut": [
+      "Chapter 77",
+      "Episode 32"
+    ],
+    "affiliations": [
+      "Marines (former)"
+    ],
+    "occupations": [
+      "Mikan Farmer",
+      "Marine Officer (former)"
+    ],
+    "origin": "East Blue (Conomi Islands)",
+    "residence": [
+      "Cocoyasi Village"
+    ],
+    "status": "2",
+    "birthday": "December 3rd",
+    "height": "186 cm (6'1\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

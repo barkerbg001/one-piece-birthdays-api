@@ -1,0 +1,63 @@
+{
+  "id": "duval",
+  "name": "Duval",
+  "display_name": "Duval",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-11",
+      "label": "August 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/86/Duval_Anime_Infobox.png/revision/latest?cb=20230707025409",
+    "width": 1300,
+    "height": 976
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/86/Duval_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230707025409",
+    "width": 400,
+    "height": 300
+  },
+  "wiki": {
+    "title": "Duval",
+    "url": "https://onepiece.fandom.com/wiki/Duval"
+  },
+  "info": {
+    "japanese_name": "デュバル",
+    "romanized_name": "Dyubaru",
+    "debut": [
+      "Chapter 491",
+      "Episode 386"
+    ],
+    "affiliations": [
+      "Rosy Life Riders"
+    ],
+    "occupations": [
+      "Leader of the Rosy Life Riders (formerly the Flying Fish Riders)",
+      "Slave trader (former)",
+      "Mafia"
+    ],
+    "origin": "Grand Line",
+    "epithet": "\"Iron Mask Duval\"",
+    "age": "23 (debut); 25 (after timeskip)",
+    "birthday": "August 11th",
+    "height": "470 cm (15'5\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

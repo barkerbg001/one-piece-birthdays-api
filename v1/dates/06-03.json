@@ -3,8 +3,38 @@
   "label": "June 3rd",
   "month": 6,
   "day": 3,
-  "characters": [
+  "names": [
     "Mousse",
     "Dragon Number Thirteen"
+  ],
+  "characters": [
+    {
+      "id": "mousse",
+      "name": "Mousse",
+      "display_name": "Mousse",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/de/Mousse_Anime_Infobox.png/revision/latest/scale-to-width-down/168?cb=20130218235507",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/de/Mousse_Anime_Infobox.png/revision/latest?cb=20130218235507",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mousse",
+      "epithet": null,
+      "affiliation": "Shandia",
+      "api": "v1/characters/mousse.json"
+    },
+    {
+      "id": "dragon-number-thirteen",
+      "name": "Dragon Number Thirteen",
+      "display_name": "Dragon Number Thirteen",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/41/Dragon_Number_Thirteen_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230712005933",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/41/Dragon_Number_Thirteen_Anime_Infobox.png/revision/latest?cb=20230712005933",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Dragon_Number_Thirteen",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/dragon-number-thirteen.json"
+    }
   ]
 }

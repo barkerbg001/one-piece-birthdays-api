@@ -1,0 +1,67 @@
+{
+  "id": "road",
+  "name": "Road",
+  "display_name": "Road",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-19",
+      "label": "February 19th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5c/Road_Anime_Infobox.png/revision/latest?cb=20260621160746",
+    "width": 759,
+    "height": 1067
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5c/Road_Anime_Infobox.png/revision/latest/scale-to-width-down/284?cb=20260621160746",
+    "width": 284,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Road",
+    "url": "https://onepiece.fandom.com/wiki/Road"
+  },
+  "info": {
+    "japanese_name": "ロード",
+    "romanized_name": "Rōdo",
+    "official_english_name": "Rodo",
+    "debut": [
+      "Chapter 898 (cover), Episode 836"
+    ],
+    "affiliations": [
+      "Straw Hat Grand Fleet (New Giant Warrior Pirates), Land of Gods, Buggy's Delivery (former)"
+    ],
+    "occupations": [
+      "Navigator",
+      "Pirate",
+      "Mercenary (former)"
+    ],
+    "origin": "Grand Line (Elbaph)",
+    "residence": [
+      "Elbaph"
+    ],
+    "aliases": [
+      "\"Sun God\""
+    ],
+    "age": "63",
+    "birthday": "February 19th",
+    "height": "2600 cm (85'3\")"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

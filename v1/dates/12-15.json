@@ -3,8 +3,38 @@
   "label": "December 15th",
   "month": 12,
   "day": 15,
-  "characters": [
+  "names": [
     "Charlotte Noisette",
     "Nerine"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-noisette",
+      "name": "Charlotte Noisette",
+      "display_name": "Charlotte Noisette",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/34/Charlotte_Noisette_Anime_Infobox.png/revision/latest/scale-to-width-down/377?cb=20180617135150",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/34/Charlotte_Noisette_Anime_Infobox.png/revision/latest?cb=20180617135150",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Noisette",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-noisette.json"
+    },
+    {
+      "id": "nerine",
+      "name": "Nerine",
+      "display_name": "Nerine",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/90/Nerine_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130815180802",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/90/Nerine_Anime_Infobox.png/revision/latest?cb=20130815180802",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Nerine",
+      "epithet": null,
+      "affiliation": "Kuja",
+      "api": "v1/characters/nerine.json"
+    }
   ]
 }

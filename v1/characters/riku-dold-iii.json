@@ -1,0 +1,68 @@
+{
+  "id": "riku-dold-iii",
+  "name": "Riku Dold III",
+  "display_name": "Riku Dold III",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-27",
+      "label": "June 27th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/48/Riku_Doldo_III_Anime_Infobox.png/revision/latest?cb=20230114034249",
+    "width": 927,
+    "height": 1765
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/48/Riku_Doldo_III_Anime_Infobox.png/revision/latest/scale-to-width-down/210?cb=20230114034249",
+    "width": 210,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Riku Doldo III",
+    "url": "https://onepiece.fandom.com/wiki/Riku_Doldo_III"
+  },
+  "info": {
+    "japanese_name": "リク・ドルド3世",
+    "romanized_name": "Riku Dorudo Sansei",
+    "debut": [
+      "Chapter 706",
+      "Episode 636"
+    ],
+    "affiliations": [
+      "Riku Family"
+    ],
+    "occupations": [
+      "King",
+      "Corrida Colosseum Gladiator (former)"
+    ],
+    "origin": "Grand Line (Dressrosa)",
+    "residence": [
+      "Dressrosa"
+    ],
+    "epithet": "\"King of Miracles\"",
+    "aliases": [
+      "\"Ricky\""
+    ],
+    "age": "60",
+    "birthday": "June 27th",
+    "height": "261 cm (8'6¾\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

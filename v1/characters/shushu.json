@@ -1,0 +1,64 @@
+{
+  "id": "shushu",
+  "name": "Shushu",
+  "display_name": "Shushu",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-22",
+      "label": "November 22nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Chouchou_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251102161457",
+    "width": 709,
+    "height": 1032
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Chouchou_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/275?cb=20251102161457",
+    "width": 275,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Chouchou",
+    "url": "https://onepiece.fandom.com/wiki/Chouchou"
+  },
+  "info": {
+    "japanese_name": "シュシュ",
+    "romanized_name": "Shushu",
+    "official_english_name": "Chouchou; Shushu (WT100); Chou-Chou (Live-Action)",
+    "debut": [
+      "Chapter 12",
+      "Episode 6"
+    ],
+    "affiliations": [
+      "Hocker"
+    ],
+    "occupations": [
+      "Pet",
+      "Pet Shop Keeper"
+    ],
+    "origin": "East Blue (Organ Islands)",
+    "residence": [
+      "Orange Town"
+    ],
+    "age": "12 (debut); 14 (after timeskip)",
+    "birthday": "November 22nd",
+    "height": "40 cm (1'4\")"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

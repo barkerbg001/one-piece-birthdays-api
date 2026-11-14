@@ -1,0 +1,78 @@
+{
+  "id": "denjiro",
+  "name": "Denjiro",
+  "display_name": "Denjiro",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-26",
+      "label": "October 26th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Denjiro_Anime_Infobox.png/revision/latest?cb=20210718045127",
+    "width": 915,
+    "height": 1420
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Denjiro_Anime_Infobox.png/revision/latest/scale-to-width-down/258?cb=20210718045127",
+    "width": 258,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Denjiro",
+    "url": "https://onepiece.fandom.com/wiki/Denjiro"
+  },
+  "info": {
+    "japanese_name": "傳ジロー",
+    "romanized_name": "Denjirō",
+    "debut": [
+      "Chapter 919",
+      "Episode 909"
+    ],
+    "affiliations": [
+      "Kouzuki Family",
+      "Nine Red Scabbards",
+      "Kyoshiro Family",
+      "Kurozumi Family (undercover)",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Daimyo",
+      "Samurai",
+      "Retainer of the Kouzuki Family (former)",
+      "Yakuza Boss (former)",
+      "Money Changer (former)",
+      "Thief (former)"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Wano Country (Flower Capital)",
+      "Wano Country (Kibi)"
+    ],
+    "epithet": "\"Dozing Kyoshiro\"",
+    "aliases": [
+      "\"Kyoshiro\"",
+      "\"Ushimitsu Kozo\""
+    ],
+    "age": "47",
+    "birthday": "October 26th",
+    "height": "306 cm (10'0½\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

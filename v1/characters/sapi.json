@@ -1,0 +1,58 @@
+{
+  "id": "sapi",
+  "name": "Sapi",
+  "display_name": "Sapi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-22",
+      "label": "March 22nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Sapi_Anime_Infobox.png/revision/latest?cb=20200208163232",
+    "width": 612,
+    "height": 719
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Sapi_Anime_Infobox.png/revision/latest/scale-to-width-down/340?cb=20200208163232",
+    "width": 340,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Sapi",
+    "url": "https://onepiece.fandom.com/wiki/Sapi"
+  },
+  "info": {
+    "japanese_name": "サピー",
+    "romanized_name": "Sapī",
+    "official_english_name": "Sapee",
+    "debut": [
+      "Chapter 98",
+      "Episode 51"
+    ],
+    "occupations": [
+      "Fishmonger"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Loguetown"
+    ],
+    "birthday": "March 22nd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,8 +3,38 @@
   "label": "June 1st",
   "month": 6,
   "day": 1,
-  "characters": [
+  "names": [
     "St. Charloss",
     "Moda"
+  ],
+  "characters": [
+    {
+      "id": "st-charloss",
+      "name": "St. Charloss",
+      "display_name": "St. Charloss",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Rosward_Charlos_Anime_Infobox.png/revision/latest/scale-to-width-down/287?cb=20230130105444",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Rosward_Charlos_Anime_Infobox.png/revision/latest?cb=20230130105444",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Rosward_Charlos",
+      "epithet": null,
+      "affiliation": "World Government (Rosward Family)",
+      "api": "v1/characters/st-charloss.json"
+    },
+    {
+      "id": "moda",
+      "name": "Moda",
+      "display_name": "Moda",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Moda_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/188?cb=20240818021019",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Moda_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240818021019",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Moda",
+      "epithet": null,
+      "affiliation": "Revolutionary Army",
+      "api": "v1/characters/moda.json"
+    }
   ]
 }

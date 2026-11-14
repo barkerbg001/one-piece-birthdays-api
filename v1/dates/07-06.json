@@ -3,8 +3,38 @@
   "label": "July 6th",
   "month": 7,
   "day": 6,
-  "characters": [
+  "names": [
     "Namur",
     "Lucky Roo"
+  ],
+  "characters": [
+    {
+      "id": "namur",
+      "name": "Namur",
+      "display_name": "Namur",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Namur_Anime_Infobox.png/revision/latest/scale-to-width-down/284?cb=20160102105750",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Namur_Anime_Infobox.png/revision/latest?cb=20160102105750",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Namur",
+      "epithet": null,
+      "affiliation": "Whitebeard Pirates",
+      "api": "v1/characters/namur.json"
+    },
+    {
+      "id": "lucky-roo",
+      "name": "Lucky Roo",
+      "display_name": "Lucky Roo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/59/Lucky_Roux_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/351?cb=20220613165554",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/59/Lucky_Roux_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20220613165554",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Lucky_Roux",
+      "epithet": null,
+      "affiliation": "Red Hair Pirates",
+      "api": "v1/characters/lucky-roo.json"
+    }
   ]
 }

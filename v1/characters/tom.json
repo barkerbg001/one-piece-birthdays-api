@@ -1,0 +1,64 @@
+{
+  "id": "tom",
+  "name": "Tom",
+  "display_name": "Tom",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-16",
+      "label": "March 16th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Tom_Anime_Infobox.png/revision/latest?cb=20210404151116",
+    "width": 515,
+    "height": 480
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Tom_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20210404151116",
+    "width": 400,
+    "height": 373
+  },
+  "wiki": {
+    "title": "Tom",
+    "url": "https://onepiece.fandom.com/wiki/Tom"
+  },
+  "info": {
+    "japanese_name": "トム",
+    "romanized_name": "Tomu",
+    "debut": [
+      "Chapter 352",
+      "Episode 248"
+    ],
+    "affiliations": [
+      "Tom's Workers"
+    ],
+    "occupations": [
+      "Shipwright"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Water 7",
+      "Fish-Man Island (former)"
+    ],
+    "status": "2",
+    "birthday": "March 16th",
+    "height": "296 cm (9'8\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

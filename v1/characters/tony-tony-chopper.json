@@ -1,0 +1,77 @@
+{
+  "id": "tony-tony-chopper",
+  "name": "Tony Tony Chopper",
+  "display_name": "Tony Tony Chopper",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-24",
+      "label": "December 24th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/af/Tony_Tony_Chopper_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240720150824",
+    "width": 544,
+    "height": 697
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/af/Tony_Tony_Chopper_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/312?cb=20240720150824",
+    "width": 312,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Tony Tony Chopper",
+    "url": "https://onepiece.fandom.com/wiki/Tony_Tony_Chopper"
+  },
+  "info": {
+    "japanese_name": "トニートニー・チョッパー",
+    "romanized_name": "Tonī Tonī Choppā",
+    "official_english_name": "Tony Tony Chopper",
+    "debut": [
+      "Chapter 134",
+      "Episode 81"
+    ],
+    "affiliations": [
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet",
+      "Foxy Pirates (former, temporary)",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Doctor",
+      "Senior Officer"
+    ],
+    "origin": "Grand Line (Drum Island)",
+    "residence": [
+      "Sakura Kingdom (former)",
+      "Torino Kingdom (former, temporary)"
+    ],
+    "epithet": "\"Cotton Candy Lover\"",
+    "aliases": [
+      "\"Chopa-emon\""
+    ],
+    "age": "15 (debut); 17 (after timeskip)",
+    "birthday": "December 24th (Christmas Eve)",
+    "height": "90 cm (2'11\") (hybrid form)",
+    "blood_type": "X",
+    "bounty": "1,000",
+    "devil_fruit": "Hito Hito no Mi",
+    "devil_fruit_english": "Human-Human Fruit",
+    "devil_fruit_type": "Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

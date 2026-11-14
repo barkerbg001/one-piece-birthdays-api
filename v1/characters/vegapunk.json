@@ -1,0 +1,75 @@
+{
+  "id": "vegapunk",
+  "name": "Vegapunk",
+  "display_name": "Vegapunk",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-09",
+      "label": "August 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Vegapunk_Anime_Infobox.png/revision/latest?cb=20240428020834",
+    "width": 451,
+    "height": 1019
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Vegapunk_Anime_Infobox.png/revision/latest/scale-to-width-down/177?cb=20240428020834",
+    "width": 177,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Vegapunk",
+    "url": "https://onepiece.fandom.com/wiki/Vegapunk"
+  },
+  "info": {
+    "japanese_name": "Dr.ベガパンク",
+    "romanized_name": "Dokutā Begapanku",
+    "official_english_name": "Dr. Vegapunk",
+    "debut": [
+      "Chapter 684",
+      "Episode 610 (shadowed)",
+      "Chapter 1061",
+      "Episode 1090 (satellite)",
+      "Chapter 1066",
+      "Episode 1096"
+    ],
+    "affiliations": [
+      "MADS (former)",
+      "Marines (SSG) (former)"
+    ],
+    "occupations": [
+      "Scientist"
+    ],
+    "origin": "Grand Line (Karakuri Island)",
+    "residence": [
+      "Egghead",
+      "Punk Hazard (former)",
+      "Karakuri Island (former)"
+    ],
+    "epithet": "\"The Man With the Best Brain in the World\"",
+    "status": "2",
+    "birthday": "August 9th",
+    "height": "314cm (10'4\")",
+    "blood_type": "S",
+    "devil_fruit": "Nomi Nomi no Mi",
+    "devil_fruit_english": "Brain-Brain Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

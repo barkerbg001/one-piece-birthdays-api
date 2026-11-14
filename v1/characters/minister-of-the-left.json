@@ -1,0 +1,60 @@
+{
+  "id": "minister-of-the-left",
+  "name": "Minister of the Left",
+  "display_name": "Minister of the Left",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-02",
+      "label": "July 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Minister_of_the_Left_Anime_Infobox.png/revision/latest?cb=20241229031653",
+    "width": 873,
+    "height": 902
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Minister_of_the_Left_Anime_Infobox.png/revision/latest/scale-to-width-down/387?cb=20241229031653",
+    "width": 387,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Minister of the Left",
+    "url": "https://onepiece.fandom.com/wiki/Minister_of_the_Left"
+  },
+  "info": {
+    "japanese_name": "左大臣",
+    "romanized_name": "Sadaijin",
+    "debut": [
+      "Chapter 612",
+      "Episode 531"
+    ],
+    "affiliations": [
+      "Ryugu Kingdom"
+    ],
+    "occupations": [
+      "Minister of Ryugu Kingdom"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "age": "62",
+    "birthday": "July 2nd",
+    "height": "435 cm (14'3\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

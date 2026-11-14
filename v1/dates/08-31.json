@@ -3,7 +3,23 @@
   "label": "August 31st",
   "month": 8,
   "day": 31,
-  "characters": [
+  "names": [
     "Cavendish"
+  ],
+  "characters": [
+    {
+      "id": "cavendish",
+      "name": "Cavendish",
+      "display_name": "Cavendish",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Cavendish_Anime_Infobox.png/revision/latest/scale-to-width-down/206?cb=20140224010824",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Cavendish_Anime_Infobox.png/revision/latest?cb=20140224010824",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Cavendish",
+      "epithet": "\"Cavendish of the White Horse\"; \"Pirate Prince\"",
+      "affiliation": "Beautiful Pirates",
+      "api": "v1/characters/cavendish.json"
+    }
   ]
 }

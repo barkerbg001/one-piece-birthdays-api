@@ -1,0 +1,65 @@
+{
+  "id": "tilestone",
+  "name": "Tilestone",
+  "display_name": "Tilestone",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-06",
+      "label": "January 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Tilestone_Anime_Infobox.png/revision/latest?cb=20250223233624",
+    "width": 1379,
+    "height": 1033
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Tilestone_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250223233624",
+    "width": 400,
+    "height": 300
+  },
+  "wiki": {
+    "title": "Tilestone",
+    "url": "https://onepiece.fandom.com/wiki/Tilestone"
+  },
+  "info": {
+    "japanese_name": "タイルストン",
+    "romanized_name": "Tairusuton",
+    "official_english_name": "Tilestone",
+    "debut": [
+      "Chapter 323",
+      "Episode 230"
+    ],
+    "affiliations": [
+      "Galley-La Company"
+    ],
+    "occupations": [
+      "Dock One Foreman",
+      "Shipwright"
+    ],
+    "origin": "Grand Line (Water 7)",
+    "residence": [
+      "Water 7"
+    ],
+    "age": "33 (debut); 35 (after timeskip)",
+    "birthday": "January 6th",
+    "height": "255 cm (8'4\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,7 +3,23 @@
   "label": "December 30th",
   "month": 12,
   "day": 30,
-  "characters": [
+  "names": [
     "Absalom"
+  ],
+  "characters": [
+    {
+      "id": "absalom",
+      "name": "Absalom",
+      "display_name": "Absalom",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/56/Absalom_Anime_Infobox.png/revision/latest/scale-to-width-down/341?cb=20230101154942",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/56/Absalom_Anime_Infobox.png/revision/latest?cb=20230101154942",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Absalom",
+      "epithet": "Absalom of the Graveyard",
+      "affiliation": "Thriller Bark Pirates (Mysterious Four)",
+      "api": "v1/characters/absalom.json"
+    }
   ]
 }

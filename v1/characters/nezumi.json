@@ -1,0 +1,67 @@
+{
+  "id": "nezumi",
+  "name": "Nezumi",
+  "display_name": "Nezumi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-12",
+      "label": "December 12th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Nezumi_Anime_Infobox.png/revision/latest?cb=20180706061857",
+    "width": 521,
+    "height": 768
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Nezumi_Anime_Infobox.png/revision/latest/scale-to-width-down/271?cb=20180706061857",
+    "width": 271,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Nezumi",
+    "url": "https://onepiece.fandom.com/wiki/Nezumi"
+  },
+  "info": {
+    "japanese_name": "ネズミ",
+    "romanized_name": "Nezumi",
+    "official_english_name": "Nezumi; Rat (Odex)",
+    "debut": [
+      "Chapter 69",
+      "Episode 31"
+    ],
+    "affiliations": [
+      "Marines",
+      "Marine 16th Branch"
+    ],
+    "occupations": [
+      "Marine Captain",
+      "Marine Commander (former)"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "16th Branch"
+    ],
+    "age": "34 (debut); 36 (after timeskip)",
+    "birthday": "December 12th",
+    "height": "182 cm (5'11¾\")",
+    "blood_type": "XF",
+    "bounty": "At least ★"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "lao-g",
+  "name": "Lao G",
+  "display_name": "Lao G",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-07",
+      "label": "October 7th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/52/Lao_G_Anime_Infobox.png/revision/latest?cb=20141202204639",
+    "width": 1035,
+    "height": 2000
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/52/Lao_G_Anime_Infobox.png/revision/latest/scale-to-width-down/207?cb=20141202204639",
+    "width": 207,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Lao G",
+    "url": "https://onepiece.fandom.com/wiki/Lao_G"
+  },
+  "info": {
+    "japanese_name": "ラオG",
+    "romanized_name": "Rao Jī",
+    "official_english_name": "Lao G",
+    "debut": [
+      "Chapter 682",
+      "Episode 608"
+    ],
+    "affiliations": [
+      "Donquixote Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Spider Miles (former)",
+      "Dressrosa (former)"
+    ],
+    "age": "70",
+    "birthday": "October 7th",
+    "height": "157 cm (5'2\")",
+    "blood_type": "F",
+    "bounty": "61,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

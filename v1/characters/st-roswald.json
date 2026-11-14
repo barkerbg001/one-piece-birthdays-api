@@ -1,0 +1,64 @@
+{
+  "id": "st-roswald",
+  "name": "St. Roswald",
+  "display_name": "St. Roswald",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-28",
+      "label": "June 28th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Rosward_Rosward_Anime_Infobox.png/revision/latest?cb=20250309015318",
+    "width": 832,
+    "height": 776
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Rosward_Rosward_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250309015318",
+    "width": 400,
+    "height": 373
+  },
+  "wiki": {
+    "title": "Rosward Rosward",
+    "url": "https://onepiece.fandom.com/wiki/Rosward_Rosward"
+  },
+  "info": {
+    "japanese_name": "ロズワード・ロズワード聖",
+    "romanized_name": "Rozuwādo Rozuwādo Sei",
+    "official_english_name": "Roswald Roswald (VIZ); Rosward Rosward (WT100 2nd)",
+    "debut": [
+      "Chapter 497",
+      "Episode 391"
+    ],
+    "affiliations": [
+      "World Government (Rosward Family)"
+    ],
+    "occupations": [
+      "World Noble"
+    ],
+    "origin": "Red Line (Mary Geoise)",
+    "residence": [
+      "Mary Geoise"
+    ],
+    "age": "53 (debut); 55 (after timeskip)",
+    "birthday": "June 28th",
+    "height": "215 cm (7'1\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "hatchan",
+  "name": "Hatchan",
+  "display_name": "Hatchan",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-08",
+      "label": "August 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Hatchan_Anime_Infobox.png/revision/latest?cb=20221003174139",
+    "width": 655,
+    "height": 1082
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Hatchan_Anime_Infobox.png/revision/latest/scale-to-width-down/242?cb=20221003174139",
+    "width": 242,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Hatchan",
+    "url": "https://onepiece.fandom.com/wiki/Hatchan"
+  },
+  "info": {
+    "japanese_name": "はっちゃん",
+    "debut": [
+      "Chapter 69",
+      "Episode 31"
+    ],
+    "affiliations": [
+      "Takoyaki 8",
+      "Arlong Pirates (former)",
+      "Sun Pirates (former)"
+    ],
+    "occupations": [
+      "Takoyaki seller",
+      "Pirate Officer (former)"
+    ],
+    "residence": [
+      "Fish-Man District (former)",
+      "Arlong Park (former)"
+    ],
+    "epithet": "Six Sword Style Hachi",
+    "age": "36 (debut); 38 (after timeskip)",
+    "birthday": "August 8th",
+    "height": "220 cm (7'3\")",
+    "blood_type": "S",
+    "bounty": "8,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

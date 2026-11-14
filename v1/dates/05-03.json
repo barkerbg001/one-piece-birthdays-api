@@ -3,7 +3,23 @@
   "label": "May 3rd",
   "month": 5,
   "day": 3,
-  "characters": [
+  "names": [
     "Arlong"
+  ],
+  "characters": [
+    {
+      "id": "arlong",
+      "name": "Arlong",
+      "display_name": "Arlong",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/01/Arlong_Anime_Infobox.png/revision/latest/scale-to-width-down/302?cb=20230403145629",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/01/Arlong_Anime_Infobox.png/revision/latest?cb=20230403145629",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Arlong",
+      "epithet": "\"Arlong the Saw\" (English versions: \"Saw-Tooth Arlong\")",
+      "affiliation": "Arlong Pirates",
+      "api": "v1/characters/arlong.json"
+    }
   ]
 }

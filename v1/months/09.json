@@ -2,16 +2,65 @@
   "month": 9,
   "name": "September",
   "count": 66,
+  "calendar_image": {
+    "url": "https://i0.wp.com/thelibraryofohara.com/wp-content/uploads/2022/03/september1-copy-2-1-2.png",
+    "width": 1946,
+    "height": 1542
+  },
   "days": [
     {
       "date": "09-01",
       "label": "September 1st",
       "month": 9,
       "day": 1,
-      "characters": [
+      "names": [
         "Kiwi",
         "Jewelry Bonney",
         "Delacuaji"
+      ],
+      "characters": [
+        {
+          "id": "kiwi",
+          "name": "Kiwi",
+          "display_name": "Kiwi",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Mozu_and_Kiwi_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250224005132",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Mozu_and_Kiwi_Anime_Infobox.png/revision/latest?cb=20250224005132",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Mozu_and_Kiwi",
+          "epithet": "Square Sisters",
+          "affiliation": "Franky Family (former)",
+          "api": "v1/characters/kiwi.json"
+        },
+        {
+          "id": "jewelry-bonney",
+          "name": "Jewelry Bonney",
+          "display_name": "Jewelry Bonney",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/62/Jewelry_Bonney_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/266?cb=20230123001318",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/6/62/Jewelry_Bonney_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230123001318",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Jewelry_Bonney",
+          "epithet": "\"Big Eater\"",
+          "affiliation": "Bonney Pirates",
+          "api": "v1/characters/jewelry-bonney.json"
+        },
+        {
+          "id": "delacuaji",
+          "name": "Delacuaji",
+          "display_name": "Delacuaji",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/07/Delacuaji_Anime_Infobox.png/revision/latest/scale-to-width-down/385?cb=20130811023157",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/0/07/Delacuaji_Anime_Infobox.png/revision/latest?cb=20130811023157",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Delacuaji",
+          "epithet": null,
+          "affiliation": "Subordinate of the Whitebeard Pirates",
+          "api": "v1/characters/delacuaji.json"
+        }
       ]
     },
     {
@@ -19,11 +68,78 @@
       "label": "September 2nd",
       "month": 9,
       "day": 2,
-      "characters": [
+      "names": [
         "Heppoko",
         "Peppoko",
         "Poppoko",
         "Boa Hancock"
+      ],
+      "characters": [
+        {
+          "id": "heppoko",
+          "name": "Heppoko",
+          "display_name": "Heppoko",
+          "alias": null,
+          "note": null,
+          "born_with": [
+            "peppoko",
+            "poppoko"
+          ],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Heppoko_Anime_Infobox.png/revision/latest/scale-to-width-down/259?cb=20250117025447",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Heppoko_Anime_Infobox.png/revision/latest?cb=20250117025447",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Heppoko",
+          "epithet": null,
+          "affiliation": "Alvida Pirates (disbanded)",
+          "api": "v1/characters/heppoko.json"
+        },
+        {
+          "id": "peppoko",
+          "name": "Peppoko",
+          "display_name": "Peppoko",
+          "alias": null,
+          "note": null,
+          "born_with": [
+            "heppoko",
+            "poppoko"
+          ],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/14/Peppoko_Anime_Infobox.png/revision/latest/scale-to-width-down/368?cb=20250117025538",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/1/14/Peppoko_Anime_Infobox.png/revision/latest?cb=20250117025538",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Peppoko",
+          "epithet": null,
+          "affiliation": "Alvida Pirates (disbanded)",
+          "api": "v1/characters/peppoko.json"
+        },
+        {
+          "id": "poppoko",
+          "name": "Poppoko",
+          "display_name": "Poppoko",
+          "alias": null,
+          "note": null,
+          "born_with": [
+            "heppoko",
+            "peppoko"
+          ],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Poppoko_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250117025634",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Poppoko_Anime_Infobox.png/revision/latest?cb=20250117025634",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Poppoko",
+          "epithet": null,
+          "affiliation": "Alvida Pirates (disbanded)",
+          "api": "v1/characters/poppoko.json"
+        },
+        {
+          "id": "boa-hancock",
+          "name": "Boa Hancock",
+          "display_name": "Boa Hancock",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Boa_Hancock_Anime_Infobox.png/revision/latest/scale-to-width-down/194?cb=20230126022456",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Boa_Hancock_Anime_Infobox.png/revision/latest?cb=20230126022456",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Boa_Hancock",
+          "epithet": null,
+          "affiliation": null,
+          "api": "v1/characters/boa-hancock.json"
+        }
       ]
     },
     {
@@ -31,10 +147,54 @@
       "label": "September 3rd",
       "month": 9,
       "day": 3,
-      "characters": [
+      "names": [
         "Brannew",
         "Boa Sandersonia",
         "Mcguy"
+      ],
+      "characters": [
+        {
+          "id": "brannew",
+          "name": "Brannew",
+          "display_name": "Brannew",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/71/Brannew_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/344?cb=20180321231621",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/7/71/Brannew_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20180321231621",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Brannew",
+          "epithet": null,
+          "affiliation": "Marines",
+          "api": "v1/characters/brannew.json"
+        },
+        {
+          "id": "boa-sandersonia",
+          "name": "Boa Sandersonia",
+          "display_name": "Boa Sandersonia",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Boa_Sandersonia_Anime_Infobox.png/revision/latest/scale-to-width-down/270?cb=20141017161424",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Boa_Sandersonia_Anime_Infobox.png/revision/latest?cb=20141017161424",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Boa_Sandersonia",
+          "epithet": null,
+          "affiliation": "Kuja Pirates (Gorgon Sisters)",
+          "api": "v1/characters/boa-sandersonia.json"
+        },
+        {
+          "id": "mcguy",
+          "name": "Mcguy",
+          "display_name": "Mcguy",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bd/McGuy_Anime_Infobox.png/revision/latest/scale-to-width-down/260?cb=20230816214244",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/b/bd/McGuy_Anime_Infobox.png/revision/latest?cb=20230816214244",
+          "wiki_url": "https://onepiece.fandom.com/wiki/McGuy",
+          "epithet": "\"Thunder Lord\"",
+          "affiliation": "Subordinate of the Whitebeard Pirates",
+          "api": "v1/characters/mcguy.json"
+        }
       ]
     },
     {
@@ -42,9 +202,39 @@
       "label": "September 4th",
       "month": 9,
       "day": 4,
-      "characters": [
+      "names": [
         "Kumashi",
         "Wanze"
+      ],
+      "characters": [
+        {
+          "id": "kumashi",
+          "name": "Kumashi",
+          "display_name": "Kumashi",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/da/Kumashi_Anime_Infobox.png/revision/latest/scale-to-width-down/249?cb=20230118162847",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/d/da/Kumashi_Anime_Infobox.png/revision/latest?cb=20230118162847",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Kumashi",
+          "epithet": null,
+          "affiliation": "Thriller Bark Pirates (Perona)",
+          "api": "v1/characters/kumashi.json"
+        },
+        {
+          "id": "wanze",
+          "name": "Wanze",
+          "display_name": "Wanze",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/56/Wanze_Anime_Infobox.png/revision/latest/scale-to-width-down/389?cb=20240610183708",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/5/56/Wanze_Anime_Infobox.png/revision/latest?cb=20240610183708",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Wanze",
+          "epithet": "\"Mad Wanze\"",
+          "affiliation": "CP7",
+          "api": "v1/characters/wanze.json"
+        }
       ]
     },
     {
@@ -52,9 +242,39 @@
       "label": "September 5th",
       "month": 9,
       "day": 5,
-      "characters": [
+      "names": [
         "Crocodile",
         "Boa Marigold"
+      ],
+      "characters": [
+        {
+          "id": "crocodile",
+          "name": "Crocodile",
+          "display_name": "Crocodile",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Crocodile_Anime_Infobox.png/revision/latest/scale-to-width-down/318?cb=20230125235528",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Crocodile_Anime_Infobox.png/revision/latest?cb=20230125235528",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Crocodile",
+          "epithet": null,
+          "affiliation": null,
+          "api": "v1/characters/crocodile.json"
+        },
+        {
+          "id": "boa-marigold",
+          "name": "Boa Marigold",
+          "display_name": "Boa Marigold",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Boa_Marigold_Anime_Infobox.png/revision/latest/scale-to-width-down/356?cb=20150903140509",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Boa_Marigold_Anime_Infobox.png/revision/latest?cb=20150903140509",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Boa_Marigold",
+          "epithet": null,
+          "affiliation": "Kuja Pirates (Gorgon Sisters)",
+          "api": "v1/characters/boa-marigold.json"
+        }
       ]
     },
     {
@@ -62,10 +282,54 @@
       "label": "September 6th",
       "month": 9,
       "day": 6,
-      "characters": [
+      "names": [
         "Gekko Moriah",
         "Squard",
         "Macro"
+      ],
+      "characters": [
+        {
+          "id": "gekko-moriah",
+          "name": "Gekko Moriah",
+          "display_name": "Gekko Moriah",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/be/Gecko_Moria_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20181127062446",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/b/be/Gecko_Moria_Anime_Infobox.png/revision/latest?cb=20181127062446",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Gecko_Moria",
+          "epithet": null,
+          "affiliation": "Thriller Bark Pirates (Mysterious Four)",
+          "api": "v1/characters/gekko-moriah.json"
+        },
+        {
+          "id": "squard",
+          "name": "Squard",
+          "display_name": "Squard",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Squard_Anime_Infobox.png/revision/latest/scale-to-width-down/328?cb=20140921221031",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Squard_Anime_Infobox.png/revision/latest?cb=20140921221031",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Squard",
+          "epithet": "\"Maelstrom Spider\"",
+          "affiliation": "Maelstrom Spider Pirates",
+          "api": "v1/characters/squard.json"
+        },
+        {
+          "id": "macro",
+          "name": "Macro",
+          "display_name": "Macro",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/73/Macro_Anime_Infobox.png/revision/latest/scale-to-width-down/354?cb=20240615125944",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/7/73/Macro_Anime_Infobox.png/revision/latest?cb=20240615125944",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Macro",
+          "epithet": null,
+          "affiliation": "Macro Pirates",
+          "api": "v1/characters/macro.json"
+        }
       ]
     },
     {
@@ -73,9 +337,39 @@
       "label": "September 7th",
       "month": 9,
       "day": 7,
-      "characters": [
+      "names": [
         "Fullbody",
         "Motzel"
+      ],
+      "characters": [
+        {
+          "id": "fullbody",
+          "name": "Fullbody",
+          "display_name": "Fullbody",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/96/Fullbody_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230527233610",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/9/96/Fullbody_Anime_Infobox.png/revision/latest?cb=20230527233610",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Fullbody",
+          "epithet": "\"Double Ironfist Fullbody\"; \"Ironfist Fullbody\" (former)",
+          "affiliation": "Marines",
+          "api": "v1/characters/fullbody.json"
+        },
+        {
+          "id": "motzel",
+          "name": "Motzel",
+          "display_name": "Motzel",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Motzel_Anime_Infobox.png/revision/latest/scale-to-width-down/382?cb=20240308003535",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Motzel_Anime_Infobox.png/revision/latest?cb=20240308003535",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Motzel",
+          "epithet": null,
+          "affiliation": null,
+          "api": "v1/characters/motzel.json"
+        }
       ]
     },
     {
@@ -83,10 +377,54 @@
       "label": "September 8th",
       "month": 9,
       "day": 8,
-      "characters": [
+      "names": [
         "Cabaji",
         "Rakuyo",
         "Kureha"
+      ],
+      "characters": [
+        {
+          "id": "cabaji",
+          "name": "Cabaji",
+          "display_name": "Cabaji",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Cabaji_Anime_Infobox.png/revision/latest/scale-to-width-down/197?cb=20220921023133",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Cabaji_Anime_Infobox.png/revision/latest?cb=20220921023133",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Cabaji",
+          "epithet": "\"Cabaji the Acrobat\"",
+          "affiliation": "Cross Guild",
+          "api": "v1/characters/cabaji.json"
+        },
+        {
+          "id": "rakuyo",
+          "name": "Rakuyo",
+          "display_name": "Rakuyo",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/12/Rakuyo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130507032702",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/1/12/Rakuyo_Anime_Infobox.png/revision/latest?cb=20130507032702",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Rakuyo",
+          "epithet": null,
+          "affiliation": "Whitebeard Pirates",
+          "api": "v1/characters/rakuyo.json"
+        },
+        {
+          "id": "kureha",
+          "name": "Kureha",
+          "display_name": "Kureha",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Kureha_Anime_Infobox.png/revision/latest/scale-to-width-down/199?cb=20150819163116",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Kureha_Anime_Infobox.png/revision/latest?cb=20150819163116",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Kureha",
+          "epithet": "\"Witch\"; \"Master of Doctors\"",
+          "affiliation": "Sakura Kingdom",
+          "api": "v1/characters/kureha.json"
+        }
       ]
     },
     {
@@ -94,11 +432,69 @@
       "label": "September 9th",
       "month": 9,
       "day": 9,
-      "characters": [
+      "names": [
         "Shyarly",
         "Basil Hawkins",
         "Manjaro",
         "O-Kiku"
+      ],
+      "characters": [
+        {
+          "id": "shyarly",
+          "name": "Shyarly",
+          "display_name": "Shyarly",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/61/Shyarly_Anime_Infobox.png/revision/latest/scale-to-width-down/318?cb=20131112030157",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/6/61/Shyarly_Anime_Infobox.png/revision/latest?cb=20131112030157",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Shyarly",
+          "epithet": "Madam Shyarly",
+          "affiliation": "Mermaid Cafe",
+          "api": "v1/characters/shyarly.json"
+        },
+        {
+          "id": "basil-hawkins",
+          "name": "Basil Hawkins",
+          "display_name": "Basil Hawkins",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Basil_Hawkins_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230906163534",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Basil_Hawkins_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230906163534",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Basil_Hawkins",
+          "epithet": "\"Magician\"",
+          "affiliation": "Hawkins Pirates",
+          "api": "v1/characters/basil-hawkins.json"
+        },
+        {
+          "id": "manjaro",
+          "name": "Manjaro",
+          "display_name": "Manjaro",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Manjaro_Anime_Infobox.png/revision/latest/scale-to-width-down/259?cb=20130129021007",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Manjaro_Anime_Infobox.png/revision/latest?cb=20130129021007",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Manjaro",
+          "epithet": null,
+          "affiliation": "Fake Straw Hat Crew",
+          "api": "v1/characters/manjaro.json"
+        },
+        {
+          "id": "o-kiku",
+          "name": "O-Kiku",
+          "display_name": "O-Kiku",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/12/Kikunojo_Anime_Infobox.png/revision/latest/scale-to-width-down/348?cb=20200620104530",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/1/12/Kikunojo_Anime_Infobox.png/revision/latest?cb=20200620104530",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Kikunojo",
+          "epithet": "\"Kikunojo of the Lingering Snow\"",
+          "affiliation": "Kouzuki Family",
+          "api": "v1/characters/o-kiku.json"
+        }
       ]
     },
     {
@@ -106,9 +502,39 @@
       "label": "September 10th",
       "month": 9,
       "day": 10,
-      "characters": [
+      "names": [
         "T-Bone",
         "Very Good"
+      ],
+      "characters": [
+        {
+          "id": "t-bone",
+          "name": "T-Bone",
+          "display_name": "T-Bone",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/08/T_Bone_Anime_Infobox.png/revision/latest/scale-to-width-down/251?cb=20230427165456",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/0/08/T_Bone_Anime_Infobox.png/revision/latest?cb=20230427165456",
+          "wiki_url": "https://onepiece.fandom.com/wiki/T_Bone",
+          "epithet": "\"Ship Cutter\"",
+          "affiliation": "Marines",
+          "api": "v1/characters/t-bone.json"
+        },
+        {
+          "id": "very-good",
+          "name": "Very Good",
+          "display_name": "Very Good",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3a/Very_Good_Anime_Infobox.png/revision/latest/scale-to-width-down/354?cb=20230812130315",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/3/3a/Very_Good_Anime_Infobox.png/revision/latest?cb=20230812130315",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Very_Good",
+          "epithet": null,
+          "affiliation": "Marines",
+          "api": "v1/characters/very-good.json"
+        }
       ]
     },
     {
@@ -116,9 +542,39 @@
       "label": "September 11th",
       "month": 9,
       "day": 11,
-      "characters": [
+      "names": [
         "Mont Blanc Cricket",
         "Morley"
+      ],
+      "characters": [
+        {
+          "id": "mont-blanc-cricket",
+          "name": "Mont Blanc Cricket",
+          "display_name": "Mont Blanc Cricket",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Mont_Blanc_Cricket_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/368?cb=20251116160951",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Mont_Blanc_Cricket_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251116160951",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Mont_Blanc_Cricket",
+          "epithet": null,
+          "affiliation": "Saruyama Alliance",
+          "api": "v1/characters/mont-blanc-cricket.json"
+        },
+        {
+          "id": "morley",
+          "name": "Morley",
+          "display_name": "Morley",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/48/Morley_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230517025343",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/4/48/Morley_Anime_Infobox.png/revision/latest?cb=20230517025343",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Morley",
+          "epithet": "\"Morley of Fur\"",
+          "affiliation": "Revolutionary Army (West Army)",
+          "api": "v1/characters/morley.json"
+        }
       ]
     },
     {
@@ -126,8 +582,24 @@
       "label": "September 12th",
       "month": 9,
       "day": 12,
-      "characters": [
+      "names": [
         "Curiel"
+      ],
+      "characters": [
+        {
+          "id": "curiel",
+          "name": "Curiel",
+          "display_name": "Curiel",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/26/Curiel_Anime_Infobox.png/revision/latest/scale-to-width-down/340?cb=20130513043146",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/2/26/Curiel_Anime_Infobox.png/revision/latest?cb=20130513043146",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Curiel",
+          "epithet": null,
+          "affiliation": "Whitebeard Pirates",
+          "api": "v1/characters/curiel.json"
+        }
       ]
     },
     {
@@ -135,8 +607,24 @@
       "label": "September 13th",
       "month": 9,
       "day": 13,
-      "characters": [
+      "names": [
         "Hoe"
+      ],
+      "characters": [
+        {
+          "id": "hoe",
+          "name": "Hoe",
+          "display_name": "Hoe",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Hoe_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20120226023513",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Hoe_Anime_Infobox.png/revision/latest?cb=20120226023513",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Hoe",
+          "epithet": null,
+          "affiliation": "King Neptune",
+          "api": "v1/characters/hoe.json"
+        }
       ]
     },
     {
@@ -144,8 +632,24 @@
       "label": "September 14th",
       "month": 9,
       "day": 14,
-      "characters": [
+      "names": [
         "Lord of the Coast"
+      ],
+      "characters": [
+        {
+          "id": "lord-of-the-coast",
+          "name": "Lord of the Coast",
+          "display_name": "Lord of the Coast",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Lord_of_the_Coast_Anime_Infobox.png/revision/latest/scale-to-width-down/399?cb=20240723123231",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Lord_of_the_Coast_Anime_Infobox.png/revision/latest?cb=20240723123231",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Lord_of_the_Coast",
+          "epithet": null,
+          "affiliation": null,
+          "api": "v1/characters/lord-of-the-coast.json"
+        }
       ]
     },
     {
@@ -153,9 +657,39 @@
       "label": "September 15th",
       "month": 9,
       "day": 15,
-      "characters": [
+      "names": [
         "Spoil",
         "O-Tsuru"
+      ],
+      "characters": [
+        {
+          "id": "spoil",
+          "name": "Spoil",
+          "display_name": "Spoil",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/46/Spoil_Anime_Infobox.png/revision/latest/scale-to-width-down/254?cb=20130512235615",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/4/46/Spoil_Anime_Infobox.png/revision/latest?cb=20130512235615",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Spoil",
+          "epithet": null,
+          "affiliation": "Thriller Bark Victim's Association",
+          "api": "v1/characters/spoil.json"
+        },
+        {
+          "id": "o-tsuru",
+          "name": "O-Tsuru",
+          "display_name": "O-Tsuru",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/75/Tsurujo_Anime_Infobox.png/revision/latest/scale-to-width-down/194?cb=20190901063038",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/7/75/Tsurujo_Anime_Infobox.png/revision/latest?cb=20190901063038",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Tsurujo",
+          "epithet": null,
+          "affiliation": null,
+          "api": "v1/characters/o-tsuru.json"
+        }
       ]
     },
     {
@@ -163,9 +697,39 @@
       "label": "September 16th",
       "month": 9,
       "day": 16,
-      "characters": [
+      "names": [
         "Laboon",
         "Rindo"
+      ],
+      "characters": [
+        {
+          "id": "laboon",
+          "name": "Laboon",
+          "display_name": "Laboon",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/88/Laboon_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180508212232",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/8/88/Laboon_Anime_Infobox.png/revision/latest?cb=20180508212232",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Laboon",
+          "epithet": null,
+          "affiliation": "Rumbar Pirates (former)",
+          "api": "v1/characters/laboon.json"
+        },
+        {
+          "id": "rindo",
+          "name": "Rindo",
+          "display_name": "Rindo",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/55/Rindo_Anime_Infobox.png/revision/latest/scale-to-width-down/157?cb=20100423085744",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/5/55/Rindo_Anime_Infobox.png/revision/latest?cb=20100423085744",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Rindo",
+          "epithet": null,
+          "affiliation": "Kuja Pirates",
+          "api": "v1/characters/rindo.json"
+        }
       ]
     },
     {
@@ -173,8 +737,24 @@
       "label": "September 17th",
       "month": 9,
       "day": 17,
-      "characters": [
+      "names": [
         "Kuina"
+      ],
+      "characters": [
+        {
+          "id": "kuina",
+          "name": "Kuina",
+          "display_name": "Kuina",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Shimotsuki_Kuina_Anime_Infobox.png/revision/latest/scale-to-width-down/254?cb=20241110050028",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Shimotsuki_Kuina_Anime_Infobox.png/revision/latest?cb=20241110050028",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Shimotsuki_Kuina",
+          "epithet": null,
+          "affiliation": "Shimotsuki Family",
+          "api": "v1/characters/kuina.json"
+        }
       ]
     },
     {
@@ -182,9 +762,39 @@
       "label": "September 18th",
       "month": 9,
       "day": 18,
-      "characters": [
+      "names": [
         "Devil Dias",
         "Karasu"
+      ],
+      "characters": [
+        {
+          "id": "devil-dias",
+          "name": "Devil Dias",
+          "display_name": "Devil Dias",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/51/Devil_Dias_Anime_Infobox.png/revision/latest/scale-to-width-down/316?cb=20240830003134",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/5/51/Devil_Dias_Anime_Infobox.png/revision/latest?cb=20240830003134",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Devil_Dias",
+          "epithet": null,
+          "affiliation": "Acumate Pirates",
+          "api": "v1/characters/devil-dias.json"
+        },
+        {
+          "id": "karasu",
+          "name": "Karasu",
+          "display_name": "Karasu",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Karasu_Anime_Infobox.png/revision/latest/scale-to-width-down/353?cb=20190414113619",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Karasu_Anime_Infobox.png/revision/latest?cb=20190414113619",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Karasu",
+          "epithet": null,
+          "affiliation": "Revolutionary Army (North Army)",
+          "api": "v1/characters/karasu.json"
+        }
       ]
     },
     {
@@ -192,8 +802,24 @@
       "label": "September 19th",
       "month": 9,
       "day": 19,
-      "characters": [
+      "names": [
         "Don Krieg"
+      ],
+      "characters": [
+        {
+          "id": "don-krieg",
+          "name": "Don Krieg",
+          "display_name": "Don Krieg",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bb/Krieg_Anime_Infobox.png/revision/latest/scale-to-width-down/319?cb=20230123170612",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/b/bb/Krieg_Anime_Infobox.png/revision/latest?cb=20230123170612",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Krieg",
+          "epithet": "\"Pirate Fleet Admiral\"; \"Foul Play Krieg\"",
+          "affiliation": "Krieg Pirates",
+          "api": "v1/characters/don-krieg.json"
+        }
       ]
     },
     {
@@ -201,8 +827,24 @@
       "label": "September 20th",
       "month": 9,
       "day": 20,
-      "characters": [
+      "names": [
         "Shura"
+      ],
+      "characters": [
+        {
+          "id": "shura",
+          "name": "Shura",
+          "display_name": "Shura",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/47/Shura_Anime_Infobox.png/revision/latest/scale-to-width-down/247?cb=20221124151120",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/4/47/Shura_Anime_Infobox.png/revision/latest?cb=20221124151120",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Shura",
+          "epithet": "\"Sky Rider\"",
+          "affiliation": "God's Army",
+          "api": "v1/characters/shura.json"
+        }
       ]
     },
     {
@@ -210,10 +852,54 @@
       "label": "September 21st",
       "month": 9,
       "day": 21,
-      "characters": [
+      "names": [
         "Kuzan (Aokiji)",
         "Pappag",
         "Chocolat"
+      ],
+      "characters": [
+        {
+          "id": "kuzan",
+          "name": "Kuzan",
+          "display_name": "Kuzan (Aokiji)",
+          "alias": "Aokiji",
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Kuzan_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/326?cb=20240811021341",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Kuzan_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240811021341",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Kuzan",
+          "epithet": null,
+          "affiliation": "Blackbeard Pirates",
+          "api": "v1/characters/kuzan.json"
+        },
+        {
+          "id": "pappag",
+          "name": "Pappag",
+          "display_name": "Pappag",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/32/Pappag_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/363?cb=20140413064635",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/3/32/Pappag_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20140413064635",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Pappag",
+          "epithet": null,
+          "affiliation": "Criminal brand",
+          "api": "v1/characters/pappag.json"
+        },
+        {
+          "id": "chocolat",
+          "name": "Chocolat",
+          "display_name": "Chocolat",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/1f/Chocolat_Anime_Infobox.png/revision/latest/scale-to-width-down/313?cb=20130206215833",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/1/1f/Chocolat_Anime_Infobox.png/revision/latest?cb=20130206215833",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Chocolat",
+          "epithet": null,
+          "affiliation": "Fake Straw Hat Crew",
+          "api": "v1/characters/chocolat.json"
+        }
       ]
     },
     {
@@ -221,8 +907,24 @@
       "label": "September 22nd",
       "month": 9,
       "day": 22,
-      "characters": [
+      "names": [
         "Kyros"
+      ],
+      "characters": [
+        {
+          "id": "kyros",
+          "name": "Kyros",
+          "display_name": "Kyros",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Kyros_Anime_Infobox.png/revision/latest/scale-to-width-down/183?cb=20221018190117",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Kyros_Anime_Infobox.png/revision/latest?cb=20221018190117",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Kyros",
+          "epithet": null,
+          "affiliation": "Corrida Colosseum (former)",
+          "api": "v1/characters/kyros.json"
+        }
       ]
     },
     {
@@ -230,10 +932,54 @@
       "label": "September 23rd",
       "month": 9,
       "day": 23,
-      "characters": [
+      "names": [
         "Umit",
         "Hanger",
         "Orochi"
+      ],
+      "characters": [
+        {
+          "id": "umit",
+          "name": "Umit",
+          "display_name": "Umit",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Umit_Anime_Infobox.png/revision/latest/scale-to-width-down/173?cb=20180401081657",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Umit_Anime_Infobox.png/revision/latest?cb=20180401081657",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Umit",
+          "epithet": "\"Deep-Sea Currents\"",
+          "affiliation": "Underworld",
+          "api": "v1/characters/umit.json"
+        },
+        {
+          "id": "hanger",
+          "name": "Hanger",
+          "display_name": "Hanger",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2f/Hanger_Anime_Infobox.png/revision/latest/scale-to-width-down/244?cb=20250313023416",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/2/2f/Hanger_Anime_Infobox.png/revision/latest?cb=20250313023416",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Hanger",
+          "epithet": null,
+          "affiliation": "Robecca Hanberg",
+          "api": "v1/characters/hanger.json"
+        },
+        {
+          "id": "orochi",
+          "name": "Orochi",
+          "display_name": "Orochi",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/49/Kurozumi_Orochi_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230911061118",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/4/49/Kurozumi_Orochi_Anime_Infobox.png/revision/latest?cb=20230911061118",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Kurozumi_Orochi",
+          "epithet": null,
+          "affiliation": "Wano Country (Kurozumi Family)",
+          "api": "v1/characters/orochi.json"
+        }
       ]
     },
     {
@@ -241,10 +987,54 @@
       "label": "September 24th",
       "month": 9,
       "day": 24,
-      "characters": [
+      "names": [
         "Suu",
         "Jean Goen",
         "Black Maria"
+      ],
+      "characters": [
+        {
+          "id": "suu",
+          "name": "Suu",
+          "display_name": "Suu",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/32/Su_Anime_Infobox.png/revision/latest/scale-to-width-down/337?cb=20131012004059",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/3/32/Su_Anime_Infobox.png/revision/latest?cb=20131012004059",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Su",
+          "epithet": null,
+          "affiliation": "Conis",
+          "api": "v1/characters/suu.json"
+        },
+        {
+          "id": "jean-goen",
+          "name": "Jean Goen",
+          "display_name": "Jean Goen",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Jean_Goen_Anime_Infobox.png/revision/latest/scale-to-width-down/316?cb=20190404223035",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Jean_Goen_Anime_Infobox.png/revision/latest?cb=20190404223035",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Jean_Goen",
+          "epithet": null,
+          "affiliation": null,
+          "api": "v1/characters/jean-goen.json"
+        },
+        {
+          "id": "black-maria",
+          "name": "Black Maria",
+          "display_name": "Black Maria",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Black_Maria_Anime_Infobox.png/revision/latest/scale-to-width-down/357?cb=20210808144206",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Black_Maria_Anime_Infobox.png/revision/latest?cb=20210808144206",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Black_Maria",
+          "epithet": null,
+          "affiliation": "Beasts Pirates (Tobiroppo)",
+          "api": "v1/characters/black-maria.json"
+        }
       ]
     },
     {
@@ -252,8 +1042,24 @@
       "label": "September 25th",
       "month": 9,
       "day": 25,
-      "characters": [
+      "names": [
         "Terracotta"
+      ],
+      "characters": [
+        {
+          "id": "terracotta",
+          "name": "Terracotta",
+          "display_name": "Terracotta",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Terracotta_Anime_Infobox.png/revision/latest/scale-to-width-down/340?cb=20240615233654",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Terracotta_Anime_Infobox.png/revision/latest?cb=20240615233654",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Terracotta",
+          "epithet": null,
+          "affiliation": "Arabasta Kingdom",
+          "api": "v1/characters/terracotta.json"
+        }
       ]
     },
     {
@@ -261,9 +1067,39 @@
       "label": "September 26th",
       "month": 9,
       "day": 26,
-      "characters": [
+      "names": [
         "Dagama",
         "Cosmos"
+      ],
+      "characters": [
+        {
+          "id": "dagama",
+          "name": "Dagama",
+          "display_name": "Dagama",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Dagama_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20160221115154",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Dagama_Anime_Infobox.png/revision/latest?cb=20160221115154",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Dagama",
+          "epithet": null,
+          "affiliation": "Prodence Kingdom",
+          "api": "v1/characters/dagama.json"
+        },
+        {
+          "id": "cosmos",
+          "name": "Cosmos",
+          "display_name": "Cosmos",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bb/Cosmos_Anime_Infobox.png/revision/latest?cb=20090723231111",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/b/bb/Cosmos_Anime_Infobox.png/revision/latest?cb=20090723231111",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Cosmos",
+          "epithet": null,
+          "affiliation": "Kuja Pirates",
+          "api": "v1/characters/cosmos.json"
+        }
       ]
     },
     {
@@ -271,8 +1107,24 @@
       "label": "September 27th",
       "month": 9,
       "day": 27,
-      "characters": [
+      "names": [
         "Mr. 9"
+      ],
+      "characters": [
+        {
+          "id": "mr-9",
+          "name": "Mr. 9",
+          "display_name": "Mr. 9",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Mr._9_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/283?cb=20251130161817",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Mr._9_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251130161817",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Mr._9",
+          "epithet": null,
+          "affiliation": "Baroque Works (former)",
+          "api": "v1/characters/mr-9.json"
+        }
       ]
     },
     {
@@ -280,9 +1132,39 @@
       "label": "September 28th",
       "month": 9,
       "day": 28,
-      "characters": [
+      "names": [
         "Jack",
         "Stalker"
+      ],
+      "characters": [
+        {
+          "id": "jack",
+          "name": "Jack",
+          "display_name": "Jack",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Jack_Anime_Infobox.png/revision/latest/scale-to-width-down/316?cb=20161009223938",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Jack_Anime_Infobox.png/revision/latest?cb=20161009223938",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Jack",
+          "epithet": "\"Jack the Drought\"",
+          "affiliation": "Beasts Pirates",
+          "api": "v1/characters/jack.json"
+        },
+        {
+          "id": "stalker",
+          "name": "Stalker",
+          "display_name": "Stalker",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Stalker_Anime_Infobox.png/revision/latest/scale-to-width-down/315?cb=20251203234037",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Stalker_Anime_Infobox.png/revision/latest?cb=20251203234037",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Stalker",
+          "epithet": null,
+          "affiliation": "Marines G-1 Branch",
+          "api": "v1/characters/stalker.json"
+        }
       ]
     },
     {
@@ -290,7 +1172,7 @@
       "label": "September 29th",
       "month": 9,
       "day": 29,
-      "characters": [
+      "names": [
         "Charlotte Opera",
         "Charlotte Counter",
         "Charlotte Cadenza",
@@ -298,6 +1180,131 @@
         "Charlotte Gala",
         "Drug. Peclo",
         "Pinky"
+      ],
+      "characters": [
+        {
+          "id": "charlotte-opera",
+          "name": "Charlotte Opera",
+          "display_name": "Charlotte Opera",
+          "alias": null,
+          "note": null,
+          "born_with": [
+            "charlotte-counter",
+            "charlotte-cadenza",
+            "charlotte-cabaletta",
+            "charlotte-gala"
+          ],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/56/Charlotte_Opera_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20170528044001",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/5/56/Charlotte_Opera_Anime_Infobox.png/revision/latest?cb=20170528044001",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Opera",
+          "epithet": null,
+          "affiliation": "Charlotte Family",
+          "api": "v1/characters/charlotte-opera.json"
+        },
+        {
+          "id": "charlotte-counter",
+          "name": "Charlotte Counter",
+          "display_name": "Charlotte Counter",
+          "alias": null,
+          "note": null,
+          "born_with": [
+            "charlotte-opera",
+            "charlotte-cadenza",
+            "charlotte-cabaletta",
+            "charlotte-gala"
+          ],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/0a/Charlotte_Counter_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180129042546",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/0/0a/Charlotte_Counter_Anime_Infobox.png/revision/latest?cb=20180129042546",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Counter",
+          "epithet": null,
+          "affiliation": "Charlotte Family",
+          "api": "v1/characters/charlotte-counter.json"
+        },
+        {
+          "id": "charlotte-cadenza",
+          "name": "Charlotte Cadenza",
+          "display_name": "Charlotte Cadenza",
+          "alias": null,
+          "note": null,
+          "born_with": [
+            "charlotte-opera",
+            "charlotte-counter",
+            "charlotte-cabaletta",
+            "charlotte-gala"
+          ],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f2/Charlotte_Cadenza_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20181023140810",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/f/f2/Charlotte_Cadenza_Anime_Infobox.png/revision/latest?cb=20181023140810",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Cadenza",
+          "epithet": null,
+          "affiliation": "Charlotte Family",
+          "api": "v1/characters/charlotte-cadenza.json"
+        },
+        {
+          "id": "charlotte-cabaletta",
+          "name": "Charlotte Cabaletta",
+          "display_name": "Charlotte Cabaletta",
+          "alias": null,
+          "note": null,
+          "born_with": [
+            "charlotte-opera",
+            "charlotte-counter",
+            "charlotte-cadenza",
+            "charlotte-gala"
+          ],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Charlotte_Cabaletta_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180123093308",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Charlotte_Cabaletta_Anime_Infobox.png/revision/latest?cb=20180123093308",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Cabaletta",
+          "epithet": null,
+          "affiliation": "Charlotte Family",
+          "api": "v1/characters/charlotte-cabaletta.json"
+        },
+        {
+          "id": "charlotte-gala",
+          "name": "Charlotte Gala",
+          "display_name": "Charlotte Gala",
+          "alias": null,
+          "note": null,
+          "born_with": [
+            "charlotte-opera",
+            "charlotte-counter",
+            "charlotte-cadenza",
+            "charlotte-cabaletta"
+          ],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Charlotte_Gala_Manga_Infobox.png/revision/latest/scale-to-width-down/337?cb=20200118111554",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Charlotte_Gala_Manga_Infobox.png/revision/latest?cb=20200118111554",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Gala",
+          "epithet": null,
+          "affiliation": "Charlotte Family",
+          "api": "v1/characters/charlotte-gala.json"
+        },
+        {
+          "id": "drug-peclo",
+          "name": "Drug. Peclo",
+          "display_name": "Drug. Peclo",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Drug_Peclo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180401081618",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Drug_Peclo_Anime_Infobox.png/revision/latest?cb=20180401081618",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Drug_Peclo",
+          "epithet": "\"Major Undertaker\"",
+          "affiliation": "Underworld",
+          "api": "v1/characters/drug-peclo.json"
+        },
+        {
+          "id": "pinky",
+          "name": "Pinky",
+          "display_name": "Pinky",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/63/Pinky_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250526230606",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/6/63/Pinky_Anime_Infobox.png/revision/latest?cb=20250526230606",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Pinky",
+          "epithet": "\"Monstrous Bird\"",
+          "affiliation": null,
+          "api": "v1/characters/pinky.json"
+        }
       ]
     },
     {
@@ -305,8 +1312,24 @@
       "label": "September 30th",
       "month": 9,
       "day": 30,
-      "characters": [
+      "names": [
         "Avalo Pizarro"
+      ],
+      "characters": [
+        {
+          "id": "avalo-pizarro",
+          "name": "Avalo Pizarro",
+          "display_name": "Avalo Pizarro",
+          "alias": null,
+          "note": null,
+          "born_with": [],
+          "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/ef/Avalo_Pizarro_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/369?cb=20200112042123",
+          "image": "https://static.wikia.nocookie.net/onepiece/images/e/ef/Avalo_Pizarro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200112042123",
+          "wiki_url": "https://onepiece.fandom.com/wiki/Avalo_Pizarro",
+          "epithet": "\"Corrupt King\"",
+          "affiliation": "Blackbeard Pirates",
+          "api": "v1/characters/avalo-pizarro.json"
+        }
       ]
     }
   ]

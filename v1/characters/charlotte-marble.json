@@ -1,0 +1,72 @@
+{
+  "id": "charlotte-marble",
+  "name": "Charlotte Marble",
+  "display_name": "Charlotte Marble",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-17",
+      "label": "November 17th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-mobile",
+      "name": "Charlotte Mobile"
+    },
+    {
+      "id": "charlotte-myukuru",
+      "name": "Charlotte Myukuru"
+    },
+    {
+      "id": "charlotte-maple",
+      "name": "Charlotte Maple"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Charlotte_Marble_Anime_Infobox.png/revision/latest?cb=20190210133123",
+    "width": 1265,
+    "height": 1036
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Charlotte_Marble_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20190210133123",
+    "width": 400,
+    "height": 328
+  },
+  "wiki": {
+    "title": "Charlotte Marble",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Marble"
+  },
+  "info": {
+    "japanese_name": "シャーロット・マーブル",
+    "romanized_name": "Shārotto Māburu",
+    "official_english_name": "Charlotte Marble",
+    "debut": [
+      "Chapter 894",
+      "Episode 869"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "age": "25",
+    "birthday": "November 17th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "franky",
+  "name": "Franky",
+  "display_name": "Franky",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-09",
+      "label": "March 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Franky_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241110020715",
+    "width": 1039,
+    "height": 1028
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Franky_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20241110020715",
+    "width": 400,
+    "height": 396
+  },
+  "wiki": {
+    "title": "Franky",
+    "url": "https://onepiece.fandom.com/wiki/Franky"
+  },
+  "info": {
+    "japanese_name": "フランキー",
+    "romanized_name": "Furankī",
+    "official_english_name": "Franky; Frankie (originally)",
+    "debut": [
+      "Chapter 329",
+      "Episode 233"
+    ],
+    "affiliations": [
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet",
+      "Franky Family (former)",
+      "Tom's Workers (former)",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Shipwright",
+      "Senior Officer",
+      "Dismantler",
+      "Underworld boss (former)",
+      "Bounty Hunter (former)"
+    ],
+    "origin": "South Blue",
+    "residence": [
+      "Water 7 (former)",
+      "Karakuri Island (former, temporary)"
+    ],
+    "epithet": "\"Iron Man\" Franky; (former)",
+    "aliases": [
+      "\"Fra-nosuke\""
+    ],
+    "age": "34 (debut); 36 (after timeskip)",
+    "birthday": "March 9th",
+    "height": "225 cm (7'5\") (debut); 240 cm (7'10\") (after timeskip)",
+    "blood_type": "XF",
+    "bounty": "394,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

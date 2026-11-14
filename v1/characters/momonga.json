@@ -1,0 +1,64 @@
+{
+  "id": "momonga",
+  "name": "Momonga",
+  "display_name": "Momonga",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-06",
+      "label": "June 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Momonga_Anime_Infobox.png/revision/latest?cb=20221101021448",
+    "width": 1920,
+    "height": 2259
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Momonga_Anime_Infobox.png/revision/latest/scale-to-width-down/340?cb=20221101021448",
+    "width": 340,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Momonga",
+    "url": "https://onepiece.fandom.com/wiki/Momonga"
+  },
+  "info": {
+    "japanese_name": "モモンガ",
+    "debut": [
+      "Chapter 420",
+      "Episode 302"
+    ],
+    "affiliations": [
+      "Marines G-1 Branch"
+    ],
+    "occupations": [
+      "Vice Admiral",
+      "Base Commander of G-1"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "G-1"
+    ],
+    "age": "46 (debut); 48 (after timeskip)",
+    "birthday": "June 6th",
+    "height": "251 cm (8'3\")",
+    "blood_type": "F",
+    "bounty": "At least ★★★★★"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

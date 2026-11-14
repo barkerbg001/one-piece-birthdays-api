@@ -1,0 +1,74 @@
+{
+  "id": "pekoms",
+  "name": "Pekoms",
+  "display_name": "Pekoms",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-11",
+      "label": "April 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/15/Pekoms_Anime_Infobox.png/revision/latest?cb=20221107145536",
+    "width": 1653,
+    "height": 3159
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/15/Pekoms_Anime_Infobox.png/revision/latest/scale-to-width-down/209?cb=20221107145536",
+    "width": 209,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Pekoms",
+    "url": "https://onepiece.fandom.com/wiki/Pekoms"
+  },
+  "info": {
+    "japanese_name": "ペコムズ",
+    "romanized_name": "Pekomuzu",
+    "official_english_name": "Pekoms",
+    "debut": [
+      "Chapter 651",
+      "Episode 570"
+    ],
+    "affiliations": [
+      "Big Mom Pirates",
+      "Nox Pirates (former)"
+    ],
+    "occupations": [
+      "Combatant",
+      "Broker",
+      "Explorer (former)"
+    ],
+    "residence": [
+      "Zou (former)"
+    ],
+    "aliases": [
+      "\"Nazoms\""
+    ],
+    "status": "1",
+    "age": "27",
+    "birthday": "April 11th",
+    "height": "232 cm (7'7\")",
+    "blood_type": "S",
+    "bounty": "330,000,000",
+    "devil_fruit": "Kame Kame no Mi",
+    "devil_fruit_english": "Turtle-Turtle Fruit",
+    "devil_fruit_type": "Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,7 +3,23 @@
   "label": "October 20th",
   "month": 10,
   "day": 20,
-  "characters": [
+  "names": [
     "Tyrannosaurus"
+  ],
+  "characters": [
+    {
+      "id": "tyrannosaurus",
+      "name": "Tyrannosaurus",
+      "display_name": "Tyrannosaurus",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/52/Tyrannosaurus_Manga_Pre_Timeskip_Infobox.png/revision/latest?cb=20170319014717",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/52/Tyrannosaurus_Manga_Pre_Timeskip_Infobox.png/revision/latest?cb=20170319014717",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Tyrannosaurus",
+      "epithet": null,
+      "affiliation": "Iceburg",
+      "api": "v1/characters/tyrannosaurus.json"
+    }
   ]
 }

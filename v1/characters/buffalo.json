@@ -1,0 +1,70 @@
+{
+  "id": "buffalo",
+  "name": "Buffalo",
+  "display_name": "Buffalo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-08",
+      "label": "April 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Buffalo_Anime_Infobox.png/revision/latest?cb=20131104002420",
+    "width": 1052,
+    "height": 646
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Buffalo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20131104002420",
+    "width": 400,
+    "height": 246
+  },
+  "wiki": {
+    "title": "Buffalo",
+    "url": "https://onepiece.fandom.com/wiki/Buffalo"
+  },
+  "info": {
+    "japanese_name": "バッファロー",
+    "romanized_name": "Baffarō",
+    "official_english_name": "Buffalo",
+    "debut": [
+      "Chapter 692",
+      "Episode 618"
+    ],
+    "affiliations": [
+      "Donquixote Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Combatant",
+      "Assassin"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Spider Miles (former)",
+      "Dressrosa (former)"
+    ],
+    "age": "30",
+    "birthday": "April 8th",
+    "height": "696 cm (22'10\")",
+    "blood_type": "F",
+    "devil_fruit": "Guru Guru no Mi",
+    "devil_fruit_english": "Spin-Spin Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

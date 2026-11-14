@@ -3,9 +3,53 @@
   "label": "April 4th",
   "month": 4,
   "day": 4,
-  "characters": [
+  "names": [
     "Shirahoshi",
     "Foxy",
     "Shishilian"
+  ],
+  "characters": [
+    {
+      "id": "shirahoshi",
+      "name": "Shirahoshi",
+      "display_name": "Shirahoshi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Shirahoshi_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240814220909",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Shirahoshi_Anime_Infobox.png/revision/latest?cb=20240814220909",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Shirahoshi",
+      "epithet": "\"Mermaid Princess\"",
+      "affiliation": "Neptune Family",
+      "api": "v1/characters/shirahoshi.json"
+    },
+    {
+      "id": "foxy",
+      "name": "Foxy",
+      "display_name": "Foxy",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7d/Foxy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20251102162706",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7d/Foxy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251102162706",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Foxy",
+      "epithet": "\"Silver Fox\"",
+      "affiliation": "Foxy Pirates",
+      "api": "v1/characters/foxy.json"
+    },
+    {
+      "id": "shishilian",
+      "name": "Shishilian",
+      "display_name": "Shishilian",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/77/Shishilian_Anime_Infobox.png/revision/latest/scale-to-width-down/302?cb=20161002183431",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/77/Shishilian_Anime_Infobox.png/revision/latest?cb=20161002183431",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Shishilian",
+      "epithet": "\"Full Power Shishilian\"",
+      "affiliation": "Mokomo Dukedom",
+      "api": "v1/characters/shishilian.json"
+    }
   ]
 }

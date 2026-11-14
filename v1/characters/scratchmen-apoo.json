@@ -1,0 +1,68 @@
+{
+  "id": "scratchmen-apoo",
+  "name": "Scratchmen Apoo",
+  "display_name": "Scratchmen Apoo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-19",
+      "label": "March 19th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d0/Scratchmen_Apoo_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20210426143015",
+    "width": 992,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d0/Scratchmen_Apoo_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/367?cb=20210426143015",
+    "width": 367,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Scratchmen Apoo",
+    "url": "https://onepiece.fandom.com/wiki/Scratchmen_Apoo"
+  },
+  "info": {
+    "japanese_name": "スクラッチメン・アプー",
+    "romanized_name": "Sukuratchimen Apū",
+    "debut": [
+      "Chapter 498",
+      "Episode 392"
+    ],
+    "affiliations": [
+      "On Air Pirates",
+      "Beasts Pirates (former)"
+    ],
+    "occupations": [
+      "Pirate Captain",
+      "Musician",
+      "Informant"
+    ],
+    "origin": "Grand Line",
+    "epithet": "\"Roar of the Sea\"",
+    "age": "29 (debut); 31 (after timeskip)",
+    "birthday": "March 19th",
+    "height": "256 cm (8'5\") (debut, after timeskip)",
+    "blood_type": "XF",
+    "bounty": "350,000,000",
+    "devil_fruit": "Oto Oto no Mi",
+    "devil_fruit_english": "Tone-Tone Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,9 +3,53 @@
   "label": "December 12th",
   "month": 12,
   "day": 12,
-  "characters": [
+  "names": [
     "Chinjao",
     "Nezumi",
     "King"
+  ],
+  "characters": [
+    {
+      "id": "chinjao",
+      "name": "Chinjao",
+      "display_name": "Chinjao",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b0/Chinjao_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180508221950",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b0/Chinjao_Anime_Infobox.png/revision/latest?cb=20180508221950",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Chinjao",
+      "epithet": "\"Chinjao the Drill\"",
+      "affiliation": "Chinjao Family",
+      "api": "v1/characters/chinjao.json"
+    },
+    {
+      "id": "nezumi",
+      "name": "Nezumi",
+      "display_name": "Nezumi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Nezumi_Anime_Infobox.png/revision/latest/scale-to-width-down/271?cb=20180706061857",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Nezumi_Anime_Infobox.png/revision/latest?cb=20180706061857",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Nezumi",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/nezumi.json"
+    },
+    {
+      "id": "king",
+      "name": "King",
+      "display_name": "King",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8f/King_Anime_Infobox.png/revision/latest/scale-to-width-down/240?cb=20230423142631",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8f/King_Anime_Infobox.png/revision/latest?cb=20230423142631",
+      "wiki_url": "https://onepiece.fandom.com/wiki/King",
+      "epithet": "\"King the Conflagration\"",
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/king.json"
+    }
   ]
 }

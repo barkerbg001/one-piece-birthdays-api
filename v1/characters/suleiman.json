@@ -1,0 +1,66 @@
+{
+  "id": "suleiman",
+  "name": "Suleiman",
+  "display_name": "Suleiman",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-30",
+      "label": "January 30th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/06/Suleiman_Anime_Infobox.png/revision/latest?cb=20141012155032",
+    "width": 1280,
+    "height": 1899
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/06/Suleiman_Anime_Infobox.png/revision/latest/scale-to-width-down/269?cb=20141012155032",
+    "width": 269,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Suleiman",
+    "url": "https://onepiece.fandom.com/wiki/Suleiman"
+  },
+  "info": {
+    "japanese_name": "スレイマン",
+    "romanized_name": "Sureiman",
+    "debut": [
+      "Chapter 704",
+      "Episode 632"
+    ],
+    "affiliations": [
+      "Beautiful Pirates",
+      "Underworld (former)",
+      "Straw Hat Grand Fleet"
+    ],
+    "occupations": [
+      "Pirate",
+      "War Criminal",
+      "Mercenary (former)"
+    ],
+    "origin": "South Blue",
+    "epithet": "\"Suleiman the Beheader\"",
+    "age": "40",
+    "birthday": "January 30th",
+    "height": "240 cm (7'10½\")",
+    "blood_type": "S",
+    "bounty": "67,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

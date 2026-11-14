@@ -1,0 +1,70 @@
+{
+  "id": "satori",
+  "name": "Satori",
+  "display_name": "Satori",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-10",
+      "label": "March 10th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "hotori",
+      "name": "Hotori"
+    },
+    {
+      "id": "kotori",
+      "name": "Kotori"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/11/Satori_Anime_Infobox.png/revision/latest?cb=20180908093921",
+    "width": 992,
+    "height": 936
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/11/Satori_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180908093921",
+    "width": 400,
+    "height": 377
+  },
+  "wiki": {
+    "title": "Satori",
+    "url": "https://onepiece.fandom.com/wiki/Satori"
+  },
+  "info": {
+    "japanese_name": "サトリ",
+    "debut": [
+      "Chapter 241",
+      "Episode 155"
+    ],
+    "affiliations": [
+      "God's Army"
+    ],
+    "occupations": [
+      "Priest of Enel"
+    ],
+    "origin": "Sky Islands (Birka)",
+    "epithet": "\"Satori of the Forest\"",
+    "status": "1",
+    "age": "25 (debut); 27 (after timeskip)",
+    "birthday": "March 10th",
+    "height": "179 cm (5'10\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

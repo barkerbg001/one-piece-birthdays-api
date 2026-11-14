@@ -3,9 +3,53 @@
   "label": "November 14th",
   "month": 11,
   "day": 14,
-  "characters": [
+  "names": [
     "Raideen",
     "Negikuma Maria",
     "Coffee Monkeys"
+  ],
+  "characters": [
+    {
+      "id": "raideen",
+      "name": "Raideen",
+      "display_name": "Raideen",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/89/Raideen_Anime_Infobox.png/revision/latest/scale-to-width-down/335?cb=20241030014359",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/89/Raideen_Anime_Infobox.png/revision/latest?cb=20241030014359",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Raideen",
+      "epithet": null,
+      "affiliation": "Giant Warrior Pirates (former)",
+      "api": "v1/characters/raideen.json"
+    },
+    {
+      "id": "negikuma-maria",
+      "name": "Negikuma Maria",
+      "display_name": "Negikuma Maria",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Negikuma_Maria_Anime_Infobox.png/revision/latest/scale-to-width-down/357?cb=20130624224333",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Negikuma_Maria_Anime_Infobox.png/revision/latest?cb=20130624224333",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Negikuma_Maria",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/negikuma-maria.json"
+    },
+    {
+      "id": "coffee-monkeys",
+      "name": "Coffee Monkeys",
+      "display_name": "Coffee Monkeys",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/97/Coffee_Monkeys_Infobox.png/revision/latest/scale-to-width-down/400?cb=20131103005225",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/97/Coffee_Monkeys_Infobox.png/revision/latest?cb=20131103005225",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Coffee_Monkeys",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/coffee-monkeys.json"
+    }
   ]
 }

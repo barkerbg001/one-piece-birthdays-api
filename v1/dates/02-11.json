@@ -3,7 +3,23 @@
   "label": "February 11th",
   "month": 2,
   "day": 11,
-  "characters": [
+  "names": [
     "Charlotte Flampé"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-flampe",
+      "name": "Charlotte Flampé",
+      "display_name": "Charlotte Flampé",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/91/Charlotte_Flampe_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20190203105539",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/91/Charlotte_Flampe_Anime_Infobox.png/revision/latest?cb=20190203105539",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Flampe",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-flampe.json"
+    }
   ]
 }

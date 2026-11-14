@@ -1,0 +1,57 @@
+{
+  "id": "elmy",
+  "name": "Elmy",
+  "display_name": "Elmy",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-30",
+      "label": "June 30th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/28/Elmy_Anime_Infobox.png/revision/latest?cb=20101024180111",
+    "width": 900,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/28/Elmy_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20101024180111",
+    "width": 400,
+    "height": 320
+  },
+  "wiki": {
+    "title": "Elmy",
+    "url": "https://onepiece.fandom.com/wiki/Elmy"
+  },
+  "info": {
+    "japanese_name": "エルミー",
+    "romanized_name": "Erumī",
+    "debut": [
+      "Chapter 551",
+      "Episode 460"
+    ],
+    "affiliations": [
+      "Subordinate of the Whitebeard Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain"
+    ],
+    "birthday": "June 30th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

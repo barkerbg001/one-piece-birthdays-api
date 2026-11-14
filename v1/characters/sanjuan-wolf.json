@@ -1,0 +1,71 @@
+{
+  "id": "sanjuan-wolf",
+  "name": "Sanjuan Wolf",
+  "display_name": "Sanjuan Wolf",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-02",
+      "label": "March 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c8/Sanjuan_Wolf_Anime_Infobox.png/revision/latest?cb=20241006021549",
+    "width": 1158,
+    "height": 944
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c8/Sanjuan_Wolf_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20241006021549",
+    "width": 400,
+    "height": 326
+  },
+  "wiki": {
+    "title": "Sanjuan Wolf",
+    "url": "https://onepiece.fandom.com/wiki/Sanjuan_Wolf"
+  },
+  "info": {
+    "japanese_name": "サンファン・ウルフ",
+    "romanized_name": "Sanfan Urufu",
+    "official_english_name": "San Juan Wolf",
+    "debut": [
+      "Chapter 575",
+      "Episode 484 (Full)"
+    ],
+    "affiliations": [
+      "Blackbeard Pirates",
+      "Impel Down (former)"
+    ],
+    "occupations": [
+      "Titanic Captain (Captain of the Seventh Ship)",
+      "Prisoner of the Great Prison (former)"
+    ],
+    "origin": "West Blue",
+    "residence": [
+      "Hachinosu"
+    ],
+    "epithet": "\"Colossal Battleship\"",
+    "age": "97 (debut); 99 (after timeskip)",
+    "birthday": "March 2nd",
+    "height": "180 m (590'6\") (maximum)",
+    "blood_type": "S",
+    "bounty": "Unknown",
+    "devil_fruit": "Deka Deka no Mi",
+    "devil_fruit_english": "Huge-Huge Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

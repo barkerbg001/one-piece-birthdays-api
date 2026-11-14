@@ -1,0 +1,59 @@
+{
+  "id": "kinderella",
+  "name": "Kinderella",
+  "display_name": "Kinderella",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-20",
+      "label": "January 20th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Kinderella_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20190519091059",
+    "width": 901,
+    "height": 1112
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Kinderella_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/324?cb=20190519091059",
+    "width": 324,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kinderella",
+    "url": "https://onepiece.fandom.com/wiki/Kinderella"
+  },
+  "info": {
+    "japanese_name": "キンデレラ",
+    "romanized_name": "Kinderera",
+    "official_english_name": "Kinderella",
+    "debut": [
+      "Chapter 261 (cover)",
+      "Episode 778"
+    ],
+    "affiliations": [
+      "Evil Black Drum Kingdom"
+    ],
+    "occupations": [
+      "Miss Universe",
+      "Queen of the Evil Black Drum Kingdom"
+    ],
+    "epithet": "\"Miss Universe\"",
+    "birthday": "January 20th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

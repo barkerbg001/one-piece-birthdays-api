@@ -1,0 +1,57 @@
+{
+  "id": "minokoala",
+  "name": "Minokoala",
+  "display_name": "Minokoala",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-05",
+      "label": "March 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a7/Minokoala_Anime_Infobox.png/revision/latest?cb=20151024072752",
+    "width": 1920,
+    "height": 2712
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a7/Minokoala_Anime_Infobox.png/revision/latest/scale-to-width-down/283?cb=20151024072752",
+    "width": 283,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Minokoala",
+    "url": "https://onepiece.fandom.com/wiki/Minokoala"
+  },
+  "info": {
+    "japanese_name": "ミノコアラ",
+    "romanized_name": "Minokoara",
+    "debut": [
+      "Chapter 531",
+      "Episode 432"
+    ],
+    "affiliations": [
+      "Impel Down",
+      "World Government"
+    ],
+    "occupations": [
+      "Jailer Beast"
+    ],
+    "birthday": "March 5th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,8 +3,38 @@
   "label": "March 19th",
   "month": 3,
   "day": 19,
-  "characters": [
+  "names": [
     "Atmos",
     "Scratchmen Apoo"
+  ],
+  "characters": [
+    {
+      "id": "atmos",
+      "name": "Atmos",
+      "display_name": "Atmos",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Atmos_Anime_Infobox.png/revision/latest/scale-to-width-down/325?cb=20180904201451",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Atmos_Anime_Infobox.png/revision/latest?cb=20180904201451",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Atmos",
+      "epithet": "\"Water Buffalo\"",
+      "affiliation": "Whitebeard Pirates",
+      "api": "v1/characters/atmos.json"
+    },
+    {
+      "id": "scratchmen-apoo",
+      "name": "Scratchmen Apoo",
+      "display_name": "Scratchmen Apoo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d0/Scratchmen_Apoo_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/367?cb=20210426143015",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d0/Scratchmen_Apoo_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20210426143015",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Scratchmen_Apoo",
+      "epithet": "\"Roar of the Sea\"",
+      "affiliation": "On Air Pirates",
+      "api": "v1/characters/scratchmen-apoo.json"
+    }
   ]
 }

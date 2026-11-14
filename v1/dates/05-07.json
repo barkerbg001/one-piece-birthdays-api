@@ -3,7 +3,23 @@
   "label": "May 7th",
   "month": 5,
   "day": 7,
-  "characters": [
+  "names": [
     "Maynard"
+  ],
+  "characters": [
+    {
+      "id": "maynard",
+      "name": "Maynard",
+      "display_name": "Maynard",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c8/Maynard_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20150301154312",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c8/Maynard_Anime_Infobox.png/revision/latest?cb=20150301154312",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Maynard",
+      "epithet": "\"Maynard the Pursuer\"",
+      "affiliation": "Marines",
+      "api": "v1/characters/maynard.json"
+    }
   ]
 }

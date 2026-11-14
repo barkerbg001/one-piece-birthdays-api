@@ -1,0 +1,72 @@
+{
+  "id": "oden",
+  "name": "Oden",
+  "display_name": "Oden",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-22",
+      "label": "February 22nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Kouzuki_Oden_Anime_Infobox.png/revision/latest?cb=20210425071747",
+    "width": 1060,
+    "height": 1044
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Kouzuki_Oden_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20210425071747",
+    "width": 400,
+    "height": 394
+  },
+  "wiki": {
+    "title": "Kouzuki Oden",
+    "url": "https://onepiece.fandom.com/wiki/Kouzuki_Oden"
+  },
+  "info": {
+    "japanese_name": "光月おでん",
+    "romanized_name": "Kōzuki Oden",
+    "official_english_name": "Kozuki Oden; Kouzuki Oden (OPCG)",
+    "debut": [
+      "Chapter 920",
+      "Episode 910"
+    ],
+    "affiliations": [
+      "Kouzuki Family",
+      "Roger Pirates (former)",
+      "Whitebeard Pirates (former)"
+    ],
+    "occupations": [
+      "Samurai",
+      "Daimyo",
+      "Pirate (former)",
+      "2nd Division Commander (former)"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Wano Country (Kuri)",
+      "(Flower Capital) (former)"
+    ],
+    "epithet": "\"Idiot Lord\"",
+    "status": "2",
+    "birthday": "February 22nd",
+    "height": "382 cm (12'6\")",
+    "blood_type": "F",
+    "bounty": "Unknown"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

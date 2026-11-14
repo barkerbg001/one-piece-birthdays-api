@@ -1,0 +1,69 @@
+{
+  "id": "kizaru",
+  "name": "Kizaru",
+  "display_name": "Kizaru (Borsalino)",
+  "alias": "Borsalino",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-23",
+      "label": "November 23rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/14/Borsalino_Anime_Infobox.png/revision/latest?cb=20190603023753",
+    "width": 1187,
+    "height": 2395
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/14/Borsalino_Anime_Infobox.png/revision/latest/scale-to-width-down/198?cb=20190603023753",
+    "width": 198,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Borsalino",
+    "url": "https://onepiece.fandom.com/wiki/Borsalino"
+  },
+  "info": {
+    "japanese_name": "ボルサリーノ",
+    "romanized_name": "Borusarīno",
+    "official_english_name": "Borsalino",
+    "debut": [
+      "Chapter 504",
+      "Episode 398"
+    ],
+    "affiliations": [
+      "Marines"
+    ],
+    "occupations": [
+      "Admiral",
+      "Vice Admiral (former)"
+    ],
+    "origin": "North Blue",
+    "aliases": [
+      "Kizaru"
+    ],
+    "age": "56 (debut); 58 (after timeskip)",
+    "birthday": "November 23rd",
+    "height": "302 cm (9'11\")",
+    "blood_type": "XF",
+    "bounty": "(3,000,000,000)",
+    "devil_fruit": "Pika Pika no Mi",
+    "devil_fruit_english": "Glint-Glint Fruit",
+    "devil_fruit_type": "Logia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

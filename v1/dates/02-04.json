@@ -3,10 +3,68 @@
   "label": "February 4th",
   "month": 2,
   "day": 4,
-  "characters": [
+  "names": [
     "Gloriosa",
     "Haruta",
     "Fukaboshi",
     "Fujin"
+  ],
+  "characters": [
+    {
+      "id": "gloriosa",
+      "name": "Gloriosa",
+      "display_name": "Gloriosa",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/29/Gloriosa_Anime_Infobox.png/revision/latest/scale-to-width-down/225?cb=20250820070441",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/29/Gloriosa_Anime_Infobox.png/revision/latest?cb=20250820070441",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gloriosa",
+      "epithet": null,
+      "affiliation": "Kuja",
+      "api": "v1/characters/gloriosa.json"
+    },
+    {
+      "id": "haruta",
+      "name": "Haruta",
+      "display_name": "Haruta",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Haruta_Anime_Infobox.png/revision/latest/scale-to-width-down/382?cb=20130305124235",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Haruta_Anime_Infobox.png/revision/latest?cb=20130305124235",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Haruta",
+      "epithet": null,
+      "affiliation": "Whitebeard Pirates",
+      "api": "v1/characters/haruta.json"
+    },
+    {
+      "id": "fukaboshi",
+      "name": "Fukaboshi",
+      "display_name": "Fukaboshi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/29/Fukaboshi_Anime_Infobox.png/revision/latest/scale-to-width-down/343?cb=20140107021229",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/29/Fukaboshi_Anime_Infobox.png/revision/latest?cb=20140107021229",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Fukaboshi",
+      "epithet": null,
+      "affiliation": "Neptune Family",
+      "api": "v1/characters/fukaboshi.json"
+    },
+    {
+      "id": "fujin",
+      "name": "Fujin",
+      "display_name": "Fujin",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/50/Fujin_Anime_Infobox.png/revision/latest/scale-to-width-down/257?cb=20200927051729",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/50/Fujin_Anime_Infobox.png/revision/latest?cb=20200927051729",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Fujin",
+      "epithet": null,
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/fujin.json"
+    }
   ]
 }

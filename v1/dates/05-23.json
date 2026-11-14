@@ -3,7 +3,23 @@
   "label": "May 23rd",
   "month": 5,
   "day": 23,
-  "characters": [
+  "names": [
     "Chew"
+  ],
+  "characters": [
+    {
+      "id": "chew",
+      "name": "Chew",
+      "display_name": "Chew",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/05/Chew_Anime_Infobox.png/revision/latest/scale-to-width-down/190?cb=20240518182217",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/05/Chew_Anime_Infobox.png/revision/latest?cb=20240518182217",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Chew",
+      "epithet": null,
+      "affiliation": "Arlong Pirates",
+      "api": "v1/characters/chew.json"
+    }
   ]
 }

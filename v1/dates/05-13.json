@@ -3,8 +3,38 @@
   "label": "May 13th",
   "month": 5,
   "day": 13,
-  "characters": [
+  "names": [
     "Koby",
     "Silvers Rayleigh"
+  ],
+  "characters": [
+    {
+      "id": "koby",
+      "name": "Koby",
+      "display_name": "Koby",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Koby_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/300?cb=20241114130518",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Koby_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241114130518",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Koby",
+      "epithet": "\"Hero\"",
+      "affiliation": "Marines (SWORD), Marine 153rd Branch (former)",
+      "api": "v1/characters/koby.json"
+    },
+    {
+      "id": "silvers-rayleigh",
+      "name": "Silvers Rayleigh",
+      "display_name": "Silvers Rayleigh",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b1/Silvers_Rayleigh_Anime_Infobox.png/revision/latest/scale-to-width-down/209?cb=20230601221758",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b1/Silvers_Rayleigh_Anime_Infobox.png/revision/latest?cb=20230601221758",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Silvers_Rayleigh",
+      "epithet": "\"Dark King\"; \"Right Hand of the Pirate King\"",
+      "affiliation": "Roger Pirates (former)",
+      "api": "v1/characters/silvers-rayleigh.json"
+    }
   ]
 }

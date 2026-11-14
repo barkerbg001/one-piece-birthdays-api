@@ -1,0 +1,62 @@
+{
+  "id": "aphelandra",
+  "name": "Aphelandra",
+  "display_name": "Aphelandra",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-01",
+      "label": "August 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/31/Aphelandra_Anime_Infobox.png/revision/latest?cb=20140928162409",
+    "width": 648,
+    "height": 998
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/31/Aphelandra_Anime_Infobox.png/revision/latest/scale-to-width-down/260?cb=20140928162409",
+    "width": 260,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Aphelandra",
+    "url": "https://onepiece.fandom.com/wiki/Aphelandra"
+  },
+  "info": {
+    "japanese_name": "アフェランドラ",
+    "romanized_name": "Aferandora",
+    "official_english_name": "Aphelandra",
+    "debut": [
+      "Chapter 514",
+      "Episode 408"
+    ],
+    "affiliations": [
+      "Kuja",
+      "Kuja Pirates"
+    ],
+    "occupations": [
+      "Warrior (Former), Pirate"
+    ],
+    "origin": "Calm Belt (Amazon Lily)",
+    "residence": [
+      "Amazon Lily"
+    ],
+    "birthday": "August 1st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

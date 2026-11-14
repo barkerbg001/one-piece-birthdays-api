@@ -1,0 +1,62 @@
+{
+  "id": "kabu",
+  "name": "Kabu",
+  "display_name": "Kabu",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-01",
+      "label": "July 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/45/Kabu_Anime_Infobox.png/revision/latest?cb=20141006004747",
+    "width": 505,
+    "height": 659
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/45/Kabu_Anime_Infobox.png/revision/latest/scale-to-width-down/306?cb=20141006004747",
+    "width": 306,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kabu",
+    "url": "https://onepiece.fandom.com/wiki/Kabu"
+  },
+  "info": {
+    "japanese_name": "カブ",
+    "official_english_name": "Cub; Kabu (FUNimation (Ep 640-648))",
+    "debut": [
+      "Chapter 710",
+      "Episode 640"
+    ],
+    "affiliations": [
+      "Tontatta Kingdom",
+      "Tontatta Pirates",
+      "Straw Hat Grand Fleet"
+    ],
+    "occupations": [
+      "Leader of Yellow Kabu Squad",
+      "Pirate"
+    ],
+    "birthday": "July 1st",
+    "devil_fruit": "Mushi Mushi no Mi, Model: Kabutomushi",
+    "devil_fruit_english": "Bug-Bug Fruit, Model: Rhinoceros beetle",
+    "devil_fruit_type": "Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

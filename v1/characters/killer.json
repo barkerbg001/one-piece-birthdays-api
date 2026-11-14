@@ -1,0 +1,71 @@
+{
+  "id": "killer",
+  "name": "Killer",
+  "display_name": "Killer",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-02",
+      "label": "February 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/70/Killer_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20210815025653",
+    "width": 727,
+    "height": 768
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/70/Killer_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/379?cb=20210815025653",
+    "width": 379,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Killer",
+    "url": "https://onepiece.fandom.com/wiki/Killer"
+  },
+  "info": {
+    "japanese_name": "キラー",
+    "romanized_name": "Kirā",
+    "official_english_name": "Killer",
+    "debut": [
+      "Chapter 498",
+      "Episode 392"
+    ],
+    "affiliations": [
+      "Kid Pirates",
+      "Kurozumi Orochi (defected)",
+      "Ninja-Pirate-Mink-Samurai Alliance(disbanded)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Combatant",
+      "Assassin (former)"
+    ],
+    "origin": "South Blue (Kutsukku Island)",
+    "epithet": "\"Massacre Soldier\"",
+    "aliases": [
+      "\"Kamazo the Manslayer\""
+    ],
+    "status": "1",
+    "age": "25 (debut); 27 (after timeskip)",
+    "birthday": "February 2nd",
+    "height": "195 cm (6'5\") (debut, after timeskip)",
+    "blood_type": "X",
+    "bounty": "200,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

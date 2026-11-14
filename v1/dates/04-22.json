@@ -3,7 +3,23 @@
   "label": "April 22nd",
   "month": 4,
   "day": 22,
-  "characters": [
+  "names": [
     "Kuro"
+  ],
+  "characters": [
+    {
+      "id": "kuro",
+      "name": "Kuro",
+      "display_name": "Kuro",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Kuro_Anime_Infobox.png/revision/latest/scale-to-width-down/252?cb=20231006042805",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Kuro_Anime_Infobox.png/revision/latest?cb=20231006042805",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kuro",
+      "epithet": "\"Kuro of a Hundred Plans\"",
+      "affiliation": "Black Cat Pirates",
+      "api": "v1/characters/kuro.json"
+    }
   ]
 }

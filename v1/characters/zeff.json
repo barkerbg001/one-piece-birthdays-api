@@ -1,0 +1,67 @@
+{
+  "id": "zeff",
+  "name": "Zeff",
+  "display_name": "Zeff",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-02",
+      "label": "April 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d9/Zeff_Anime_Infobox.png/revision/latest?cb=20230617083525",
+    "width": 722,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d9/Zeff_Anime_Infobox.png/revision/latest/scale-to-width-down/267?cb=20230617083525",
+    "width": 267,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Zeff",
+    "url": "https://onepiece.fandom.com/wiki/Zeff"
+  },
+  "info": {
+    "japanese_name": "ゼフ",
+    "romanized_name": "Zefu",
+    "official_english_name": "Zeff; Zef (Odex)",
+    "debut": [
+      "Chapter 43",
+      "Episode 20"
+    ],
+    "affiliations": [
+      "Baratie",
+      "Cook Pirates (former)"
+    ],
+    "occupations": [
+      "Head Chef of Baratie, Pirate Captain (former)"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Baratie"
+    ],
+    "epithet": "\"Red-Leg Zeff\"",
+    "age": "65 (debut); 67 (after timeskip)",
+    "birthday": "April 2nd",
+    "height": "189 cm (6'2½\")",
+    "blood_type": "XF",
+    "bounty": "Unknown"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

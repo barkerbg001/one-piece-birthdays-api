@@ -3,7 +3,23 @@
   "label": "June 27th",
   "month": 6,
   "day": 27,
-  "characters": [
+  "names": [
     "Riku Dold III"
+  ],
+  "characters": [
+    {
+      "id": "riku-dold-iii",
+      "name": "Riku Dold III",
+      "display_name": "Riku Dold III",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/48/Riku_Doldo_III_Anime_Infobox.png/revision/latest/scale-to-width-down/210?cb=20230114034249",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/48/Riku_Doldo_III_Anime_Infobox.png/revision/latest?cb=20230114034249",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Riku_Doldo_III",
+      "epithet": "\"King of Miracles\"",
+      "affiliation": "Riku Family",
+      "api": "v1/characters/riku-dold-iii.json"
+    }
   ]
 }

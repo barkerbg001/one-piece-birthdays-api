@@ -3,7 +3,23 @@
   "label": "December 14th",
   "month": 12,
   "day": 14,
-  "characters": [
+  "names": [
     "Pica"
+  ],
+  "characters": [
+    {
+      "id": "pica",
+      "name": "Pica",
+      "display_name": "Pica",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Pica_Anime_Infobox.png/revision/latest/scale-to-width-down/372?cb=20221117040111",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Pica_Anime_Infobox.png/revision/latest?cb=20221117040111",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Pica",
+      "epithet": null,
+      "affiliation": "Donquixote Pirates",
+      "api": "v1/characters/pica.json"
+    }
   ]
 }

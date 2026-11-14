@@ -1,0 +1,59 @@
+{
+  "id": "hattori",
+  "name": "Hattori",
+  "display_name": "Hattori",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-10",
+      "label": "August 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Hattori_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240128193359",
+    "width": 782,
+    "height": 1016
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Hattori_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/308?cb=20240128193359",
+    "width": 308,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Hattori",
+    "url": "https://onepiece.fandom.com/wiki/Hattori"
+  },
+  "info": {
+    "japanese_name": "ハットリ",
+    "debut": [
+      "Chapter 323",
+      "Episode 230"
+    ],
+    "affiliations": [
+      "CP0",
+      "CP9 (former)",
+      "Galley-La Company (former)"
+    ],
+    "occupations": [
+      "Rob Lucci's Pet"
+    ],
+    "age": "18 (debut); 20 (after timeskip)",
+    "birthday": "August 10th",
+    "height": "25cm (10\")"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

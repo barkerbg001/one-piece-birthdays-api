@@ -1,0 +1,76 @@
+{
+  "id": "kinemon",
+  "name": "Kin’emon",
+  "display_name": "Kin’emon",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-29",
+      "label": "January 29th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Kin%27emon_Anime_Infobox.png/revision/latest?cb=20191124100115",
+    "width": 583,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Kin%27emon_Anime_Infobox.png/revision/latest/scale-to-width-down/216?cb=20191124100115",
+    "width": 216,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kin'emon",
+    "url": "https://onepiece.fandom.com/wiki/Kin%27emon"
+  },
+  "info": {
+    "japanese_name": "錦えもん",
+    "romanized_name": "Kin'emon",
+    "official_english_name": "Kin'emon",
+    "debut": [
+      "Chapter 656",
+      "Episode 580"
+    ],
+    "affiliations": [
+      "Kouzuki Family",
+      "Ninja-Pirate-Mink-Samurai Alliance (Dissolved)",
+      "Nine Red Scabbards"
+    ],
+    "occupations": [
+      "Samurai",
+      "Great Elder of the Shogunate",
+      "Retainer of the Kouzuki Family",
+      "Leader of the Nine Red Scabbards",
+      "Thief (former)"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Wano Country (Kuri)",
+      "Flower Capital (Shogun Castle)"
+    ],
+    "epithet": "\"Foxfire Kin'emon\"",
+    "status": "0",
+    "age": "36 (born 56 years ago)",
+    "birthday": "January 29th",
+    "height": "295 cm (9'8\")",
+    "blood_type": "X",
+    "devil_fruit": "Fuku Fuku no Mi",
+    "devil_fruit_english": "Garb-Garb Jutsu (VIZ and Funimation); Garb-Garb Fruit (One Piece Official YouTube Channel)",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

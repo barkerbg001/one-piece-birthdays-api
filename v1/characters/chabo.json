@@ -1,0 +1,62 @@
+{
+  "id": "chabo",
+  "name": "Chabo",
+  "display_name": "Chabo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-14",
+      "label": "June 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/aa/Chabo_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251109161150",
+    "width": 320,
+    "height": 308
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/aa/Chabo_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251109161150",
+    "width": 400,
+    "height": 385
+  },
+  "wiki": {
+    "title": "Chabo",
+    "url": "https://onepiece.fandom.com/wiki/Chabo"
+  },
+  "info": {
+    "japanese_name": "チャボ",
+    "romanized_name": "Chabo",
+    "official_english_name": "Chabo; Cabo (Funimation dub); Benson (Odex)",
+    "debut": [
+      "Chapter 69",
+      "Episode 31"
+    ],
+    "affiliations": [
+      "Nojiko's mikan farm"
+    ],
+    "occupations": [
+      "Laborer"
+    ],
+    "origin": "East Blue (Conomi Islands)",
+    "residence": [
+      "Gosa Village (former)",
+      "Cocoyasi Village"
+    ],
+    "birthday": "June 14th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,9 +3,53 @@
   "label": "May 4th",
   "month": 5,
   "day": 4,
-  "characters": [
+  "names": [
     "Isshily",
     "Koushirou",
     "Cindry"
+  ],
+  "characters": [
+    {
+      "id": "isshily",
+      "name": "Isshily",
+      "display_name": "Isshily",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/isshily.json"
+    },
+    {
+      "id": "koushirou",
+      "name": "Koushirou",
+      "display_name": "Koushirou",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/61/Shimotsuki_Koushirou_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20251109160750",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/61/Shimotsuki_Koushirou_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251109160750",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Shimotsuki_Koushirou",
+      "epithet": null,
+      "affiliation": "Shimotsuki Family",
+      "api": "v1/characters/koushirou.json"
+    },
+    {
+      "id": "cindry",
+      "name": "Cindry",
+      "display_name": "Cindry",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Victoria_Cindry_Anime_Infobox.png/revision/latest/scale-to-width-down/274?cb=20231212221113",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Victoria_Cindry_Anime_Infobox.png/revision/latest?cb=20231212221113",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Victoria_Cindry",
+      "epithet": null,
+      "affiliation": "Thriller Bark Pirates",
+      "api": "v1/characters/cindry.json"
+    }
   ]
 }

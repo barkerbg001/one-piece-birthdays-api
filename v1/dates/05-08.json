@@ -3,8 +3,38 @@
   "label": "May 8th",
   "month": 5,
   "day": 8,
-  "characters": [
+  "names": [
     "Shakuyaku (Shakky)",
     "Shoujou"
+  ],
+  "characters": [
+    {
+      "id": "shakuyaku",
+      "name": "Shakuyaku",
+      "display_name": "Shakuyaku (Shakky)",
+      "alias": "Shakky",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Shakuyaku_Anime_Infobox.png/revision/latest/scale-to-width-down/163?cb=20241117020947",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Shakuyaku_Anime_Infobox.png/revision/latest?cb=20241117020947",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Shakuyaku",
+      "epithet": null,
+      "affiliation": "Shakky's Rip-off Bar",
+      "api": "v1/characters/shakuyaku.json"
+    },
+    {
+      "id": "shoujou",
+      "name": "Shoujou",
+      "display_name": "Shoujou",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7b/Shoujou_Anime_Infobox.png/revision/latest/scale-to-width-down/321?cb=20230806183915",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7b/Shoujou_Anime_Infobox.png/revision/latest?cb=20230806183915",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Shoujou",
+      "epithet": "\"Sonar King\" Shoujou",
+      "affiliation": "Saruyama Alliance (Shoujou Pirates)",
+      "api": "v1/characters/shoujou.json"
+    }
   ]
 }

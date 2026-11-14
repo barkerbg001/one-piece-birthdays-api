@@ -1,0 +1,71 @@
+{
+  "id": "koala",
+  "name": "Koala",
+  "display_name": "Koala",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-25",
+      "label": "October 25th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Koala_Anime_Infobox.png/revision/latest?cb=20140928211728",
+    "width": 1248,
+    "height": 2022
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Koala_Anime_Infobox.png/revision/latest/scale-to-width-down/247?cb=20140928211728",
+    "width": 247,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Koala",
+    "url": "https://onepiece.fandom.com/wiki/Koala"
+  },
+  "info": {
+    "japanese_name": "コアラ",
+    "romanized_name": "Koara",
+    "official_english_name": "Koala",
+    "debut": [
+      "Chapter 622",
+      "Episode 541"
+    ],
+    "affiliations": [
+      "Revolutionary Army",
+      "Sun Pirates (former)",
+      "Slavery (former)"
+    ],
+    "occupations": [
+      "Revolutionary Army Officer",
+      "Assistant Fish-Man Karate Instructor",
+      "Slave (former)"
+    ],
+    "residence": [
+      "Baltigo (former)",
+      "Foolshout Island (former)",
+      "Mary Geoise (former)",
+      "Momoiro Island"
+    ],
+    "age": "11 (debut); 23 (after timeskip)",
+    "birthday": "October 25th",
+    "height": "160 cm (5'3\")",
+    "blood_type": "F",
+    "bounty": "Unknown"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "charlotte-dragee",
+  "name": "Charlotte Dragée",
+  "display_name": "Charlotte Dragée",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-21",
+      "label": "February 21st"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-dolce",
+      "name": "Charlotte Dolce"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/06/Charlotte_Dolce_and_Drag%C3%A9e_Anime_Infobox.png/revision/latest?cb=20171015021417",
+    "width": 1639,
+    "height": 931
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/06/Charlotte_Dolce_and_Drag%C3%A9e_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20171015021417",
+    "width": 400,
+    "height": 227
+  },
+  "wiki": {
+    "title": "Charlotte Dolce and Dragée",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Dolce_and_Drag%C3%A9e"
+  },
+  "info": {
+    "japanese_name": "シャーロット・ドルチェ; シャーロット・ドラジェ",
+    "romanized_name": "Shārotto Doruche; Shārotto Doraje",
+    "official_english_name": "Charlotte Dolce and Dragée (Viz); Charlotte Dolce and Dragee (WT100)",
+    "debut": [
+      "Chapter 845",
+      "Episode 809"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "age": "9",
+    "birthday": "February 21st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

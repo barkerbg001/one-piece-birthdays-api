@@ -3,8 +3,38 @@
   "label": "February 25th",
   "month": 2,
   "day": 25,
-  "characters": [
+  "names": [
     "Tightrope Walking Funan Bros.",
     "Gerd"
+  ],
+  "characters": [
+    {
+      "id": "tightrope-walking-funan-bros",
+      "name": "Tightrope Walking Funan Bros.",
+      "display_name": "Tightrope Walking Funan Bros.",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2f/Tightrope_Walking_Funan_Bros_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230508144808",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/2f/Tightrope_Walking_Funan_Bros_Anime_Infobox.png/revision/latest?cb=20230508144808",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Tightrope_Walking_Funan_Bros",
+      "epithet": null,
+      "affiliation": "Buggy Pirates",
+      "api": "v1/characters/tightrope-walking-funan-bros.json"
+    },
+    {
+      "id": "gerd",
+      "name": "Gerd",
+      "display_name": "Gerd",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/83/Gerd_Anime_Infobox.png/revision/latest/scale-to-width-down/208?cb=20260517171556",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/83/Gerd_Anime_Infobox.png/revision/latest?cb=20260517171556",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gerd",
+      "epithet": null,
+      "affiliation": "New Giant Warrior Pirates",
+      "api": "v1/characters/gerd.json"
+    }
   ]
 }

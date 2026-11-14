@@ -1,0 +1,66 @@
+{
+  "id": "yamato",
+  "name": "Yamato",
+  "display_name": "Yamato",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-03",
+      "label": "November 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Yamato_Anime_Infobox.png/revision/latest?cb=20260126165014",
+    "width": 1059,
+    "height": 1575
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Yamato_Anime_Infobox.png/revision/latest/scale-to-width-down/269?cb=20260126165014",
+    "width": 269,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Yamato",
+    "url": "https://onepiece.fandom.com/wiki/Yamato"
+  },
+  "info": {
+    "japanese_name": "ヤマト",
+    "debut": [
+      "Chapter 971",
+      "Episode 972"
+    ],
+    "affiliations": [
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+      "Beasts Pirates (defected)"
+    ],
+    "residence": [
+      "Wano Country (Onigashima)"
+    ],
+    "epithet": "\"Oni Princess\"",
+    "aliases": [
+      "\"Kouzuki Oden\""
+    ],
+    "age": "28",
+    "birthday": "November 3rd",
+    "height": "263 cm (8'8\")",
+    "blood_type": "F",
+    "devil_fruit": "Inu Inu no Mi, Model: Okuchi no Makami",
+    "devil_fruit_english": "Dog-Dog Fruit, Model: Okuchi-no-Makami",
+    "devil_fruit_type": "Mythical Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

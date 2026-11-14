@@ -1,0 +1,61 @@
+{
+  "id": "lassoo",
+  "name": "Lassoo",
+  "display_name": "Lassoo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-04",
+      "label": "January 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Lassoo_Anime_Infobox.png/revision/latest?cb=20230624125357",
+    "width": 678,
+    "height": 411
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Lassoo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230624125357",
+    "width": 400,
+    "height": 242
+  },
+  "wiki": {
+    "title": "Lassoo",
+    "url": "https://onepiece.fandom.com/wiki/Lassoo"
+  },
+  "info": {
+    "japanese_name": "ラッスー",
+    "romanized_name": "Rassū",
+    "debut": [
+      "Chapter 160",
+      "Episode 103"
+    ],
+    "affiliations": [
+      "New Spiders Cafe",
+      "Baroque Works (former)"
+    ],
+    "occupations": [
+      "Cafe Mascot",
+      "Pet"
+    ],
+    "birthday": "January 4th",
+    "devil_fruit": "Inu Inu no Mi, Model: Dachshund",
+    "devil_fruit_english": "Mutt-Mutt Fruit, Dachshund Type (Viz); Mutt-Mutt Fruit (4Kids); Mutt-Mutt Fruit Fruit, Dachshund Variety (Funimation)",
+    "devil_fruit_type": "Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

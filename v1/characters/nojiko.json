@@ -1,0 +1,65 @@
+{
+  "id": "nojiko",
+  "name": "Nojiko",
+  "display_name": "Nojiko",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-25",
+      "label": "July 25th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Nojiko_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251109161125",
+    "width": 202,
+    "height": 724
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Nojiko_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/111?cb=20251109161125",
+    "width": 111,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Nojiko",
+    "url": "https://onepiece.fandom.com/wiki/Nojiko"
+  },
+  "info": {
+    "japanese_name": "ノジコ",
+    "romanized_name": "Nojiko",
+    "official_english_name": "Nojiko",
+    "debut": [
+      "Chapter 70",
+      "Episode 31"
+    ],
+    "affiliations": [
+      "Bell-mère's mikan"
+    ],
+    "occupations": [
+      "Mikan Farmer"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Cocoyasi Village",
+      "Oykot Kingdom (former)"
+    ],
+    "age": "20 (debut); 22 (after timeskip)",
+    "birthday": "July 25th",
+    "height": "170 cm (5'7\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

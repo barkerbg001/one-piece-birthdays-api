@@ -1,0 +1,67 @@
+{
+  "id": "don-sai",
+  "name": "Don Sai",
+  "display_name": "Don Sai",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-13",
+      "label": "August 13th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/db/Sai_Anime_Infobox.png/revision/latest?cb=20230301234122",
+    "width": 1747,
+    "height": 1053
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/db/Sai_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230301234122",
+    "width": 400,
+    "height": 241
+  },
+  "wiki": {
+    "title": "Sai",
+    "url": "https://onepiece.fandom.com/wiki/Sai"
+  },
+  "info": {
+    "japanese_name": "サイ",
+    "debut": [
+      "Chapter 704",
+      "Episode 632"
+    ],
+    "affiliations": [
+      "Happo Navy",
+      "Chinjao Family",
+      "Straw Hat Grand Fleet"
+    ],
+    "occupations": [
+      "Captain of the Third Ship of the Straw Hat Grand Fleet",
+      "13th Leader of the Happo Navy",
+      "Martial Artist (VIZ: Fighter)"
+    ],
+    "origin": "West Blue (Kano Country)",
+    "residence": [
+      "Kano Country"
+    ],
+    "age": "28",
+    "birthday": "August 13th",
+    "height": "242 cm (7'11\")",
+    "blood_type": "F",
+    "bounty": "210,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

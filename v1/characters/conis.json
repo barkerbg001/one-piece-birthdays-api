@@ -1,0 +1,60 @@
+{
+  "id": "conis",
+  "name": "Conis",
+  "display_name": "Conis",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-20",
+      "label": "May 20th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Conis_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251207162322",
+    "width": 468,
+    "height": 1033
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Conis_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/181?cb=20251207162322",
+    "width": 181,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Conis",
+    "url": "https://onepiece.fandom.com/wiki/Conis"
+  },
+  "info": {
+    "japanese_name": "コニス",
+    "romanized_name": "Konisu",
+    "debut": [
+      "Chapter 239",
+      "Episode 154"
+    ],
+    "affiliations": [
+      "Pumpkin Cafe"
+    ],
+    "occupations": [
+      "Waitress"
+    ],
+    "origin": "Sky Islands (Skypiea)",
+    "age": "19 (debut); 21 (after timeskip)",
+    "birthday": "May 20th",
+    "height": "176 cm (5'9\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

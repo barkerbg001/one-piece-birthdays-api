@@ -1,0 +1,55 @@
+{
+  "id": "mikio-itoo",
+  "name": "Mikio Itoo",
+  "display_name": "Mikio Itoo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-26",
+      "label": "March 26th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d5/Mikio_Itoo_Manga_Infobox.png/revision/latest?cb=20261002174946",
+    "width": 224,
+    "height": 278
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d5/Mikio_Itoo_Manga_Infobox.png/revision/latest?cb=20261002174946",
+    "width": 322,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Mikio Itoo",
+    "url": "https://onepiece.fandom.com/wiki/Mikio_Itoo"
+  },
+  "info": {
+    "japanese_name": "MIKIO ITOO",
+    "romanized_name": "Mikio Itū",
+    "official_english_name": "Mikio Itoo",
+    "debut": [
+      "Chapter 1"
+    ],
+    "affiliations": [
+      "Easter Egg"
+    ],
+    "origin": "East Blue",
+    "birthday": "March 26th",
+    "bounty": "¥1,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

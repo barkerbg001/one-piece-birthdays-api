@@ -3,7 +3,23 @@
   "label": "June 23rd",
   "month": 6,
   "day": 23,
-  "characters": [
+  "names": [
     "Orlumbus"
+  ],
+  "characters": [
+    {
+      "id": "orlumbus",
+      "name": "Orlumbus",
+      "display_name": "Orlumbus",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Orlumbus_Anime_Infobox.png/revision/latest/scale-to-width-down/193?cb=20141013213403",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Orlumbus_Anime_Infobox.png/revision/latest?cb=20141013213403",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Orlumbus",
+      "epithet": "\"Massacre Ruler\"; \"Made-Up Explorer\"; \"Pioneer Explorer\"",
+      "affiliation": "Yonta Maria Grand Fleet",
+      "api": "v1/characters/orlumbus.json"
+    }
   ]
 }

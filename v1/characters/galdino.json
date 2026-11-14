@@ -1,0 +1,75 @@
+{
+  "id": "galdino",
+  "name": "Galdino",
+  "display_name": "Galdino (Mr. 3)",
+  "alias": "Mr. 3",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-03",
+      "label": "March 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/13/Galdino_Anime_Infobox.png/revision/latest?cb=20221003165116",
+    "width": 370,
+    "height": 478
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/13/Galdino_Anime_Infobox.png/revision/latest/scale-to-width-down/310?cb=20221003165116",
+    "width": 310,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Galdino",
+    "url": "https://onepiece.fandom.com/wiki/Galdino"
+  },
+  "info": {
+    "japanese_name": "ギャルディーノ",
+    "romanized_name": "Gyarudīno",
+    "official_english_name": "Galdino",
+    "debut": [
+      "Chapter 117",
+      "Episode 70"
+    ],
+    "affiliations": [
+      "Cross Guild",
+      "Buggy Pirates",
+      "Buggy's Delivery (former)",
+      "Buggy and Alvida Alliance",
+      "Baroque Works (former)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Officer Agent (former)",
+      "Prisoner of the Great Prison (former)"
+    ],
+    "origin": "South Blue",
+    "residence": [
+      "Karai Bari Island"
+    ],
+    "epithet": "\"Loan Shark\"",
+    "age": "35 (debut); 37 (after timeskip)",
+    "birthday": "March 3rd",
+    "height": "179 cm (5'10\")",
+    "blood_type": "F",
+    "bounty": "24,000,000",
+    "devil_fruit": "Doru Doru no Mi",
+    "devil_fruit_english": "Wax-Wax Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

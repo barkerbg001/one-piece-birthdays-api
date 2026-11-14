@@ -3,7 +3,23 @@
   "label": "November 16th",
   "month": 11,
   "day": 16,
-  "characters": [
+  "names": [
     "Porche"
+  ],
+  "characters": [
+    {
+      "id": "porche",
+      "name": "Porche",
+      "display_name": "Porche",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Porche_Anime_Infobox.png/revision/latest/scale-to-width-down/149?cb=20240523234723",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Porche_Anime_Infobox.png/revision/latest?cb=20240523234723",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Porche",
+      "epithet": null,
+      "affiliation": "Foxy Pirates",
+      "api": "v1/characters/porche.json"
+    }
   ]
 }

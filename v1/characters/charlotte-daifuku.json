@@ -1,0 +1,80 @@
+{
+  "id": "charlotte-daifuku",
+  "name": "Charlotte Daifuku",
+  "display_name": "Charlotte Daifuku",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-25",
+      "label": "November 25th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-katakuri",
+      "name": "Charlotte Katakuri"
+    },
+    {
+      "id": "charlotte-oven",
+      "name": "Charlotte Oven"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Charlotte_Daifuku_Anime_Infobox.png/revision/latest?cb=20230215154338",
+    "width": 848,
+    "height": 1065
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Charlotte_Daifuku_Anime_Infobox.png/revision/latest/scale-to-width-down/318?cb=20230215154338",
+    "width": 318,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Daifuku",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Daifuku"
+  },
+  "info": {
+    "japanese_name": "シャーロット・ダイフク",
+    "romanized_name": "Shārotto Daifuku",
+    "official_english_name": "Charlotte Daifuku",
+    "debut": [
+      "Chapter 861",
+      "Episode 826"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Minister of Beans"
+    ],
+    "origin": "Grand Line (On a boat)",
+    "residence": [
+      "Poripori Island",
+      "Hachinosu (former)"
+    ],
+    "age": "48",
+    "birthday": "November 25th",
+    "height": "489 cm (16'0\")",
+    "blood_type": "X",
+    "bounty": "300,000,000",
+    "devil_fruit": "Hoya Hoya no Mi",
+    "devil_fruit_english": "Puff-Puff Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

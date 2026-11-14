@@ -1,0 +1,66 @@
+{
+  "id": "shishilian",
+  "name": "Shishilian",
+  "display_name": "Shishilian",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-04",
+      "label": "April 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/77/Shishilian_Anime_Infobox.png/revision/latest?cb=20161002183431",
+    "width": 1280,
+    "height": 1693
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/77/Shishilian_Anime_Infobox.png/revision/latest/scale-to-width-down/302?cb=20161002183431",
+    "width": 302,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Shishilian",
+    "url": "https://onepiece.fandom.com/wiki/Shishilian"
+  },
+  "info": {
+    "japanese_name": "シシリアン",
+    "romanized_name": "Shishirian",
+    "debut": [
+      "Chapter 808",
+      "Episode 758"
+    ],
+    "affiliations": [
+      "Mokomo Dukedom",
+      "Inuarashi Musketeer Squad",
+      "Ninja-Pirate-Mink-Samurai Alliance"
+    ],
+    "occupations": [
+      "Captain of the Musketeers"
+    ],
+    "origin": "Grand Line (Mokomo Dukedom)",
+    "residence": [
+      "Kurau City, Zou"
+    ],
+    "epithet": "\"Full Power Shishilian\"",
+    "age": "34",
+    "birthday": "April 4th",
+    "height": "196 cm (6'5\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

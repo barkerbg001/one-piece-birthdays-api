@@ -1,0 +1,64 @@
+{
+  "id": "st-shalulia",
+  "name": "St. Shalulia",
+  "display_name": "St. Shalulia",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-29",
+      "label": "March 29th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/34/Rosward_Shalria_Anime_Infobox.png/revision/latest?cb=20250309015351",
+    "width": 1306,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/34/Rosward_Shalria_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250309015351",
+    "width": 400,
+    "height": 331
+  },
+  "wiki": {
+    "title": "Rosward Shalria",
+    "url": "https://onepiece.fandom.com/wiki/Rosward_Shalria"
+  },
+  "info": {
+    "japanese_name": "ロズワード・シャルリア宮",
+    "romanized_name": "Rosuwādo Sharuria Gū",
+    "official_english_name": "Saint Rosward Shalria",
+    "debut": [
+      "Chapter 497",
+      "Episode 391"
+    ],
+    "affiliations": [
+      "World Government (Rosward Family)"
+    ],
+    "occupations": [
+      "World Noble"
+    ],
+    "origin": "Red Line (Mary Geoise)",
+    "residence": [
+      "Mary Geoise"
+    ],
+    "age": "15 (debut); 17 (after timeskip)",
+    "birthday": "March 29th",
+    "height": "178 cm (5'10\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

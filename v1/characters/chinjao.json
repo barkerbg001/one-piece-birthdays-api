@@ -1,0 +1,68 @@
+{
+  "id": "chinjao",
+  "name": "Chinjao",
+  "display_name": "Chinjao",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-12",
+      "label": "December 12th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b0/Chinjao_Anime_Infobox.png/revision/latest?cb=20180508221950",
+    "width": 893,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b0/Chinjao_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180508221950",
+    "width": 400,
+    "height": 323
+  },
+  "wiki": {
+    "title": "Chinjao",
+    "url": "https://onepiece.fandom.com/wiki/Chinjao"
+  },
+  "info": {
+    "japanese_name": "チンジャオ",
+    "official_english_name": "Qing Jiao; Chin Jao",
+    "debut": [
+      "Chapter 704",
+      "Episode 632"
+    ],
+    "affiliations": [
+      "Chinjao Family",
+      "Happo Navy (retired)",
+      "Straw Hat Grand Fleet"
+    ],
+    "occupations": [
+      "12th Leader of the Happo Navy (retired)",
+      "Pirate (former)"
+    ],
+    "origin": "West Blue (Kano Country)",
+    "residence": [
+      "Kano Country"
+    ],
+    "epithet": "\"Chinjao the Drill\"",
+    "age": "78",
+    "birthday": "December 12th",
+    "height": "520 cm (17'1\")",
+    "blood_type": "F",
+    "bounty": "542,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

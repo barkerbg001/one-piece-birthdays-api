@@ -1,0 +1,54 @@
+{
+  "id": "agyo",
+  "name": "Agyo",
+  "display_name": "Agyo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-29",
+      "label": "November 29th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/11/Agyo_Anime_Infobox.png/revision/latest?cb=20140707173009",
+    "width": 902,
+    "height": 621
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/11/Agyo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20140707173009",
+    "width": 400,
+    "height": 275
+  },
+  "wiki": {
+    "title": "Agyo",
+    "url": "https://onepiece.fandom.com/wiki/Agyo"
+  },
+  "info": {
+    "japanese_name": "アギョウ",
+    "romanized_name": "Agyō",
+    "official_english_name": "Agyo",
+    "debut": [
+      "Chapter 706",
+      "Episode 652"
+    ],
+    "affiliations": [
+      "Corrida Colosseum"
+    ],
+    "birthday": "November 29th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

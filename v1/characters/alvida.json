@@ -1,0 +1,75 @@
+{
+  "id": "alvida",
+  "name": "Alvida",
+  "display_name": "Alvida",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-14",
+      "label": "March 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Alvida_Anime_Infobox.png/revision/latest?cb=20221116234952",
+    "width": 1783,
+    "height": 3091
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Alvida_Anime_Infobox.png/revision/latest/scale-to-width-down/231?cb=20221116234952",
+    "width": 231,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Alvida",
+    "url": "https://onepiece.fandom.com/wiki/Alvida"
+  },
+  "info": {
+    "japanese_name": "アルビダ",
+    "romanized_name": "Arubida",
+    "official_english_name": "Alvida",
+    "debut": [
+      "Chapter 2",
+      "Episode 1"
+    ],
+    "affiliations": [
+      "Cross Guild",
+      "Buggy Pirates",
+      "Buggy's Delivery (former)",
+      "Buggy and Alvida Alliance",
+      "Alvida Pirates (former)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain (former)"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Karai Bari Island",
+      "Goat Island (former)"
+    ],
+    "epithet": "\"Iron Mace\"",
+    "age": "25 (debut); 27 (after timeskip)",
+    "birthday": "March 14th",
+    "height": "198 cm (6'6\")",
+    "blood_type": "S",
+    "bounty": "5,000,000",
+    "devil_fruit": "Sube Sube no Mi",
+    "devil_fruit_english": "Slip-Slip Fruit (Viz, 4Kids); Smooth-Smooth Fruit (Funimation)",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

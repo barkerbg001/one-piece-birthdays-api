@@ -3,9 +3,53 @@
   "label": "January 24th",
   "month": 1,
   "day": 24,
-  "characters": [
+  "names": [
     "Gild Tesoro",
     "Miss Monday",
     "Kairiken"
+  ],
+  "characters": [
+    {
+      "id": "gild-tesoro",
+      "name": "Gild Tesoro",
+      "display_name": "Gild Tesoro",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/91/Gild_Tesoro_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20190404152956",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/91/Gild_Tesoro_Anime_Infobox.png/revision/latest?cb=20190404152956",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gild_Tesoro",
+      "epithet": "\"Golden Emperor\"; \"Monster of the New World\"",
+      "affiliation": "Gran Tesoro",
+      "api": "v1/characters/gild-tesoro.json"
+    },
+    {
+      "id": "miss-monday",
+      "name": "Miss Monday",
+      "display_name": "Miss Monday",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Miss_Monday_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/204?cb=20251130161712",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Miss_Monday_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251130161712",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Miss_Monday",
+      "epithet": null,
+      "affiliation": "Baroque Works (former)",
+      "api": "v1/characters/miss-monday.json"
+    },
+    {
+      "id": "kairiken",
+      "name": "Kairiken",
+      "display_name": "Kairiken",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9b/Kairiken_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240429005744",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9b/Kairiken_Anime_Infobox.png/revision/latest?cb=20240429005744",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kairiken",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/kairiken.json"
+    }
   ]
 }

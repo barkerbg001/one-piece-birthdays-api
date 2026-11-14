@@ -3,7 +3,23 @@
   "label": "February 20th",
   "month": 2,
   "day": 20,
-  "characters": [
+  "names": [
     "Kumadori"
+  ],
+  "characters": [
+    {
+      "id": "kumadori",
+      "name": "Kumadori",
+      "display_name": "Kumadori",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/86/Kumadori_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/341?cb=20240915021726",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/86/Kumadori_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240915021726",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kumadori",
+      "epithet": null,
+      "affiliation": "CP0",
+      "api": "v1/characters/kumadori.json"
+    }
   ]
 }

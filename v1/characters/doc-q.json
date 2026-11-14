@@ -1,0 +1,69 @@
+{
+  "id": "doc-q",
+  "name": "Doc Q",
+  "display_name": "Doc Q",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-18",
+      "label": "October 18th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Doc_Q_Anime_Infobox.png/revision/latest?cb=20240211200456",
+    "width": 358,
+    "height": 467
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Doc_Q_Anime_Infobox.png/revision/latest/scale-to-width-down/307?cb=20240211200456",
+    "width": 307,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Doc Q",
+    "url": "https://onepiece.fandom.com/wiki/Doc_Q"
+  },
+  "info": {
+    "japanese_name": "ドクQ",
+    "romanized_name": "Doku Kyū",
+    "debut": [
+      "Chapter 223",
+      "Episode 146"
+    ],
+    "affiliations": [
+      "Blackbeard Pirates"
+    ],
+    "occupations": [
+      "Titanic Captain (Captain of the Ninth Ship)",
+      "Doctor"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Hachinosu"
+    ],
+    "epithet": "\"Death God\"",
+    "age": "26 (debut); 28 (after timeskip)",
+    "birthday": "October 18th",
+    "height": "342 cm (11’3”)",
+    "blood_type": "S",
+    "bounty": "At least 72,000,000",
+    "devil_fruit": "Shiku Shiku no Mi",
+    "devil_fruit_english": "Sick-Sick Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "avalo-pizarro",
+  "name": "Avalo Pizarro",
+  "display_name": "Avalo Pizarro",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-30",
+      "label": "September 30th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ef/Avalo_Pizarro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200112042123",
+    "width": 1920,
+    "height": 2082
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ef/Avalo_Pizarro_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/369?cb=20200112042123",
+    "width": 369,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Avalo Pizarro",
+    "url": "https://onepiece.fandom.com/wiki/Avalo_Pizarro"
+  },
+  "info": {
+    "japanese_name": "アバロ・ピサロ",
+    "romanized_name": "Abaro Pisaro",
+    "official_english_name": "Avalo Pizarro",
+    "debut": [
+      "Chapter 575",
+      "Episode 484"
+    ],
+    "affiliations": [
+      "Blackbeard Pirates",
+      "Impel Down (former)"
+    ],
+    "occupations": [
+      "Titanic Captain (Captain of the Fourth Ship)",
+      "Prisoner of the Great Prison (former)",
+      "King (former)"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Hachinosu"
+    ],
+    "epithet": "\"Corrupt King\"",
+    "age": "40 (debut); 42 (after timeskip)",
+    "birthday": "September 30th",
+    "height": "505 cm (16'6\")",
+    "blood_type": "X",
+    "bounty": "Unknown",
+    "devil_fruit": "Shima Shima no Mi",
+    "devil_fruit_english": "Isle-Isle Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

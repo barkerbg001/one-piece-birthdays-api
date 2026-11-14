@@ -1,0 +1,69 @@
+{
+  "id": "belo-betty",
+  "name": "Belo Betty",
+  "display_name": "Belo Betty",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-15",
+      "label": "June 15th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Belo_Betty_Anime_Infobox.png/revision/latest?cb=20240903112156",
+    "width": 460,
+    "height": 918
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Belo_Betty_Anime_Infobox.png/revision/latest/scale-to-width-down/200?cb=20240903112156",
+    "width": 200,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Belo Betty",
+    "url": "https://onepiece.fandom.com/wiki/Belo_Betty"
+  },
+  "info": {
+    "japanese_name": "ベロ・ベティ",
+    "romanized_name": "Bero Beti",
+    "official_english_name": "Belo Betty",
+    "debut": [
+      "Chapter 904",
+      "Episode 880"
+    ],
+    "affiliations": [
+      "Revolutionary Army (East Army)"
+    ],
+    "occupations": [
+      "East Army Commander of the Revolutionary Army"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Baltigo (former)",
+      "Momoiro Island"
+    ],
+    "age": "34",
+    "birthday": "June 15th",
+    "height": "196 cm (6'5\")",
+    "blood_type": "XF",
+    "bounty": "457,000,000",
+    "devil_fruit": "Kobu Kobu no Mi",
+    "devil_fruit_english": "Pump-Pump Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

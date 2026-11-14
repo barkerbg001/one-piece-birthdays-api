@@ -3,9 +3,53 @@
   "label": "October 4th",
   "month": 10,
   "day": 4,
-  "characters": [
+  "names": [
     "Oars",
     "Calgara",
     "Shandia Chief"
+  ],
+  "characters": [
+    {
+      "id": "oars",
+      "name": "Oars",
+      "display_name": "Oars",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/55/Oars_Anime_Infobox.png/revision/latest/scale-to-width-down/374?cb=20230528185603",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/55/Oars_Anime_Infobox.png/revision/latest?cb=20230528185603",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Oars",
+      "epithet": "\"Devil\"; \"Continent-Puller\"",
+      "affiliation": "Thriller Bark Pirates",
+      "api": "v1/characters/oars.json"
+    },
+    {
+      "id": "calgara",
+      "name": "Calgara",
+      "display_name": "Calgara",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kalgara_Anime_Infobox.png/revision/latest/scale-to-width-down/218?cb=20260419014810",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kalgara_Anime_Infobox.png/revision/latest?cb=20260419014810",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kalgara",
+      "epithet": "\"The Demon of Shandora\"; \"The Great Warrior of Shandora\"",
+      "affiliation": "Shandia",
+      "api": "v1/characters/calgara.json"
+    },
+    {
+      "id": "shandia-chief",
+      "name": "Shandia Chief",
+      "display_name": "Shandia Chief",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/96/Shandia_Chief_Anime_Infobox.png/revision/latest/scale-to-width-down/345?cb=20240527162715",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/96/Shandia_Chief_Anime_Infobox.png/revision/latest?cb=20240527162715",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Shandia_Chief",
+      "epithet": null,
+      "affiliation": "Shandia",
+      "api": "v1/characters/shandia-chief.json"
+    }
   ]
 }

@@ -3,8 +3,38 @@
   "label": "March 7th",
   "month": 3,
   "day": 7,
-  "characters": [
+  "names": [
     "Gyoru",
     "Minozebra"
+  ],
+  "characters": [
+    {
+      "id": "gyoru",
+      "name": "Gyoru",
+      "display_name": "Gyoru",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/03/Gyoru_Anime_Infobox.png/revision/latest/scale-to-width-down/308?cb=20130511172153",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/03/Gyoru_Anime_Infobox.png/revision/latest?cb=20130511172153",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gyoru",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/gyoru.json"
+    },
+    {
+      "id": "minozebra",
+      "name": "Minozebra",
+      "display_name": "Minozebra",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/05/Minozebra_Anime_Infobox.png/revision/latest/scale-to-width-down/237?cb=20100119225840",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/05/Minozebra_Anime_Infobox.png/revision/latest?cb=20100119225840",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Minozebra",
+      "epithet": null,
+      "affiliation": "Impel Down",
+      "api": "v1/characters/minozebra.json"
+    }
   ]
 }

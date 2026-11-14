@@ -3,7 +3,23 @@
   "label": "September 17th",
   "month": 9,
   "day": 17,
-  "characters": [
+  "names": [
     "Kuina"
+  ],
+  "characters": [
+    {
+      "id": "kuina",
+      "name": "Kuina",
+      "display_name": "Kuina",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Shimotsuki_Kuina_Anime_Infobox.png/revision/latest/scale-to-width-down/254?cb=20241110050028",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Shimotsuki_Kuina_Anime_Infobox.png/revision/latest?cb=20241110050028",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Shimotsuki_Kuina",
+      "epithet": null,
+      "affiliation": "Shimotsuki Family",
+      "api": "v1/characters/kuina.json"
+    }
   ]
 }

@@ -3,7 +3,23 @@
   "label": "February 12th",
   "month": 2,
   "day": 12,
-  "characters": [
+  "names": [
     "Little Oars Jr."
+  ],
+  "characters": [
+    {
+      "id": "little-oars-jr",
+      "name": "Little Oars Jr.",
+      "display_name": "Little Oars Jr.",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Little_Oars_Jr._Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250128010544",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Little_Oars_Jr._Anime_Infobox.png/revision/latest?cb=20250128010544",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Little_Oars_Jr.",
+      "epithet": null,
+      "affiliation": "Little Pirates",
+      "api": "v1/characters/little-oars-jr.json"
+    }
   ]
 }

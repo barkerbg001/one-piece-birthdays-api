@@ -1,0 +1,67 @@
+{
+  "id": "shoujou",
+  "name": "Shoujou",
+  "display_name": "Shoujou",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-08",
+      "label": "May 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7b/Shoujou_Anime_Infobox.png/revision/latest?cb=20230806183915",
+    "width": 704,
+    "height": 878
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7b/Shoujou_Anime_Infobox.png/revision/latest/scale-to-width-down/321?cb=20230806183915",
+    "width": 321,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Shoujou",
+    "url": "https://onepiece.fandom.com/wiki/Shoujou"
+  },
+  "info": {
+    "japanese_name": "ショウジョウ",
+    "romanized_name": "Shōjō",
+    "official_english_name": "Shojoe (4Kids); Shoujou (Viz); Shojo (Funimation)",
+    "debut": [
+      "Chapter 226",
+      "Episode 147"
+    ],
+    "affiliations": [
+      "Saruyama Alliance (Shoujou Pirates)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Big Boss"
+    ],
+    "origin": "South Blue",
+    "residence": [
+      "Jaya"
+    ],
+    "epithet": "\"Sonar King\" Shoujou",
+    "age": "25 (debut); 27 (after timeskip)",
+    "birthday": "May 8th",
+    "height": "351 cm (11'6\")",
+    "blood_type": "X",
+    "bounty": "36,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

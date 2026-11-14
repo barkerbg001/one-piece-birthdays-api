@@ -1,0 +1,65 @@
+{
+  "id": "chaka",
+  "name": "Chaka",
+  "display_name": "Chaka",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-26",
+      "label": "April 26th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/73/Chaka_Anime_Infobox.png/revision/latest?cb=20240922030609",
+    "width": 915,
+    "height": 924
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/73/Chaka_Anime_Infobox.png/revision/latest/scale-to-width-down/396?cb=20240922030609",
+    "width": 396,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Chaka",
+    "url": "https://onepiece.fandom.com/wiki/Chaka"
+  },
+  "info": {
+    "japanese_name": "チャカ",
+    "romanized_name": "Chaka",
+    "official_english_name": "Chaka",
+    "debut": [
+      "Chapter 155",
+      "Episode 91"
+    ],
+    "affiliations": [
+      "Arabasta Kingdom"
+    ],
+    "occupations": [
+      "Commander of Royal Guards"
+    ],
+    "origin": "Grand Line (Arabasta Kingdom)",
+    "epithet": "\"Chaka the Jackal\"",
+    "age": "39 (debut); 41 (after timeskip)",
+    "birthday": "April 26th",
+    "height": "213 cm (7')",
+    "blood_type": "S",
+    "devil_fruit": "Inu Inu no Mi, Model: Jackal",
+    "devil_fruit_english": "Dog-Dog Fruit, Model: Jackal (Funimation); Mutt Mutt Fruit: Jackal Mode (Viz); Mutt-Mutt Fruit: Jackal Strike (4Kids)",
+    "devil_fruit_type": "Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

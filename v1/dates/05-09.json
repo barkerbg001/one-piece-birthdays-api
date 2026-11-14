@@ -3,8 +3,38 @@
   "label": "May 9th",
   "month": 5,
   "day": 9,
-  "characters": [
+  "names": [
     "Kong",
     "Sengoku"
+  ],
+  "characters": [
+    {
+      "id": "kong",
+      "name": "Kong",
+      "display_name": "Kong",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6b/Kong_Anime_Infobox.png/revision/latest/scale-to-width-down/379?cb=20220920203131",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6b/Kong_Anime_Infobox.png/revision/latest?cb=20220920203131",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kong",
+      "epithet": null,
+      "affiliation": "World Government",
+      "api": "v1/characters/kong.json"
+    },
+    {
+      "id": "sengoku",
+      "name": "Sengoku",
+      "display_name": "Sengoku",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/24/Sengoku_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/290?cb=20210208064630",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Sengoku_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20210208064630",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sengoku",
+      "epithet": "\"Sengoku the Buddha\"; \"The Resourceful General\"",
+      "affiliation": "Marines (semi-retired)",
+      "api": "v1/characters/sengoku.json"
+    }
   ]
 }

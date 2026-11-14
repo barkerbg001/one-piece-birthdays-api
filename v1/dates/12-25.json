@@ -3,8 +3,38 @@
   "label": "December 25th",
   "month": 12,
   "day": 25,
-  "characters": [
+  "names": [
     "Jesus Burgess",
     "Miss Merry Christmas (Drophy)"
+  ],
+  "characters": [
+    {
+      "id": "jesus-burgess",
+      "name": "Jesus Burgess",
+      "display_name": "Jesus Burgess",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/43/Jesus_Burgess_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/388?cb=20240128022349",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/43/Jesus_Burgess_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240128022349",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Jesus_Burgess",
+      "epithet": "\"Champion\"",
+      "affiliation": "Blackbeard Pirates",
+      "api": "v1/characters/jesus-burgess.json"
+    },
+    {
+      "id": "miss-merry-christmas",
+      "name": "Miss Merry Christmas",
+      "display_name": "Miss Merry Christmas (Drophy)",
+      "alias": "Drophy",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f4/Drophy_Anime_Infobox.png/revision/latest/scale-to-width-down/292?cb=20230624124714",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f4/Drophy_Anime_Infobox.png/revision/latest?cb=20230624124714",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Drophy",
+      "epithet": "\"Town-Collapser\" Drophy",
+      "affiliation": "New Spiders Cafe",
+      "api": "v1/characters/miss-merry-christmas.json"
+    }
   ]
 }

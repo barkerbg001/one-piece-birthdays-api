@@ -3,7 +3,23 @@
   "label": "May 20th",
   "month": 5,
   "day": 20,
-  "characters": [
+  "names": [
     "Conis"
+  ],
+  "characters": [
+    {
+      "id": "conis",
+      "name": "Conis",
+      "display_name": "Conis",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Conis_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/181?cb=20251207162322",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Conis_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251207162322",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Conis",
+      "epithet": null,
+      "affiliation": "Pumpkin Cafe",
+      "api": "v1/characters/conis.json"
+    }
   ]
 }

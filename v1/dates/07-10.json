@@ -3,8 +3,38 @@
   "label": "July 10th",
   "month": 7,
   "day": 10,
-  "characters": [
+  "names": [
     "Kamakiri",
     "Ramba"
+  ],
+  "characters": [
+    {
+      "id": "kamakiri",
+      "name": "Kamakiri",
+      "display_name": "Kamakiri",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Kamakiri_Anime_Infobox.png/revision/latest/scale-to-width-down/339?cb=20230812143313",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Kamakiri_Anime_Infobox.png/revision/latest?cb=20230812143313",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kamakiri",
+      "epithet": null,
+      "affiliation": "Shandia",
+      "api": "v1/characters/kamakiri.json"
+    },
+    {
+      "id": "ramba",
+      "name": "Ramba",
+      "display_name": "Ramba",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Ramba_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20100927002104",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Ramba_Anime_Infobox.png/revision/latest?cb=20100927002104",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Ramba",
+      "epithet": null,
+      "affiliation": "Subordinate of the Whitebeard Pirates",
+      "api": "v1/characters/ramba.json"
+    }
   ]
 }

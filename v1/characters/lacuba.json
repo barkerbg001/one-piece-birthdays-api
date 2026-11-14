@@ -1,0 +1,58 @@
+{
+  "id": "lacuba",
+  "name": "Lacuba",
+  "display_name": "Lacuba",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-31",
+      "label": "May 31st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Lacuba_Anime_Infobox.png/revision/latest?cb=20230201014757",
+    "width": 1377,
+    "height": 1837
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Lacuba_Anime_Infobox.png/revision/latest/scale-to-width-down/300?cb=20230201014757",
+    "width": 300,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Lacuba",
+    "url": "https://onepiece.fandom.com/wiki/Lacuba"
+  },
+  "info": {
+    "japanese_name": "ラキューバ",
+    "romanized_name": "Rakyūba",
+    "official_english_name": "Lacuba",
+    "debut": [
+      "Chapter 501",
+      "Episode 394"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain (former)",
+      "Slave (former)"
+    ],
+    "origin": "Grand Line",
+    "birthday": "May 31st",
+    "bounty": "17,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "smiley",
+  "name": "Smiley",
+  "display_name": "Smiley",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-18",
+      "label": "July 18th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Smiley_Anime_Infobox.png/revision/latest?cb=20241114002621",
+    "width": 1914,
+    "height": 1000
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Smiley_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20241114002621",
+    "width": 400,
+    "height": 209
+  },
+  "wiki": {
+    "title": "Smiley",
+    "url": "https://onepiece.fandom.com/wiki/Smiley"
+  },
+  "info": {
+    "japanese_name": "スマイリー",
+    "romanized_name": "Sumairī",
+    "debut": [
+      "Chapter 668",
+      "Episode 594"
+    ],
+    "affiliations": [
+      "Caesar Clown"
+    ],
+    "occupations": [
+      "Pet, Bio-Chemical weapon of mass destruction"
+    ],
+    "status": "2",
+    "birthday": "July 18th",
+    "devil_fruit": "Sara Sara no Mi, Model: Axolotl",
+    "devil_fruit_english": "Sala-Sala Fruit, Model: Axolotl",
+    "devil_fruit_type": "Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

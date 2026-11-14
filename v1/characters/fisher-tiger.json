@@ -1,0 +1,71 @@
+{
+  "id": "fisher-tiger",
+  "name": "Fisher Tiger",
+  "display_name": "Fisher Tiger",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-05",
+      "label": "November 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Fisher_Tiger_Anime_Infobox.png/revision/latest?cb=20230214162116",
+    "width": 1293,
+    "height": 1604
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Fisher_Tiger_Anime_Infobox.png/revision/latest/scale-to-width-down/322?cb=20230214162116",
+    "width": 322,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Fisher Tiger",
+    "url": "https://onepiece.fandom.com/wiki/Fisher_Tiger"
+  },
+  "info": {
+    "japanese_name": "フィッシャー・タイガー",
+    "romanized_name": "Fisshā Taigā",
+    "debut": [
+      "Chapter 521",
+      "Episode 415"
+    ],
+    "affiliations": [
+      "Sun Pirates",
+      "Fish-Man District (former)"
+    ],
+    "occupations": [
+      "Adventurer",
+      "Pirate",
+      "Captain",
+      "De-facto Leader of Fish-Man District (former)",
+      "Slave (former)"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Fish-Man District (former)",
+      "Mary Geoise (former)"
+    ],
+    "epithet": "\"The Adventurer\"\"Hero of Slaves\"",
+    "status": "2",
+    "birthday": "November 5th",
+    "height": "520 cm (17'1\")",
+    "blood_type": "S (RH-)",
+    "bounty": "230,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

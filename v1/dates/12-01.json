@@ -3,8 +3,38 @@
   "label": "December 1st",
   "month": 12,
   "day": 1,
-  "characters": [
+  "names": [
     "Heat",
     "Ipponume"
+  ],
+  "characters": [
+    {
+      "id": "heat",
+      "name": "Heat",
+      "display_name": "Heat",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/30/Heat_Anime_Infobox.png/revision/latest/scale-to-width-down/294?cb=20231216144053",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/30/Heat_Anime_Infobox.png/revision/latest?cb=20231216144053",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Heat",
+      "epithet": null,
+      "affiliation": "Kid Pirates",
+      "api": "v1/characters/heat.json"
+    },
+    {
+      "id": "ipponume",
+      "name": "Ipponume",
+      "display_name": "Ipponume",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/48/Ipponume_Anime_Infobox.png/revision/latest/scale-to-width-down/365?cb=20190105001659",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/48/Ipponume_Anime_Infobox.png/revision/latest?cb=20190105001659",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Ipponume",
+      "epithet": null,
+      "affiliation": "Loguetown Arms Shop",
+      "api": "v1/characters/ipponume.json"
+    }
   ]
 }

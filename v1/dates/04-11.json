@@ -3,7 +3,23 @@
   "label": "April 11th",
   "month": 4,
   "day": 11,
-  "characters": [
+  "names": [
     "Pekoms"
+  ],
+  "characters": [
+    {
+      "id": "pekoms",
+      "name": "Pekoms",
+      "display_name": "Pekoms",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/15/Pekoms_Anime_Infobox.png/revision/latest/scale-to-width-down/209?cb=20221107145536",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/15/Pekoms_Anime_Infobox.png/revision/latest?cb=20221107145536",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Pekoms",
+      "epithet": null,
+      "affiliation": "Big Mom Pirates",
+      "api": "v1/characters/pekoms.json"
+    }
   ]
 }

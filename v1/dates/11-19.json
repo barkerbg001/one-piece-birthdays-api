@@ -3,8 +3,38 @@
   "label": "November 19th",
   "month": 11,
   "day": 19,
-  "characters": [
+  "names": [
     "Brontosaurus",
     "Onimaru"
+  ],
+  "characters": [
+    {
+      "id": "brontosaurus",
+      "name": "Brontosaurus",
+      "display_name": "Brontosaurus",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Brontosaurus_Manga_Infobox.png/revision/latest?cb=20200929235824",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Brontosaurus_Manga_Infobox.png/revision/latest?cb=20200929235824",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Brontosaurus",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/brontosaurus.json"
+    },
+    {
+      "id": "onimaru",
+      "name": "Onimaru",
+      "display_name": "Onimaru",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b5/Onimaru_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20201217200806",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b5/Onimaru_Anime_Infobox.png/revision/latest?cb=20201217200806",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Onimaru",
+      "epithet": "\"Gyukimaru on Oihagi Bridge\"",
+      "affiliation": "Shimotsuki Family (Shimotsuki Ushimaru)",
+      "api": "v1/characters/onimaru.json"
+    }
   ]
 }

@@ -3,7 +3,23 @@
   "label": "June 18th",
   "month": 6,
   "day": 18,
-  "characters": [
+  "names": [
     "Rika"
+  ],
+  "characters": [
+    {
+      "id": "rika",
+      "name": "Rika",
+      "display_name": "Rika",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Rika_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/131?cb=20170318151459",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Rika_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20170318151459",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Rika",
+      "epithet": null,
+      "affiliation": "Marines (153rd Branch)",
+      "api": "v1/characters/rika.json"
+    }
   ]
 }

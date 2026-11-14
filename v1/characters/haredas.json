@@ -1,0 +1,61 @@
+{
+  "id": "haredas",
+  "name": "Haredas",
+  "display_name": "Haredas",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-14",
+      "label": "October 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Haredas_Anime_Infobox.png/revision/latest?cb=20251214161201",
+    "width": 912,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Haredas_Anime_Infobox.png/revision/latest/scale-to-width-down/338?cb=20251214161201",
+    "width": 338,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Haredas",
+    "url": "https://onepiece.fandom.com/wiki/Haredas"
+  },
+  "info": {
+    "japanese_name": "ハレダス",
+    "romanized_name": "Haredasu",
+    "official_english_name": "Haredas",
+    "debut": [
+      "Chapter 523",
+      "Episode 418"
+    ],
+    "occupations": [
+      "Scientist"
+    ],
+    "origin": "Sky Islands (Birka)",
+    "residence": [
+      "Weatheria"
+    ],
+    "age": "95 (debut); 97 (after timeskip)",
+    "birthday": "October 14th",
+    "height": "253 cm (8'4\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

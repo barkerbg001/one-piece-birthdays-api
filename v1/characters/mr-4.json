@@ -1,0 +1,65 @@
+{
+  "id": "mr-4",
+  "name": "Mr. 4",
+  "display_name": "Mr. 4 (Babe)",
+  "alias": "Babe",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-19",
+      "label": "June 19th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/da/Babe_Anime_Infobox.png/revision/latest?cb=20230121225303",
+    "width": 704,
+    "height": 1086
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/da/Babe_Anime_Infobox.png/revision/latest/scale-to-width-down/259?cb=20230121225303",
+    "width": 259,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Babe",
+    "url": "https://onepiece.fandom.com/wiki/Babe"
+  },
+  "info": {
+    "japanese_name": "ベーブ",
+    "romanized_name": "Bēbu",
+    "official_english_name": "Babe",
+    "debut": [
+      "Chapter 160",
+      "Episode 103"
+    ],
+    "affiliations": [
+      "New Spiders Cafe",
+      "Baroque Works (former)"
+    ],
+    "occupations": [
+      "Cafe Delivery Boy",
+      "Officer Agent (former)"
+    ],
+    "origin": "Grand Line",
+    "epithet": "\"Catcher-Killing\" Babe",
+    "age": "28 (debut); 30 (after timeskip)",
+    "birthday": "June 19th",
+    "height": "218 cm (7'2\")",
+    "blood_type": "F",
+    "bounty": "3,200,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

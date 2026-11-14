@@ -3,7 +3,23 @@
   "label": "April 25th",
   "month": 4,
   "day": 25,
-  "characters": [
+  "names": [
     "Penguin"
+  ],
+  "characters": [
+    {
+      "id": "penguin",
+      "name": "Penguin",
+      "display_name": "Penguin",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Penguin_Anime_Infobox.png/revision/latest/scale-to-width-down/228?cb=20240128193140",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Penguin_Anime_Infobox.png/revision/latest?cb=20240128193140",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Penguin",
+      "epithet": null,
+      "affiliation": "Heart Pirates",
+      "api": "v1/characters/penguin.json"
+    }
   ]
 }

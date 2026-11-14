@@ -3,8 +3,38 @@
   "label": "June 8th",
   "month": 6,
   "day": 8,
-  "characters": [
+  "names": [
     "Saldeath",
     "Lacroix"
+  ],
+  "characters": [
+    {
+      "id": "saldeath",
+      "name": "Saldeath",
+      "display_name": "Saldeath",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/99/Saldeath_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130303123341",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/99/Saldeath_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20130303123341",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Saldeath",
+      "epithet": null,
+      "affiliation": "Impel Down",
+      "api": "v1/characters/saldeath.json"
+    },
+    {
+      "id": "lacroix",
+      "name": "Lacroix",
+      "display_name": "Lacroix",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/77/Lacroix_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20190602130553",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/77/Lacroix_Anime_Infobox.png/revision/latest?cb=20190602130553",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Lacroix",
+      "epithet": null,
+      "affiliation": "Marines, Giant Squad",
+      "api": "v1/characters/lacroix.json"
+    }
   ]
 }

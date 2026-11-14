@@ -1,0 +1,59 @@
+{
+  "id": "namur",
+  "name": "Namur",
+  "display_name": "Namur",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-06",
+      "label": "July 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Namur_Anime_Infobox.png/revision/latest?cb=20160102105750",
+    "width": 418,
+    "height": 588
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Namur_Anime_Infobox.png/revision/latest/scale-to-width-down/284?cb=20160102105750",
+    "width": 284,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Namur",
+    "url": "https://onepiece.fandom.com/wiki/Namur"
+  },
+  "info": {
+    "japanese_name": "ナミュール",
+    "romanized_name": "Namyūru",
+    "official_english_name": "Namule",
+    "debut": [
+      "Chapter 552",
+      "Episode 461"
+    ],
+    "affiliations": [
+      "Whitebeard Pirates"
+    ],
+    "occupations": [
+      "8th Division Commander",
+      "Pirate"
+    ],
+    "origin": "Grand Line",
+    "birthday": "July 6th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,9 +3,53 @@
   "label": "September 6th",
   "month": 9,
   "day": 6,
-  "characters": [
+  "names": [
     "Gekko Moriah",
     "Squard",
     "Macro"
+  ],
+  "characters": [
+    {
+      "id": "gekko-moriah",
+      "name": "Gekko Moriah",
+      "display_name": "Gekko Moriah",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/be/Gecko_Moria_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20181127062446",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/be/Gecko_Moria_Anime_Infobox.png/revision/latest?cb=20181127062446",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gecko_Moria",
+      "epithet": null,
+      "affiliation": "Thriller Bark Pirates (Mysterious Four)",
+      "api": "v1/characters/gekko-moriah.json"
+    },
+    {
+      "id": "squard",
+      "name": "Squard",
+      "display_name": "Squard",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Squard_Anime_Infobox.png/revision/latest/scale-to-width-down/328?cb=20140921221031",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Squard_Anime_Infobox.png/revision/latest?cb=20140921221031",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Squard",
+      "epithet": "\"Maelstrom Spider\"",
+      "affiliation": "Maelstrom Spider Pirates",
+      "api": "v1/characters/squard.json"
+    },
+    {
+      "id": "macro",
+      "name": "Macro",
+      "display_name": "Macro",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/73/Macro_Anime_Infobox.png/revision/latest/scale-to-width-down/354?cb=20240615125944",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/73/Macro_Anime_Infobox.png/revision/latest?cb=20240615125944",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Macro",
+      "epithet": null,
+      "affiliation": "Macro Pirates",
+      "api": "v1/characters/macro.json"
+    }
   ]
 }

@@ -1,0 +1,62 @@
+{
+  "id": "stalker",
+  "name": "Stalker",
+  "display_name": "Stalker",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-28",
+      "label": "September 28th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Stalker_Anime_Infobox.png/revision/latest?cb=20251203234037",
+    "width": 521,
+    "height": 662
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Stalker_Anime_Infobox.png/revision/latest/scale-to-width-down/315?cb=20251203234037",
+    "width": 315,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Stalker",
+    "url": "https://onepiece.fandom.com/wiki/Stalker"
+  },
+  "info": {
+    "japanese_name": "ストーカー",
+    "romanized_name": "Sutōkā",
+    "official_english_name": "Stalker",
+    "debut": [
+      "Chapter 524",
+      "Episode 421"
+    ],
+    "affiliations": [
+      "Marines G-1 Branch"
+    ],
+    "occupations": [
+      "Marine Lieutenant Junior Grade"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "G-1"
+    ],
+    "birthday": "September 28th",
+    "bounty": "At least 1,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

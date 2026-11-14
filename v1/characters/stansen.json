@@ -1,0 +1,67 @@
+{
+  "id": "stansen",
+  "name": "Stansen",
+  "display_name": "Stansen",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-27",
+      "label": "May 27th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Stansen_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20260823173332",
+    "width": 667,
+    "height": 751
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Stansen_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/355?cb=20260823173332",
+    "width": 355,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Stansen",
+    "url": "https://onepiece.fandom.com/wiki/Stansen"
+  },
+  "info": {
+    "japanese_name": "スタンセン",
+    "romanized_name": "Sutansen",
+    "debut": [
+      "Chapter 500",
+      "Episode 394"
+    ],
+    "affiliations": [
+      "New Giant Warrior Pirates",
+      "Straw Hat Grand Fleet",
+      "Buggy's Delivery (former)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Shipwright",
+      "Mercenary (former)",
+      "Slave (former)"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Elbaph"
+    ],
+    "age": "79 (debut); 81 (after timeskip)",
+    "birthday": "May 27th",
+    "height": "1950 cm (64')"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

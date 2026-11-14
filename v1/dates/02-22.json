@@ -3,9 +3,53 @@
   "label": "February 22nd",
   "month": 2,
   "day": 22,
-  "characters": [
+  "names": [
     "Jerry",
     "Hamburg",
     "Oden"
+  ],
+  "characters": [
+    {
+      "id": "jerry",
+      "name": "Jerry",
+      "display_name": "Jerry",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Jerry_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20121227131033",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Jerry_Anime_Infobox.png/revision/latest?cb=20121227131033",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Jerry",
+      "epithet": null,
+      "affiliation": "CP6",
+      "api": "v1/characters/jerry.json"
+    },
+    {
+      "id": "hamburg",
+      "name": "Hamburg",
+      "display_name": "Hamburg",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Hamburg_Anime_Infobox.png/revision/latest/scale-to-width-down/383?cb=20240523235041",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Hamburg_Anime_Infobox.png/revision/latest?cb=20240523235041",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hamburg",
+      "epithet": "\"Four-Footed Dash Freak\"",
+      "affiliation": "Foxy Pirates",
+      "api": "v1/characters/hamburg.json"
+    },
+    {
+      "id": "oden",
+      "name": "Oden",
+      "display_name": "Oden",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Kouzuki_Oden_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20210425071747",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Kouzuki_Oden_Anime_Infobox.png/revision/latest?cb=20210425071747",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kouzuki_Oden",
+      "epithet": "\"Idiot Lord\"",
+      "affiliation": "Kouzuki Family",
+      "api": "v1/characters/oden.json"
+    }
   ]
 }

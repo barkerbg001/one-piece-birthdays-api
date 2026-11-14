@@ -1,0 +1,61 @@
+{
+  "id": "pinkbeard",
+  "name": "Pinkbeard",
+  "display_name": "Pinkbeard",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-27",
+      "label": "March 27th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/ba/Peachbeard_Anime_Infobox.png/revision/latest?cb=20190414113754",
+    "width": 1736,
+    "height": 2114
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/ba/Peachbeard_Anime_Infobox.png/revision/latest/scale-to-width-down/328?cb=20190414113754",
+    "width": 328,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Peachbeard",
+    "url": "https://onepiece.fandom.com/wiki/Peachbeard"
+  },
+  "info": {
+    "japanese_name": "桃ひげ",
+    "romanized_name": "Momohige",
+    "official_english_name": "Peachbeard",
+    "debut": [
+      "Chapter 904",
+      "Episode 880"
+    ],
+    "affiliations": [
+      "Peachbeard Pirates",
+      "Blackbeard Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain",
+      "Blackbeard's subordinate"
+    ],
+    "birthday": "March 27th",
+    "bounty": "52,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

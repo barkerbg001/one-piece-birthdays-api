@@ -1,0 +1,65 @@
+{
+  "id": "ikaros-much",
+  "name": "Ikaros Much",
+  "display_name": "Ikaros Much",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-13",
+      "label": "January 13th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/45/Ikaros_Much_Anime_Infobox.png/revision/latest?cb=20250408181415",
+    "width": 800,
+    "height": 671
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/45/Ikaros_Much_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250408181415",
+    "width": 400,
+    "height": 336
+  },
+  "wiki": {
+    "title": "Ikaros Much",
+    "url": "https://onepiece.fandom.com/wiki/Ikaros_Much"
+  },
+  "info": {
+    "japanese_name": "イカロス・ムッヒ",
+    "romanized_name": "Ikarosu Muhhi",
+    "official_english_name": "Ikaros Much",
+    "debut": [
+      "Chapter 611",
+      "Episode 530"
+    ],
+    "affiliations": [
+      "New Fish-Man Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Pirate Officer"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Fish-Man District (former)"
+    ],
+    "age": "30",
+    "birthday": "January 13th",
+    "height": "499 cm (16'4\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

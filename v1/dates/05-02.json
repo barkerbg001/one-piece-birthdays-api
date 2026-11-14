@@ -3,9 +3,53 @@
   "label": "May 2nd",
   "month": 5,
   "day": 2,
-  "characters": [
+  "names": [
     "Cosette",
     "Coribou",
     "Monkey D. Garp"
+  ],
+  "characters": [
+    {
+      "id": "cosette",
+      "name": "Cosette",
+      "display_name": "Cosette",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/24/Cosette_Anime_Infobox.png/revision/latest/scale-to-width-down/184?cb=20170806154804",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Cosette_Anime_Infobox.png/revision/latest?cb=20170806154804",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Cosette",
+      "epithet": null,
+      "affiliation": "Germa Kingdom",
+      "api": "v1/characters/cosette.json"
+    },
+    {
+      "id": "coribou",
+      "name": "Coribou",
+      "display_name": "Coribou",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Coribou_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20130206235119",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Coribou_Anime_Infobox.png/revision/latest?cb=20130206235119",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Coribou",
+      "epithet": "\"Blood-Splatterer\" Coribou",
+      "affiliation": "Caribou Pirates",
+      "api": "v1/characters/coribou.json"
+    },
+    {
+      "id": "monkey-d-garp",
+      "name": "Monkey D. Garp",
+      "display_name": "Monkey D. Garp",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Monkey_D._Garp_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230207160645",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Monkey_D._Garp_Anime_Infobox.png/revision/latest?cb=20230207160645",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Monkey_D._Garp",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/monkey-d-garp.json"
+    }
   ]
 }

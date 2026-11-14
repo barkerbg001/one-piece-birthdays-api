@@ -1,0 +1,64 @@
+{
+  "id": "marie",
+  "name": "Marie",
+  "display_name": "Marie",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-02",
+      "label": "November 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f4/Marie_Anime_Infobox.png/revision/latest?cb=20100123233337",
+    "width": 500,
+    "height": 878
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f4/Marie_Anime_Infobox.png/revision/latest/scale-to-width-down/228?cb=20100123233337",
+    "width": 228,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Marie",
+    "url": "https://onepiece.fandom.com/wiki/Marie"
+  },
+  "info": {
+    "japanese_name": "マリィ",
+    "romanized_name": "Marī",
+    "official_english_name": "Marie",
+    "debut": [
+      "Chapter 499",
+      "Episode 393"
+    ],
+    "affiliations": [
+      "Saint Charlos",
+      "Judy"
+    ],
+    "occupations": [
+      "Slave",
+      "Nurse (former)"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Mary Geoise",
+      "Sabaody Archipelago (former)"
+    ],
+    "birthday": "November 2nd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

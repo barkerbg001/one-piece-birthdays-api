@@ -1,0 +1,62 @@
+{
+  "id": "scotch",
+  "name": "Scotch",
+  "display_name": "Scotch",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-11",
+      "label": "December 11th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "rock",
+      "name": "Rock"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/27/Scotch_Anime_Infobox.png/revision/latest?cb=20241120021003",
+    "width": 1066,
+    "height": 1069
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/27/Scotch_Anime_Infobox.png/revision/latest/scale-to-width-down/399?cb=20241120021003",
+    "width": 399,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Scotch",
+    "url": "https://onepiece.fandom.com/wiki/Scotch"
+  },
+  "info": {
+    "japanese_name": "スコッチ",
+    "romanized_name": "Sukotchi",
+    "debut": [
+      "Chapter 595",
+      "Episode 513"
+    ],
+    "affiliations": [
+      "Beasts Pirates"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "epithet": "\"Iron Boy\"",
+    "status": "1"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

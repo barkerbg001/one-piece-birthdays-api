@@ -1,0 +1,61 @@
+{
+  "id": "yorki",
+  "name": "Yorki",
+  "display_name": "Yorki",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-09",
+      "label": "April 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Yorki_Anime_Infobox.png/revision/latest?cb=20240816020916",
+    "width": 1410,
+    "height": 1055
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Yorki_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240816020916",
+    "width": 400,
+    "height": 299
+  },
+  "wiki": {
+    "title": "Yorki",
+    "url": "https://onepiece.fandom.com/wiki/Yorki"
+  },
+  "info": {
+    "japanese_name": "ヨーキ",
+    "romanized_name": "Yōki",
+    "official_english_name": "Yorki; Calico Yorki (live-action series)",
+    "debut": [
+      "Chapter 103",
+      "Episode 63"
+    ],
+    "affiliations": [
+      "Rumbar Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain"
+    ],
+    "epithet": "\"Calico\" Yorki",
+    "status": "1",
+    "birthday": "April 9th",
+    "bounty": "Unknown"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

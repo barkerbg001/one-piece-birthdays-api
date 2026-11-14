@@ -1,0 +1,63 @@
+{
+  "id": "fukuro",
+  "name": "Fukuro",
+  "display_name": "Fukuro",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-29",
+      "label": "June 29th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Fukurou_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240901020742",
+    "width": 526,
+    "height": 790
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Fukurou_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/266?cb=20240901020742",
+    "width": 266,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Fukurou",
+    "url": "https://onepiece.fandom.com/wiki/Fukurou"
+  },
+  "info": {
+    "japanese_name": "フクロウ",
+    "romanized_name": "Fukurō",
+    "official_english_name": "Fukurô (VIZ); Fukurou (Funimation (former))",
+    "debut": [
+      "Chapter 375",
+      "Episode 264"
+    ],
+    "affiliations": [
+      "CP0",
+      "CP9 (former)"
+    ],
+    "occupations": [
+      "Cipher Pol Agent"
+    ],
+    "origin": "Grand Line",
+    "epithet": "\"Fukurou the Silent\"",
+    "age": "29 (debut); 31 (after timeskip)",
+    "birthday": "June 29th",
+    "height": "331 cm (10'10¼\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

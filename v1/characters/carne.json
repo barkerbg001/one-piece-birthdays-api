@@ -1,0 +1,61 @@
+{
+  "id": "carne",
+  "name": "Carne",
+  "display_name": "Carne",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-09",
+      "label": "February 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Carne_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20260920130301",
+    "width": 829,
+    "height": 1399
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Carne_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/237?cb=20260920130301",
+    "width": 237,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Carne",
+    "url": "https://onepiece.fandom.com/wiki/Carne"
+  },
+  "info": {
+    "japanese_name": "カルネ",
+    "romanized_name": "Karune",
+    "official_english_name": "Carne; Carny (Odex)",
+    "debut": [
+      "Chapter 45",
+      "Episode 21"
+    ],
+    "affiliations": [
+      "Baratie"
+    ],
+    "occupations": [
+      "Charcutier"
+    ],
+    "origin": "East Blue",
+    "age": "32 (debut); 34 (after timeskip)",
+    "birthday": "February 9th",
+    "height": "171 cm (5'7\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

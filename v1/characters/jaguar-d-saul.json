@@ -1,0 +1,66 @@
+{
+  "id": "jaguar-d-saul",
+  "name": "Jaguar D. Saul",
+  "display_name": "Jaguar D. Saul",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-06",
+      "label": "March 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cc/Jaguar_D._Saul_Anime_Infobox.png/revision/latest?cb=20260802161348",
+    "width": 768,
+    "height": 1156
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cc/Jaguar_D._Saul_Anime_Infobox.png/revision/latest/scale-to-width-down/266?cb=20260802161348",
+    "width": 266,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Jaguar D. Saul",
+    "url": "https://onepiece.fandom.com/wiki/Jaguar_D._Saul"
+  },
+  "info": {
+    "japanese_name": "ハグワール・D・サウロ",
+    "romanized_name": "Haguwāru Dī Sauro",
+    "debut": [
+      "Chapter 392",
+      "Episode 275"
+    ],
+    "affiliations": [
+      "Walrus School",
+      "Marines (defected)",
+      "Clan of D."
+    ],
+    "occupations": [
+      "History Teacher",
+      "Vice Admiral (former)"
+    ],
+    "origin": "South Blue",
+    "residence": [
+      "Elbaph (Sun World)"
+    ],
+    "age": "105 (debut); 127 (after timeskip)",
+    "birthday": "March 6th",
+    "height": "1950 cm (64')",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

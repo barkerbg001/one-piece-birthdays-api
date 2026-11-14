@@ -3,7 +3,23 @@
   "label": "May 26th",
   "month": 5,
   "day": 26,
-  "characters": [
+  "names": [
     "Kohza"
+  ],
+  "characters": [
+    {
+      "id": "kohza",
+      "name": "Kohza",
+      "display_name": "Kohza",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Koza_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/311?cb=20171228110510",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Koza_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20171228110510",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Koza",
+      "epithet": null,
+      "affiliation": "Arabasta Kingdom",
+      "api": "v1/characters/kohza.json"
+    }
   ]
 }

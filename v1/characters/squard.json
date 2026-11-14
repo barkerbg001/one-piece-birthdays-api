@@ -1,0 +1,64 @@
+{
+  "id": "squard",
+  "name": "Squard",
+  "display_name": "Squard",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-06",
+      "label": "September 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Squard_Anime_Infobox.png/revision/latest?cb=20140921221031",
+    "width": 587,
+    "height": 716
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Squard_Anime_Infobox.png/revision/latest/scale-to-width-down/328?cb=20140921221031",
+    "width": 328,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Squard",
+    "url": "https://onepiece.fandom.com/wiki/Squard"
+  },
+  "info": {
+    "japanese_name": "スクアード",
+    "romanized_name": "Sukuādo",
+    "official_english_name": "Squard",
+    "debut": [
+      "Chapter 551",
+      "Episode 460"
+    ],
+    "affiliations": [
+      "Maelstrom Spider Pirates",
+      "Whitebeard Pirates"
+    ],
+    "occupations": [
+      "Pirate Captain"
+    ],
+    "origin": "Grand Line",
+    "epithet": "\"Maelstrom Spider\"",
+    "age": "50 (debut); 52 (after timeskip)",
+    "birthday": "September 6th",
+    "height": "228 cm (7'5\")",
+    "blood_type": "F",
+    "bounty": "210,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

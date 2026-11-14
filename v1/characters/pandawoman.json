@@ -1,0 +1,58 @@
+{
+  "id": "pandawoman",
+  "name": "Pandawoman",
+  "display_name": "Pandawoman",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-29",
+      "label": "February 29th (Leap Day)"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/82/Pandawomanmi_Manga_Infobox.png/revision/latest?cb=20130222221711",
+    "width": 229,
+    "height": 293
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/82/Pandawomanmi_Manga_Infobox.png/revision/latest?cb=20130222221711",
+    "width": 313,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Pandawomanmi",
+    "url": "https://onepiece.fandom.com/wiki/Pandawomanmi"
+  },
+  "info": {
+    "japanese_name": "パンダウーマン美",
+    "romanized_name": "Pandaūmanmi",
+    "official_english_name": "Panda Woman; Pandawomanmi (WT100)",
+    "debut": [
+      "Chapter 517",
+      "Episode 409"
+    ],
+    "affiliations": [
+      "Easter Egg"
+    ],
+    "origin": "Calm Belt (Amazon Lily)",
+    "residence": [
+      "Amazon Lily"
+    ],
+    "birthday": "February 29th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

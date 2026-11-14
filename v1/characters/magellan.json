@@ -1,0 +1,64 @@
+{
+  "id": "magellan",
+  "name": "Magellan",
+  "display_name": "Magellan",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-09",
+      "label": "October 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9e/Magellan_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251102163212",
+    "width": 1272,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9e/Magellan_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20251102163212",
+    "width": 400,
+    "height": 340
+  },
+  "wiki": {
+    "title": "Magellan",
+    "url": "https://onepiece.fandom.com/wiki/Magellan"
+  },
+  "info": {
+    "japanese_name": "マゼラン",
+    "romanized_name": "Mazeran",
+    "debut": [
+      "Chapter 528",
+      "Episode 425"
+    ],
+    "affiliations": [
+      "Impel Down"
+    ],
+    "occupations": [
+      "Vice Warden",
+      "Chief Warden (former)"
+    ],
+    "origin": "Grand Line",
+    "age": "45 (debut); 47 (after timeskip)",
+    "birthday": "October 9th",
+    "height": "491 cm (16'1\")",
+    "blood_type": "X",
+    "devil_fruit": "Doku Doku no Mi",
+    "devil_fruit_english": "Venom-Venom Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

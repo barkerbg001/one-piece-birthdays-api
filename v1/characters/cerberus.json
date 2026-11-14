@@ -1,0 +1,58 @@
+{
+  "id": "cerberus",
+  "name": "Cerberus",
+  "display_name": "Cerberus",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-29",
+      "label": "November 29th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Cerberus_Anime_Infobox.png/revision/latest?cb=20180714234700",
+    "width": 1240,
+    "height": 768
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Cerberus_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180714234700",
+    "width": 400,
+    "height": 248
+  },
+  "wiki": {
+    "title": "Cerberus",
+    "url": "https://onepiece.fandom.com/wiki/Cerberus"
+  },
+  "info": {
+    "japanese_name": "ケルベロス",
+    "romanized_name": "Keruberosu",
+    "official_english_name": "Cerberus",
+    "debut": [
+      "Chapter 444",
+      "Episode 339"
+    ],
+    "affiliations": [
+      "Thriller Bark Pirates"
+    ],
+    "occupations": [
+      "Wild Zombie"
+    ],
+    "status": "2",
+    "birthday": "November 29th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

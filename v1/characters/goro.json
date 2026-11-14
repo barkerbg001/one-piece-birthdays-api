@@ -1,0 +1,60 @@
+{
+  "id": "goro",
+  "name": "Goro",
+  "display_name": "Goro",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-26",
+      "label": "November 26th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/73/Goro_Anime_Infobox.png/revision/latest?cb=20200407163616",
+    "width": 387,
+    "height": 464
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/73/Goro_Anime_Infobox.png/revision/latest/scale-to-width-down/334?cb=20200407163616",
+    "width": 334,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Goro",
+    "url": "https://onepiece.fandom.com/wiki/Goro"
+  },
+  "info": {
+    "japanese_name": "ゴロー",
+    "romanized_name": "Gorō",
+    "debut": [
+      "Chapter 316 (cover)",
+      "One Piece: Stampede"
+    ],
+    "affiliations": [
+      "Ukkari Hot-Spring Island"
+    ],
+    "occupations": [
+      "Onsen manager"
+    ],
+    "residence": [
+      "Ukkari Hot-Spring Island",
+      "Arabasta (former)"
+    ],
+    "birthday": "November 26th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

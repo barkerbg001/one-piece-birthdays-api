@@ -1,0 +1,65 @@
+{
+  "id": "makino",
+  "name": "Makino",
+  "display_name": "Makino",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-23",
+      "label": "February 23rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5a/Makino_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240914133612",
+    "width": 841,
+    "height": 1060
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5a/Makino_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/317?cb=20240914133612",
+    "width": 317,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Makino",
+    "url": "https://onepiece.fandom.com/wiki/Makino"
+  },
+  "info": {
+    "japanese_name": "マキノ",
+    "romanized_name": "Makino",
+    "official_english_name": "Makino",
+    "debut": [
+      "Chapter 1",
+      "Episode 4"
+    ],
+    "affiliations": [
+      "Partys Bar"
+    ],
+    "occupations": [
+      "Bar Owner",
+      "Bartender"
+    ],
+    "origin": "East Blue (Foosha Village)",
+    "residence": [
+      "Foosha Village"
+    ],
+    "age": "19 (debut); 29 (pre-timeskip); 31 (after timeskip)",
+    "birthday": "February 23rd",
+    "height": "166 cm (5'5\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "bepo",
+  "name": "Bepo",
+  "display_name": "Bepo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-20",
+      "label": "November 20th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Bepo_Anime_Infobox.png/revision/latest?cb=20231210123641",
+    "width": 698,
+    "height": 1066
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Bepo_Anime_Infobox.png/revision/latest/scale-to-width-down/262?cb=20231210123641",
+    "width": 262,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Bepo",
+    "url": "https://onepiece.fandom.com/wiki/Bepo"
+  },
+  "info": {
+    "japanese_name": "ベポ",
+    "official_english_name": "Bepo",
+    "debut": [
+      "Chapter 498",
+      "Episode 392"
+    ],
+    "affiliations": [
+      "Heart Pirates",
+      "Ninja-Pirate-Mink-Samurai Alliance(disbanded)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Navigator",
+      "Guardians' helper"
+    ],
+    "origin": "Grand Line (Mokomo Dukedom)",
+    "residence": [
+      "Zou (former)",
+      "Swallow Island (former)"
+    ],
+    "age": "20 (debut); 22 (after timeskip)",
+    "birthday": "November 20th (Fur Day)",
+    "height": "240 cm (7'10\")",
+    "blood_type": "S",
+    "bounty": "1,500"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

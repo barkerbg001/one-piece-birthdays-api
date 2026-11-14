@@ -1,0 +1,63 @@
+{
+  "id": "genzo",
+  "name": "Genzo",
+  "display_name": "Genzo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-17",
+      "label": "June 17th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fe/Genzo_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251109161031",
+    "width": 483,
+    "height": 674
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fe/Genzo_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/287?cb=20251109161031",
+    "width": 287,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Genzo",
+    "url": "https://onepiece.fandom.com/wiki/Genzo"
+  },
+  "info": {
+    "japanese_name": "ゲンゾウ",
+    "romanized_name": "Genzō",
+    "debut": [
+      "Chapter 71",
+      "Episode 32"
+    ],
+    "affiliations": [
+      "Cocoyasi Village"
+    ],
+    "occupations": [
+      "Sheriff of Cocoyasi Village"
+    ],
+    "origin": "East Blue (Conomi Islands)",
+    "residence": [
+      "Cocoyasi Village"
+    ],
+    "age": "46 (debut); 48 (after timeskip)",
+    "birthday": "June 17th",
+    "height": "173 cm (5'8\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

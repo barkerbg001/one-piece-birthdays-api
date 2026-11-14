@@ -3,8 +3,38 @@
   "label": "January 10th",
   "month": 1,
   "day": 10,
-  "characters": [
+  "names": [
     "Otohime",
     "Eustass Kid"
+  ],
+  "characters": [
+    {
+      "id": "otohime",
+      "name": "Otohime",
+      "display_name": "Otohime",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c7/Otohime_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130427195608",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c7/Otohime_Anime_Infobox.png/revision/latest?cb=20130427195608",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Otohime",
+      "epithet": "Incarnation of Love",
+      "affiliation": "Neptune Family",
+      "api": "v1/characters/otohime.json"
+    },
+    {
+      "id": "eustass-kid",
+      "name": "Eustass Kid",
+      "display_name": "Eustass Kid",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/47/Eustass_Kid_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/336?cb=20240505021859",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/47/Eustass_Kid_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240505021859",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Eustass_Kid",
+      "epithet": "\"Captain\"",
+      "affiliation": "Kid Pirates",
+      "api": "v1/characters/eustass-kid.json"
+    }
   ]
 }

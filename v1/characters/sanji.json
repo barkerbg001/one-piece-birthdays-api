@@ -1,0 +1,95 @@
+{
+  "id": "sanji",
+  "name": "Sanji",
+  "display_name": "Sanji",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-02",
+      "label": "March 2nd"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "vinsmoke-ichiji",
+      "name": "Vinsmoke Ichiji"
+    },
+    {
+      "id": "vinsmoke-niji",
+      "name": "Vinsmoke Niji"
+    },
+    {
+      "id": "vinsmoke-yonji",
+      "name": "Vinsmoke Yonji"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Sanji_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240122012744",
+    "width": 968,
+    "height": 2898
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Sanji_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/133?cb=20240122012744",
+    "width": 133,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Sanji",
+    "url": "https://onepiece.fandom.com/wiki/Sanji"
+  },
+  "info": {
+    "japanese_name": "サンジ",
+    "romanized_name": "Sanji",
+    "official_english_name": "Sanji",
+    "debut": [
+      "Chapter 43",
+      "Episode 20"
+    ],
+    "affiliations": [
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet",
+      "Vinsmoke Family (former)",
+      "Baratie (resigned)",
+      "Germa Kingdom (defected)",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Cook",
+      "Senior Officer",
+      "Sous Chef (former)",
+      "Prince (former)",
+      "Cart Vendor (temporary)"
+    ],
+    "origin": "North Blue (Germa Kingdom)",
+    "residence": [
+      "East Blue (Baratie) (former)",
+      "Germa Kingdom (former)",
+      "Momoiro Island (former, temporary)"
+    ],
+    "epithet": "\"Black Leg\"",
+    "aliases": [
+      "\"Mr. Prince\"",
+      "\"San-gorou\"",
+      "\"Osoba-mask\""
+    ],
+    "age": "19 (debut); 21 (after timeskip)",
+    "birthday": "March 2nd",
+    "height": "177 cm (5'10\") (debut); 180 cm (5'11\") (after timeskip)",
+    "blood_type": "S (RH-)",
+    "bounty": "1,032,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

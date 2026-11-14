@@ -3,8 +3,38 @@
   "label": "March 11th",
   "month": 3,
   "day": 11,
-  "characters": [
+  "names": [
     "Spandam",
     "Palms"
+  ],
+  "characters": [
+    {
+      "id": "spandam",
+      "name": "Spandam",
+      "display_name": "Spandam",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e7/Spandam_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/323?cb=20230913231907",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e7/Spandam_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230913231907",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Spandam",
+      "epithet": null,
+      "affiliation": "CP0",
+      "api": "v1/characters/spandam.json"
+    },
+    {
+      "id": "palms",
+      "name": "Palms",
+      "display_name": "Palms",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/93/Palms_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20101121091131",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/93/Palms_Anime_Infobox.png/revision/latest?cb=20101121091131",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Palms",
+      "epithet": null,
+      "affiliation": "His own crew",
+      "api": "v1/characters/palms.json"
+    }
   ]
 }

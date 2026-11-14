@@ -3,7 +3,23 @@
   "label": "January 29th",
   "month": 1,
   "day": 29,
-  "characters": [
+  "names": [
     "Kin’emon"
+  ],
+  "characters": [
+    {
+      "id": "kinemon",
+      "name": "Kin’emon",
+      "display_name": "Kin’emon",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Kin%27emon_Anime_Infobox.png/revision/latest/scale-to-width-down/216?cb=20191124100115",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Kin%27emon_Anime_Infobox.png/revision/latest?cb=20191124100115",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kin%27emon",
+      "epithet": "\"Foxfire Kin'emon\"",
+      "affiliation": "Kouzuki Family",
+      "api": "v1/characters/kinemon.json"
+    }
   ]
 }

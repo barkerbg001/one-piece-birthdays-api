@@ -3,7 +3,23 @@
   "label": "January 2nd",
   "month": 1,
   "day": 2,
-  "characters": [
+  "names": [
     "Peepley Lulu"
+  ],
+  "characters": [
+    {
+      "id": "peepley-lulu",
+      "name": "Peepley Lulu",
+      "display_name": "Peepley Lulu",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/71/Peepley_Lulu_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20251102160639",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/71/Peepley_Lulu_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251102160639",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Peepley_Lulu",
+      "epithet": null,
+      "affiliation": "Galley-La Company",
+      "api": "v1/characters/peepley-lulu.json"
+    }
   ]
 }

@@ -3,7 +3,23 @@
   "label": "October 27th",
   "month": 10,
   "day": 27,
-  "characters": [
+  "names": [
     "Kagikko"
+  ],
+  "characters": [
+    {
+      "id": "kagikko",
+      "name": "Kagikko",
+      "display_name": "Kagikko",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Kagikko_Manga_Infobox.png/revision/latest?cb=20170313022254",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Kagikko_Manga_Infobox.png/revision/latest?cb=20170313022254",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kagikko",
+      "epithet": null,
+      "affiliation": "Krieg Pirates",
+      "api": "v1/characters/kagikko.json"
+    }
   ]
 }

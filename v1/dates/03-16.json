@@ -3,7 +3,23 @@
   "label": "March 16th",
   "month": 3,
   "day": 16,
-  "characters": [
+  "names": [
     "Tom"
+  ],
+  "characters": [
+    {
+      "id": "tom",
+      "name": "Tom",
+      "display_name": "Tom",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Tom_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20210404151116",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Tom_Anime_Infobox.png/revision/latest?cb=20210404151116",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Tom",
+      "epithet": null,
+      "affiliation": "Tom's Workers",
+      "api": "v1/characters/tom.json"
+    }
   ]
 }

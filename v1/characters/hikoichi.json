@@ -1,0 +1,64 @@
+{
+  "id": "hikoichi",
+  "name": "Hikoichi",
+  "display_name": "Hikoichi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-01",
+      "label": "May 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/78/Hikoichi_Anime_Infobox.png/revision/latest?cb=20260530185337",
+    "width": 604,
+    "height": 870
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/78/Hikoichi_Anime_Infobox.png/revision/latest/scale-to-width-down/278?cb=20260530185337",
+    "width": 278,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Hikoichi",
+    "url": "https://onepiece.fandom.com/wiki/Hikoichi"
+  },
+  "info": {
+    "japanese_name": "ヒコイチ",
+    "romanized_name": "Hikoichi",
+    "official_english_name": "Hikoichi",
+    "debut": [
+      "Chapter 180",
+      "Episode 111"
+    ],
+    "affiliations": [
+      "Super Spot-Billed Duck Troops"
+    ],
+    "occupations": [
+      "Royal Transport",
+      "Member of the Super Spot-Billed Duck Troops"
+    ],
+    "origin": "Grand Line (Arabasta Kingdom)",
+    "residence": [
+      "Arabasta Kingdom"
+    ],
+    "age": "14",
+    "height": "138 cm (4'6\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

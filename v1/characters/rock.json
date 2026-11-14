@@ -1,0 +1,70 @@
+{
+  "id": "rock",
+  "name": "Rock",
+  "display_name": "Rock (Yeti Cool Brothers)",
+  "alias": "Yeti Cool Brothers",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-11",
+      "label": "December 11th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "scotch",
+      "name": "Scotch"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/97/Yeti_Cool_Brothers_Anime_Infobox.png/revision/latest?cb=20230112041930",
+    "width": 1318,
+    "height": 1066
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/97/Yeti_Cool_Brothers_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230112041930",
+    "width": 400,
+    "height": 324
+  },
+  "wiki": {
+    "title": "Yeti Cool Brothers",
+    "url": "https://onepiece.fandom.com/wiki/Yeti_Cool_Brothers"
+  },
+  "info": {
+    "japanese_name": "イエティ COOL BROTHERS",
+    "romanized_name": "Ieti Kūru Burazāzu",
+    "debut": [
+      "Chapter 665",
+      "Episode 591"
+    ],
+    "affiliations": [
+      "Caesar Clown (former)"
+    ],
+    "occupations": [
+      "Mercenaries",
+      "Assassins",
+      "Snipers"
+    ],
+    "origin": "Grand Line",
+    "epithet": "\"Killers of the Snowy Mountain\"",
+    "status": "1",
+    "age": "25",
+    "birthday": "December 11th",
+    "height": "4250 cm (139'5\")",
+    "blood_type": "S (RH-)",
+    "bounty": "20,000,000 (each)"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

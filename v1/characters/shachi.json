@@ -1,0 +1,64 @@
+{
+  "id": "shachi",
+  "name": "Shachi",
+  "display_name": "Shachi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-07",
+      "label": "April 7th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Shachi_Anime_Infobox.png/revision/latest?cb=20130425024908",
+    "width": 174,
+    "height": 508
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Shachi_Anime_Infobox.png/revision/latest/scale-to-width-down/137?cb=20130425024908",
+    "width": 137,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Shachi",
+    "url": "https://onepiece.fandom.com/wiki/Shachi"
+  },
+  "info": {
+    "japanese_name": "シャチ",
+    "romanized_name": "Shachi",
+    "debut": [
+      "Chapter 498",
+      "Episode 392"
+    ],
+    "affiliations": [
+      "Heart Pirates",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Swallow Island (former)"
+    ],
+    "status": "1",
+    "age": "25 (debut); 27 (after timeskip)",
+    "birthday": "April 7th",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

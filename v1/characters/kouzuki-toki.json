@@ -1,0 +1,66 @@
+{
+  "id": "kouzuki-toki",
+  "name": "Kouzuki Toki",
+  "display_name": "Kouzuki Toki",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-19",
+      "label": "January 19th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kouzuki_Toki_Anime_Infobox.png/revision/latest?cb=20240923154828",
+    "width": 745,
+    "height": 1912
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kouzuki_Toki_Anime_Infobox.png/revision/latest/scale-to-width-down/156?cb=20240923154828",
+    "width": 156,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kouzuki Toki",
+    "url": "https://onepiece.fandom.com/wiki/Kouzuki_Toki"
+  },
+  "info": {
+    "japanese_name": "光月トキ",
+    "romanized_name": "Kōzuki Toki",
+    "official_english_name": "Kozuki Toki; Kouzuki Toki (OPCG)",
+    "debut": [
+      "Chapter 919",
+      "Episode 893"
+    ],
+    "affiliations": [
+      "Kouzuki Family",
+      "Amatsuki Family",
+      "Whitebeard Pirates (former)",
+      "Roger Pirates (former)"
+    ],
+    "residence": [
+      "Wano Country (Kuri)"
+    ],
+    "status": "2",
+    "birthday": "January 19th",
+    "height": "190 cm (6'3\")",
+    "blood_type": "X",
+    "devil_fruit": "Toki Toki no Mi",
+    "devil_fruit_english": "Time-Time Ability (VIZ); Time-Time Fruit (Funimation)",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

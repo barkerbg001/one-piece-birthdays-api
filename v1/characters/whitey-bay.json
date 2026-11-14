@@ -1,0 +1,59 @@
+{
+  "id": "whitey-bay",
+  "name": "Whitey Bay",
+  "display_name": "Whitey Bay",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-31",
+      "label": "October 31st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3b/Whitey_Bay_Anime_Infobox.png/revision/latest?cb=20210720203345",
+    "width": 545,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3b/Whitey_Bay_Anime_Infobox.png/revision/latest/scale-to-width-down/303?cb=20210720203345",
+    "width": 303,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Whitey Bay",
+    "url": "https://onepiece.fandom.com/wiki/Whitey_Bay"
+  },
+  "info": {
+    "japanese_name": "ホワイティベイ",
+    "romanized_name": "Howaiti Bei",
+    "debut": [
+      "Chapter 556",
+      "Episode 462"
+    ],
+    "affiliations": [
+      "Whitebeard Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain"
+    ],
+    "epithet": "\"Ice Witch\"",
+    "birthday": "October 31st",
+    "bounty": "Unknown"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

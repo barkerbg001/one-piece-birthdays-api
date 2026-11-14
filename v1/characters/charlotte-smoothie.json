@@ -1,0 +1,79 @@
+{
+  "id": "charlotte-smoothie",
+  "name": "Charlotte Smoothie",
+  "display_name": "Charlotte Smoothie",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-12",
+      "label": "October 12th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-citron",
+      "name": "Charlotte Citron"
+    },
+    {
+      "id": "charlotte-cinnamon",
+      "name": "Charlotte Cinnamon"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Charlotte_Smoothie_Anime_Infobox.png/revision/latest?cb=20180423150946",
+    "width": 798,
+    "height": 1866
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Charlotte_Smoothie_Anime_Infobox.png/revision/latest/scale-to-width-down/171?cb=20180423150946",
+    "width": 171,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Smoothie",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Smoothie"
+  },
+  "info": {
+    "japanese_name": "シャーロット・スムージー",
+    "romanized_name": "Shārotto Sumūjī",
+    "official_english_name": "Charlotte Smoothie",
+    "debut": [
+      "Chapter 846",
+      "Episode 812"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Sweet Commander",
+      "Minister of Juice"
+    ],
+    "origin": "Grand Line (Totto Land)",
+    "residence": [
+      "100% Island"
+    ],
+    "age": "35",
+    "birthday": "October 12th",
+    "height": "464 cm (15'3\")",
+    "blood_type": "F",
+    "bounty": "932,000,000",
+    "devil_fruit": "Shibo Shibo no Mi",
+    "devil_fruit_english": "Wring-Wring Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

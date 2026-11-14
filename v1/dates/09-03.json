@@ -3,9 +3,53 @@
   "label": "September 3rd",
   "month": 9,
   "day": 3,
-  "characters": [
+  "names": [
     "Brannew",
     "Boa Sandersonia",
     "Mcguy"
+  ],
+  "characters": [
+    {
+      "id": "brannew",
+      "name": "Brannew",
+      "display_name": "Brannew",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/71/Brannew_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/344?cb=20180321231621",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/71/Brannew_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20180321231621",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Brannew",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/brannew.json"
+    },
+    {
+      "id": "boa-sandersonia",
+      "name": "Boa Sandersonia",
+      "display_name": "Boa Sandersonia",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Boa_Sandersonia_Anime_Infobox.png/revision/latest/scale-to-width-down/270?cb=20141017161424",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Boa_Sandersonia_Anime_Infobox.png/revision/latest?cb=20141017161424",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Boa_Sandersonia",
+      "epithet": null,
+      "affiliation": "Kuja Pirates (Gorgon Sisters)",
+      "api": "v1/characters/boa-sandersonia.json"
+    },
+    {
+      "id": "mcguy",
+      "name": "Mcguy",
+      "display_name": "Mcguy",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bd/McGuy_Anime_Infobox.png/revision/latest/scale-to-width-down/260?cb=20230816214244",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/bd/McGuy_Anime_Infobox.png/revision/latest?cb=20230816214244",
+      "wiki_url": "https://onepiece.fandom.com/wiki/McGuy",
+      "epithet": "\"Thunder Lord\"",
+      "affiliation": "Subordinate of the Whitebeard Pirates",
+      "api": "v1/characters/mcguy.json"
+    }
   ]
 }

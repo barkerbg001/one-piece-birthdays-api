@@ -1,0 +1,66 @@
+{
+  "id": "silvers-rayleigh",
+  "name": "Silvers Rayleigh",
+  "display_name": "Silvers Rayleigh",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-13",
+      "label": "May 13th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b1/Silvers_Rayleigh_Anime_Infobox.png/revision/latest?cb=20230601221758",
+    "width": 824,
+    "height": 1573
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b1/Silvers_Rayleigh_Anime_Infobox.png/revision/latest/scale-to-width-down/209?cb=20230601221758",
+    "width": 209,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Silvers Rayleigh",
+    "url": "https://onepiece.fandom.com/wiki/Silvers_Rayleigh"
+  },
+  "info": {
+    "japanese_name": "シルバーズ・レイリー",
+    "romanized_name": "Shirubāzu Reirī",
+    "debut": [
+      "Chapter 19",
+      "Episode 8"
+    ],
+    "affiliations": [
+      "Roger Pirates (former)"
+    ],
+    "occupations": [
+      "Coating Mechanic",
+      "First Mate (former)",
+      "Pirate (former)"
+    ],
+    "residence": [
+      "Sabaody Archipelago"
+    ],
+    "epithet": "\"Dark King\"; \"Right Hand of the Pirate King\"",
+    "age": "76 (debut); 78 (after timeskip)",
+    "birthday": "May 13th",
+    "height": "188 cm (6'2\")",
+    "blood_type": "XF",
+    "bounty": "Unknown"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

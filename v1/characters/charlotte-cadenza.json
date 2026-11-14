@@ -1,0 +1,76 @@
+{
+  "id": "charlotte-cadenza",
+  "name": "Charlotte Cadenza",
+  "display_name": "Charlotte Cadenza",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-29",
+      "label": "September 29th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-opera",
+      "name": "Charlotte Opera"
+    },
+    {
+      "id": "charlotte-counter",
+      "name": "Charlotte Counter"
+    },
+    {
+      "id": "charlotte-cabaletta",
+      "name": "Charlotte Cabaletta"
+    },
+    {
+      "id": "charlotte-gala",
+      "name": "Charlotte Gala"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f2/Charlotte_Cadenza_Anime_Infobox.png/revision/latest?cb=20181023140810",
+    "width": 1281,
+    "height": 1064
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f2/Charlotte_Cadenza_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20181023140810",
+    "width": 400,
+    "height": 332
+  },
+  "wiki": {
+    "title": "Charlotte Cadenza",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Cadenza"
+  },
+  "info": {
+    "japanese_name": "シャーロット・カデンツァ",
+    "romanized_name": "Shārotto Kadentsa",
+    "official_english_name": "Charlotte Cadenza",
+    "debut": [
+      "Chapter 845",
+      "Episode 809"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "age": "46",
+    "birthday": "September 29th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

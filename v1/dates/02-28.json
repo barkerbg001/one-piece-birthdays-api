@@ -3,11 +3,92 @@
   "label": "February 28th",
   "month": 2,
   "day": 28,
-  "characters": [
+  "names": [
     "Woop Slap",
     "Charlotte Cracker",
     "Charlotte Custard",
     "Charlotte Angel",
     "Kazekage"
+  ],
+  "characters": [
+    {
+      "id": "woop-slap",
+      "name": "Woop Slap",
+      "display_name": "Woop Slap",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Woop_Slap_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/345?cb=20190519184815",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Woop_Slap_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20190519184815",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Woop_Slap",
+      "epithet": null,
+      "affiliation": "Foosha Village",
+      "api": "v1/characters/woop-slap.json"
+    },
+    {
+      "id": "charlotte-cracker",
+      "name": "Charlotte Cracker",
+      "display_name": "Charlotte Cracker",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-custard",
+        "charlotte-angel"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/64/Charlotte_Cracker_Anime_Infobox.png/revision/latest/scale-to-width-down/238?cb=20170730021804",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/64/Charlotte_Cracker_Anime_Infobox.png/revision/latest?cb=20170730021804",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Cracker",
+      "epithet": "\"Thousand Arms Cracker\"; \"Biscuit Knight\"",
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-cracker.json"
+    },
+    {
+      "id": "charlotte-custard",
+      "name": "Charlotte Custard",
+      "display_name": "Charlotte Custard",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-cracker",
+        "charlotte-angel"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/da/Charlotte_Custard_Anime_Infobox.png/revision/latest/scale-to-width-down/380?cb=20181118084826",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/da/Charlotte_Custard_Anime_Infobox.png/revision/latest?cb=20181118084826",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Custard",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-custard.json"
+    },
+    {
+      "id": "charlotte-angel",
+      "name": "Charlotte Angel",
+      "display_name": "Charlotte Angel",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-cracker",
+        "charlotte-custard"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/35/Charlotte_Angel_Anime_Infobox.png/revision/latest?cb=20181019103814",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/35/Charlotte_Angel_Anime_Infobox.png/revision/latest?cb=20181019103814",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Angel",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-angel.json"
+    },
+    {
+      "id": "kazekage",
+      "name": "Kazekage",
+      "display_name": "Kazekage",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/27/Kazekage_Anime_Infobox.png/revision/latest/scale-to-width-down/194?cb=20200927094255",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/27/Kazekage_Anime_Infobox.png/revision/latest?cb=20200927094255",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kazekage",
+      "epithet": null,
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/kazekage.json"
+    }
   ]
 }

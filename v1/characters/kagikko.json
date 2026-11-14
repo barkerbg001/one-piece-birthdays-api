@@ -1,0 +1,58 @@
+{
+  "id": "kagikko",
+  "name": "Kagikko",
+  "display_name": "Kagikko",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-27",
+      "label": "October 27th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Kagikko_Manga_Infobox.png/revision/latest?cb=20170313022254",
+    "width": 136,
+    "height": 214
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Kagikko_Manga_Infobox.png/revision/latest?cb=20170313022254",
+    "width": 254,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kagikko",
+    "url": "https://onepiece.fandom.com/wiki/Kagikko"
+  },
+  "info": {
+    "japanese_name": "カギッコ",
+    "romanized_name": "Kagikko",
+    "official_english_name": "Keygan",
+    "debut": [
+      "Chapter 64"
+    ],
+    "affiliations": [
+      "Krieg Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Locksmith"
+    ],
+    "origin": "East Blue",
+    "birthday": "October 27th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "sam",
+  "name": "Sam",
+  "display_name": "Sam",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-21",
+      "label": "October 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cb/Sam_Anime_Infobox.png/revision/latest?cb=20251109194354",
+    "width": 248,
+    "height": 416
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cb/Sam_Anime_Infobox.png/revision/latest/scale-to-width-down/238?cb=20251109194354",
+    "width": 238,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Sam",
+    "url": "https://onepiece.fandom.com/wiki/Sam"
+  },
+  "info": {
+    "japanese_name": "サムさん",
+    "romanized_name": "Samu-san",
+    "debut": [
+      "Chapter 94",
+      "Episode 43"
+    ],
+    "affiliations": [
+      "Easter Egg"
+    ],
+    "origin": "East Blue (Conomi Islands)",
+    "residence": [
+      "Cocoyasi Village"
+    ],
+    "birthday": "October 21st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

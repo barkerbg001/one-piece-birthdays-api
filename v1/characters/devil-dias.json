@@ -1,0 +1,61 @@
+{
+  "id": "devil-dias",
+  "name": "Devil Dias",
+  "display_name": "Devil Dias",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-18",
+      "label": "September 18th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/51/Devil_Dias_Anime_Infobox.png/revision/latest?cb=20240830003134",
+    "width": 853,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/51/Devil_Dias_Anime_Infobox.png/revision/latest/scale-to-width-down/316?cb=20240830003134",
+    "width": 316,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Devil Dias",
+    "url": "https://onepiece.fandom.com/wiki/Devil_Dias"
+  },
+  "info": {
+    "japanese_name": "デビル・ディアス",
+    "romanized_name": "Debiru Diasu",
+    "official_english_name": "Devil Dias (Viz); Devil (Funimation)",
+    "debut": [
+      "Chapter 497",
+      "Episode 391"
+    ],
+    "affiliations": [
+      "Acumate Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain (former)",
+      "Slave"
+    ],
+    "status": "Unknown",
+    "birthday": "September 18th",
+    "bounty": "60,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

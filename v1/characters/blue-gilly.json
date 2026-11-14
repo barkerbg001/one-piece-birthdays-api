@@ -1,0 +1,62 @@
+{
+  "id": "blue-gilly",
+  "name": "Blue Gilly",
+  "display_name": "Blue Gilly",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-27",
+      "label": "November 27th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Blue_Gilly_Anime_Infobox.png/revision/latest?cb=20140323171231",
+    "width": 715,
+    "height": 2033
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Blue_Gilly_Anime_Infobox.png/revision/latest/scale-to-width-down/140?cb=20140323171231",
+    "width": 140,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Blue Gilly",
+    "url": "https://onepiece.fandom.com/wiki/Blue_Gilly"
+  },
+  "info": {
+    "japanese_name": "ブルー・ギリー",
+    "romanized_name": "Burū Girī",
+    "official_english_name": "Blue Gilly (Viz); Bluegilly (WT100)",
+    "debut": [
+      "Chapter 706",
+      "Episode 636"
+    ],
+    "affiliations": [
+      "Ideo Pirates",
+      "Straw Hat Grand Fleet"
+    ],
+    "occupations": [
+      "Martial Artist, Pirate"
+    ],
+    "origin": "Grand Line",
+    "age": "24",
+    "birthday": "November 27th",
+    "height": "314 cm (10'3½\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "sarie-nantokanette",
+  "name": "Sarie Nantokanette",
+  "display_name": "Sarie Nantokanette",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-31",
+      "label": "July 31st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/58/Sarie_Nantokanette_Anime_Infobox.png/revision/latest?cb=20190517173750",
+    "width": 410,
+    "height": 322
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/58/Sarie_Nantokanette_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20190517173750",
+    "width": 400,
+    "height": 314
+  },
+  "wiki": {
+    "title": "Sarie Nantokanette",
+    "url": "https://onepiece.fandom.com/wiki/Sarie_Nantokanette"
+  },
+  "info": {
+    "japanese_name": "サリー・ナントカネット",
+    "romanized_name": "Sarī Nantokanetto",
+    "official_english_name": "Sally Isntoinette",
+    "debut": [
+      "Chapter 823",
+      "Episode 777"
+    ],
+    "affiliations": [
+      "Goa Kingdom"
+    ],
+    "occupations": [
+      "Queen of the Goa Kingdom",
+      "Princess of the Goa Kingdom (former)"
+    ],
+    "residence": [
+      "Goa Kingdom"
+    ],
+    "birthday": "July 31st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

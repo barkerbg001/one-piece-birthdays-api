@@ -1,0 +1,61 @@
+{
+  "id": "merry",
+  "name": "Merry",
+  "display_name": "Merry",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-22",
+      "label": "January 22nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/ba/Merry_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251026160814",
+    "width": 156,
+    "height": 528
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/ba/Merry_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/118?cb=20251026160814",
+    "width": 118,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Merry",
+    "url": "https://onepiece.fandom.com/wiki/Merry"
+  },
+  "info": {
+    "japanese_name": "メリー",
+    "romanized_name": "Merī",
+    "official_english_name": "Merry",
+    "debut": [
+      "Chapter 24",
+      "Episode 11"
+    ],
+    "affiliations": [
+      "Kaya"
+    ],
+    "occupations": [
+      "Butler"
+    ],
+    "origin": "East Blue (Syrup Village)",
+    "residence": [
+      "Syrup Village"
+    ],
+    "birthday": "January 22nd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "delacuaji",
+  "name": "Delacuaji",
+  "display_name": "Delacuaji",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-01",
+      "label": "September 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/07/Delacuaji_Anime_Infobox.png/revision/latest?cb=20130811023157",
+    "width": 652,
+    "height": 677
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/07/Delacuaji_Anime_Infobox.png/revision/latest/scale-to-width-down/385?cb=20130811023157",
+    "width": 385,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Delacuaji",
+    "url": "https://onepiece.fandom.com/wiki/Delacuaji"
+  },
+  "info": {
+    "japanese_name": "デラクアヒ",
+    "romanized_name": "Derakuahi",
+    "official_english_name": "Delacuaji",
+    "debut": [
+      "Chapter 551",
+      "Episode 460"
+    ],
+    "affiliations": [
+      "Subordinate of the Whitebeard Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain"
+    ],
+    "birthday": "September 1st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

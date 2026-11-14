@@ -3,9 +3,53 @@
   "label": "January 8th",
   "month": 1,
   "day": 8,
-  "characters": [
+  "names": [
     "Emporio Ivankov",
     "Ivan X",
     "General Franky"
+  ],
+  "characters": [
+    {
+      "id": "emporio-ivankov",
+      "name": "Emporio Ivankov",
+      "display_name": "Emporio Ivankov",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/de/Emporio_Ivankov_Anime_Infobox.png/revision/latest/scale-to-width-down/306?cb=20261017230714",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/de/Emporio_Ivankov_Anime_Infobox.png/revision/latest?cb=20261017230714",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Emporio_Ivankov",
+      "epithet": "\"Okama King\"; \"Miracle Person\"",
+      "affiliation": "Revolutionary Army",
+      "api": "v1/characters/emporio-ivankov.json"
+    },
+    {
+      "id": "ivan-x",
+      "name": "Ivan X",
+      "display_name": "Ivan X",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/30/Ivan_X_Anime_Infobox.png/revision/latest?cb=20260530185211",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/30/Ivan_X_Anime_Infobox.png/revision/latest?cb=20260530185211",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Ivan_X",
+      "epithet": null,
+      "affiliation": "Super Spot-Billed Duck Troops",
+      "api": "v1/characters/ivan-x.json"
+    },
+    {
+      "id": "general-franky",
+      "name": "General Franky",
+      "display_name": "General Franky",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4b/General_Franky_Infobox.png/revision/latest/scale-to-width-down/352?cb=20180404172055",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4b/General_Franky_Infobox.png/revision/latest?cb=20180404172055",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Battle_Frankies/General_Franky",
+      "epithet": null,
+      "affiliation": "Straw Hat Pirates",
+      "api": "v1/characters/general-franky.json"
+    }
   ]
 }

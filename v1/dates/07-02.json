@@ -3,7 +3,23 @@
   "label": "July 2nd",
   "month": 7,
   "day": 2,
-  "characters": [
+  "names": [
     "Minister of the Left"
+  ],
+  "characters": [
+    {
+      "id": "minister-of-the-left",
+      "name": "Minister of the Left",
+      "display_name": "Minister of the Left",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Minister_of_the_Left_Anime_Infobox.png/revision/latest/scale-to-width-down/387?cb=20241229031653",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Minister_of_the_Left_Anime_Infobox.png/revision/latest?cb=20241229031653",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Minister_of_the_Left",
+      "epithet": null,
+      "affiliation": "Ryugu Kingdom",
+      "api": "v1/characters/minister-of-the-left.json"
+    }
   ]
 }

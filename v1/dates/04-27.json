@@ -3,7 +3,23 @@
   "label": "April 27th",
   "month": 4,
   "day": 27,
-  "characters": [
+  "names": [
     "Streusen"
+  ],
+  "characters": [
+    {
+      "id": "streusen",
+      "name": "Streusen",
+      "display_name": "Streusen",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/34/Streusen_Anime_Infobox.png/revision/latest/scale-to-width-down/307?cb=20180423083412",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/34/Streusen_Anime_Infobox.png/revision/latest?cb=20180423083412",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Streusen",
+      "epithet": "\"Gourmet Knight\"",
+      "affiliation": "Big Mom Pirates",
+      "api": "v1/characters/streusen.json"
+    }
   ]
 }

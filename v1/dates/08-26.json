@@ -3,7 +3,23 @@
   "label": "August 26th",
   "month": 8,
   "day": 26,
-  "characters": [
+  "names": [
     "Gyatz"
+  ],
+  "characters": [
+    {
+      "id": "gyatz",
+      "name": "Gyatz",
+      "display_name": "Gyatz",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/70/Gatz_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20140916081427",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/70/Gatz_Anime_Infobox.png/revision/latest?cb=20140916081427",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gatz",
+      "epithet": null,
+      "affiliation": "Corrida Colosseum",
+      "api": "v1/characters/gyatz.json"
+    }
   ]
 }

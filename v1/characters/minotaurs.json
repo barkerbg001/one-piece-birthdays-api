@@ -1,0 +1,58 @@
+{
+  "id": "minotaurs",
+  "name": "Minotaurs",
+  "display_name": "Minotaurs",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-04",
+      "label": "March 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/15/Minotaurus_Anime_Infobox.png/revision/latest?cb=20240229081420",
+    "width": 852,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/15/Minotaurus_Anime_Infobox.png/revision/latest/scale-to-width-down/315?cb=20240229081420",
+    "width": 315,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Minotaurus",
+    "url": "https://onepiece.fandom.com/wiki/Minotaurus"
+  },
+  "info": {
+    "japanese_name": "ミノタウロス",
+    "romanized_name": "Minotaurosu",
+    "official_english_name": "Minotaur (Viz); Minotaurus (Funimation)",
+    "debut": [
+      "Chapter 525",
+      "Episode 422"
+    ],
+    "affiliations": [
+      "Impel Down",
+      "World Government"
+    ],
+    "occupations": [
+      "Jailer Beast"
+    ],
+    "birthday": "March 4th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,8 +3,38 @@
   "label": "March 30th",
   "month": 3,
   "day": 30,
-  "characters": [
+  "names": [
     "Manboshi",
     "Bas"
+  ],
+  "characters": [
+    {
+      "id": "manboshi",
+      "name": "Manboshi",
+      "display_name": "Manboshi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/82/Manboshi_Anime_Infobox.png/revision/latest/scale-to-width-down/260?cb=20130430234840",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/82/Manboshi_Anime_Infobox.png/revision/latest?cb=20130430234840",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Manboshi",
+      "epithet": null,
+      "affiliation": "Neptune Family",
+      "api": "v1/characters/manboshi.json"
+    },
+    {
+      "id": "bas",
+      "name": "Bas",
+      "display_name": "Bas",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Baskerville_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240624215454",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Baskerville_Anime_Infobox.png/revision/latest?cb=20240624215454",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Baskerville",
+      "epithet": "\"Three-Headed Baskerville\"",
+      "affiliation": "World Government (Enies Lobby)",
+      "api": "v1/characters/bas.json"
+    }
   ]
 }

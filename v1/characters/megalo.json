@@ -1,0 +1,57 @@
+{
+  "id": "megalo",
+  "name": "Megalo",
+  "display_name": "Megalo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-08",
+      "label": "April 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/96/Megalo_Anime_Infobox.png/revision/latest?cb=20120122084511",
+    "width": 625,
+    "height": 320
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/96/Megalo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20120122084511",
+    "width": 400,
+    "height": 205
+  },
+  "wiki": {
+    "title": "Megalo",
+    "url": "https://onepiece.fandom.com/wiki/Megalo"
+  },
+  "info": {
+    "japanese_name": "メガロ",
+    "romanized_name": "Megaro",
+    "debut": [
+      "Chapter 605",
+      "Episode 525"
+    ],
+    "affiliations": [
+      "Shirahoshi",
+      "Ryugu Kingdom"
+    ],
+    "occupations": [
+      "Shirahoshi's pet"
+    ],
+    "birthday": "April 8th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "kikyo",
+  "name": "Kikyo",
+  "display_name": "Kikyo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-27",
+      "label": "July 27th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d5/Kikyo_Anime_Infobox.png/revision/latest?cb=20131126094301",
+    "width": 473,
+    "height": 718
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d5/Kikyo_Anime_Infobox.png/revision/latest/scale-to-width-down/263?cb=20131126094301",
+    "width": 263,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kikyo",
+    "url": "https://onepiece.fandom.com/wiki/Kikyo"
+  },
+  "info": {
+    "japanese_name": "キキョウ",
+    "romanized_name": "Kikyō",
+    "debut": [
+      "Chapter 514",
+      "Episode 408"
+    ],
+    "affiliations": [
+      "Kuja"
+    ],
+    "occupations": [
+      "Warrior"
+    ],
+    "origin": "Calm Belt (Amazon Lily)",
+    "residence": [
+      "Amazon Lily"
+    ],
+    "birthday": "July 27th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

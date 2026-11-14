@@ -4,16 +4,17 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>One Piece Birthdays</title>
-<meta name="description" content="A free static JSON API of One Piece character birthdays.">
+<meta name="description" content="A free static JSON API of One Piece character birthdays, with images and character info.">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <style>
   :root {
     --bg: #fbf8f2; --surface: #ffffff; --text: #1d1b18; --muted: #6b655c;
-    --border: #e6dfd3; --accent: #c8102e; --code-bg: #f3eee5;
+    --border: #e6dfd3; --accent: #c8102e; --code-bg: #f3eee5; --img-bg: #efe8dc;
   }
   @media (prefers-color-scheme: dark) {
     :root {
       --bg: #14130f; --surface: #1d1b17; --text: #f1ece3; --muted: #a39b8f;
-      --border: #332f28; --accent: #ff4d5e; --code-bg: #26231e;
+      --border: #332f28; --accent: #ff4d5e; --code-bg: #26231e; --img-bg: #2a2620;
     }
   }
   * { box-sizing: border-box; }
@@ -21,49 +22,74 @@
     margin: 0; background: var(--bg); color: var(--text);
     font: 16px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif;
   }
-  main { max-width: 760px; margin: 0 auto; padding: 40px 16px 64px; }
+  main { max-width: 880px; margin: 0 auto; padding: 40px 16px 64px; }
   h1 { font-size: 2rem; margin: 0 0 4px; }
   h2 { font-size: 1.15rem; margin: 40px 0 12px; }
   p.lead { color: var(--muted); margin: 0 0 28px; }
   .card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 20px; }
-  .today-label { color: var(--muted); font-size: .9rem; margin: 0 0 6px; }
-  .today-date { font-size: 1.4rem; font-weight: 650; margin: 0 0 12px; }
-  ul.names { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px; }
-  ul.names li { border: 1px solid var(--border); border-radius: 999px; padding: 4px 12px; font-size: .95rem; }
-  .empty { color: var(--muted); }
-  form { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }
+  .eyebrow { color: var(--muted); font-size: .9rem; margin: 0 0 4px; }
+  .day-title { font-size: 1.4rem; font-weight: 650; margin: 0 0 16px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 14px; }
+  .char {
+    display: flex; flex-direction: column; text-align: left; font: inherit; color: inherit;
+    background: var(--bg); border: 1px solid var(--border); border-radius: 10px; padding: 0;
+    overflow: hidden; cursor: pointer;
+  }
+  .char:hover, .char:focus-visible { border-color: var(--accent); outline: none; }
+  .char .pic { aspect-ratio: 3 / 4; background: var(--img-bg); display: grid; place-items: center; color: var(--muted); font-size: .8rem; }
+  .char img { width: 100%; height: 100%; object-fit: cover; object-position: top; }
+  .char .meta { padding: 8px 10px 10px; }
+  .char .nm { font-weight: 600; font-size: .95rem; line-height: 1.3; }
+  .char .sub { color: var(--muted); font-size: .8rem; line-height: 1.35; margin-top: 2px; }
+  .empty { color: var(--muted); margin: 0; }
+  .controls { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
   input {
-    flex: 1 1 180px; min-width: 0; padding: 9px 12px; font: inherit; color: var(--text);
+    flex: 1 1 200px; min-width: 0; padding: 9px 12px; font: inherit; color: var(--text);
     background: var(--bg); border: 1px solid var(--border); border-radius: 8px;
   }
   input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
   table { width: 100%; border-collapse: collapse; font-size: .95rem; }
   th, td { text-align: left; padding: 8px 6px; border-bottom: 1px solid var(--border); vertical-align: top; }
   th { color: var(--muted); font-weight: 600; }
-  code, pre { font-family: ui-monospace, "Cascadia Code", Menlo, monospace; font-size: .88rem; }
-  code { background: var(--code-bg); padding: 1px 5px; border-radius: 4px; }
-  pre { background: var(--code-bg); padding: 14px; border-radius: 8px; overflow-x: auto; margin: 0; }
+  code, pre { font-family: ui-monospace, "Cascadia Code", Menlo, monospace; font-size: .86rem; }
+  code { background: var(--code-bg); padding: 1px 5px; border-radius: 4px; overflow-wrap: anywhere; }
+  pre { background: var(--code-bg); padding: 14px; border-radius: 8px; overflow-x: auto; margin: 0; max-height: 420px; }
   a { color: var(--accent); }
   .muted { color: var(--muted); font-size: .9rem; }
+  dialog {
+    width: min(640px, calc(100vw - 32px)); max-height: calc(100vh - 32px); padding: 0;
+    border: 1px solid var(--border); border-radius: 14px; background: var(--surface); color: var(--text);
+  }
+  dialog::backdrop { background: rgb(0 0 0 / .55); }
+  .detail { display: grid; grid-template-columns: 180px 1fr; gap: 20px; padding: 20px; }
+  .detail img { width: 100%; border-radius: 8px; background: var(--img-bg); }
+  .detail h3 { margin: 0 0 2px; font-size: 1.3rem; }
+  .detail dl { display: grid; grid-template-columns: max-content 1fr; gap: 4px 12px; margin: 14px 0 0; font-size: .9rem; }
+  .detail dt { color: var(--muted); }
+  .detail dd { margin: 0; }
+  .dialog-bar { display: flex; justify-content: space-between; gap: 12px; padding: 12px 20px; border-top: 1px solid var(--border); font-size: .9rem; }
+  .dialog-bar button { font: inherit; background: none; border: 1px solid var(--border); color: var(--text); border-radius: 8px; padding: 4px 12px; cursor: pointer; }
+  @media (max-width: 560px) { .detail { grid-template-columns: 1fr; } .detail img { max-width: 220px; } }
+  footer { margin-top: 48px; color: var(--muted); font-size: .85rem; }
 </style>
 </head>
 <body>
 <main>
   <h1>One Piece Birthdays</h1>
-  <p class="lead">A static JSON API of One Piece character birthdays. No key, no rate limit. Just fetch a file.</p>
+  <p class="lead">A static JSON API of One Piece character birthdays, with images and character info. No key, no rate limit. Just fetch a file.</p>
 
   <section class="card" aria-live="polite">
-    <p class="today-label">Birthdays today</p>
-    <p class="today-date" id="today-date">Loading…</p>
-    <ul class="names" id="today-names"></ul>
+    <p class="eyebrow">Birthdays today</p>
+    <p class="day-title" id="today-date">Loading…</p>
+    <div class="grid" id="today"></div>
   </section>
 
   <h2>Look up</h2>
   <div class="card">
-    <form id="search">
+    <div class="controls">
       <label class="muted" for="q" style="flex-basis:100%">Character name, or a date as MM-DD</label>
       <input id="q" type="search" placeholder="Luffy or 05-05" autocomplete="off">
-    </form>
+    </div>
     <div id="results"><p class="empty">Type to search.</p></div>
   </div>
 
@@ -72,11 +98,12 @@
     <table>
       <thead><tr><th>Path</th><th>Returns</th></tr></thead>
       <tbody>
-        <tr><td><code>v1/dates/MM-DD.json</code></td><td>Characters born on that day. All 366 days exist, including <code>02-29</code>.</td></tr>
-        <tr><td><code>v1/months/MM.json</code></td><td>Every day in that month.</td></tr>
+        <tr><td><code>v1/dates/MM-DD.json</code></td><td>Characters born that day. All 366 days exist, including <code>02-29</code>.</td></tr>
+        <tr><td><code>v1/months/MM.json</code></td><td>Every day in a month, plus the month's illustrated calendar.</td></tr>
+        <tr><td><code>v1/characters/{id}.json</code></td><td>One character: image, wiki link, Japanese name, debut, affiliations, bounty, Devil Fruit and more.</td></tr>
+        <tr><td><code>v1/characters.json</code></td><td>Every character in compact form, with birthdays.</td></tr>
         <tr><td><code>v1/all.json</code></td><td>The whole calendar.</td></tr>
-        <tr><td><code>v1/characters.json</code></td><td>Every character with their birthday(s).</td></tr>
-        <tr><td><code>v1/index.json</code></td><td>Counts and endpoint list.</td></tr>
+        <tr><td><code>v1/index.json</code></td><td>Counts, endpoints and sources.</td></tr>
       </tbody>
     </table>
   </div>
@@ -84,7 +111,19 @@
   <h2>Example</h2>
   <pre id="example">GET v1/dates/05-05.json</pre>
   <p class="muted">There is no <code>today</code> endpoint because the site is static. Work out today's <code>MM-DD</code> in your own timezone and fetch that file.</p>
+
+  <footer>
+    Birthdays from <a href="https://thelibraryofohara.com/birthday-calendar/">The Library of Ohara</a>.
+    Character info from the <a href="https://onepiece.fandom.com/">One Piece Wiki</a> (CC BY-SA).
+    Images link to the wiki and are © Eiichiro Oda / Shueisha / Toei Animation.
+  </footer>
 </main>
+
+<dialog id="dlg" aria-labelledby="dlg-title">
+  <div class="detail" id="dlg-body"></div>
+  <div class="dialog-bar"><span id="dlg-links"></span><button type="button" id="dlg-close">Close</button></div>
+</dialog>
+
 <script>
   const base = new URL('v1/', document.baseURI);
   const pad = (n) => String(n).padStart(2, '0');
@@ -93,21 +132,69 @@
     if (!res.ok) throw new Error(res.status);
     return res.json();
   };
+  const el = (tag, props = {}, ...kids) => {
+    const node = Object.assign(document.createElement(tag), props);
+    node.append(...kids.filter((k) => k != null));
+    return node;
+  };
 
-  function renderNames(list, el) {
-    el.replaceChildren();
-    if (!list.length) {
-      const li = document.createElement('li');
-      li.className = 'empty';
-      li.style.border = 'none';
-      li.textContent = 'No known birthdays.';
-      el.append(li);
-      return;
-    }
-    for (const name of list) {
-      const li = document.createElement('li');
-      li.textContent = name;
-      el.append(li);
+  function card(c, sub) {
+    const pic = el('div', { className: 'pic' });
+    if (c.thumbnail) pic.append(el('img', { src: c.thumbnail, alt: '', loading: 'lazy', referrerPolicy: 'strict-origin-when-cross-origin' }));
+    else pic.textContent = 'No image';
+    const btn = el('button', { className: 'char', type: 'button' },
+      pic,
+      el('div', { className: 'meta' },
+        el('div', { className: 'nm', textContent: c.display_name }),
+        el('div', { className: 'sub', textContent: sub ?? c.epithet ?? c.affiliation ?? '' })));
+    btn.addEventListener('click', () => openCharacter(c.id));
+    return btn;
+  }
+
+  function grid(list, subFor) {
+    if (!list.length) return el('p', { className: 'empty', textContent: 'No known birthdays.' });
+    return el('div', { className: 'grid' }, ...list.map((c) => card(c, subFor?.(c))));
+  }
+
+  const dlg = document.getElementById('dlg');
+  document.getElementById('dlg-close').addEventListener('click', () => dlg.close());
+  dlg.addEventListener('click', (e) => { if (e.target === dlg) dlg.close(); });
+
+  const FIELDS = [
+    ['Birthday', (c) => c.birthdays.map((b) => b.label).join(', ')],
+    ['Born with', (c) => c.born_with.map((b) => b.name).join(', ')],
+    ['Japanese name', (c) => c.info.japanese_name && `${c.info.japanese_name}${c.info.romanized_name ? ` (${c.info.romanized_name})` : ''}`],
+    ['Epithet', (c) => c.info.epithet],
+    ['Affiliations', (c) => c.info.affiliations?.join(', ')],
+    ['Occupations', (c) => c.info.occupations?.join(', ')],
+    ['Origin', (c) => c.info.origin],
+    ['Bounty', (c) => c.info.bounty && `฿${c.info.bounty}`],
+    ['Devil Fruit', (c) => c.info.devil_fruit && `${c.info.devil_fruit}${c.info.devil_fruit_english ? ` (${c.info.devil_fruit_english})` : ''}`],
+    ['Height', (c) => c.info.height],
+    ['Debut', (c) => c.info.debut?.join(', ')],
+    ['Note', (c) => c.note],
+  ];
+
+  async function openCharacter(id) {
+    const body = document.getElementById('dlg-body');
+    const links = document.getElementById('dlg-links');
+    body.replaceChildren(el('p', { className: 'empty', textContent: 'Loading…' }));
+    links.replaceChildren();
+    dlg.showModal();
+    try {
+      const c = await getJson(`characters/${id}.json`);
+      const dl = el('dl');
+      for (const [label, fn] of FIELDS) {
+        const v = fn(c);
+        if (v) dl.append(el('dt', { textContent: label }), el('dd', { textContent: v }));
+      }
+      body.replaceChildren(
+        c.image ? el('img', { src: c.thumbnail?.url ?? c.image.url, alt: c.name, referrerPolicy: 'strict-origin-when-cross-origin' }) : el('div'),
+        el('div', {}, el('h3', { id: 'dlg-title', textContent: c.display_name }), dl));
+      links.append(el('a', { href: new URL(`characters/${id}.json`, base), textContent: 'JSON' }));
+      if (c.wiki) links.append(' · ', el('a', { href: c.wiki.url, textContent: 'Wiki', target: '_blank', rel: 'noopener' }));
+    } catch {
+      body.replaceChildren(el('p', { className: 'empty', textContent: 'Could not load this character.' }));
     }
   }
 
@@ -117,54 +204,40 @@
     try {
       const day = await getJson(`dates/${key}.json`);
       document.getElementById('today-date').textContent = day.label;
-      renderNames(day.characters, document.getElementById('today-names'));
+      document.getElementById('today').replaceWith(grid(day.characters));
+      const sample = { ...day, characters: day.characters.slice(0, 1) };
       document.getElementById('example').textContent =
-        `GET v1/dates/${key}.json\n\n` + JSON.stringify(day, null, 2);
+        `GET v1/dates/${key}.json\n\n` + JSON.stringify(sample, null, 2) +
+        (day.characters.length > 1 ? `\n\n(${day.characters.length - 1} more character(s) trimmed)` : '');
     } catch {
       document.getElementById('today-date').textContent = 'Could not load data.';
     }
   })();
 
   let characters = null;
+  let seq = 0;
   const results = document.getElementById('results');
   const q = document.getElementById('q');
-  document.getElementById('search').addEventListener('submit', (e) => e.preventDefault());
-
-  function rowsFor(list) {
-    const table = document.createElement('table');
-    table.innerHTML = '<thead><tr><th>Character</th><th>Birthday</th></tr></thead>';
-    const body = document.createElement('tbody');
-    for (const c of list) {
-      const tr = document.createElement('tr');
-      const a = document.createElement('td');
-      const b = document.createElement('td');
-      a.textContent = c.name;
-      b.textContent = c.dates.join(', ');
-      tr.append(a, b);
-      body.append(tr);
-    }
-    table.append(body);
-    return table;
-  }
-
   q.addEventListener('input', async () => {
     const term = q.value.trim().toLowerCase();
-    if (!term) { results.innerHTML = '<p class="empty">Type to search.</p>'; return; }
+    const mine = ++seq;
+    if (!term) { results.replaceChildren(el('p', { className: 'empty', textContent: 'Type to search.' })); return; }
     try {
-      const dateMatch = /^(\d{1,2})[-/](\d{1,2})$/.exec(term);
-      if (dateMatch) {
-        const day = await getJson(`dates/${pad(dateMatch[1])}-${pad(dateMatch[2])}.json`);
-        if (q.value.trim().toLowerCase() !== term) return;
-        results.replaceChildren(rowsFor(day.characters.map((name) => ({ name, dates: [day.label] }))));
-        if (!day.characters.length) results.innerHTML = '<p class="empty">No known birthdays.</p>';
+      const m = /^(\d{1,2})[-/](\d{1,2})$/.exec(term);
+      if (m) {
+        const day = await getJson(`dates/${pad(m[1])}-${pad(m[2])}.json`);
+        if (mine === seq) results.replaceChildren(grid(day.characters));
         return;
       }
       characters ??= (await getJson('characters.json')).characters;
-      const hits = characters.filter((c) => c.name.toLowerCase().includes(term)).slice(0, 50);
-      if (!hits.length) { results.innerHTML = '<p class="empty">No matches.</p>'; return; }
-      results.replaceChildren(rowsFor(hits));
+      if (mine !== seq) return;
+      const hits = characters.filter((c) =>
+        c.display_name.toLowerCase().includes(term) || (c.epithet ?? '').toLowerCase().includes(term)).slice(0, 36);
+      results.replaceChildren(hits.length
+        ? grid(hits, (c) => c.birthdays.map((d) => d).join(', '))
+        : el('p', { className: 'empty', textContent: 'No matches.' }));
     } catch {
-      results.innerHTML = '<p class="empty">Not found.</p>';
+      if (mine === seq) results.replaceChildren(el('p', { className: 'empty', textContent: 'Not found.' }));
     }
   });
 </script>

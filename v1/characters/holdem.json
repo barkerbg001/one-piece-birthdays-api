@@ -1,0 +1,66 @@
+{
+  "id": "holdem",
+  "name": "Holdem",
+  "display_name": "Holdem",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-21",
+      "label": "August 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Holed%27em_Anime_Infobox.png/revision/latest?cb=20221015132613",
+    "width": 1360,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Holed%27em_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20221015132613",
+    "width": 400,
+    "height": 318
+  },
+  "wiki": {
+    "title": "Holed'em",
+    "url": "https://onepiece.fandom.com/wiki/Holed%27em"
+  },
+  "info": {
+    "japanese_name": "ホールデム",
+    "romanized_name": "Hōrudemu",
+    "official_english_name": "Holdem",
+    "debut": [
+      "Chapter 915",
+      "Episode 901"
+    ],
+    "affiliations": [
+      "Beasts Pirates"
+    ],
+    "occupations": [
+      "Shinuchi"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Bakura Town, Wano Country"
+    ],
+    "age": "30",
+    "birthday": "August 21st",
+    "height": "312 cm (10'3\")",
+    "blood_type": "F",
+    "devil_fruit_english": "Lion SMILE",
+    "devil_fruit_type": "Artificial Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

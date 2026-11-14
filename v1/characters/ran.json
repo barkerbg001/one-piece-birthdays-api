@@ -1,0 +1,60 @@
+{
+  "id": "ran",
+  "name": "Ran",
+  "display_name": "Ran",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-24",
+      "label": "November 24th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/03/Ran_Anime_Infobox.png/revision/latest?cb=20091023200129",
+    "width": 347,
+    "height": 568
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/03/Ran_Anime_Infobox.png/revision/latest/scale-to-width-down/244?cb=20091023200129",
+    "width": 244,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Ran",
+    "url": "https://onepiece.fandom.com/wiki/Ran"
+  },
+  "info": {
+    "japanese_name": "ラン",
+    "romanized_name": "Ran",
+    "debut": [
+      "Chapter 516",
+      "Episode 410"
+    ],
+    "affiliations": [
+      "Kuja Pirates"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "origin": "Calm Belt (Amazon Lily)",
+    "residence": [
+      "Amazon Lily"
+    ],
+    "birthday": "November 24th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

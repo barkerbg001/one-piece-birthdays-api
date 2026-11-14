@@ -3,8 +3,38 @@
   "label": "April 21st",
   "month": 4,
   "day": 21,
-  "characters": [
+  "names": [
     "Ucy",
     "Island Eater"
+  ],
+  "characters": [
+    {
+      "id": "ucy",
+      "name": "Ucy",
+      "display_name": "Ucy",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6a/Ucy_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240409230750",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6a/Ucy_Anime_Infobox.png/revision/latest?cb=20240409230750",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Ucy",
+      "epithet": null,
+      "affiliation": "Corrida Colosseum",
+      "api": "v1/characters/ucy.json"
+    },
+    {
+      "id": "island-eater",
+      "name": "Island Eater",
+      "display_name": "Island Eater",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/74/Island_Eater_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240206143633",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/74/Island_Eater_Anime_Infobox.png/revision/latest?cb=20240206143633",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Island_Eater",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/island-eater.json"
+    }
   ]
 }

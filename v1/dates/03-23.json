@@ -3,8 +3,38 @@
   "label": "March 23rd",
   "month": 3,
   "day": 23,
-  "characters": [
+  "names": [
     "Charlotte Raisin",
     "Miss Catherine"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-raisin",
+      "name": "Charlotte Raisin",
+      "display_name": "Charlotte Raisin",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Charlotte_Raisin_Anime_Infobox.png/revision/latest/scale-to-width-down/342?cb=20231001042058",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Charlotte_Raisin_Anime_Infobox.png/revision/latest?cb=20231001042058",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Raisin",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-raisin.json"
+    },
+    {
+      "id": "miss-catherine",
+      "name": "Miss Catherine",
+      "display_name": "Miss Catherine",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/15/Miss_Catherina_Anime_Infobox.png/revision/latest/scale-to-width-down/151?cb=20240712024031",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/15/Miss_Catherina_Anime_Infobox.png/revision/latest?cb=20240712024031",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Miss_Catherina",
+      "epithet": null,
+      "affiliation": "Baroque Works (Millions) (former)",
+      "api": "v1/characters/miss-catherine.json"
+    }
   ]
 }

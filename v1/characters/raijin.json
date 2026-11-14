@@ -1,0 +1,67 @@
+{
+  "id": "raijin",
+  "name": "Raijin",
+  "display_name": "Raijin",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-04",
+      "label": "June 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/da/Raijin_Anime_Infobox.png/revision/latest?cb=20200927051541",
+    "width": 685,
+    "height": 1085
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/da/Raijin_Anime_Infobox.png/revision/latest/scale-to-width-down/252?cb=20200927051541",
+    "width": 252,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Raijin",
+    "url": "https://onepiece.fandom.com/wiki/Raijin"
+  },
+  "info": {
+    "japanese_name": "雷刃",
+    "romanized_name": "Raijin",
+    "official_english_name": "Raijin",
+    "debut": [
+      "Chapter 931",
+      "Episode 925"
+    ],
+    "affiliations": [
+      "Beasts Pirates",
+      "Orochi Oniwabanshu (former)",
+      "Kurozumi Family (former)"
+    ],
+    "occupations": [
+      "Ninja",
+      "Pirate"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Flower Capital, Wano Country"
+    ],
+    "age": "45",
+    "birthday": "June 4th",
+    "height": "200 cm (6'7\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

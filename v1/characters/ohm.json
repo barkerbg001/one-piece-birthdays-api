@@ -1,0 +1,62 @@
+{
+  "id": "ohm",
+  "name": "Ohm",
+  "display_name": "Ohm",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-25",
+      "label": "March 25th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4b/Ohm_Anime_Infobox.png/revision/latest?cb=20221110020611",
+    "width": 705,
+    "height": 1212
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4b/Ohm_Anime_Infobox.png/revision/latest/scale-to-width-down/232?cb=20221110020611",
+    "width": 232,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Ohm",
+    "url": "https://onepiece.fandom.com/wiki/Ohm"
+  },
+  "info": {
+    "japanese_name": "オーム",
+    "romanized_name": "Ōmu",
+    "debut": [
+      "Chapter 241",
+      "Episode 155"
+    ],
+    "affiliations": [
+      "God's Army (former)"
+    ],
+    "occupations": [
+      "Priest of Enel (former)"
+    ],
+    "origin": "Sky Islands (Birka)",
+    "epithet": "Skybreeder",
+    "status": "1",
+    "age": "27 (debut); 29 (after timeskip)",
+    "birthday": "March 25th",
+    "height": "189 cm (6'2\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

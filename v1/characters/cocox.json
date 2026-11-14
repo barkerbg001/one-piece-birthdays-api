@@ -1,0 +1,58 @@
+{
+  "id": "cocox",
+  "name": "Cocox",
+  "display_name": "Cocox",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-19",
+      "label": "February 19th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Cocox_Anime_Infobox.png/revision/latest?cb=20180510134405",
+    "width": 339,
+    "height": 353
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Cocox_Anime_Infobox.png/revision/latest?cb=20180510134405",
+    "width": 384,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Cocox",
+    "url": "https://onepiece.fandom.com/wiki/Cocox"
+  },
+  "info": {
+    "japanese_name": "ココックス",
+    "romanized_name": "Kokokkusu",
+    "official_english_name": "Buckox",
+    "debut": [
+      "Chapter 22",
+      "Episode 18"
+    ],
+    "affiliations": [
+      "Animals of the Island of Rare Animals"
+    ],
+    "origin": "East Blue (Island of Rare Animals)",
+    "residence": [
+      "Island of Rare Animals"
+    ],
+    "birthday": "February 19th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "st-mjosgard",
+  "name": "St. Mjosgard",
+  "display_name": "St. Mjosgard",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-13",
+      "label": "December 13th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/0d/Donquixote_Mjosgard_Anime_Infobox.png/revision/latest?cb=20191215162804",
+    "width": 618,
+    "height": 1074
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/0d/Donquixote_Mjosgard_Anime_Infobox.png/revision/latest/scale-to-width-down/230?cb=20191215162804",
+    "width": 230,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Donquixote Mjosgard",
+    "url": "https://onepiece.fandom.com/wiki/Donquixote_Mjosgard"
+  },
+  "info": {
+    "japanese_name": "ドンキホーテ・ミョスガルド聖",
+    "romanized_name": "Donkihōte Myosugarudo Sei",
+    "official_english_name": "Don Quixote Myosgard (VIZ, Funimation dub (Ep 545), Funimation); Don Quixote Mjosgard (Funimation, former); Donquixote Myosgard (Crunchyroll)",
+    "debut": [
+      "Chapter 625",
+      "Episode 545"
+    ],
+    "affiliations": [
+      "World Government (Donquixote Family)"
+    ],
+    "occupations": [
+      "World Noble"
+    ],
+    "residence": [
+      "Mary Geoise"
+    ],
+    "status": "2",
+    "age": "25 (debut); 35 (after timeskip, at death)",
+    "birthday": "December 13th",
+    "height": "211 cm (6'11\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

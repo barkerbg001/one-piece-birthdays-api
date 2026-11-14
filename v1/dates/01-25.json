@@ -3,8 +3,23 @@
   "label": "January 25th",
   "month": 1,
   "day": 25,
+  "names": [
+    "Giolla"
+  ],
   "characters": [
-    "Giolla (previously stated to be 27th in the SBS",
-    "later retconned to 25th)"
+    {
+      "id": "giolla",
+      "name": "Giolla",
+      "display_name": "Giolla",
+      "alias": null,
+      "note": "previously stated to be 27th in the SBS, later retconned to 25th",
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/21/Giolla_Anime_Infobox.png/revision/latest/scale-to-width-down/236?cb=20221117034510",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/21/Giolla_Anime_Infobox.png/revision/latest?cb=20221117034510",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Giolla",
+      "epithet": null,
+      "affiliation": "Donquixote Pirates",
+      "api": "v1/characters/giolla.json"
+    }
   ]
 }

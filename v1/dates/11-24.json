@@ -3,7 +3,23 @@
   "label": "November 24th",
   "month": 11,
   "day": 24,
-  "characters": [
+  "names": [
     "Ran"
+  ],
+  "characters": [
+    {
+      "id": "ran",
+      "name": "Ran",
+      "display_name": "Ran",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/03/Ran_Anime_Infobox.png/revision/latest/scale-to-width-down/244?cb=20091023200129",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/03/Ran_Anime_Infobox.png/revision/latest?cb=20091023200129",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Ran",
+      "epithet": null,
+      "affiliation": "Kuja Pirates",
+      "api": "v1/characters/ran.json"
+    }
   ]
 }

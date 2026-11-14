@@ -1,0 +1,80 @@
+{
+  "id": "charlotte-linlin",
+  "name": "Charlotte Linlin",
+  "display_name": "Charlotte Linlin (Big Mom)",
+  "alias": "Big Mom",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-15",
+      "label": "February 15th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Charlotte_Linlin_Anime_Infobox.png/revision/latest?cb=20180423150804",
+    "width": 1153,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Charlotte_Linlin_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180423150804",
+    "width": 400,
+    "height": 375
+  },
+  "wiki": {
+    "title": "Charlotte Linlin",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Linlin"
+  },
+  "info": {
+    "japanese_name": "シャーロット・リンリン",
+    "romanized_name": "Shārotto Rinrin",
+    "official_english_name": "Charlotte Linlin",
+    "debut": [
+      "Chapter 651",
+      "Episode 571"
+    ],
+    "affiliations": [
+      "Big Mom Pirates",
+      "Rocks Pirates (former)",
+      "Four Emperors (former)",
+      "Charlotte Family"
+    ],
+    "occupations": [
+      "Pirate Captain",
+      "Emperor (former)",
+      "Queen of Totto Land"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Whole Cake Island",
+      "Elbaph (former)",
+      "Hachinosu (former)"
+    ],
+    "epithet": "\"Big Mom\" (Funimation subs (formerly): Big Mam); \"Evil Spirit\"",
+    "aliases": [
+      "\"O-Lin\""
+    ],
+    "status": "1",
+    "age": "68",
+    "birthday": "February 15th",
+    "height": "880 cm (28'10\")",
+    "blood_type": "X",
+    "bounty": "4,388,000,000",
+    "devil_fruit": "Soru Soru no Mi",
+    "devil_fruit_english": "Soul-Soul Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

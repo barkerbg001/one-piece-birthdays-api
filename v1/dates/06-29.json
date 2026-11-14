@@ -3,8 +3,38 @@
   "label": "June 29th",
   "month": 6,
   "day": 29,
-  "characters": [
+  "names": [
     "Fukuro",
     "Pankuuta Dakeyan"
+  ],
+  "characters": [
+    {
+      "id": "fukuro",
+      "name": "Fukuro",
+      "display_name": "Fukuro",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Fukurou_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/266?cb=20240901020742",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Fukurou_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240901020742",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Fukurou",
+      "epithet": "\"Fukurou the Silent\"",
+      "affiliation": "CP0",
+      "api": "v1/characters/fukuro.json"
+    },
+    {
+      "id": "pankuuta-dakeyan",
+      "name": "Pankuuta Dakeyan",
+      "display_name": "Pankuuta Dakeyan",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/99/Pankuta_Dakeyan_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20190404145915",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/99/Pankuta_Dakeyan_Anime_Infobox.png/revision/latest?cb=20190404145915",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Pankuta_Dakeyan",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/pankuuta-dakeyan.json"
+    }
   ]
 }

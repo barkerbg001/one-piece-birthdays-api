@@ -1,0 +1,70 @@
+{
+  "id": "king",
+  "name": "King",
+  "display_name": "King",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-12",
+      "label": "December 12th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8f/King_Anime_Infobox.png/revision/latest?cb=20230423142631",
+    "width": 541,
+    "height": 901
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8f/King_Anime_Infobox.png/revision/latest/scale-to-width-down/240?cb=20230423142631",
+    "width": 240,
+    "height": 400
+  },
+  "wiki": {
+    "title": "King",
+    "url": "https://onepiece.fandom.com/wiki/King"
+  },
+  "info": {
+    "japanese_name": "キング",
+    "romanized_name": "Kingu",
+    "debut": [
+      "Chapter 920",
+      "Episode 910 (silhouette)",
+      "Chapter 925",
+      "Episode 918"
+    ],
+    "affiliations": [
+      "Beasts Pirates"
+    ],
+    "occupations": [
+      "All-Star"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Wano Country"
+    ],
+    "epithet": "\"King the Conflagration\"",
+    "age": "47",
+    "birthday": "December 1st",
+    "height": "613 cm (20'1\")",
+    "blood_type": "S",
+    "bounty": "1,390,000,000",
+    "devil_fruit": "Ryu Ryu no Mi, Model: Pteranodon",
+    "devil_fruit_english": "Dragon-Dragon Fruit, Model: Pteranodon",
+    "devil_fruit_type": "Ancient Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

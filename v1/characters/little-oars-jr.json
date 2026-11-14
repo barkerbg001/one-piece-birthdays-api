@@ -1,0 +1,63 @@
+{
+  "id": "little-oars-jr",
+  "name": "Little Oars Jr.",
+  "display_name": "Little Oars Jr.",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-12",
+      "label": "February 12th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Little_Oars_Jr._Anime_Infobox.png/revision/latest?cb=20250128010544",
+    "width": 1422,
+    "height": 1037
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Little_Oars_Jr._Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250128010544",
+    "width": 400,
+    "height": 292
+  },
+  "wiki": {
+    "title": "Little Oars Jr.",
+    "url": "https://onepiece.fandom.com/wiki/Little_Oars_Jr."
+  },
+  "info": {
+    "japanese_name": "リトルオーズJr.",
+    "romanized_name": "Ritoru Ōzu Junia",
+    "debut": [
+      "Chapter 554",
+      "Episode 463"
+    ],
+    "affiliations": [
+      "Little Pirates",
+      "Subordinate of the Whitebeard Pirates"
+    ],
+    "occupations": [
+      "Pirate Captain"
+    ],
+    "origin": "Grand Line",
+    "status": "1",
+    "age": "70 (debut); 72 (after timeskip)",
+    "birthday": "February 12th",
+    "height": "60 m (196'10\")",
+    "blood_type": "F",
+    "bounty": "550,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

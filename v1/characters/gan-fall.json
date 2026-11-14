@@ -1,0 +1,63 @@
+{
+  "id": "gan-fall",
+  "name": "Gan Fall",
+  "display_name": "Gan Fall",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-22",
+      "label": "December 22nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Gan_Fall_Anime_Infobox.png/revision/latest?cb=20221111195904",
+    "width": 768,
+    "height": 1079
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Gan_Fall_Anime_Infobox.png/revision/latest/scale-to-width-down/285?cb=20221111195904",
+    "width": 285,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Gan Fall",
+    "url": "https://onepiece.fandom.com/wiki/Gan_Fall"
+  },
+  "info": {
+    "japanese_name": "ガン・フォール",
+    "romanized_name": "Gan Fōru",
+    "official_english_name": "Ganfor (VIZ; Funimation simulcast); Gan Fall (Funimation); Gunfall (4Kids)",
+    "debut": [
+      "Chapter 237",
+      "Episode 153"
+    ],
+    "affiliations": [
+      "Skypiea"
+    ],
+    "occupations": [
+      "God of Skypiea",
+      "Mercenary (former)"
+    ],
+    "origin": "Sky Islands (Skypiea)",
+    "epithet": "\"Knight of the Sky\"",
+    "age": "66 (debut); 68 (after timeskip)",
+    "birthday": "December 22nd",
+    "height": "180 cm (5'11\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

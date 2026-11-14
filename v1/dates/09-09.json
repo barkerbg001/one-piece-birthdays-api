@@ -3,10 +3,68 @@
   "label": "September 9th",
   "month": 9,
   "day": 9,
-  "characters": [
+  "names": [
     "Shyarly",
     "Basil Hawkins",
     "Manjaro",
     "O-Kiku"
+  ],
+  "characters": [
+    {
+      "id": "shyarly",
+      "name": "Shyarly",
+      "display_name": "Shyarly",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/61/Shyarly_Anime_Infobox.png/revision/latest/scale-to-width-down/318?cb=20131112030157",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/61/Shyarly_Anime_Infobox.png/revision/latest?cb=20131112030157",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Shyarly",
+      "epithet": "Madam Shyarly",
+      "affiliation": "Mermaid Cafe",
+      "api": "v1/characters/shyarly.json"
+    },
+    {
+      "id": "basil-hawkins",
+      "name": "Basil Hawkins",
+      "display_name": "Basil Hawkins",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Basil_Hawkins_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230906163534",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Basil_Hawkins_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230906163534",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Basil_Hawkins",
+      "epithet": "\"Magician\"",
+      "affiliation": "Hawkins Pirates",
+      "api": "v1/characters/basil-hawkins.json"
+    },
+    {
+      "id": "manjaro",
+      "name": "Manjaro",
+      "display_name": "Manjaro",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Manjaro_Anime_Infobox.png/revision/latest/scale-to-width-down/259?cb=20130129021007",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Manjaro_Anime_Infobox.png/revision/latest?cb=20130129021007",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Manjaro",
+      "epithet": null,
+      "affiliation": "Fake Straw Hat Crew",
+      "api": "v1/characters/manjaro.json"
+    },
+    {
+      "id": "o-kiku",
+      "name": "O-Kiku",
+      "display_name": "O-Kiku",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/12/Kikunojo_Anime_Infobox.png/revision/latest/scale-to-width-down/348?cb=20200620104530",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/12/Kikunojo_Anime_Infobox.png/revision/latest?cb=20200620104530",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kikunojo",
+      "epithet": "\"Kikunojo of the Lingering Snow\"",
+      "affiliation": "Kouzuki Family",
+      "api": "v1/characters/o-kiku.json"
+    }
   ]
 }

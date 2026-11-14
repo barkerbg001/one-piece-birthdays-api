@@ -1,0 +1,73 @@
+{
+  "id": "queen",
+  "name": "Queen",
+  "display_name": "Queen",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-13",
+      "label": "July 13th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/52/Queen_Anime_Infobox.png/revision/latest?cb=20200920174728",
+    "width": 826,
+    "height": 754
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/52/Queen_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20200920174728",
+    "width": 400,
+    "height": 365
+  },
+  "wiki": {
+    "title": "Queen",
+    "url": "https://onepiece.fandom.com/wiki/Queen"
+  },
+  "info": {
+    "japanese_name": "クイーン",
+    "romanized_name": "Kuīn",
+    "debut": [
+      "Chapter 920",
+      "Episode 910 (silhouette)",
+      "Chapter 925",
+      "Episode 918"
+    ],
+    "affiliations": [
+      "Beasts Pirates",
+      "MADS (former)"
+    ],
+    "occupations": [
+      "All-Star",
+      "Scientist",
+      "De Facto Ruler of Udon (former)"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Wano Country (Onigashima)"
+    ],
+    "epithet": "\"Queen the Plague\"",
+    "age": "56",
+    "birthday": "July 13th",
+    "height": "612 cm (20'1\")",
+    "blood_type": "XF",
+    "bounty": "1,320,000,000",
+    "devil_fruit": "Ryu Ryu no Mi, Model: Brachiosaurus",
+    "devil_fruit_english": "Dragon-Dragon Fruit, Model: Brachiosaurus",
+    "devil_fruit_type": "Ancient Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

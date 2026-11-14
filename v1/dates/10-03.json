@@ -3,7 +3,23 @@
   "label": "October 3rd",
   "month": 10,
   "day": 3,
-  "characters": [
+  "names": [
     "Yama"
+  ],
+  "characters": [
+    {
+      "id": "yama",
+      "name": "Yama",
+      "display_name": "Yama",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/18/Yama_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230806202523",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/18/Yama_Anime_Infobox.png/revision/latest?cb=20230806202523",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Yama",
+      "epithet": null,
+      "affiliation": "Enel (former)",
+      "api": "v1/characters/yama.json"
+    }
   ]
 }

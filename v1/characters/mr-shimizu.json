@@ -1,0 +1,61 @@
+{
+  "id": "mr-shimizu",
+  "name": "Mr. Shimizu",
+  "display_name": "Mr. Shimizu",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-11",
+      "label": "December 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/25/Mr._Shimizu_Manga_Infobox.png/revision/latest?cb=20250130012848",
+    "width": 175,
+    "height": 247
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/25/Mr._Shimizu_Manga_Infobox.png/revision/latest?cb=20250130012848",
+    "width": 283,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Mr. Shimizu",
+    "url": "https://onepiece.fandom.com/wiki/Mr._Shimizu"
+  },
+  "info": {
+    "japanese_name": "Mr.・シミズ",
+    "romanized_name": "Misutā Shimizu",
+    "official_english_name": "Mr. Shimizu",
+    "debut": [
+      "Chapter 107",
+      "Episode 64"
+    ],
+    "affiliations": [
+      "Baroque Works (Millions) (former)"
+    ],
+    "occupations": [
+      "Bounty Hunter"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Cactus Island (Whisky Peak)"
+    ],
+    "birthday": "December 11th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

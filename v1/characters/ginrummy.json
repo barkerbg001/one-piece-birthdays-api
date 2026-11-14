@@ -1,0 +1,60 @@
+{
+  "id": "ginrummy",
+  "name": "Ginrummy",
+  "display_name": "Ginrummy",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-23",
+      "label": "January 23rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Ginrummy_Anime_Infobox.png/revision/latest?cb=20170116011351",
+    "width": 432,
+    "height": 766
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Ginrummy_Anime_Infobox.png/revision/latest/scale-to-width-down/225?cb=20170116011351",
+    "width": 225,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Ginrummy",
+    "url": "https://onepiece.fandom.com/wiki/Ginrummy"
+  },
+  "info": {
+    "japanese_name": "ジンラミー",
+    "romanized_name": "Jinramī",
+    "official_english_name": "Ginrummy",
+    "debut": [
+      "Chapter 795",
+      "Episode 739"
+    ],
+    "affiliations": [
+      "Beasts Pirates"
+    ],
+    "occupations": [
+      "Shinuchi"
+    ],
+    "status": "1",
+    "birthday": "January 23rd",
+    "devil_fruit_english": "Squirrel SMILE",
+    "devil_fruit_type": "Artificial Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

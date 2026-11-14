@@ -1,0 +1,70 @@
+{
+  "id": "shinobu",
+  "name": "Shinobu",
+  "display_name": "Shinobu",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-23",
+      "label": "October 23rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Shinobu_Anime_Infobox.png/revision/latest?cb=20241015051553",
+    "width": 1235,
+    "height": 2136
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Shinobu_Anime_Infobox.png/revision/latest/scale-to-width-down/231?cb=20241015051553",
+    "width": 231,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Shinobu",
+    "url": "https://onepiece.fandom.com/wiki/Shinobu"
+  },
+  "info": {
+    "japanese_name": "しのぶ",
+    "debut": [
+      "Chapter 921",
+      "Episode 911"
+    ],
+    "affiliations": [
+      "Kouzuki Family",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Kunoichi",
+      "Retainer of the Kouzuki Family",
+      "Member of the Kouzuki Family Oniwabanshu (Former)"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Wano Country (Kuri)",
+      "Wano Country (Flower Capital)"
+    ],
+    "epithet": "\"Bewitching Kunoichi\"; \"Shinobu the Man-Killer\"",
+    "age": "49",
+    "birthday": "October 23rd",
+    "height": "180 cm (5'11\")",
+    "blood_type": "F",
+    "devil_fruit": "Juku Juku no Mi",
+    "devil_fruit_english": "Ripe-Ripe Enticement Jutsu (VIZ and Funimation); Ripe-Ripe Fruit (One Piece Official YouTube Channel)",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

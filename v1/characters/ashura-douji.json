@@ -1,0 +1,74 @@
+{
+  "id": "ashura-douji",
+  "name": "Ashura Douji",
+  "display_name": "Ashura Douji",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-10",
+      "label": "April 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/44/Ashura_Doji_Anime_Infobox.png/revision/latest?cb=20191201102956",
+    "width": 1126,
+    "height": 946
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/44/Ashura_Doji_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20191201102956",
+    "width": 400,
+    "height": 336
+  },
+  "wiki": {
+    "title": "Ashura Doji",
+    "url": "https://onepiece.fandom.com/wiki/Ashura_Doji"
+  },
+  "info": {
+    "japanese_name": "アシュラ童子",
+    "romanized_name": "Ashura Dōji",
+    "official_english_name": "Ashura Doji",
+    "debut": [
+      "Chapter 920",
+      "Episode 910"
+    ],
+    "affiliations": [
+      "Mt. Atama Thieves",
+      "Kouzuki Family",
+      "Nine Red Scabbards",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Bandit",
+      "Retainer of the Kouzuki Family",
+      "Yakuza Boss (former)",
+      "Samurai"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Wano Country (Kuri: Mt. Atama)"
+    ],
+    "epithet": "Strongest Monster of Kuri",
+    "aliases": [
+      "Shutenmaru"
+    ],
+    "status": "2",
+    "birthday": "April 10th",
+    "height": "544 cm (17'10½\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

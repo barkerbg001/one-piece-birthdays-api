@@ -3,8 +3,38 @@
   "label": "February 5th",
   "month": 2,
   "day": 5,
-  "characters": [
+  "names": [
     "Vista",
     "Blamenco"
+  ],
+  "characters": [
+    {
+      "id": "vista",
+      "name": "Vista",
+      "display_name": "Vista",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/78/Vista_Anime_Infobox.png/revision/latest/scale-to-width-down/271?cb=20180131180522",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/78/Vista_Anime_Infobox.png/revision/latest?cb=20180131180522",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Vista",
+      "epithet": "\"Vista of the Flower Swords\"",
+      "affiliation": "Whitebeard Pirates (former)",
+      "api": "v1/characters/vista.json"
+    },
+    {
+      "id": "blamenco",
+      "name": "Blamenco",
+      "display_name": "Blamenco",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/68/Blamenco_Anime_Infobox.png/revision/latest/scale-to-width-down/295?cb=20190413070110",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/68/Blamenco_Anime_Infobox.png/revision/latest?cb=20190413070110",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Blamenco",
+      "epithet": null,
+      "affiliation": "Whitebeard Pirates",
+      "api": "v1/characters/blamenco.json"
+    }
   ]
 }

@@ -3,8 +3,38 @@
   "label": "February 15th",
   "month": 2,
   "day": 15,
-  "characters": [
+  "names": [
     "Charlotte Linlin (Big Mom)",
     "Daisy"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-linlin",
+      "name": "Charlotte Linlin",
+      "display_name": "Charlotte Linlin (Big Mom)",
+      "alias": "Big Mom",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Charlotte_Linlin_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180423150804",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Charlotte_Linlin_Anime_Infobox.png/revision/latest?cb=20180423150804",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Linlin",
+      "epithet": "\"Big Mom\" (Funimation subs (formerly): Big Mam); \"Evil Spirit\"",
+      "affiliation": "Big Mom Pirates",
+      "api": "v1/characters/charlotte-linlin.json"
+    },
+    {
+      "id": "daisy",
+      "name": "Daisy",
+      "display_name": "Daisy",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Daisy_Anime_Infobox.png/revision/latest/scale-to-width-down/234?cb=20130304220336",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Daisy_Anime_Infobox.png/revision/latest?cb=20130304220336",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Daisy",
+      "epithet": null,
+      "affiliation": "Kuja Pirates",
+      "api": "v1/characters/daisy.json"
+    }
   ]
 }

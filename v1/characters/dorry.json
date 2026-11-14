@@ -1,0 +1,67 @@
+{
+  "id": "dorry",
+  "name": "Dorry",
+  "display_name": "Dorry",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-02",
+      "label": "October 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Dorry_Anime_Infobox.png/revision/latest?cb=20250927120409",
+    "width": 860,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Dorry_Anime_Infobox.png/revision/latest/scale-to-width-down/318?cb=20250927120409",
+    "width": 318,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Dorry",
+    "url": "https://onepiece.fandom.com/wiki/Dorry"
+  },
+  "info": {
+    "japanese_name": "ドリー",
+    "romanized_name": "Dorī",
+    "official_english_name": "Dorry",
+    "debut": [
+      "Chapter 116",
+      "Episode 71"
+    ],
+    "affiliations": [
+      "Giant Warrior Pirates"
+    ],
+    "occupations": [
+      "Pirate Captain"
+    ],
+    "origin": "Grand Line (Elbaph)",
+    "residence": [
+      "Elbaph",
+      "Little Garden (former)"
+    ],
+    "epithet": "Dorry the Blue Ogre",
+    "age": "158 (debut); 160 (after timeskip)",
+    "birthday": "October 2nd",
+    "height": "2260 cm (74'2\")",
+    "blood_type": "F",
+    "bounty": "1,800,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

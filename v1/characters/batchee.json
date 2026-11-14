@@ -1,0 +1,53 @@
+{
+  "id": "batchee",
+  "name": "Batchee",
+  "display_name": "Batchee",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-01",
+      "label": "July 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/37/Batchee_Manga_Infobox.png/revision/latest?cb=20241005092716",
+    "width": 160,
+    "height": 160
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/37/Batchee_Manga_Infobox.png/revision/latest?cb=20241005092716",
+    "width": 400,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Batchee",
+    "url": "https://onepiece.fandom.com/wiki/Batchee"
+  },
+  "info": {
+    "japanese_name": "バッチー",
+    "romanized_name": "Batchī",
+    "official_english_name": "Bacchy",
+    "debut": [
+      "Chapter 43",
+      "Episode 20"
+    ],
+    "origin": "East Blue",
+    "status": "1",
+    "birthday": "July 1st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

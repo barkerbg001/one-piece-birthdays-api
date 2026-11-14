@@ -3,7 +3,23 @@
   "label": "June 30th",
   "month": 6,
   "day": 30,
-  "characters": [
+  "names": [
     "Elmy"
+  ],
+  "characters": [
+    {
+      "id": "elmy",
+      "name": "Elmy",
+      "display_name": "Elmy",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/28/Elmy_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20101024180111",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/28/Elmy_Anime_Infobox.png/revision/latest?cb=20101024180111",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Elmy",
+      "epithet": null,
+      "affiliation": "Subordinate of the Whitebeard Pirates",
+      "api": "v1/characters/elmy.json"
+    }
   ]
 }

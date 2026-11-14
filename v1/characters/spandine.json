@@ -1,0 +1,60 @@
+{
+  "id": "spandine",
+  "name": "Spandine",
+  "display_name": "Spandine",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-19",
+      "label": "January 19th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Spandine_Manga_Infobox.png/revision/latest?cb=20231205165853",
+    "width": 593,
+    "height": 1324
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Spandine_Manga_Infobox.png/revision/latest/scale-to-width-down/179?cb=20231205165853",
+    "width": 179,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Spandine",
+    "url": "https://onepiece.fandom.com/wiki/Spandine"
+  },
+  "info": {
+    "japanese_name": "スパンダイン",
+    "romanized_name": "Supandain",
+    "debut": [
+      "Chapter 392",
+      "Episode 275"
+    ],
+    "affiliations": [
+      "CP9 (former)"
+    ],
+    "occupations": [
+      "CP9 Chief (former)"
+    ],
+    "origin": "Grand Line",
+    "age": "44 (debut); 64 (pre-timeskip); 66 (after timeskip)",
+    "birthday": "January 19th",
+    "height": "275 cm (9'0\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

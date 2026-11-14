@@ -3,11 +3,92 @@
   "label": "March 10th",
   "month": 3,
   "day": 10,
-  "characters": [
+  "names": [
     "Satori",
     "Hotori",
     "Kotori",
     "Sentomaru",
     "Nola"
+  ],
+  "characters": [
+    {
+      "id": "satori",
+      "name": "Satori",
+      "display_name": "Satori",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "hotori",
+        "kotori"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/11/Satori_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180908093921",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/11/Satori_Anime_Infobox.png/revision/latest?cb=20180908093921",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Satori",
+      "epithet": "\"Satori of the Forest\"",
+      "affiliation": "God's Army",
+      "api": "v1/characters/satori.json"
+    },
+    {
+      "id": "hotori",
+      "name": "Hotori",
+      "display_name": "Hotori",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "satori",
+        "kotori"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/28/Hotori_and_Kotori_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230806235842",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/28/Hotori_and_Kotori_Anime_Infobox.png/revision/latest?cb=20230806235842",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hotori_and_Kotori",
+      "epithet": null,
+      "affiliation": "God's Army",
+      "api": "v1/characters/hotori.json"
+    },
+    {
+      "id": "kotori",
+      "name": "Kotori",
+      "display_name": "Kotori",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "satori",
+        "hotori"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/28/Hotori_and_Kotori_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230806235842",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/28/Hotori_and_Kotori_Anime_Infobox.png/revision/latest?cb=20230806235842",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hotori_and_Kotori",
+      "epithet": null,
+      "affiliation": "God's Army",
+      "api": "v1/characters/kotori.json"
+    },
+    {
+      "id": "sentomaru",
+      "name": "Sentomaru",
+      "display_name": "Sentomaru",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/97/Sentomaru_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20241117020846",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/97/Sentomaru_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241117020846",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sentomaru",
+      "epithet": null,
+      "affiliation": "Marines (former)",
+      "api": "v1/characters/sentomaru.json"
+    },
+    {
+      "id": "nola",
+      "name": "Nola",
+      "display_name": "Nola",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/55/Nola_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20150414210834",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/55/Nola_Anime_Infobox.png/revision/latest?cb=20150414210834",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Nola",
+      "epithet": "\"Master of the Sky\"",
+      "affiliation": "Shandia",
+      "api": "v1/characters/nola.json"
+    }
   ]
 }

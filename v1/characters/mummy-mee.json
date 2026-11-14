@@ -1,0 +1,61 @@
+{
+  "id": "mummy-mee",
+  "name": "Mummy Mee",
+  "display_name": "Mummy Mee",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-21",
+      "label": "November 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/70/Mummy_Mee_Anime_Infobox.png/revision/latest?cb=20250427191528",
+    "width": 333,
+    "height": 811
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/70/Mummy_Mee_Anime_Infobox.png/revision/latest/scale-to-width-down/164?cb=20250427191528",
+    "width": 164,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Mummy Mee",
+    "url": "https://onepiece.fandom.com/wiki/Mummy_Mee"
+  },
+  "info": {
+    "japanese_name": "マミーミー",
+    "romanized_name": "Mamīmī",
+    "official_english_name": "Mameemee (WT100)",
+    "debut": [
+      "Chapter 79",
+      "Episode 35"
+    ],
+    "affiliations": [
+      "World Government Orphanage"
+    ],
+    "occupations": [
+      "Housemother"
+    ],
+    "origin": "East Blue (Conomi Islands)",
+    "residence": [
+      "Cocoyasi Village"
+    ],
+    "birthday": "November 21st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

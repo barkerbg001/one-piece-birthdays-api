@@ -1,0 +1,62 @@
+{
+  "id": "gaimon",
+  "name": "Gaimon",
+  "display_name": "Gaimon",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-05",
+      "label": "August 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b2/Gaimon_Anime_Infobox.png/revision/latest?cb=20221107181308",
+    "width": 591,
+    "height": 507
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b2/Gaimon_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20221107181308",
+    "width": 400,
+    "height": 343
+  },
+  "wiki": {
+    "title": "Gaimon",
+    "url": "https://onepiece.fandom.com/wiki/Gaimon"
+  },
+  "info": {
+    "japanese_name": "ガイモン",
+    "romanized_name": "Gaimon",
+    "official_english_name": "Gaimon",
+    "debut": [
+      "Chapter 22",
+      "Episode 18"
+    ],
+    "occupations": [
+      "Guardian of the Island of Rare Animals",
+      "Pirate (former)"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Island of Rare Animals"
+    ],
+    "age": "43 (debut); 45 (after timeskip)",
+    "birthday": "August 5th",
+    "height": "130 cm (4'3\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,9 +3,53 @@
   "label": "October 31st",
   "month": 10,
   "day": 31,
-  "characters": [
+  "names": [
     "Sherrie",
     "Whitey Bay",
     "Monstar"
+  ],
+  "characters": [
+    {
+      "id": "sherrie",
+      "name": "Sherrie",
+      "display_name": "Sherrie",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/sherrie.json"
+    },
+    {
+      "id": "whitey-bay",
+      "name": "Whitey Bay",
+      "display_name": "Whitey Bay",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3b/Whitey_Bay_Anime_Infobox.png/revision/latest/scale-to-width-down/303?cb=20210720203345",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3b/Whitey_Bay_Anime_Infobox.png/revision/latest?cb=20210720203345",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Whitey_Bay",
+      "epithet": "\"Ice Witch\"",
+      "affiliation": "Whitebeard Pirates",
+      "api": "v1/characters/whitey-bay.json"
+    },
+    {
+      "id": "monstar",
+      "name": "Monstar",
+      "display_name": "Monstar",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/93/Monster_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240714020813",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/93/Monster_Anime_Infobox.png/revision/latest?cb=20240714020813",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Monster",
+      "epithet": null,
+      "affiliation": "Red Hair Pirates",
+      "api": "v1/characters/monstar.json"
+    }
   ]
 }

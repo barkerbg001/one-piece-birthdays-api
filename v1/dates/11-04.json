@@ -3,7 +3,23 @@
   "label": "November 4th",
   "month": 11,
   "day": 4,
-  "characters": [
+  "names": [
     "Kashigami"
+  ],
+  "characters": [
+    {
+      "id": "kashigami",
+      "name": "Kashigami",
+      "display_name": "Kashigami",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9c/Kashigami_Anime_Infobox.png/revision/latest?cb=20230318022344",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9c/Kashigami_Anime_Infobox.png/revision/latest?cb=20230318022344",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kashigami",
+      "epithet": "\"God of the Sun\"; \"God of the Rain\"; \"God of the Forest\"; \"God of the Earth\"",
+      "affiliation": "Shandia",
+      "api": "v1/characters/kashigami.json"
+    }
   ]
 }

@@ -3,9 +3,53 @@
   "label": "August 8th",
   "month": 8,
   "day": 8,
-  "characters": [
+  "names": [
     "Buggy",
     "Hatchan",
     "Yazaemon"
+  ],
+  "characters": [
+    {
+      "id": "buggy",
+      "name": "Buggy",
+      "display_name": "Buggy",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Buggy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240813025900",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Buggy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240813025900",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Buggy",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/buggy.json"
+    },
+    {
+      "id": "hatchan",
+      "name": "Hatchan",
+      "display_name": "Hatchan",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Hatchan_Anime_Infobox.png/revision/latest/scale-to-width-down/242?cb=20221003174139",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Hatchan_Anime_Infobox.png/revision/latest?cb=20221003174139",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hatchan",
+      "epithet": "Six Sword Style Hachi",
+      "affiliation": "Takoyaki 8",
+      "api": "v1/characters/hatchan.json"
+    },
+    {
+      "id": "yazaemon",
+      "name": "Yazaemon",
+      "display_name": "Yazaemon",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Yazaemon_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20200914204314",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Yazaemon_Anime_Infobox.png/revision/latest?cb=20200914204314",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Yazaemon",
+      "epithet": null,
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/yazaemon.json"
+    }
   ]
 }

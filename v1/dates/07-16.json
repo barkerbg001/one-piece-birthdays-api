@@ -3,8 +3,38 @@
   "label": "July 16th",
   "month": 7,
   "day": 16,
-  "characters": [
+  "names": [
     "Seto",
     "Helmeppo"
+  ],
+  "characters": [
+    {
+      "id": "seto",
+      "name": "Seto",
+      "display_name": "Seto",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/94/Seto_Anime_Infobox.png/revision/latest/scale-to-width-down/365?cb=20130502222854",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/94/Seto_Anime_Infobox.png/revision/latest?cb=20130502222854",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Seto",
+      "epithet": null,
+      "affiliation": "Shandia",
+      "api": "v1/characters/seto.json"
+    },
+    {
+      "id": "helmeppo",
+      "name": "Helmeppo",
+      "display_name": "Helmeppo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Helmeppo_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/212?cb=20230723204723",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Helmeppo_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230723204723",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Helmeppo",
+      "epithet": null,
+      "affiliation": "Marines (Headquarters",
+      "api": "v1/characters/helmeppo.json"
+    }
   ]
 }

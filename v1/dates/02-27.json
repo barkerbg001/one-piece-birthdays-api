@@ -3,8 +3,42 @@
   "label": "February 27th",
   "month": 2,
   "day": 27,
-  "characters": [
+  "names": [
     "Charlotte Joscarpone",
     "Charlotte Mascarpone"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-joscarpone",
+      "name": "Charlotte Joscarpone",
+      "display_name": "Charlotte Joscarpone",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-mascarpone"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/ae/Charlotte_Joscarpone_Anime_Infobox.png/revision/latest/scale-to-width-down/209?cb=20171030014906",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/ae/Charlotte_Joscarpone_Anime_Infobox.png/revision/latest?cb=20171030014906",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Joscarpone",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-joscarpone.json"
+    },
+    {
+      "id": "charlotte-mascarpone",
+      "name": "Charlotte Mascarpone",
+      "display_name": "Charlotte Mascarpone",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-joscarpone"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Charlotte_Mascarpone_Anime_Infobox.png/revision/latest/scale-to-width-down/221?cb=20171030014803",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Charlotte_Mascarpone_Anime_Infobox.png/revision/latest?cb=20171030014803",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Mascarpone",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-mascarpone.json"
+    }
   ]
 }

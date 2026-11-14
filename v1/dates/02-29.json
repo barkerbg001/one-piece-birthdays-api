@@ -3,8 +3,38 @@
   "label": "February 29th (Leap Day)",
   "month": 2,
   "day": 29,
-  "characters": [
+  "names": [
     "Pandaman",
     "Pandawoman"
+  ],
+  "characters": [
+    {
+      "id": "pandaman",
+      "name": "Pandaman",
+      "display_name": "Pandaman",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Pandaman_Manga_Infobox.png/revision/latest/scale-to-width-down/197?cb=20231114045015",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Pandaman_Manga_Infobox.png/revision/latest?cb=20231114045015",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Pandaman",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/pandaman.json"
+    },
+    {
+      "id": "pandawoman",
+      "name": "Pandawoman",
+      "display_name": "Pandawoman",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/82/Pandawomanmi_Manga_Infobox.png/revision/latest?cb=20130222221711",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/82/Pandawomanmi_Manga_Infobox.png/revision/latest?cb=20130222221711",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Pandawomanmi",
+      "epithet": null,
+      "affiliation": "Easter Egg",
+      "api": "v1/characters/pandawoman.json"
+    }
   ]
 }

@@ -1,0 +1,62 @@
+{
+  "id": "mr-11",
+  "name": "Mr. 11",
+  "display_name": "Mr. 11",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-21",
+      "label": "November 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/09/Mr._11_Anime_Infobox.png/revision/latest?cb=20170426145410",
+    "width": 1280,
+    "height": 1652
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/09/Mr._11_Anime_Infobox.png/revision/latest/scale-to-width-down/310?cb=20170426145410",
+    "width": 310,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Mr. 11",
+    "url": "https://onepiece.fandom.com/wiki/Mr._11"
+  },
+  "info": {
+    "japanese_name": "Mr. 11",
+    "romanized_name": "Misutā Irebun",
+    "official_english_name": "Mr. 11",
+    "debut": [
+      "Chapter 128",
+      "Episode 79"
+    ],
+    "affiliations": [
+      "Baroque Works"
+    ],
+    "occupations": [
+      "Frontier Agent"
+    ],
+    "origin": "Grand Line",
+    "aliases": [
+      "Mr. 11"
+    ],
+    "status": "2",
+    "birthday": "November 21st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

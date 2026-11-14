@@ -1,0 +1,62 @@
+{
+  "id": "bobby-funk",
+  "name": "Bobby Funk",
+  "display_name": "Bobby Funk",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-19",
+      "label": "February 19th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/51/Bobby_Funk_Anime_Infobox.png/revision/latest?cb=20140216150348",
+    "width": 1810,
+    "height": 956
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/51/Bobby_Funk_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20140216150348",
+    "width": 400,
+    "height": 211
+  },
+  "wiki": {
+    "title": "Bobby Funk",
+    "url": "https://onepiece.fandom.com/wiki/Bobby_Funk"
+  },
+  "info": {
+    "japanese_name": "ボビー・ファンク",
+    "romanized_name": "Bobī Fanku",
+    "official_english_name": "Bobby Funk",
+    "debut": [
+      "Chapter 704",
+      "Episode 632"
+    ],
+    "affiliations": [
+      "Mogaro Kingdom"
+    ],
+    "occupations": [
+      "Assassin"
+    ],
+    "origin": "Grand Line (Mogaro Kingdom)",
+    "age": "33",
+    "birthday": "February 19th",
+    "height": "320 cm (10'6\")",
+    "blood_type": "X",
+    "bounty": "36,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

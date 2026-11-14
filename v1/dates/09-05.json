@@ -3,8 +3,38 @@
   "label": "September 5th",
   "month": 9,
   "day": 5,
-  "characters": [
+  "names": [
     "Crocodile",
     "Boa Marigold"
+  ],
+  "characters": [
+    {
+      "id": "crocodile",
+      "name": "Crocodile",
+      "display_name": "Crocodile",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Crocodile_Anime_Infobox.png/revision/latest/scale-to-width-down/318?cb=20230125235528",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Crocodile_Anime_Infobox.png/revision/latest?cb=20230125235528",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Crocodile",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/crocodile.json"
+    },
+    {
+      "id": "boa-marigold",
+      "name": "Boa Marigold",
+      "display_name": "Boa Marigold",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Boa_Marigold_Anime_Infobox.png/revision/latest/scale-to-width-down/356?cb=20150903140509",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Boa_Marigold_Anime_Infobox.png/revision/latest?cb=20150903140509",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Boa_Marigold",
+      "epithet": null,
+      "affiliation": "Kuja Pirates (Gorgon Sisters)",
+      "api": "v1/characters/boa-marigold.json"
+    }
   ]
 }

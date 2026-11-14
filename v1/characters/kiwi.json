@@ -1,0 +1,65 @@
+{
+  "id": "kiwi",
+  "name": "Kiwi",
+  "display_name": "Kiwi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-01",
+      "label": "September 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Mozu_and_Kiwi_Anime_Infobox.png/revision/latest?cb=20250224005132",
+    "width": 1451,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Mozu_and_Kiwi_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250224005132",
+    "width": 400,
+    "height": 298
+  },
+  "wiki": {
+    "title": "Mozu and Kiwi",
+    "url": "https://onepiece.fandom.com/wiki/Mozu_and_Kiwi"
+  },
+  "info": {
+    "japanese_name": "モズ&キウイ",
+    "romanized_name": "Mozu & Kiui",
+    "debut": [
+      "Chapter 329",
+      "Episode 233"
+    ],
+    "affiliations": [
+      "Franky Family (former)"
+    ],
+    "occupations": [
+      "Bartenders",
+      "Bounty Hunters (former)"
+    ],
+    "origin": "Grand Line (Water 7, Slums)",
+    "residence": [
+      "Water 7"
+    ],
+    "epithet": "Square Sisters",
+    "age": "19 (Mozu, debut); 21 (Mozu, after timeskip); 20 (Kiwi, debut); 22 (Kiwi, after timeskip)",
+    "birthday": "January 7th (Mozu); September 1st (Kiwi)",
+    "height": "187 cm (6'1\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "ulti",
+  "name": "Ulti",
+  "display_name": "Ulti",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-04",
+      "label": "January 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Ulti_Anime_Infobox.png/revision/latest?cb=20240831170217",
+    "width": 432,
+    "height": 896
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Ulti_Anime_Infobox.png/revision/latest/scale-to-width-down/193?cb=20240831170217",
+    "width": 193,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Ulti",
+    "url": "https://onepiece.fandom.com/wiki/Ulti"
+  },
+  "info": {
+    "japanese_name": "うるティ",
+    "romanized_name": "Uruti",
+    "official_english_name": "Ulti",
+    "debut": [
+      "Chapter 977",
+      "Episode 982"
+    ],
+    "affiliations": [
+      "Yamato",
+      "Beasts Pirates (Tobiroppo) (former)"
+    ],
+    "occupations": [
+      "Shinuchi (former)"
+    ],
+    "origin": "Grand Line",
+    "age": "22",
+    "birthday": "January 4th",
+    "height": "173 cm (5'8\")",
+    "blood_type": "XF",
+    "bounty": "400,000,000",
+    "devil_fruit": "Ryu Ryu no Mi, Model: Pachycephalosaurus",
+    "devil_fruit_english": "Dragon-Dragon Fruit, Pachycephalosaurus Model",
+    "devil_fruit_type": "Ancient Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

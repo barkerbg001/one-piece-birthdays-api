@@ -1,0 +1,72 @@
+{
+  "id": "charlotte-praline",
+  "name": "Charlotte Praline",
+  "display_name": "Charlotte Praline",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-22",
+      "label": "July 22nd"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-prim",
+      "name": "Charlotte Prim"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/11/Charlotte_Praline_Anime_Infobox.png/revision/latest?cb=20170528042923",
+    "width": 1115,
+    "height": 1958
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/11/Charlotte_Praline_Anime_Infobox.png/revision/latest/scale-to-width-down/228?cb=20170528042923",
+    "width": 228,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Praline",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Praline"
+  },
+  "info": {
+    "japanese_name": "シャーロット・プラリネ",
+    "romanized_name": "Shārotto Purarine",
+    "official_english_name": "Charlotte Praline",
+    "debut": [
+      "Chapter 830",
+      "Episode 790"
+    ],
+    "affiliations": [
+      "Sun Pirates",
+      "Charlotte Family",
+      "Big Mom Pirates (defected)"
+    ],
+    "occupations": [
+      "Minister of Design (former)",
+      "Pirate"
+    ],
+    "origin": "Grand Line (Totto Land)",
+    "residence": [
+      "Unique Island (former)"
+    ],
+    "age": "29",
+    "birthday": "July 22nd",
+    "height": "800 cm (26'3\")",
+    "blood_type": "S (RH-)"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

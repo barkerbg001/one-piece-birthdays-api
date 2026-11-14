@@ -1,0 +1,65 @@
+{
+  "id": "jarl",
+  "name": "Jarl",
+  "display_name": "Jarl",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-08",
+      "label": "December 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Jarul_Anime_Infobox.png/revision/latest?cb=20260607162418",
+    "width": 1909,
+    "height": 1008
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Jarul_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20260607162418",
+    "width": 400,
+    "height": 211
+  },
+  "wiki": {
+    "title": "Jarul",
+    "url": "https://onepiece.fandom.com/wiki/Jarul"
+  },
+  "info": {
+    "japanese_name": "ヤルル",
+    "romanized_name": "Yaruru",
+    "official_english_name": "Jarul",
+    "debut": [
+      "Chapter 866",
+      "Episode 836"
+    ],
+    "affiliations": [
+      "Giant Warrior Pirates (former)"
+    ],
+    "occupations": [
+      "Pirate Captain (former)"
+    ],
+    "origin": "Grand Line (Elbaph)",
+    "residence": [
+      "Elbaph (Sun World)"
+    ],
+    "epithet": "\"Mountain Beard\" Jarul",
+    "age": "345 (debut); 408 (after timeskip)",
+    "birthday": "December 8th",
+    "height": "2050 cm (67'3\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

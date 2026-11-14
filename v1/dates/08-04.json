@@ -3,9 +3,53 @@
   "label": "August 4th",
   "month": 8,
   "day": 4,
-  "characters": [
+  "names": [
     "Amazon",
     "Boss of the Earth",
     "Rebecca"
+  ],
+  "characters": [
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "display_name": "Amazon",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/ca/Amazon_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/256?cb=20260328235818",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/ca/Amazon_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20260328235818",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Amazon",
+      "epithet": null,
+      "affiliation": "Wagomuland",
+      "api": "v1/characters/amazon.json"
+    },
+    {
+      "id": "boss-of-the-earth",
+      "name": "Boss of the Earth",
+      "display_name": "Boss of the Earth",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Dirt_Boss_Manga_Infobox.png/revision/latest/scale-to-width-down/282?cb=20220720030522",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Dirt_Boss_Manga_Infobox.png/revision/latest?cb=20220720030522",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Dirt_Boss",
+      "epithet": null,
+      "affiliation": "Ukkari Hot-Spring Island",
+      "api": "v1/characters/boss-of-the-earth.json"
+    },
+    {
+      "id": "rebecca",
+      "name": "Rebecca",
+      "display_name": "Rebecca",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f6/Rebecca_Anime_Infobox.png/revision/latest/scale-to-width-down/192?cb=20190519094508",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f6/Rebecca_Anime_Infobox.png/revision/latest?cb=20190519094508",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Rebecca",
+      "epithet": "\"The Undefeated Woman\"; \"The Phantom Princess\"",
+      "affiliation": "Dressrosa",
+      "api": "v1/characters/rebecca.json"
+    }
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "id": "kentauros",
+  "name": "Kentauros",
+  "display_name": "Kentauros",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-23",
+      "label": "November 23rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/90/Kentauros_Anime_Infobox.png/revision/latest?cb=20260530185317",
+    "width": 554,
+    "height": 924
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/90/Kentauros_Anime_Infobox.png/revision/latest/scale-to-width-down/240?cb=20260530185317",
+    "width": 240,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kentauros",
+    "url": "https://onepiece.fandom.com/wiki/Kentauros"
+  },
+  "info": {
+    "japanese_name": "ケンタロウス",
+    "romanized_name": "Kentarousu",
+    "official_english_name": "Centaur",
+    "debut": [
+      "Chapter 180",
+      "Episode 111"
+    ],
+    "affiliations": [
+      "Super Spot-Billed Duck Troops"
+    ],
+    "occupations": [
+      "Royal Transport",
+      "Member of the Super Spot-Billed Duck Troops"
+    ],
+    "origin": "Grand Line (Arabasta Kingdom)",
+    "residence": [
+      "Arabasta Kingdom"
+    ],
+    "age": "15",
+    "height": "157 cm (5'2\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

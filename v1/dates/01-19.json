@@ -3,8 +3,38 @@
   "label": "January 19th",
   "month": 1,
   "day": 19,
-  "characters": [
+  "names": [
     "Spandine",
     "Kouzuki Toki"
+  ],
+  "characters": [
+    {
+      "id": "spandine",
+      "name": "Spandine",
+      "display_name": "Spandine",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Spandine_Manga_Infobox.png/revision/latest/scale-to-width-down/179?cb=20231205165853",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Spandine_Manga_Infobox.png/revision/latest?cb=20231205165853",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Spandine",
+      "epithet": null,
+      "affiliation": "CP9 (former)",
+      "api": "v1/characters/spandine.json"
+    },
+    {
+      "id": "kouzuki-toki",
+      "name": "Kouzuki Toki",
+      "display_name": "Kouzuki Toki",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kouzuki_Toki_Anime_Infobox.png/revision/latest/scale-to-width-down/156?cb=20240923154828",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kouzuki_Toki_Anime_Infobox.png/revision/latest?cb=20240923154828",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kouzuki_Toki",
+      "epithet": null,
+      "affiliation": "Kouzuki Family",
+      "api": "v1/characters/kouzuki-toki.json"
+    }
   ]
 }

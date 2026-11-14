@@ -1,0 +1,71 @@
+{
+  "id": "absalom",
+  "name": "Absalom",
+  "display_name": "Absalom",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-30",
+      "label": "December 30th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/56/Absalom_Anime_Infobox.png/revision/latest?cb=20230101154942",
+    "width": 921,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/56/Absalom_Anime_Infobox.png/revision/latest/scale-to-width-down/341?cb=20230101154942",
+    "width": 341,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Absalom",
+    "url": "https://onepiece.fandom.com/wiki/Absalom"
+  },
+  "info": {
+    "japanese_name": "アブサロム",
+    "romanized_name": "Abusaromu",
+    "official_english_name": "Absalom",
+    "debut": [
+      "Chapter 444",
+      "Episode 339"
+    ],
+    "affiliations": [
+      "Thriller Bark Pirates (Mysterious Four)"
+    ],
+    "occupations": [
+      "Reporter",
+      "Pirate",
+      "Soldier Zombies and General Zombies Commander (former)"
+    ],
+    "origin": "West Blue",
+    "epithet": "Absalom of the Graveyard",
+    "aliases": [
+      "\"Absa\""
+    ],
+    "status": "2",
+    "age": "34 (debut); 36 (after timeskip, at death)",
+    "birthday": "December 30th",
+    "height": "195 cm (6'5\")",
+    "blood_type": "F",
+    "devil_fruit": "Suke Suke no Mi",
+    "devil_fruit_english": "Clear-Clear Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,8 +3,38 @@
   "label": "July 11th",
   "month": 7,
   "day": 11,
-  "characters": [
+  "names": [
     "Pearl",
     "Blue Fan"
+  ],
+  "characters": [
+    {
+      "id": "pearl",
+      "name": "Pearl",
+      "display_name": "Pearl",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8f/Pearl_Anime_Infobox.png/revision/latest/scale-to-width-down/243?cb=20221003214553",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8f/Pearl_Anime_Infobox.png/revision/latest?cb=20221003214553",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Pearl",
+      "epithet": "\"Pearl the Iron Wall\"",
+      "affiliation": "Krieg Pirates",
+      "api": "v1/characters/pearl.json"
+    },
+    {
+      "id": "blue-fan",
+      "name": "Blue Fan",
+      "display_name": "Blue Fan",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Blue_Fan_Anime_Infobox.png/revision/latest/scale-to-width-down/276?cb=20120929194926",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Blue_Fan_Anime_Infobox.png/revision/latest?cb=20120929194926",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Blue_Fan",
+      "epithet": null,
+      "affiliation": "Kuja Pirates",
+      "api": "v1/characters/blue-fan.json"
+    }
   ]
 }

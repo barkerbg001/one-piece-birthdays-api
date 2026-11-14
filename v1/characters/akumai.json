@@ -1,0 +1,54 @@
+{
+  "id": "akumai",
+  "name": "Akumai",
+  "display_name": "Akumai",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-27",
+      "label": "December 27th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/48/Akumai_Anime_Infobox.png/revision/latest?cb=20250807233240",
+    "width": 198,
+    "height": 427
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/48/Akumai_Anime_Infobox.png/revision/latest/scale-to-width-down/185?cb=20250807233240",
+    "width": 185,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Akumai",
+    "url": "https://onepiece.fandom.com/wiki/Akumai"
+  },
+  "info": {
+    "japanese_name": "アクマイ",
+    "official_english_name": "Akumai",
+    "debut": [
+      "Chapter 129",
+      "Episode 78"
+    ],
+    "affiliations": [
+      "Baroque Works (Billions) (former)"
+    ],
+    "origin": "Grand Line",
+    "birthday": "December 27th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

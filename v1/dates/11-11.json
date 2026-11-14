@@ -3,10 +3,68 @@
   "label": "November 11th",
   "month": 11,
   "day": 11,
-  "characters": [
+  "names": [
     "Jozu",
     "Zeo",
     "Soro",
     "Roronoa Zoro"
+  ],
+  "characters": [
+    {
+      "id": "jozu",
+      "name": "Jozu",
+      "display_name": "Jozu",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/61/Jozu_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20220702104233",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/61/Jozu_Anime_Infobox.png/revision/latest?cb=20220702104233",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Jozu",
+      "epithet": "\"Diamond\" Jozu",
+      "affiliation": "Whitebeard Pirates",
+      "api": "v1/characters/jozu.json"
+    },
+    {
+      "id": "zeo",
+      "name": "Zeo",
+      "display_name": "Zeo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/12/Zeo_Anime_Infobox.png/revision/latest/scale-to-width-down/139?cb=20230403211507",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/12/Zeo_Anime_Infobox.png/revision/latest?cb=20230403211507",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Zeo",
+      "epithet": "\"Noble of the Fish-Man District\"",
+      "affiliation": "New Fish-Man Pirates",
+      "api": "v1/characters/zeo.json"
+    },
+    {
+      "id": "soro",
+      "name": "Soro",
+      "display_name": "Soro",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/22/Soro_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20260816222744",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/22/Soro_Anime_Infobox.png/revision/latest?cb=20260816222744",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Soro",
+      "epithet": null,
+      "affiliation": "Helmeppo",
+      "api": "v1/characters/soro.json"
+    },
+    {
+      "id": "roronoa-zoro",
+      "name": "Roronoa Zoro",
+      "display_name": "Roronoa Zoro",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/150?cb=20241029161719",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241029161719",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Roronoa_Zoro",
+      "epithet": "\"Pirate Hunter Zoro\"",
+      "affiliation": "Straw Hat Pirates",
+      "api": "v1/characters/roronoa-zoro.json"
+    }
   ]
 }

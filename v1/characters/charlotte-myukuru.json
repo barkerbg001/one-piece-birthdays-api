@@ -1,0 +1,72 @@
+{
+  "id": "charlotte-myukuru",
+  "name": "Charlotte Myukuru",
+  "display_name": "Charlotte Myukuru",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-17",
+      "label": "November 17th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-mobile",
+      "name": "Charlotte Mobile"
+    },
+    {
+      "id": "charlotte-marble",
+      "name": "Charlotte Marble"
+    },
+    {
+      "id": "charlotte-maple",
+      "name": "Charlotte Maple"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/03/Charlotte_Myukuru_Anime_Infobox.png/revision/latest?cb=20171122125803",
+    "width": 562,
+    "height": 946
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/03/Charlotte_Myukuru_Anime_Infobox.png/revision/latest/scale-to-width-down/237?cb=20171122125803",
+    "width": 237,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Myukuru",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Myukuru"
+  },
+  "info": {
+    "japanese_name": "シャーロット・ミュークル",
+    "romanized_name": "Shārotto Myūkuru",
+    "official_english_name": "Charlotte Myukuru",
+    "debut": [
+      "Chapter 845",
+      "Episode 809"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "age": "25",
+    "birthday": "November 17th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

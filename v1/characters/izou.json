@@ -1,0 +1,71 @@
+{
+  "id": "izou",
+  "name": "Izou",
+  "display_name": "Izou",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-13",
+      "label": "October 13th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/81/Izou_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20210919035558",
+    "width": 830,
+    "height": 1305
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/81/Izou_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/254?cb=20210919035558",
+    "width": 254,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Izou",
+    "url": "https://onepiece.fandom.com/wiki/Izou"
+  },
+  "info": {
+    "japanese_name": "イゾウ",
+    "romanized_name": "Izō",
+    "official_english_name": "Izo",
+    "debut": [
+      "Chapter 553",
+      "Episode 461"
+    ],
+    "affiliations": [
+      "Whitebeard Pirates (former)",
+      "Kouzuki Family",
+      "Ninja-Pirate-Mink-Samurai Alliance"
+    ],
+    "occupations": [
+      "16th Division Commander (former)",
+      "Samurai",
+      "Retainer of the Kouzuki Family"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Wano Country (Ringo)",
+      "Wano Country (Kuri)"
+    ],
+    "status": "2",
+    "age": "43 (debut); 45 (after timeskip, at death)",
+    "birthday": "October 13th",
+    "height": "192 cm (6'3¾\")",
+    "blood_type": "X",
+    "bounty": "510,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

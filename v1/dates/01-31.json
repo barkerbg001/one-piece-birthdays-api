@@ -3,9 +3,53 @@
   "label": "January 31st",
   "month": 1,
   "day": 31,
-  "characters": [
+  "names": [
     "Aladine",
     "Ipponmatsu",
     "An Zengaiina"
+  ],
+  "characters": [
+    {
+      "id": "aladine",
+      "name": "Aladine",
+      "display_name": "Aladine",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/07/Aladine_Anime_Infobox.png/revision/latest/scale-to-width-down/371?cb=20170528042907",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/07/Aladine_Anime_Infobox.png/revision/latest?cb=20170528042907",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Aladine",
+      "epithet": null,
+      "affiliation": "Sun Pirates",
+      "api": "v1/characters/aladine.json"
+    },
+    {
+      "id": "ipponmatsu",
+      "name": "Ipponmatsu",
+      "display_name": "Ipponmatsu",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/1c/Ipponmatsu_Anime_Infobox.png/revision/latest/scale-to-width-down/387?cb=20130912172614",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/1c/Ipponmatsu_Anime_Infobox.png/revision/latest?cb=20130912172614",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Ipponmatsu",
+      "epithet": null,
+      "affiliation": "Loguetown Arms Shop",
+      "api": "v1/characters/ipponmatsu.json"
+    },
+    {
+      "id": "an-zengaiina",
+      "name": "An Zengaiina",
+      "display_name": "An Zengaiina",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/04/An_Zengaiina_Anime_Infobox.png/revision/latest/scale-to-width-down/364?cb=20190404152656",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/04/An_Zengaiina_Anime_Infobox.png/revision/latest?cb=20190404152656",
+      "wiki_url": "https://onepiece.fandom.com/wiki/An_Zengaiina",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/an-zengaiina.json"
+    }
   ]
 }

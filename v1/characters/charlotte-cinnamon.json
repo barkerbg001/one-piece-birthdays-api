@@ -1,0 +1,69 @@
+{
+  "id": "charlotte-cinnamon",
+  "name": "Charlotte Cinnamon",
+  "display_name": "Charlotte Cinnamon",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-12",
+      "label": "October 12th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-smoothie",
+      "name": "Charlotte Smoothie"
+    },
+    {
+      "id": "charlotte-citron",
+      "name": "Charlotte Citron"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Charlotte_Cinnamon_Anime_Infobox.png/revision/latest?cb=20190203104624",
+    "width": 1520,
+    "height": 1679
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Charlotte_Cinnamon_Anime_Infobox.png/revision/latest/scale-to-width-down/362?cb=20190203104624",
+    "width": 362,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Cinnamon",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Cinnamon"
+  },
+  "info": {
+    "japanese_name": "シャーロット・シナモン",
+    "romanized_name": "Shārotto Shinamon",
+    "official_english_name": "Charlotte Cinnamon",
+    "debut": [
+      "Chapter 860",
+      "Episode 830"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "origin": "Grand Line (Totto Land)",
+    "age": "35",
+    "birthday": "October 12th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

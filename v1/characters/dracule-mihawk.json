@@ -1,0 +1,69 @@
+{
+  "id": "dracule-mihawk",
+  "name": "Dracule Mihawk",
+  "display_name": "Dracule Mihawk",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-09",
+      "label": "March 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Dracule_Mihawk_Anime_Infobox.png/revision/latest?cb=20151222105910",
+    "width": 1328,
+    "height": 2064
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Dracule_Mihawk_Anime_Infobox.png/revision/latest/scale-to-width-down/257?cb=20151222105910",
+    "width": 257,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Dracule Mihawk",
+    "url": "https://onepiece.fandom.com/wiki/Dracule_Mihawk"
+  },
+  "info": {
+    "japanese_name": "ジュラキュール・ミホーク",
+    "romanized_name": "Jurakyūru Mihōku",
+    "official_english_name": "Dracule Mihawk; Diego Mihawk (Odex)",
+    "debut": [
+      "Chapter 49",
+      "Episode 23"
+    ],
+    "affiliations": [
+      "Cross Guild",
+      "Seven Warlords of the Sea (former)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Cross Guild Officer",
+      "Warlord of the Sea (former)"
+    ],
+    "residence": [
+      "Kuraigana Island (former)",
+      "Karai Bari Island"
+    ],
+    "epithet": "\"Hawk Eyes Mihawk\"; \"Strongest Swordsman in the World\"; \"Marine Hunter\"",
+    "age": "41 (debut); 43 (after timeskip)",
+    "birthday": "March 9th",
+    "height": "198 cm (6'6\") (debut, after timeskip)",
+    "blood_type": "S",
+    "bounty": "3,590,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

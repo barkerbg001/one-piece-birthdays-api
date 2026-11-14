@@ -1,0 +1,62 @@
+{
+  "id": "otohime",
+  "name": "Otohime",
+  "display_name": "Otohime",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-10",
+      "label": "January 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c7/Otohime_Anime_Infobox.png/revision/latest?cb=20130427195608",
+    "width": 878,
+    "height": 719
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c7/Otohime_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130427195608",
+    "width": 400,
+    "height": 328
+  },
+  "wiki": {
+    "title": "Otohime",
+    "url": "https://onepiece.fandom.com/wiki/Otohime"
+  },
+  "info": {
+    "japanese_name": "オトヒメ",
+    "romanized_name": "Otohime",
+    "debut": [
+      "Chapter 621",
+      "Episode 539 (image), Episode 540"
+    ],
+    "affiliations": [
+      "Neptune Family",
+      "Ryugu Kingdom"
+    ],
+    "occupations": [
+      "Queen of the Ryugu Kingdom"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "epithet": "Incarnation of Love",
+    "status": "2",
+    "birthday": "January 10th",
+    "height": "224 cm (7'4\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

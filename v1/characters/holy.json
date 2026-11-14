@@ -1,0 +1,57 @@
+{
+  "id": "holy",
+  "name": "Holy",
+  "display_name": "Holy",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-07",
+      "label": "November 7th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Holy_Anime_Infobox.png/revision/latest?cb=20230806223830",
+    "width": 320,
+    "height": 407
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Holy_Anime_Infobox.png/revision/latest/scale-to-width-down/314?cb=20230806223830",
+    "width": 314,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Holy",
+    "url": "https://onepiece.fandom.com/wiki/Holy"
+  },
+  "info": {
+    "japanese_name": "ホーリー",
+    "romanized_name": "Hōrī",
+    "official_english_name": "Holly (VIZ); Holy (Funimation)",
+    "debut": [
+      "Chapter 241",
+      "Episode 155"
+    ],
+    "affiliations": [
+      "God's Army"
+    ],
+    "occupations": [
+      "Pet"
+    ],
+    "birthday": "November 7th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

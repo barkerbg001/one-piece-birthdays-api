@@ -3,7 +3,23 @@
   "label": "May 24th",
   "month": 5,
   "day": 24,
-  "characters": [
+  "names": [
     "Carrot"
+  ],
+  "characters": [
+    {
+      "id": "carrot",
+      "name": "Carrot",
+      "display_name": "Carrot",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Carrot_Anime_Infobox.png/revision/latest/scale-to-width-down/150?cb=20180826142459",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Carrot_Anime_Infobox.png/revision/latest?cb=20180826142459",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Carrot",
+      "epithet": null,
+      "affiliation": "Mokomo Dukedom, Inuarashi Musketeer Squad",
+      "api": "v1/characters/carrot.json"
+    }
   ]
 }

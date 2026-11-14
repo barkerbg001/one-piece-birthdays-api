@@ -3,7 +3,23 @@
   "label": "December 24th",
   "month": 12,
   "day": 24,
-  "characters": [
+  "names": [
     "Tony Tony Chopper"
+  ],
+  "characters": [
+    {
+      "id": "tony-tony-chopper",
+      "name": "Tony Tony Chopper",
+      "display_name": "Tony Tony Chopper",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/af/Tony_Tony_Chopper_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/312?cb=20240720150824",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/af/Tony_Tony_Chopper_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240720150824",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Tony_Tony_Chopper",
+      "epithet": "\"Cotton Candy Lover\"",
+      "affiliation": "Straw Hat Pirates",
+      "api": "v1/characters/tony-tony-chopper.json"
+    }
   ]
 }

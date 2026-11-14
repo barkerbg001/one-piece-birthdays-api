@@ -3,9 +3,53 @@
   "label": "August 21st",
   "month": 8,
   "day": 21,
-  "characters": [
+  "names": [
     "Pound",
     "Take",
     "Holdem"
+  ],
+  "characters": [
+    {
+      "id": "pound",
+      "name": "Pound",
+      "display_name": "Pound",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Pound_Anime_Infobox.png/revision/latest/scale-to-width-down/270?cb=20231128030318",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Pound_Anime_Infobox.png/revision/latest?cb=20231128030318",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Pound",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/pound.json"
+    },
+    {
+      "id": "take",
+      "name": "Take",
+      "display_name": "Take",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c7/Take_Anime_Infobox.png/revision/latest?cb=20131017164140",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c7/Take_Anime_Infobox.png/revision/latest?cb=20131017164140",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Take",
+      "epithet": null,
+      "affiliation": "Arlong Pirates",
+      "api": "v1/characters/take.json"
+    },
+    {
+      "id": "holdem",
+      "name": "Holdem",
+      "display_name": "Holdem",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Holed%27em_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20221015132613",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Holed%27em_Anime_Infobox.png/revision/latest?cb=20221015132613",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Holed%27em",
+      "epithet": null,
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/holdem.json"
+    }
   ]
 }

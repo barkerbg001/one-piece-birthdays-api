@@ -1,0 +1,58 @@
+{
+  "id": "motobaro",
+  "name": "Motobaro",
+  "display_name": "Motobaro",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-19",
+      "label": "August 19th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/17/Motobaro_Anime_Infobox.png/revision/latest?cb=20210518195200",
+    "width": 749,
+    "height": 549
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/17/Motobaro_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20210518195200",
+    "width": 400,
+    "height": 293
+  },
+  "wiki": {
+    "title": "Motobaro",
+    "url": "https://onepiece.fandom.com/wiki/Motobaro"
+  },
+  "info": {
+    "japanese_name": "モトバロ",
+    "romanized_name": "Motobaro",
+    "official_english_name": "Motobaro (VIZ); Motobalo (Funimation)",
+    "debut": [
+      "Chapter 494",
+      "Episode 388"
+    ],
+    "affiliations": [
+      "Rosy Life Riders"
+    ],
+    "occupations": [
+      "Duval's pet"
+    ],
+    "origin": "Grand Line (Rural Village)",
+    "birthday": "August 19th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

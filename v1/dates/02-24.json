@@ -3,8 +3,38 @@
   "label": "February 24th",
   "month": 2,
   "day": 24,
-  "characters": [
+  "names": [
     "Enishida",
     "Mr. Beans"
+  ],
+  "characters": [
+    {
+      "id": "enishida",
+      "name": "Enishida",
+      "display_name": "Enishida",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Enishida_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130321213454",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Enishida_Anime_Infobox.png/revision/latest?cb=20130321213454",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Enishida",
+      "epithet": null,
+      "affiliation": "Kuja",
+      "api": "v1/characters/enishida.json"
+    },
+    {
+      "id": "mr-beans",
+      "name": "Mr. Beans",
+      "display_name": "Mr. Beans",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/27/Mr._Beans_Anime_Infobox.png/revision/latest?cb=20240712024055",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/27/Mr._Beans_Anime_Infobox.png/revision/latest?cb=20240712024055",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mr._Beans",
+      "epithet": null,
+      "affiliation": "Baroque Works (Millions) (former)",
+      "api": "v1/characters/mr-beans.json"
+    }
   ]
 }

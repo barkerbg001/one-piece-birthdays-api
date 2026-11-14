@@ -1,0 +1,61 @@
+{
+  "id": "albion",
+  "name": "Albion",
+  "display_name": "Albion",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-09",
+      "label": "November 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c9/Albion_Anime_Infobox.png/revision/latest?cb=20130207055626",
+    "width": 1280,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c9/Albion_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130207055626",
+    "width": 400,
+    "height": 225
+  },
+  "wiki": {
+    "title": "Albion",
+    "url": "https://onepiece.fandom.com/wiki/Albion"
+  },
+  "info": {
+    "japanese_name": "アルビオン",
+    "romanized_name": "Arubion",
+    "official_english_name": "Albion",
+    "debut": [
+      "Chapter 600",
+      "Episode 519"
+    ],
+    "affiliations": [
+      "Fake Straw Hat Crew (Former)",
+      "His own crew"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain"
+    ],
+    "epithet": "\"Gashed Albion\"",
+    "birthday": "November 9th",
+    "bounty": "92,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

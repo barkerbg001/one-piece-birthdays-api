@@ -3,8 +3,38 @@
   "label": "October 22nd",
   "month": 10,
   "day": 22,
-  "characters": [
+  "names": [
     "Sugar",
     "Drip"
+  ],
+  "characters": [
+    {
+      "id": "sugar",
+      "name": "Sugar",
+      "display_name": "Sugar",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Sugar_Anime_Infobox.png/revision/latest/scale-to-width-down/240?cb=20141005232110",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Sugar_Anime_Infobox.png/revision/latest?cb=20141005232110",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sugar",
+      "epithet": null,
+      "affiliation": "Donquixote Pirates",
+      "api": "v1/characters/sugar.json"
+    },
+    {
+      "id": "drip",
+      "name": "Drip",
+      "display_name": "Drip",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Drip_Anime_Infobox.png/revision/latest/scale-to-width-down/137?cb=20130129015503",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Drip_Anime_Infobox.png/revision/latest?cb=20130129015503",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Drip",
+      "epithet": null,
+      "affiliation": "Fake Straw Hat Crew",
+      "api": "v1/characters/drip.json"
+    }
   ]
 }

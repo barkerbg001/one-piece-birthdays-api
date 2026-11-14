@@ -1,0 +1,64 @@
+{
+  "id": "charlotte-prim",
+  "name": "Charlotte Prim",
+  "display_name": "Charlotte Prim",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-22",
+      "label": "July 22nd"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-praline",
+      "name": "Charlotte Praline"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5d/Charlotte_Prim_Anime_Infobox.png/revision/latest?cb=20190210125948",
+    "width": 767,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5d/Charlotte_Prim_Anime_Infobox.png/revision/latest/scale-to-width-down/284?cb=20190210125948",
+    "width": 284,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Prim",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Prim"
+  },
+  "info": {
+    "japanese_name": "シャーロット・プリム",
+    "romanized_name": "Shārotto Purimu",
+    "official_english_name": "Charlotte Prim",
+    "debut": [
+      "Chapter 896, Episode 871"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "origin": "Grand Line (Totto Land)",
+    "age": "29",
+    "birthday": "July 22nd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

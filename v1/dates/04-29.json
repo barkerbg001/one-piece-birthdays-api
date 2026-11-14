@@ -3,7 +3,23 @@
   "label": "April 29th",
   "month": 4,
   "day": 29,
-  "characters": [
+  "names": [
     "Miss Goldenweek (Marianne)"
+  ],
+  "characters": [
+    {
+      "id": "miss-goldenweek",
+      "name": "Miss Goldenweek",
+      "display_name": "Miss Goldenweek (Marianne)",
+      "alias": "Marianne",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Marianne_Anime_Infobox.png/revision/latest/scale-to-width-down/247?cb=20250115010211",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Marianne_Anime_Infobox.png/revision/latest?cb=20250115010211",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Marianne",
+      "epithet": "\"Flag-Bearer of Freedom\"",
+      "affiliation": "New Spiders Cafe",
+      "api": "v1/characters/miss-goldenweek.json"
+    }
   ]
 }

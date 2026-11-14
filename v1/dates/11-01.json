@@ -3,8 +3,38 @@
   "label": "November 1st",
   "month": 11,
   "day": 1,
-  "characters": [
+  "names": [
     "Dalmatian",
     "Wanda"
+  ],
+  "characters": [
+    {
+      "id": "dalmatian",
+      "name": "Dalmatian",
+      "display_name": "Dalmatian",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Dalmatian_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20160818201819",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Dalmatian_Anime_Infobox.png/revision/latest?cb=20160818201819",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Dalmatian",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/dalmatian.json"
+    },
+    {
+      "id": "wanda",
+      "name": "Wanda",
+      "display_name": "Wanda",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/75/Wanda_Anime_Infobox.png/revision/latest/scale-to-width-down/207?cb=20160829034647",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/75/Wanda_Anime_Infobox.png/revision/latest?cb=20160829034647",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Wanda",
+      "epithet": null,
+      "affiliation": "Mokomo Dukedom",
+      "api": "v1/characters/wanda.json"
+    }
   ]
 }

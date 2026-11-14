@@ -3,8 +3,38 @@
   "label": "September 11th",
   "month": 9,
   "day": 11,
-  "characters": [
+  "names": [
     "Mont Blanc Cricket",
     "Morley"
+  ],
+  "characters": [
+    {
+      "id": "mont-blanc-cricket",
+      "name": "Mont Blanc Cricket",
+      "display_name": "Mont Blanc Cricket",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Mont_Blanc_Cricket_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/368?cb=20251116160951",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Mont_Blanc_Cricket_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251116160951",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mont_Blanc_Cricket",
+      "epithet": null,
+      "affiliation": "Saruyama Alliance",
+      "api": "v1/characters/mont-blanc-cricket.json"
+    },
+    {
+      "id": "morley",
+      "name": "Morley",
+      "display_name": "Morley",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/48/Morley_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230517025343",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/48/Morley_Anime_Infobox.png/revision/latest?cb=20230517025343",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Morley",
+      "epithet": "\"Morley of Fur\"",
+      "affiliation": "Revolutionary Army (West Army)",
+      "api": "v1/characters/morley.json"
+    }
   ]
 }

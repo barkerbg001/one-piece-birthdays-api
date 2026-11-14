@@ -3,9 +3,53 @@
   "label": "July 3rd",
   "month": 7,
   "day": 3,
-  "characters": [
+  "names": [
     "Nami",
     "Neptune",
     "Fish Nami"
+  ],
+  "characters": [
+    {
+      "id": "nami",
+      "name": "Nami",
+      "display_name": "Nami",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/68/Nami_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/239?cb=20260315214841",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/68/Nami_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20260315214841",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Nami",
+      "epithet": "Cat Burglar",
+      "affiliation": "Straw Hat Pirates",
+      "api": "v1/characters/nami.json"
+    },
+    {
+      "id": "neptune",
+      "name": "Neptune",
+      "display_name": "Neptune",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/40/Neptune_Anime_Infobox.png/revision/latest/scale-to-width-down/333?cb=20131206042454",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/40/Neptune_Anime_Infobox.png/revision/latest?cb=20131206042454",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Neptune",
+      "epithet": "\"Sea God\"; \"Great Knight of the Sea\"",
+      "affiliation": "Neptune Family",
+      "api": "v1/characters/neptune.json"
+    },
+    {
+      "id": "fish-nami",
+      "name": "Fish Nami",
+      "display_name": "Fish Nami",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/fish-nami.json"
+    }
   ]
 }

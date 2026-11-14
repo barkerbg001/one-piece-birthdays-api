@@ -1,0 +1,57 @@
+{
+  "id": "terracotta",
+  "name": "Terracotta",
+  "display_name": "Terracotta",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-25",
+      "label": "September 25th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Terracotta_Anime_Infobox.png/revision/latest?cb=20240615233654",
+    "width": 704,
+    "height": 827
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Terracotta_Anime_Infobox.png/revision/latest/scale-to-width-down/340?cb=20240615233654",
+    "width": 340,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Terracotta",
+    "url": "https://onepiece.fandom.com/wiki/Terracotta"
+  },
+  "info": {
+    "japanese_name": "テラコッタ",
+    "romanized_name": "Terakotta",
+    "debut": [
+      "Chapter 213",
+      "Episode 128"
+    ],
+    "affiliations": [
+      "Arabasta Kingdom"
+    ],
+    "occupations": [
+      "Royal Head Chef",
+      "Royal Seamstress"
+    ],
+    "birthday": "September 25th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

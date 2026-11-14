@@ -1,0 +1,84 @@
+{
+  "id": "charlotte-opera",
+  "name": "Charlotte Opera",
+  "display_name": "Charlotte Opera",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-29",
+      "label": "September 29th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-counter",
+      "name": "Charlotte Counter"
+    },
+    {
+      "id": "charlotte-cadenza",
+      "name": "Charlotte Cadenza"
+    },
+    {
+      "id": "charlotte-cabaletta",
+      "name": "Charlotte Cabaletta"
+    },
+    {
+      "id": "charlotte-gala",
+      "name": "Charlotte Gala"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/56/Charlotte_Opera_Anime_Infobox.png/revision/latest?cb=20170528044001",
+    "width": 709,
+    "height": 648
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/56/Charlotte_Opera_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20170528044001",
+    "width": 400,
+    "height": 366
+  },
+  "wiki": {
+    "title": "Charlotte Opera",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Opera"
+  },
+  "info": {
+    "japanese_name": "シャーロット・オペラ",
+    "romanized_name": "Shārotto Opera",
+    "official_english_name": "Charlotte Opera",
+    "debut": [
+      "Chapter 829",
+      "Episode 789"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Minister of Whipped Cream"
+    ],
+    "residence": [
+      "Noko Island"
+    ],
+    "status": "1",
+    "age": "46",
+    "birthday": "September 29th",
+    "devil_fruit": "Kuri Kuri no Mi",
+    "devil_fruit_english": "Cream-Cream Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

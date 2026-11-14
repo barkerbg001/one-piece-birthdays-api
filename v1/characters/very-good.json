@@ -1,0 +1,61 @@
+{
+  "id": "very-good",
+  "name": "Very Good",
+  "display_name": "Very Good",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-10",
+      "label": "September 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3a/Very_Good_Anime_Infobox.png/revision/latest?cb=20230812130315",
+    "width": 956,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3a/Very_Good_Anime_Infobox.png/revision/latest/scale-to-width-down/354?cb=20230812130315",
+    "width": 354,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Very Good",
+    "url": "https://onepiece.fandom.com/wiki/Very_Good"
+  },
+  "info": {
+    "japanese_name": "ベリーグッド",
+    "romanized_name": "Berīguddo",
+    "official_english_name": "Berry Good",
+    "debut": [
+      "Chapter 426",
+      "Episode 309"
+    ],
+    "affiliations": [
+      "Marines"
+    ],
+    "occupations": [
+      "Marine Captain"
+    ],
+    "birthday": "September 10th",
+    "bounty": "At least ★",
+    "devil_fruit": "Beri Beri no Mi",
+    "devil_fruit_english": "Berry-Berry Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

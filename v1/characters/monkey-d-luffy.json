@@ -1,0 +1,89 @@
+{
+  "id": "monkey-d-luffy",
+  "name": "Monkey D. Luffy",
+  "display_name": "Monkey D. Luffy",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-05",
+      "label": "May 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20260611004637",
+    "width": 686,
+    "height": 1435
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/191?cb=20260611004637",
+    "width": 191,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Monkey D. Luffy",
+    "url": "https://onepiece.fandom.com/wiki/Monkey_D._Luffy"
+  },
+  "info": {
+    "japanese_name": "モンキー・D・ルフィ",
+    "romanized_name": "Monkī Dī Rufi",
+    "official_english_name": "Monkey D. Luffy",
+    "debut": [
+      "Chapter 1",
+      "Episode 1"
+    ],
+    "affiliations": [
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet",
+      "Four Emperors",
+      "Clan of D.",
+      "Dadan Family (former)",
+      "Baratie (temporary, former)",
+      "Impel Down (former)",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Pirate Captain",
+      "Emperor",
+      "Senior Captain of the Grand Fleet",
+      "Prisoner (former)",
+      "Chore Boy (temporary, former)",
+      "Bandit (former)"
+    ],
+    "origin": "East Blue (Foosha Village)",
+    "residence": [
+      "Foosha Village (former)",
+      "Mt. Colubo (former)",
+      "Rusukaina (former)"
+    ],
+    "epithet": "Straw Hat Luffy",
+    "aliases": [
+      "Lucy",
+      "Luffy-tarou",
+      "Luffy-no-Umi",
+      "Joy Boy"
+    ],
+    "age": "7 (debut); 17 (pre-timeskip); 19 (post-timeskip)",
+    "birthday": "May 5th (Children's Day)",
+    "height": "91 cm (3') (debut, child); 172 cm (5'8\") (pre-timeskip); 174 cm (5'9\") (post-timeskip)",
+    "blood_type": "F",
+    "bounty": "3,000,000,000",
+    "devil_fruit": "Gomu Gomu no Mi; (Hito Hito no Mi, Model: Nika)",
+    "devil_fruit_english": "Gum-Gum Fruit; (Human-Human Fruit, Model: Nika)",
+    "devil_fruit_type": "Paramecia; (Mythical Zoan)"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

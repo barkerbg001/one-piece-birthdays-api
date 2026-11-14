@@ -1,0 +1,67 @@
+{
+  "id": "aladine",
+  "name": "Aladine",
+  "display_name": "Aladine",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-31",
+      "label": "January 31st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/07/Aladine_Anime_Infobox.png/revision/latest?cb=20170528042907",
+    "width": 1155,
+    "height": 1244
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/07/Aladine_Anime_Infobox.png/revision/latest/scale-to-width-down/371?cb=20170528042907",
+    "width": 371,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Aladine",
+    "url": "https://onepiece.fandom.com/wiki/Aladine"
+  },
+  "info": {
+    "japanese_name": "アラディン",
+    "romanized_name": "Aradin",
+    "official_english_name": "Aladdin",
+    "debut": [
+      "Chapter 620",
+      "Episode 540"
+    ],
+    "affiliations": [
+      "Sun Pirates",
+      "Ryugu Kingdom (former)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Doctor",
+      "First Mate",
+      "Soldier (former)",
+      "Slave (former)"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "age": "46",
+    "birthday": "January 31st",
+    "height": "627 cm (20'7\")",
+    "blood_type": "XF",
+    "bounty": "Unknown"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

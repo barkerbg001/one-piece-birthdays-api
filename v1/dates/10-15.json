@@ -3,9 +3,53 @@
   "label": "October 15th",
   "month": 10,
   "day": 15,
-  "characters": [
+  "names": [
     "Charlotte Compote",
     "Mornin",
     "Charlotte Yuen"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-compote",
+      "name": "Charlotte Compote",
+      "display_name": "Charlotte Compote",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Charlotte_Compote_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230702183151",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Charlotte_Compote_Anime_Infobox.png/revision/latest?cb=20230702183151",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Compote",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-compote.json"
+    },
+    {
+      "id": "mornin",
+      "name": "Mornin",
+      "display_name": "Mornin",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/67/Mornin_Anime_Infobox.png/revision/latest/scale-to-width-down/341?cb=20250719205356",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/67/Mornin_Anime_Infobox.png/revision/latest?cb=20250719205356",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mornin",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/mornin.json"
+    },
+    {
+      "id": "charlotte-yuen",
+      "name": "Charlotte Yuen",
+      "display_name": "Charlotte Yuen",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a0/Charlotte_Yuen_Anime_Infobox.png/revision/latest/scale-to-width-down/369?cb=20190203034427",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a0/Charlotte_Yuen_Anime_Infobox.png/revision/latest?cb=20190203034427",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Yuen",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-yuen.json"
+    }
   ]
 }

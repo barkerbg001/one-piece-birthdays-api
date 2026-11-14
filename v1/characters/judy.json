@@ -1,0 +1,55 @@
+{
+  "id": "judy",
+  "name": "Judy",
+  "display_name": "Judy",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-02",
+      "label": "November 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Judy_Anime_Infobox.png/revision/latest?cb=20241022125941",
+    "width": 1426,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Judy_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20241022125941",
+    "width": 400,
+    "height": 303
+  },
+  "wiki": {
+    "title": "Judy",
+    "url": "https://onepiece.fandom.com/wiki/Judy"
+  },
+  "info": {
+    "japanese_name": "ジュディ",
+    "romanized_name": "Judi",
+    "official_english_name": "Judi",
+    "debut": [
+      "Chapter 499",
+      "Episode 393"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Sabaody Archipelago"
+    ],
+    "birthday": "November 2nd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

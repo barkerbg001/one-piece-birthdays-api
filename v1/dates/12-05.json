@@ -3,7 +3,23 @@
   "label": "December 5th",
   "month": 12,
   "day": 5,
-  "characters": [
+  "names": [
     "Indigo"
+  ],
+  "characters": [
+    {
+      "id": "indigo",
+      "name": "Indigo",
+      "display_name": "Indigo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/28/Indigo_Anime_Infobox.png/revision/latest/scale-to-width-down/397?cb=20131122154622",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/28/Indigo_Anime_Infobox.png/revision/latest?cb=20131122154622",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Indigo",
+      "epithet": null,
+      "affiliation": "Golden Lion Pirates",
+      "api": "v1/characters/indigo.json"
+    }
   ]
 }

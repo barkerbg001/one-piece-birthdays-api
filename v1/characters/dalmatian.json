@@ -1,0 +1,58 @@
+{
+  "id": "dalmatian",
+  "name": "Dalmatian",
+  "display_name": "Dalmatian",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-01",
+      "label": "November 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Dalmatian_Anime_Infobox.png/revision/latest?cb=20160818201819",
+    "width": 709,
+    "height": 655
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Dalmatian_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20160818201819",
+    "width": 400,
+    "height": 370
+  },
+  "wiki": {
+    "title": "Dalmatian",
+    "url": "https://onepiece.fandom.com/wiki/Dalmatian"
+  },
+  "info": {
+    "japanese_name": "ダルメシアン",
+    "romanized_name": "Darumeshian",
+    "official_english_name": "Dalmation (WT100); Dalmatian (OPCG)",
+    "debut": [
+      "Chapter 553",
+      "Episode 462"
+    ],
+    "affiliations": [
+      "Marines"
+    ],
+    "occupations": [
+      "Vice Admiral"
+    ],
+    "birthday": "November 1st",
+    "bounty": "At least ★★★★★"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

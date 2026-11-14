@@ -1,0 +1,60 @@
+{
+  "id": "yama",
+  "name": "Yama",
+  "display_name": "Yama",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-03",
+      "label": "October 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/18/Yama_Anime_Infobox.png/revision/latest?cb=20230806202523",
+    "width": 704,
+    "height": 481
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/18/Yama_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230806202523",
+    "width": 400,
+    "height": 273
+  },
+  "wiki": {
+    "title": "Yama",
+    "url": "https://onepiece.fandom.com/wiki/Yama"
+  },
+  "info": {
+    "japanese_name": "ヤマ",
+    "debut": [
+      "Chapter 254",
+      "Episode 167"
+    ],
+    "affiliations": [
+      "Enel (former)"
+    ],
+    "occupations": [
+      "Commander of the Divine Soldiers (former)"
+    ],
+    "origin": "Sky Islands (Birka)",
+    "status": "1",
+    "age": "43 (debut); 45 (after timeskip)",
+    "birthday": "October 3rd",
+    "height": "366 cm (12')",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

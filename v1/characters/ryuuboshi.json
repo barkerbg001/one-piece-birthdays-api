@@ -1,0 +1,65 @@
+{
+  "id": "ryuuboshi",
+  "name": "Ryuuboshi",
+  "display_name": "Ryuuboshi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-24",
+      "label": "June 24th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Ryuboshi_Anime_Infobox.png/revision/latest?cb=20130128033938",
+    "width": 425,
+    "height": 740
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Ryuboshi_Anime_Infobox.png/revision/latest/scale-to-width-down/230?cb=20130128033938",
+    "width": 230,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Ryuboshi",
+    "url": "https://onepiece.fandom.com/wiki/Ryuboshi"
+  },
+  "info": {
+    "japanese_name": "リュウボシ",
+    "romanized_name": "Ryūboshi",
+    "official_english_name": "Ryuboshi",
+    "debut": [
+      "Chapter 609",
+      "Episode 528"
+    ],
+    "affiliations": [
+      "Neptune Family",
+      "Ryugu Kingdom"
+    ],
+    "occupations": [
+      "Prince of the Ryugu Kingdom"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Ryugu Palace"
+    ],
+    "age": "23",
+    "birthday": "June 24th",
+    "height": "544 cm (17’10”)",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

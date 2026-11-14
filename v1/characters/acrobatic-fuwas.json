@@ -1,0 +1,31 @@
+{
+  "id": "acrobatic-fuwas",
+  "name": "Acrobatic Fuwas",
+  "display_name": "Acrobatic Fuwas",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-13",
+      "label": "July 13th"
+    }
+  ],
+  "born_with": [],
+  "image": null,
+  "thumbnail": null,
+  "wiki": null,
+  "info": {},
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

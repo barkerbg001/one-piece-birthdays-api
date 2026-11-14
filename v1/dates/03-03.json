@@ -3,9 +3,53 @@
   "label": "March 3rd",
   "month": 3,
   "day": 3,
-  "characters": [
+  "names": [
     "Galdino (Mr. 3)",
     "Hina",
     "O-Tama"
+  ],
+  "characters": [
+    {
+      "id": "galdino",
+      "name": "Galdino",
+      "display_name": "Galdino (Mr. 3)",
+      "alias": "Mr. 3",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/13/Galdino_Anime_Infobox.png/revision/latest/scale-to-width-down/310?cb=20221003165116",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/13/Galdino_Anime_Infobox.png/revision/latest?cb=20221003165116",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Galdino",
+      "epithet": "\"Loan Shark\"",
+      "affiliation": "Cross Guild",
+      "api": "v1/characters/galdino.json"
+    },
+    {
+      "id": "hina",
+      "name": "Hina",
+      "display_name": "Hina",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/0d/Hina_Anime_Infobox.png/revision/latest/scale-to-width-down/333?cb=20231125233601",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/0d/Hina_Anime_Infobox.png/revision/latest?cb=20231125233601",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hina",
+      "epithet": "\"Black Cage Hina\"",
+      "affiliation": "Marines (Black Cage Corps)",
+      "api": "v1/characters/hina.json"
+    },
+    {
+      "id": "o-tama",
+      "name": "O-Tama",
+      "display_name": "O-Tama",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Kurozumi_Tama_Anime_Infobox.png/revision/latest/scale-to-width-down/205?cb=20210210051806",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Kurozumi_Tama_Anime_Infobox.png/revision/latest?cb=20210210051806",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kurozumi_Tama",
+      "epithet": null,
+      "affiliation": "Kurozumi Family",
+      "api": "v1/characters/o-tama.json"
+    }
   ]
 }

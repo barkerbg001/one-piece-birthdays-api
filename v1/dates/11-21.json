@@ -3,8 +3,38 @@
   "label": "November 21st",
   "month": 11,
   "day": 21,
-  "characters": [
+  "names": [
     "Mummy Mee",
     "Mr. 11"
+  ],
+  "characters": [
+    {
+      "id": "mummy-mee",
+      "name": "Mummy Mee",
+      "display_name": "Mummy Mee",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/70/Mummy_Mee_Anime_Infobox.png/revision/latest/scale-to-width-down/164?cb=20250427191528",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/70/Mummy_Mee_Anime_Infobox.png/revision/latest?cb=20250427191528",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mummy_Mee",
+      "epithet": null,
+      "affiliation": "World Government Orphanage",
+      "api": "v1/characters/mummy-mee.json"
+    },
+    {
+      "id": "mr-11",
+      "name": "Mr. 11",
+      "display_name": "Mr. 11",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/09/Mr._11_Anime_Infobox.png/revision/latest/scale-to-width-down/310?cb=20170426145410",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/09/Mr._11_Anime_Infobox.png/revision/latest?cb=20170426145410",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mr._11",
+      "epithet": null,
+      "affiliation": "Baroque Works",
+      "api": "v1/characters/mr-11.json"
+    }
   ]
 }

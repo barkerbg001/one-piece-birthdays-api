@@ -3,7 +3,23 @@
   "label": "July 30th",
   "month": 7,
   "day": 30,
-  "characters": [
+  "names": [
     "Miss Doublefinger (Zala)"
+  ],
+  "characters": [
+    {
+      "id": "miss-doublefinger",
+      "name": "Miss Doublefinger",
+      "display_name": "Miss Doublefinger (Zala)",
+      "alias": "Zala",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/60/Zala_Anime_Infobox.png/revision/latest/scale-to-width-down/197?cb=20221003164424",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/60/Zala_Anime_Infobox.png/revision/latest?cb=20221003164424",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Zala",
+      "epithet": "\"Poison Spider Zala\"",
+      "affiliation": "New Spiders Cafe",
+      "api": "v1/characters/miss-doublefinger.json"
+    }
   ]
 }

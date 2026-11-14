@@ -3,8 +3,42 @@
   "label": "July 22nd",
   "month": 7,
   "day": 22,
-  "characters": [
+  "names": [
     "Charlotte Prim",
     "Charlotte Praline"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-prim",
+      "name": "Charlotte Prim",
+      "display_name": "Charlotte Prim",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-praline"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/5d/Charlotte_Prim_Anime_Infobox.png/revision/latest/scale-to-width-down/284?cb=20190210125948",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/5d/Charlotte_Prim_Anime_Infobox.png/revision/latest?cb=20190210125948",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Prim",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-prim.json"
+    },
+    {
+      "id": "charlotte-praline",
+      "name": "Charlotte Praline",
+      "display_name": "Charlotte Praline",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-prim"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/11/Charlotte_Praline_Anime_Infobox.png/revision/latest/scale-to-width-down/228?cb=20170528042923",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/11/Charlotte_Praline_Anime_Infobox.png/revision/latest?cb=20170528042923",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Praline",
+      "epithet": null,
+      "affiliation": "Sun Pirates",
+      "api": "v1/characters/charlotte-praline.json"
+    }
   ]
 }

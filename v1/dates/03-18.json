@@ -3,7 +3,23 @@
   "label": "March 18th",
   "month": 3,
   "day": 18,
-  "characters": [
+  "names": [
     "Trebol"
+  ],
+  "characters": [
+    {
+      "id": "trebol",
+      "name": "Trebol",
+      "display_name": "Trebol",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Trebol_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20221117040446",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Trebol_Anime_Infobox.png/revision/latest?cb=20221117040446",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Trebol",
+      "epithet": null,
+      "affiliation": "Donquixote Pirates",
+      "api": "v1/characters/trebol.json"
+    }
   ]
 }

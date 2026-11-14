@@ -3,8 +3,38 @@
   "label": "January 6th",
   "month": 1,
   "day": 6,
-  "characters": [
+  "names": [
     "Oimo",
     "Tilestone"
+  ],
+  "characters": [
+    {
+      "id": "oimo",
+      "name": "Oimo",
+      "display_name": "Oimo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Oimo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20231013231633",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Oimo_Anime_Infobox.png/revision/latest?cb=20231013231633",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Oimo",
+      "epithet": null,
+      "affiliation": "World Government (defected)",
+      "api": "v1/characters/oimo.json"
+    },
+    {
+      "id": "tilestone",
+      "name": "Tilestone",
+      "display_name": "Tilestone",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Tilestone_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250223233624",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Tilestone_Anime_Infobox.png/revision/latest?cb=20250223233624",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Tilestone",
+      "epithet": null,
+      "affiliation": "Galley-La Company",
+      "api": "v1/characters/tilestone.json"
+    }
   ]
 }

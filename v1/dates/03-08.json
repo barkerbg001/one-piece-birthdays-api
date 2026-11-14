@@ -3,8 +3,38 @@
   "label": "March 8th",
   "month": 3,
   "day": 8,
-  "characters": [
+  "names": [
     "Zambai",
     "Samurai Butts"
+  ],
+  "characters": [
+    {
+      "id": "zambai",
+      "name": "Zambai",
+      "display_name": "Zambai",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Zambai_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/170?cb=20210313192955",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Zambai_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20210313192955",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Zambai",
+      "epithet": null,
+      "affiliation": "Galley-La Company (Zambai's Company Union)",
+      "api": "v1/characters/zambai.json"
+    },
+    {
+      "id": "samurai-butts",
+      "name": "Samurai Butts",
+      "display_name": "Samurai Butts",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/samurai-butts.json"
+    }
   ]
 }

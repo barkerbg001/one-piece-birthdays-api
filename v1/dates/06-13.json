@@ -3,7 +3,23 @@
   "label": "June 13th",
   "month": 6,
   "day": 13,
-  "characters": [
+  "names": [
     "Ripper"
+  ],
+  "characters": [
+    {
+      "id": "ripper",
+      "name": "Ripper",
+      "display_name": "Ripper",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/82/Ripper_Anime_Infobox.png/revision/latest/scale-to-width-down/290?cb=20240306170748",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/82/Ripper_Anime_Infobox.png/revision/latest?cb=20240306170748",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Ripper",
+      "epithet": null,
+      "affiliation": "Marines (153rd Branch)",
+      "api": "v1/characters/ripper.json"
+    }
   ]
 }

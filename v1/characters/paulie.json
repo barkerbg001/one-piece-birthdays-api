@@ -1,0 +1,66 @@
+{
+  "id": "paulie",
+  "name": "Paulie",
+  "display_name": "Paulie",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-08",
+      "label": "July 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/62/Paulie_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251102160614",
+    "width": 1304,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/62/Paulie_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20251102160614",
+    "width": 400,
+    "height": 331
+  },
+  "wiki": {
+    "title": "Paulie",
+    "url": "https://onepiece.fandom.com/wiki/Paulie"
+  },
+  "info": {
+    "japanese_name": "パウリー",
+    "romanized_name": "Paurī",
+    "official_english_name": "Paulie (Funimation, Viz); Pauly (Unlimited Adventure)",
+    "debut": [
+      "Chapter 323",
+      "Episode 230"
+    ],
+    "affiliations": [
+      "Galley-La Company"
+    ],
+    "occupations": [
+      "Vice President of Galley-La",
+      "Dock One Foreman (promoted)",
+      "Shipwright"
+    ],
+    "origin": "Grand Line (Water 7)",
+    "residence": [
+      "Water 7"
+    ],
+    "age": "24 (debut); 26 (after timeskip)",
+    "birthday": "July 8th",
+    "height": "195 cm (6'5\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

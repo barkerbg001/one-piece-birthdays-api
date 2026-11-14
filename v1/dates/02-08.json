@@ -3,9 +3,53 @@
   "label": "February 8th",
   "month": 2,
   "day": 8,
-  "characters": [
+  "names": [
     "Onigumo",
     "Chiken",
     "Gonbe"
+  ],
+  "characters": [
+    {
+      "id": "onigumo",
+      "name": "Onigumo",
+      "display_name": "Onigumo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Onigumo_Anime_Infobox.png/revision/latest/scale-to-width-down/166?cb=20221123171305",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Onigumo_Anime_Infobox.png/revision/latest?cb=20221123171305",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Onigumo",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/onigumo.json"
+    },
+    {
+      "id": "chiken",
+      "name": "Chiken",
+      "display_name": "Chiken",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Chicken_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20190124073900",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Chicken_Anime_Infobox.png/revision/latest?cb=20190124073900",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Chicken",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/chiken.json"
+    },
+    {
+      "id": "gonbe",
+      "name": "Gonbe",
+      "display_name": "Gonbe",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Gonbe_Anime_Infobox.png/revision/latest/scale-to-width-down/210?cb=20250318234500",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Gonbe_Anime_Infobox.png/revision/latest?cb=20250318234500",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Gonbe",
+      "epithet": null,
+      "affiliation": "Chimney",
+      "api": "v1/characters/gonbe.json"
+    }
   ]
 }

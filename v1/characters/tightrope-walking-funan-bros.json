@@ -1,0 +1,63 @@
+{
+  "id": "tightrope-walking-funan-bros",
+  "name": "Tightrope Walking Funan Bros.",
+  "display_name": "Tightrope Walking Funan Bros.",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-25",
+      "label": "February 25th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2f/Tightrope_Walking_Funan_Bros_Anime_Infobox.png/revision/latest?cb=20230508144808",
+    "width": 704,
+    "height": 528
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2f/Tightrope_Walking_Funan_Bros_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230508144808",
+    "width": 400,
+    "height": 300
+  },
+  "wiki": {
+    "title": "Tightrope Walking Funan Bros",
+    "url": "https://onepiece.fandom.com/wiki/Tightrope_Walking_Funan_Bros"
+  },
+  "info": {
+    "japanese_name": "綱渡りフナンボローズ",
+    "romanized_name": "Tsunawatari Funan Borōzu",
+    "official_english_name": "Tightrope Funan Boros",
+    "debut": [
+      "Chapter 8",
+      "Episode 4"
+    ],
+    "affiliations": [
+      "Buggy Pirates",
+      "Buggy and Alvida Alliance",
+      "Buggy's Delivery"
+    ],
+    "occupations": [
+      "Pirates"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Buggy Town, Karai Bari Island"
+    ],
+    "birthday": "February 25th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

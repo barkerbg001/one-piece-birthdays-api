@@ -1,0 +1,65 @@
+{
+  "id": "matsuge",
+  "name": "Matsuge",
+  "display_name": "Matsuge",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-17",
+      "label": "August 17th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Matsuge_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20130917234805",
+    "width": 373,
+    "height": 833
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Matsuge_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/179?cb=20130917234805",
+    "width": 179,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Matsuge",
+    "url": "https://onepiece.fandom.com/wiki/Matsuge"
+  },
+  "info": {
+    "japanese_name": "睫毛（マツゲ）",
+    "official_english_name": "Eyelashes (VIZ),; Eyelash (4Kids, Funimation dub),; Lashes (Funimation subs),; Matsuge (WT100)",
+    "debut": [
+      "Chapter 162",
+      "Episode 93"
+    ],
+    "affiliations": [
+      "Super Spot-Billed Duck Troops"
+    ],
+    "occupations": [
+      "Royal Transport",
+      "Member of the Super Spot-Billed Duck Troops"
+    ],
+    "origin": "Grand Line (Arabasta Kingdom)",
+    "residence": [
+      "Alubarna",
+      "Rainbase (former)"
+    ],
+    "age": "15 (debut); 17 (after timeskip)",
+    "birthday": "August 17th",
+    "height": "190 cm (6'3\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

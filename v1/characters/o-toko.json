@@ -1,0 +1,65 @@
+{
+  "id": "o-toko",
+  "name": "O-Toko",
+  "display_name": "O-Toko",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-05",
+      "label": "October 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/0c/Toko_Anime_Infobox.png/revision/latest?cb=20200202102848",
+    "width": 1071,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/0c/Toko_Anime_Infobox.png/revision/latest/scale-to-width-down/397?cb=20200202102848",
+    "width": 397,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Toko",
+    "url": "https://onepiece.fandom.com/wiki/Toko"
+  },
+  "info": {
+    "japanese_name": "トコ",
+    "romanized_name": "Toko",
+    "official_english_name": "Toko",
+    "debut": [
+      "Chapter 927",
+      "Episode 920"
+    ],
+    "affiliations": [
+      "Kouzuki Hiyori, Shimotsuki Family"
+    ],
+    "occupations": [
+      "Kamuro"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Flower Capital (Ebisu Town)",
+      "(Shogun Castle)"
+    ],
+    "age": "6",
+    "birthday": "October 5th",
+    "height": "89 cm (2'11\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

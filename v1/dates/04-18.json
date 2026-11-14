@@ -3,7 +3,23 @@
   "label": "April 18th",
   "month": 4,
   "day": 18,
-  "characters": [
+  "names": [
     "Hyouzou"
+  ],
+  "characters": [
+    {
+      "id": "hyouzou",
+      "name": "Hyouzou",
+      "display_name": "Hyouzou",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a7/Hyouzou_Anime_Infobox.png/revision/latest/scale-to-width-down/165?cb=20240827194553",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a7/Hyouzou_Anime_Infobox.png/revision/latest?cb=20240827194553",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hyouzou",
+      "epithet": null,
+      "affiliation": "New Fish-Man Pirates",
+      "api": "v1/characters/hyouzou.json"
+    }
   ]
 }

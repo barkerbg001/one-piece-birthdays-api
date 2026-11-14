@@ -1,0 +1,63 @@
+{
+  "id": "johnny",
+  "name": "Johnny",
+  "display_name": "Johnny",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-12",
+      "label": "November 12th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Johnny_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20231120150337",
+    "width": 398,
+    "height": 829
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Johnny_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/192?cb=20231120150337",
+    "width": 192,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Johnny",
+    "url": "https://onepiece.fandom.com/wiki/Johnny"
+  },
+  "info": {
+    "japanese_name": "ジョニー",
+    "romanized_name": "Jonī",
+    "official_english_name": "Johnny",
+    "debut": [
+      "Chapter 42",
+      "Episode 19"
+    ],
+    "affiliations": [
+      "Yosaku",
+      "Roronoa Zoro's band (former)"
+    ],
+    "occupations": [
+      "Bounty Hunter (former)",
+      "Fisherman"
+    ],
+    "origin": "East Blue",
+    "age": "23 (debut); 25 (after timeskip)",
+    "birthday": "November 12th",
+    "height": "186 cm (6'1\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,7 +3,23 @@
   "label": "May 28th",
   "month": 5,
   "day": 28,
-  "characters": [
+  "names": [
     "Cat-car"
+  ],
+  "characters": [
+    {
+      "id": "cat-car",
+      "name": "Cat-car",
+      "display_name": "Cat-car",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/cat-car.json"
+    }
   ]
 }

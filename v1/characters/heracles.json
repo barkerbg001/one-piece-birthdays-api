@@ -1,0 +1,62 @@
+{
+  "id": "heracles",
+  "name": "Heracles",
+  "display_name": "Heracles",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-10",
+      "label": "May 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/92/Heracles_Anime_Infobox.png/revision/latest?cb=20141010000157",
+    "width": 423,
+    "height": 593
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/92/Heracles_Anime_Infobox.png/revision/latest/scale-to-width-down/285?cb=20141010000157",
+    "width": 285,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Heracles",
+    "url": "https://onepiece.fandom.com/wiki/Heracles"
+  },
+  "info": {
+    "japanese_name": "ヘラクレス",
+    "romanized_name": "Herakuresu",
+    "debut": [
+      "Chapter 524",
+      "Episode 420"
+    ],
+    "occupations": [
+      "Explorer",
+      "Warrior",
+      "Botanist"
+    ],
+    "origin": "South Blue",
+    "residence": [
+      "Boin Archipelago"
+    ],
+    "age": "49 (debut); 51 (after timeskip)",
+    "birthday": "May 10th",
+    "height": "214 cm (7'0\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

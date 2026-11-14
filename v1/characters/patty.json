@@ -1,0 +1,61 @@
+{
+  "id": "patty",
+  "name": "Patty",
+  "display_name": "Patty",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-12",
+      "label": "March 12th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/51/Patty_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251207161125",
+    "width": 647,
+    "height": 618
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/51/Patty_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20251207161125",
+    "width": 400,
+    "height": 382
+  },
+  "wiki": {
+    "title": "Patty",
+    "url": "https://onepiece.fandom.com/wiki/Patty"
+  },
+  "info": {
+    "japanese_name": "パティ",
+    "romanized_name": "Pati",
+    "official_english_name": "Patty",
+    "debut": [
+      "Chapter 44",
+      "Episode 21"
+    ],
+    "affiliations": [
+      "Baratie"
+    ],
+    "occupations": [
+      "Patissier"
+    ],
+    "origin": "East Blue",
+    "age": "27 (debut); 29 (after timeskip)",
+    "birthday": "March 12th",
+    "height": "204 cm (6'8\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "tonjit",
+  "name": "Tonjit",
+  "display_name": "Tonjit",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-02",
+      "label": "October 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Tonjit_Anime_Infobox.png/revision/latest?cb=20251102175624",
+    "width": 892,
+    "height": 2004
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Tonjit_Anime_Infobox.png/revision/latest/scale-to-width-down/178?cb=20251102175624",
+    "width": 178,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Tonjit",
+    "url": "https://onepiece.fandom.com/wiki/Tonjit"
+  },
+  "info": {
+    "japanese_name": "トンジット",
+    "romanized_name": "Tonjitto",
+    "official_english_name": "Tonjit",
+    "debut": [
+      "Chapter 304",
+      "Episode 207"
+    ],
+    "occupations": [
+      "Nomad, Stilt walker"
+    ],
+    "origin": "Grand Line (Long Ring Long Land)",
+    "age": "61 (debut); 63 (after timeskip)",
+    "birthday": "October 2nd",
+    "height": "118 cm (3'10\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "o-tama",
+  "name": "O-Tama",
+  "display_name": "O-Tama",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-03",
+      "label": "March 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Kurozumi_Tama_Anime_Infobox.png/revision/latest?cb=20210210051806",
+    "width": 554,
+    "height": 1078
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Kurozumi_Tama_Anime_Infobox.png/revision/latest/scale-to-width-down/205?cb=20210210051806",
+    "width": 205,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kurozumi Tama",
+    "url": "https://onepiece.fandom.com/wiki/Kurozumi_Tama"
+  },
+  "info": {
+    "japanese_name": "黒炭玉",
+    "romanized_name": "Kurozumi Tama",
+    "official_english_name": "Kurozumi Tama",
+    "debut": [
+      "Chapter 911",
+      "Episode 893"
+    ],
+    "affiliations": [
+      "Kurozumi Family",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Kunoichi in training",
+      "Kasa weaver"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Amigasa Village, Kuri, Wano Country"
+    ],
+    "age": "8",
+    "birthday": "March 3rd",
+    "height": "108 cm (3'6½\")",
+    "blood_type": "F",
+    "devil_fruit": "Kibi Kibi no Mi",
+    "devil_fruit_english": "Millet-Millet Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

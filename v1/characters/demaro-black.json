@@ -1,0 +1,63 @@
+{
+  "id": "demaro-black",
+  "name": "Demaro Black",
+  "display_name": "Demaro Black",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-05",
+      "label": "May 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Demalo_Black_Anime_Infobox.png/revision/latest?cb=20241103021619",
+    "width": 1305,
+    "height": 1041
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Demalo_Black_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20241103021619",
+    "width": 400,
+    "height": 319
+  },
+  "wiki": {
+    "title": "Demalo Black",
+    "url": "https://onepiece.fandom.com/wiki/Demalo_Black"
+  },
+  "info": {
+    "japanese_name": "デマロ・ブラック",
+    "romanized_name": "Demaro Burakku",
+    "official_english_name": "Demalo Black; Demaro Black (Funimation, former)",
+    "debut": [
+      "Chapter 598",
+      "Episode 517"
+    ],
+    "affiliations": [
+      "Fake Straw Hat Crew"
+    ],
+    "occupations": [
+      "Pirate Captain"
+    ],
+    "origin": "East Blue",
+    "epithet": "\"Three-Tongued\" Demalo Black; (Viz, Funimation: \"Triple-Tongued\")",
+    "age": "36",
+    "birthday": "May 5th",
+    "height": "245 cm (8'0\")",
+    "blood_type": "S",
+    "bounty": "26,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "mr-9",
+  "name": "Mr. 9",
+  "display_name": "Mr. 9",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-27",
+      "label": "September 27th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Mr._9_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251130161817",
+    "width": 434,
+    "height": 614
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Mr._9_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/283?cb=20251130161817",
+    "width": 283,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Mr. 9",
+    "url": "https://onepiece.fandom.com/wiki/Mr._9"
+  },
+  "info": {
+    "japanese_name": "Mr. 9",
+    "romanized_name": "Misutā Nain",
+    "official_english_name": "Mr. 9",
+    "debut": [
+      "Chapter 103",
+      "Episode 62"
+    ],
+    "affiliations": [
+      "Baroque Works (former)"
+    ],
+    "occupations": [
+      "Frontier Agent (former)",
+      "Bounty Hunter"
+    ],
+    "origin": "Grand Line",
+    "aliases": [
+      "Mr. 9"
+    ],
+    "birthday": "September 27th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

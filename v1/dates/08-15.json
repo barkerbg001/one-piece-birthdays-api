@@ -3,8 +3,38 @@
   "label": "August 15th",
   "month": 8,
   "day": 15,
-  "characters": [
+  "names": [
     "Dr. Tsukimi",
     "Bentham (Mr. 2 Bon Clay)"
+  ],
+  "characters": [
+    {
+      "id": "dr-tsukimi",
+      "name": "Dr. Tsukimi",
+      "display_name": "Dr. Tsukimi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Tsukimi_Manga_Infobox.png/revision/latest/scale-to-width-down/142?cb=20220723204030",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Tsukimi_Manga_Infobox.png/revision/latest?cb=20220723204030",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Tsukimi",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/dr-tsukimi.json"
+    },
+    {
+      "id": "bentham",
+      "name": "Bentham",
+      "display_name": "Bentham (Mr. 2 Bon Clay)",
+      "alias": "Mr. 2 Bon Clay",
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/0e/Bentham_Anime_Infobox.png/revision/latest/scale-to-width-down/224?cb=20160929070742",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/0e/Bentham_Anime_Infobox.png/revision/latest?cb=20160929070742",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Bentham",
+      "epithet": "\"Bentham of the Wild\"",
+      "affiliation": "Newkama Land",
+      "api": "v1/characters/bentham.json"
+    }
   ]
 }

@@ -3,7 +3,23 @@
   "label": "March 22nd",
   "month": 3,
   "day": 22,
-  "characters": [
+  "names": [
     "Sapi"
+  ],
+  "characters": [
+    {
+      "id": "sapi",
+      "name": "Sapi",
+      "display_name": "Sapi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Sapi_Anime_Infobox.png/revision/latest/scale-to-width-down/340?cb=20200208163232",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Sapi_Anime_Infobox.png/revision/latest?cb=20200208163232",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sapi",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/sapi.json"
+    }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "id": "charlotte-mascarpone",
+  "name": "Charlotte Mascarpone",
+  "display_name": "Charlotte Mascarpone",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-27",
+      "label": "February 27th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-joscarpone",
+      "name": "Charlotte Joscarpone"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Charlotte_Mascarpone_Anime_Infobox.png/revision/latest?cb=20171030014803",
+    "width": 424,
+    "height": 768
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Charlotte_Mascarpone_Anime_Infobox.png/revision/latest/scale-to-width-down/221?cb=20171030014803",
+    "width": 221,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Mascarpone",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Mascarpone"
+  },
+  "info": {
+    "japanese_name": "シャーロット・マスカルポーネ",
+    "romanized_name": "Shārotto Masukarupōne",
+    "official_english_name": "Charlotte Mascarpone",
+    "debut": [
+      "Chapter 845",
+      "Episode 809"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Minister of Tableware"
+    ],
+    "residence": [
+      "Cutlery Island"
+    ],
+    "age": "20",
+    "birthday": "February 27th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

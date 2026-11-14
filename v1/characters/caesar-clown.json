@@ -1,0 +1,76 @@
+{
+  "id": "caesar-clown",
+  "name": "Caesar Clown",
+  "display_name": "Caesar Clown",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-09",
+      "label": "April 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a6/Caesar_Clown_Anime_Infobox.png/revision/latest?cb=20221101011307",
+    "width": 1633,
+    "height": 2002
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a6/Caesar_Clown_Anime_Infobox.png/revision/latest/scale-to-width-down/326?cb=20221101011307",
+    "width": 326,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Caesar Clown",
+    "url": "https://onepiece.fandom.com/wiki/Caesar_Clown"
+  },
+  "info": {
+    "japanese_name": "シーザー・クラウン",
+    "romanized_name": "Shīzā Kuraun",
+    "official_english_name": "Caesar Clown",
+    "debut": [
+      "Chapter 658",
+      "Episode 581"
+    ],
+    "affiliations": [
+      "NEO MADS",
+      "Donquixote Pirates (former)",
+      "Marines (former)",
+      "MADS (former)"
+    ],
+    "occupations": [
+      "Scientist"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Punk Hazard (Third Research Institute)(former)"
+    ],
+    "epithet": "\"Master\"",
+    "aliases": [
+      "\"Cedar\"",
+      "\"'Gangster' Gastino\""
+    ],
+    "age": "55",
+    "birthday": "April 9th",
+    "height": "309 cm (10'1\")",
+    "blood_type": "X",
+    "bounty": "300,000,000",
+    "devil_fruit": "Gasu Gasu no Mi",
+    "devil_fruit_english": "Gas-Gas Fruit",
+    "devil_fruit_type": "Logia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

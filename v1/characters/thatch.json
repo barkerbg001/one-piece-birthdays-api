@@ -1,0 +1,59 @@
+{
+  "id": "thatch",
+  "name": "Thatch",
+  "display_name": "Thatch",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-24",
+      "label": "March 24th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/15/Thatch_Anime_Infobox.png/revision/latest?cb=20230520115925",
+    "width": 948,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/15/Thatch_Anime_Infobox.png/revision/latest/scale-to-width-down/351?cb=20230520115925",
+    "width": 351,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Thatch",
+    "url": "https://onepiece.fandom.com/wiki/Thatch"
+  },
+  "info": {
+    "japanese_name": "サッチ",
+    "romanized_name": "Satchi",
+    "debut": [
+      "Chapter 440",
+      "Episode 325"
+    ],
+    "affiliations": [
+      "Whitebeard Pirates"
+    ],
+    "occupations": [
+      "4th Division Commander",
+      "Cook"
+    ],
+    "origin": "North Blue",
+    "status": "2",
+    "birthday": "March 24th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

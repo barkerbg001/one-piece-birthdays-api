@@ -1,0 +1,58 @@
+{
+  "id": "miss-friday",
+  "name": "Miss Friday",
+  "display_name": "Miss Friday",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-21",
+      "label": "January 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6b/Miss_Friday_Anime_Infobox.png/revision/latest?cb=20250526181805",
+    "width": 344,
+    "height": 509
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6b/Miss_Friday_Anime_Infobox.png/revision/latest/scale-to-width-down/270?cb=20250526181805",
+    "width": 270,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Miss Friday",
+    "url": "https://onepiece.fandom.com/wiki/Miss_Friday"
+  },
+  "info": {
+    "japanese_name": "ミス・フライデー",
+    "romanized_name": "Misu Furaidē",
+    "official_english_name": "Ms. Friday (VIZ, 4Kids); Miss Friday (Odex, Funimation)",
+    "debut": [
+      "Chapter 105",
+      "Episode 63"
+    ],
+    "affiliations": [
+      "Baroque Works (former)"
+    ],
+    "occupations": [
+      "Assassin (former)"
+    ],
+    "origin": "Grand Line",
+    "birthday": "January 21st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

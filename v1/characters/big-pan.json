@@ -1,0 +1,60 @@
+{
+  "id": "big-pan",
+  "name": "Big Pan",
+  "display_name": "Big Pan",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-25",
+      "label": "May 25th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9e/Big_Pan_Anime_Infobox.png/revision/latest?cb=20130420215928",
+    "width": 411,
+    "height": 629
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9e/Big_Pan_Anime_Infobox.png/revision/latest/scale-to-width-down/261?cb=20130420215928",
+    "width": 261,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Big Pan",
+    "url": "https://onepiece.fandom.com/wiki/Big_Pan"
+  },
+  "info": {
+    "japanese_name": "ビッグパン",
+    "romanized_name": "Biggu Pan",
+    "official_english_name": "Big Bun (Viz); Big Pan (Funimation)",
+    "debut": [
+      "Chapter 309",
+      "Episode 210"
+    ],
+    "affiliations": [
+      "Foxy Pirates (former)",
+      "Groggy Monsters"
+    ],
+    "occupations": [
+      "Pirate",
+      "Combatant"
+    ],
+    "epithet": "Big Pan \"the Wotan\"",
+    "birthday": "May 25th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "dellinger",
+  "name": "Dellinger",
+  "display_name": "Dellinger",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-11",
+      "label": "August 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8b/Dellinger_Anime_Infobox.png/revision/latest?cb=20150415222442",
+    "width": 720,
+    "height": 1930
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8b/Dellinger_Anime_Infobox.png/revision/latest/scale-to-width-down/149?cb=20150415222442",
+    "width": 149,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Dellinger",
+    "url": "https://onepiece.fandom.com/wiki/Dellinger"
+  },
+  "info": {
+    "japanese_name": "デリンジャー",
+    "romanized_name": "Derinjā",
+    "debut": [
+      "Chapter 702",
+      "Episode 632"
+    ],
+    "affiliations": [
+      "Donquixote Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Spider Miles (former)",
+      "Dressrosa (former)"
+    ],
+    "age": "16",
+    "birthday": "August 11th",
+    "height": "145 cm (4'9\")",
+    "blood_type": "S (RH-)",
+    "bounty": "15,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,8 +3,38 @@
   "label": "December 27th",
   "month": 12,
   "day": 27,
-  "characters": [
+  "names": [
     "Lines",
     "Akumai"
+  ],
+  "characters": [
+    {
+      "id": "lines",
+      "name": "Lines",
+      "display_name": "Lines",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Lines_Anime_Infobox.png/revision/latest/scale-to-width-down/349?cb=20240705174446",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Lines_Anime_Infobox.png/revision/latest?cb=20240705174446",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Lines",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/lines.json"
+    },
+    {
+      "id": "akumai",
+      "name": "Akumai",
+      "display_name": "Akumai",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/48/Akumai_Anime_Infobox.png/revision/latest/scale-to-width-down/185?cb=20250807233240",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/48/Akumai_Anime_Infobox.png/revision/latest?cb=20250807233240",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Akumai",
+      "epithet": null,
+      "affiliation": "Baroque Works (Billions) (former)",
+      "api": "v1/characters/akumai.json"
+    }
   ]
 }

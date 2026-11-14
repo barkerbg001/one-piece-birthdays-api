@@ -3,8 +3,38 @@
   "label": "March 20th",
   "month": 3,
   "day": 20,
-  "characters": [
+  "names": [
     "Sabo",
     "Shiki"
+  ],
+  "characters": [
+    {
+      "id": "sabo",
+      "name": "Sabo",
+      "display_name": "Sabo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c2/Sabo_Anime_Infobox.png/revision/latest/scale-to-width-down/264?cb=20230804035141",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c2/Sabo_Anime_Infobox.png/revision/latest?cb=20230804035141",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sabo",
+      "epithet": "\"Flame Emperor\"",
+      "affiliation": "Revolutionary Army",
+      "api": "v1/characters/sabo.json"
+    },
+    {
+      "id": "shiki",
+      "name": "Shiki",
+      "display_name": "Shiki",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/32/Shiki_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230826192523",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/32/Shiki_Anime_Infobox.png/revision/latest?cb=20230826192523",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Shiki",
+      "epithet": "\"Shiki the Golden Lion\"; \"The Flying Pirate\"",
+      "affiliation": "Golden Lion Pirates",
+      "api": "v1/characters/shiki.json"
+    }
   ]
 }

@@ -3,8 +3,38 @@
   "label": "October 7th",
   "month": 10,
   "day": 7,
-  "characters": [
+  "names": [
     "Lao G",
     "Kouzuki Momonosuke"
+  ],
+  "characters": [
+    {
+      "id": "lao-g",
+      "name": "Lao G",
+      "display_name": "Lao G",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/52/Lao_G_Anime_Infobox.png/revision/latest/scale-to-width-down/207?cb=20141202204639",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/52/Lao_G_Anime_Infobox.png/revision/latest?cb=20141202204639",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Lao_G",
+      "epithet": null,
+      "affiliation": "Donquixote Pirates",
+      "api": "v1/characters/lao-g.json"
+    },
+    {
+      "id": "kouzuki-momonosuke",
+      "name": "Kouzuki Momonosuke",
+      "display_name": "Kouzuki Momonosuke",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8b/Kouzuki_Momonosuke_Anime_Infobox.png/revision/latest/scale-to-width-down/307?cb=20240904123638",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8b/Kouzuki_Momonosuke_Anime_Infobox.png/revision/latest?cb=20240904123638",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kouzuki_Momonosuke",
+      "epithet": null,
+      "affiliation": "Kouzuki Family",
+      "api": "v1/characters/kouzuki-momonosuke.json"
+    }
   ]
 }

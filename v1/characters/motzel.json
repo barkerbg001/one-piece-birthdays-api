@@ -1,0 +1,52 @@
+{
+  "id": "motzel",
+  "name": "Motzel",
+  "display_name": "Motzel",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-07",
+      "label": "September 7th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Motzel_Anime_Infobox.png/revision/latest?cb=20240308003535",
+    "width": 480,
+    "height": 502
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Motzel_Anime_Infobox.png/revision/latest/scale-to-width-down/382?cb=20240308003535",
+    "width": 382,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Motzel",
+    "url": "https://onepiece.fandom.com/wiki/Motzel"
+  },
+  "info": {
+    "japanese_name": "モッツェルおじさん",
+    "romanized_name": "Mottseru Ojisan",
+    "official_english_name": "Mr. Motzel",
+    "debut": [
+      "Chapter 43",
+      "Episode 20"
+    ],
+    "origin": "East Blue",
+    "birthday": "September 7th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

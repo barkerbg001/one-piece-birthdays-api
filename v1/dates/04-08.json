@@ -3,10 +3,68 @@
   "label": "April 8th",
   "month": 4,
   "day": 8,
-  "characters": [
+  "names": [
     "Clover",
     "Buffalo",
     "Megalo",
     "Bourbon Jr."
+  ],
+  "characters": [
+    {
+      "id": "clover",
+      "name": "Clover",
+      "display_name": "Clover",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Clou_D._Clover_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20221112234508",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Clou_D._Clover_Anime_Infobox.png/revision/latest?cb=20221112234508",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Clou_D._Clover",
+      "epithet": null,
+      "affiliation": "Ohara Archaeologists",
+      "api": "v1/characters/clover.json"
+    },
+    {
+      "id": "buffalo",
+      "name": "Buffalo",
+      "display_name": "Buffalo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Buffalo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20131104002420",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Buffalo_Anime_Infobox.png/revision/latest?cb=20131104002420",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Buffalo",
+      "epithet": null,
+      "affiliation": "Donquixote Pirates",
+      "api": "v1/characters/buffalo.json"
+    },
+    {
+      "id": "megalo",
+      "name": "Megalo",
+      "display_name": "Megalo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/96/Megalo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20120122084511",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/96/Megalo_Anime_Infobox.png/revision/latest?cb=20120122084511",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Megalo",
+      "epithet": null,
+      "affiliation": "Shirahoshi",
+      "api": "v1/characters/megalo.json"
+    },
+    {
+      "id": "bourbon-jr",
+      "name": "Bourbon Jr.",
+      "display_name": "Bourbon Jr.",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d1/Bourbon_Jr._Anime_Infobox.png/revision/latest/scale-to-width-down/302?cb=20260530185254",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d1/Bourbon_Jr._Anime_Infobox.png/revision/latest?cb=20260530185254",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Bourbon_Jr.",
+      "epithet": null,
+      "affiliation": "Super Spot-Billed Duck Troops",
+      "api": "v1/characters/bourbon-jr.json"
+    }
   ]
 }

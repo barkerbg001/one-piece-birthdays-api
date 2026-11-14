@@ -1,0 +1,61 @@
+{
+  "id": "scarlet",
+  "name": "Scarlet",
+  "display_name": "Scarlet",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-28",
+      "label": "October 28th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Scarlet_Anime_Infobox.png/revision/latest?cb=20131122152216",
+    "width": 380,
+    "height": 539
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Scarlet_Anime_Infobox.png/revision/latest/scale-to-width-down/282?cb=20131122152216",
+    "width": 282,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Scarlet",
+    "url": "https://onepiece.fandom.com/wiki/Scarlet"
+  },
+  "info": {
+    "japanese_name": "スカーレット",
+    "romanized_name": "Sukāretto",
+    "official_english_name": "Scarlet",
+    "debut": [
+      "Volume 0's cover",
+      "Episode 429",
+      "Movie 10"
+    ],
+    "affiliations": [
+      "Golden Lion Pirates"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "residence": [
+      "Merveille"
+    ],
+    "epithet": "Commander Scarlet"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "koushirou",
+  "name": "Koushirou",
+  "display_name": "Koushirou",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-04",
+      "label": "May 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/61/Shimotsuki_Koushirou_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251109160750",
+    "width": 1312,
+    "height": 1060
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/61/Shimotsuki_Koushirou_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20251109160750",
+    "width": 400,
+    "height": 323
+  },
+  "wiki": {
+    "title": "Shimotsuki Koushirou",
+    "url": "https://onepiece.fandom.com/wiki/Shimotsuki_Koushirou"
+  },
+  "info": {
+    "japanese_name": "霜月コウシロウ",
+    "romanized_name": "Shimotsuki Kōshirō",
+    "official_english_name": "Shimotsuki Koshiro; Koushirou (Live-Action, OPCG)",
+    "debut": [
+      "Chapter 5",
+      "Episode 19"
+    ],
+    "affiliations": [
+      "Shimotsuki Family"
+    ],
+    "occupations": [
+      "Dojo Master"
+    ],
+    "origin": "East Blue",
+    "age": "40 (debut); 49 (pre-timeskip); 51 (after timeskip)",
+    "birthday": "May 4th",
+    "height": "184 cm (6'0½\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

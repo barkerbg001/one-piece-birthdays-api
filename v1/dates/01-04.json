@@ -3,9 +3,53 @@
   "label": "January 4th",
   "month": 1,
   "day": 4,
-  "characters": [
+  "names": [
     "Peterman",
     "Lassoo",
     "Ulti"
+  ],
+  "characters": [
+    {
+      "id": "peterman",
+      "name": "Peterman",
+      "display_name": "Peterman",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/da/Peterman_Anime_Infobox.png/revision/latest/scale-to-width-down/245?cb=20240429004755",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/da/Peterman_Anime_Infobox.png/revision/latest?cb=20240429004755",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Peterman",
+      "epithet": null,
+      "affiliation": "Hound Pets",
+      "api": "v1/characters/peterman.json"
+    },
+    {
+      "id": "lassoo",
+      "name": "Lassoo",
+      "display_name": "Lassoo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Lassoo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230624125357",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Lassoo_Anime_Infobox.png/revision/latest?cb=20230624125357",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Lassoo",
+      "epithet": null,
+      "affiliation": "New Spiders Cafe",
+      "api": "v1/characters/lassoo.json"
+    },
+    {
+      "id": "ulti",
+      "name": "Ulti",
+      "display_name": "Ulti",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Ulti_Anime_Infobox.png/revision/latest/scale-to-width-down/193?cb=20240831170217",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Ulti_Anime_Infobox.png/revision/latest?cb=20240831170217",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Ulti",
+      "epithet": null,
+      "affiliation": "Yamato",
+      "api": "v1/characters/ulti.json"
+    }
   ]
 }

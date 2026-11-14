@@ -1,0 +1,72 @@
+{
+  "id": "charlotte-gala",
+  "name": "Charlotte Gala",
+  "display_name": "Charlotte Gala",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-29",
+      "label": "September 29th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-opera",
+      "name": "Charlotte Opera"
+    },
+    {
+      "id": "charlotte-counter",
+      "name": "Charlotte Counter"
+    },
+    {
+      "id": "charlotte-cadenza",
+      "name": "Charlotte Cadenza"
+    },
+    {
+      "id": "charlotte-cabaletta",
+      "name": "Charlotte Cabaletta"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Charlotte_Gala_Manga_Infobox.png/revision/latest?cb=20200118111554",
+    "width": 454,
+    "height": 539
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Charlotte_Gala_Manga_Infobox.png/revision/latest/scale-to-width-down/337?cb=20200118111554",
+    "width": 337,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Gala",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Gala"
+  },
+  "info": {
+    "japanese_name": "シャーロット・ガラ",
+    "romanized_name": "Shārotto Gara",
+    "official_english_name": "Charlotte Gala",
+    "debut": [
+      "SBS Volume 85 (mentioned)",
+      "One Piece Magazine Vol.5"
+    ],
+    "affiliations": [
+      "Charlotte Family"
+    ],
+    "age": "46",
+    "birthday": "September 29th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

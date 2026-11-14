@@ -3,7 +3,23 @@
   "label": "January 15th",
   "month": 1,
   "day": 15,
-  "characters": [
+  "names": [
     "A.O"
+  ],
+  "characters": [
+    {
+      "id": "a-o",
+      "name": "A.O",
+      "display_name": "A.O",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8c/A_O_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230528152214",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/A_O_Anime_Infobox.png/revision/latest?cb=20230528152214",
+      "wiki_url": "https://onepiece.fandom.com/wiki/A_O",
+      "epithet": null,
+      "affiliation": "A O Pirates",
+      "api": "v1/characters/a-o.json"
+    }
   ]
 }

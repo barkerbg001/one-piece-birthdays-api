@@ -1,0 +1,59 @@
+{
+  "id": "kumashi",
+  "name": "Kumashi",
+  "display_name": "Kumashi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-04",
+      "label": "September 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/da/Kumashi_Anime_Infobox.png/revision/latest?cb=20230118162847",
+    "width": 913,
+    "height": 1467
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/da/Kumashi_Anime_Infobox.png/revision/latest/scale-to-width-down/249?cb=20230118162847",
+    "width": 249,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kumashi",
+    "url": "https://onepiece.fandom.com/wiki/Kumashi"
+  },
+  "info": {
+    "japanese_name": "クマシー",
+    "romanized_name": "Kumashī",
+    "official_english_name": "Kumacy",
+    "debut": [
+      "Chapter 449",
+      "Episode 343"
+    ],
+    "affiliations": [
+      "Thriller Bark Pirates (Perona)"
+    ],
+    "occupations": [
+      "Perona's servant",
+      "Wild Zombie Commander-in-Chief"
+    ],
+    "status": "2",
+    "birthday": "September 4th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

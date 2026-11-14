@@ -1,0 +1,67 @@
+{
+  "id": "helmeppo",
+  "name": "Helmeppo",
+  "display_name": "Helmeppo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-16",
+      "label": "July 16th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Helmeppo_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230723204723",
+    "width": 828,
+    "height": 1560
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Helmeppo_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/212?cb=20230723204723",
+    "width": 212,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Helmeppo",
+    "url": "https://onepiece.fandom.com/wiki/Helmeppo"
+  },
+  "info": {
+    "japanese_name": "ヘルメッポ",
+    "romanized_name": "Herumeppo",
+    "official_english_name": "Helmeppo",
+    "debut": [
+      "Chapter 3",
+      "Episode 2"
+    ],
+    "affiliations": [
+      "Marines (Headquarters",
+      "SWORD) (formerly 153rd Branch)"
+    ],
+    "occupations": [
+      "Lieutenant Commander",
+      "Chief Petty Officer (promoted)",
+      "Chore Boy (promoted)"
+    ],
+    "residence": [
+      "Shells Town (153rd Branch) (former)"
+    ],
+    "age": "20 (debut); 22 (after timeskip)",
+    "birthday": "July 16th",
+    "height": "179 cm (5'10\")",
+    "blood_type": "S",
+    "bounty": "★ (100,000,000)"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

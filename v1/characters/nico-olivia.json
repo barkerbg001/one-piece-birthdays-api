@@ -1,0 +1,61 @@
+{
+  "id": "nico-olivia",
+  "name": "Nico Olivia",
+  "display_name": "Nico Olivia",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-06",
+      "label": "February 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Nico_Olvia_Anime_Infobox.png/revision/latest?cb=20180131184905",
+    "width": 544,
+    "height": 988
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Nico_Olvia_Anime_Infobox.png/revision/latest/scale-to-width-down/220?cb=20180131184905",
+    "width": 220,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Nico Olvia",
+    "url": "https://onepiece.fandom.com/wiki/Nico_Olvia"
+  },
+  "info": {
+    "japanese_name": "ニコ・オルビア",
+    "romanized_name": "Niko Orubia",
+    "debut": [
+      "Chapter 392",
+      "Episode 275"
+    ],
+    "affiliations": [
+      "Ohara Archaeologists"
+    ],
+    "occupations": [
+      "Archaeologist"
+    ],
+    "origin": "West Blue (Ohara)",
+    "status": "2",
+    "birthday": "February 6th",
+    "height": "186 cm (6'1\")",
+    "blood_type": "S",
+    "bounty": "79,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

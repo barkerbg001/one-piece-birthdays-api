@@ -1,0 +1,61 @@
+{
+  "id": "enishida",
+  "name": "Enishida",
+  "display_name": "Enishida",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-24",
+      "label": "February 24th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Enishida_Anime_Infobox.png/revision/latest?cb=20130321213454",
+    "width": 640,
+    "height": 508
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Enishida_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20130321213454",
+    "width": 400,
+    "height": 318
+  },
+  "wiki": {
+    "title": "Enishida",
+    "url": "https://onepiece.fandom.com/wiki/Enishida"
+  },
+  "info": {
+    "japanese_name": "エニシダ",
+    "romanized_name": "Enishida",
+    "official_english_name": "Genista (VIZ); Enishida (Funimation)",
+    "debut": [
+      "Chapter 517",
+      "Episode 411"
+    ],
+    "affiliations": [
+      "Kuja"
+    ],
+    "occupations": [
+      "Lady's maid"
+    ],
+    "origin": "Calm Belt (Amazon Lily)",
+    "residence": [
+      "Amazon Lily"
+    ],
+    "birthday": "February 24th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "mohji",
+  "name": "Mohji",
+  "display_name": "Mohji",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-01",
+      "label": "October 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/09/Mohji_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200821151313",
+    "width": 405,
+    "height": 352
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/09/Mohji_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20200821151313",
+    "width": 400,
+    "height": 348
+  },
+  "wiki": {
+    "title": "Mohji",
+    "url": "https://onepiece.fandom.com/wiki/Mohji"
+  },
+  "info": {
+    "japanese_name": "モージ",
+    "romanized_name": "Mōji",
+    "official_english_name": "Mohji; Morji (Odex)",
+    "debut": [
+      "Chapter 9",
+      "Episode 6"
+    ],
+    "affiliations": [
+      "Cross Guild",
+      "Buggy's Delivery (former)",
+      "Buggy and Alvida Alliance",
+      "Buggy Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "First Mate"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Karai Bari Island"
+    ],
+    "epithet": "Beast Tamer; Beast Breaker (4Kids)",
+    "age": "27 (debut); 29 (after timeskip)",
+    "birthday": "October 1st",
+    "height": "197 cm (6'6\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

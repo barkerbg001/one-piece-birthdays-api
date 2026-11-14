@@ -3,8 +3,38 @@
   "label": "October 25th",
   "month": 10,
   "day": 25,
-  "characters": [
+  "names": [
     "Kuroobi",
     "Koala"
+  ],
+  "characters": [
+    {
+      "id": "kuroobi",
+      "name": "Kuroobi",
+      "display_name": "Kuroobi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/17/Kuroobi_Anime_Infobox.png/revision/latest/scale-to-width-down/257?cb=20121220133817",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/17/Kuroobi_Anime_Infobox.png/revision/latest?cb=20121220133817",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kuroobi",
+      "epithet": null,
+      "affiliation": "Arlong Pirates",
+      "api": "v1/characters/kuroobi.json"
+    },
+    {
+      "id": "koala",
+      "name": "Koala",
+      "display_name": "Koala",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Koala_Anime_Infobox.png/revision/latest/scale-to-width-down/247?cb=20140928211728",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Koala_Anime_Infobox.png/revision/latest?cb=20140928211728",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Koala",
+      "epithet": null,
+      "affiliation": "Revolutionary Army",
+      "api": "v1/characters/koala.json"
+    }
   ]
 }

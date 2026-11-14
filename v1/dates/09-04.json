@@ -3,8 +3,38 @@
   "label": "September 4th",
   "month": 9,
   "day": 4,
-  "characters": [
+  "names": [
     "Kumashi",
     "Wanze"
+  ],
+  "characters": [
+    {
+      "id": "kumashi",
+      "name": "Kumashi",
+      "display_name": "Kumashi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/da/Kumashi_Anime_Infobox.png/revision/latest/scale-to-width-down/249?cb=20230118162847",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/da/Kumashi_Anime_Infobox.png/revision/latest?cb=20230118162847",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kumashi",
+      "epithet": null,
+      "affiliation": "Thriller Bark Pirates (Perona)",
+      "api": "v1/characters/kumashi.json"
+    },
+    {
+      "id": "wanze",
+      "name": "Wanze",
+      "display_name": "Wanze",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/56/Wanze_Anime_Infobox.png/revision/latest/scale-to-width-down/389?cb=20240610183708",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/56/Wanze_Anime_Infobox.png/revision/latest?cb=20240610183708",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Wanze",
+      "epithet": "\"Mad Wanze\"",
+      "affiliation": "CP7",
+      "api": "v1/characters/wanze.json"
+    }
   ]
 }

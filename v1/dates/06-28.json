@@ -3,8 +3,38 @@
   "label": "June 28th",
   "month": 6,
   "day": 28,
-  "characters": [
+  "names": [
     "St. Roswald",
     "Mocha"
+  ],
+  "characters": [
+    {
+      "id": "st-roswald",
+      "name": "St. Roswald",
+      "display_name": "St. Roswald",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Rosward_Rosward_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250309015318",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Rosward_Rosward_Anime_Infobox.png/revision/latest?cb=20250309015318",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Rosward_Rosward",
+      "epithet": null,
+      "affiliation": "World Government (Rosward Family)",
+      "api": "v1/characters/st-roswald.json"
+    },
+    {
+      "id": "mocha",
+      "name": "Mocha",
+      "display_name": "Mocha",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/94/Mocha_Anime_Infobox.png/revision/latest/scale-to-width-down/155?cb=20130814011520",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/94/Mocha_Anime_Infobox.png/revision/latest?cb=20130814011520",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mocha",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/mocha.json"
+    }
   ]
 }

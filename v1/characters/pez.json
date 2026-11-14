@@ -1,0 +1,57 @@
+{
+  "id": "pez",
+  "name": "Pez",
+  "display_name": "Pez",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-22",
+      "label": "January 22nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/63/Capone_Pez_Anime_Infobox.png/revision/latest?cb=20180309053108",
+    "width": 430,
+    "height": 480
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/63/Capone_Pez_Anime_Infobox.png/revision/latest/scale-to-width-down/358?cb=20180309053108",
+    "width": 358,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Capone Pez",
+    "url": "https://onepiece.fandom.com/wiki/Capone_Pez"
+  },
+  "info": {
+    "japanese_name": "カポネ・ペッツ",
+    "romanized_name": "Kapone Pettsu",
+    "official_english_name": "Capone Pez",
+    "debut": [
+      "Chapter 834",
+      "Episode 795"
+    ],
+    "affiliations": [
+      "Fire Tank Pirates",
+      "Charlotte Family"
+    ],
+    "epithet": "\"Gang\"",
+    "age": "1",
+    "birthday": "January 22nd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

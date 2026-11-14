@@ -1,0 +1,68 @@
+{
+  "id": "gladius",
+  "name": "Gladius",
+  "display_name": "Gladius",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-06",
+      "label": "August 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Gladius_Anime_Infobox.png/revision/latest?cb=20231025224459",
+    "width": 854,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Gladius_Anime_Infobox.png/revision/latest/scale-to-width-down/316?cb=20231025224459",
+    "width": 316,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Gladius",
+    "url": "https://onepiece.fandom.com/wiki/Gladius"
+  },
+  "info": {
+    "japanese_name": "グラディウス",
+    "romanized_name": "Guradiusu",
+    "debut": [
+      "Chapter 682",
+      "Episode 608"
+    ],
+    "affiliations": [
+      "Donquixote Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Spider Miles (former)",
+      "Dressrosa (former)"
+    ],
+    "age": "33",
+    "birthday": "August 6th",
+    "height": "260 cm (8'6\")",
+    "blood_type": "XF",
+    "bounty": "31,000,000",
+    "devil_fruit": "Pamu Pamu no Mi",
+    "devil_fruit_english": "Pop-Pop Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

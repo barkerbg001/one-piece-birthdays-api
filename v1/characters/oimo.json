@@ -1,0 +1,66 @@
+{
+  "id": "oimo",
+  "name": "Oimo",
+  "display_name": "Oimo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-06",
+      "label": "January 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Oimo_Anime_Infobox.png/revision/latest?cb=20231013231633",
+    "width": 914,
+    "height": 903
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Oimo_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20231013231633",
+    "width": 400,
+    "height": 395
+  },
+  "wiki": {
+    "title": "Oimo",
+    "url": "https://onepiece.fandom.com/wiki/Oimo"
+  },
+  "info": {
+    "japanese_name": "オイモ",
+    "debut": [
+      "Chapter 377",
+      "Episode 265"
+    ],
+    "affiliations": [
+      "World Government (defected)",
+      "Giant Warrior Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Gate Guardian (former)"
+    ],
+    "origin": "Grand Line (Elbaph)",
+    "residence": [
+      "Elbaph",
+      "Enies Lobby (former)",
+      "Water 7 (former)"
+    ],
+    "age": "151 (debut); 153 (after timeskip)",
+    "birthday": "January 6th",
+    "height": "1600 cm (52'6\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

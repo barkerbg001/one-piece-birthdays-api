@@ -1,0 +1,62 @@
+{
+  "id": "porchemi",
+  "name": "Porchemi",
+  "display_name": "Porchemi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-03",
+      "label": "April 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/25/Porchemy_Anime_Infobox.png/revision/latest?cb=20240828151319",
+    "width": 1139,
+    "height": 970
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/25/Porchemy_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240828151319",
+    "width": 400,
+    "height": 341
+  },
+  "wiki": {
+    "title": "Porchemy",
+    "url": "https://onepiece.fandom.com/wiki/Porchemy"
+  },
+  "info": {
+    "japanese_name": "ポルシェーミ",
+    "romanized_name": "Porushēmi",
+    "official_english_name": "Porchemy",
+    "debut": [
+      "Chapter 583",
+      "Episode 494"
+    ],
+    "affiliations": [
+      "Bluejam Pirates"
+    ],
+    "occupations": [
+      "Pirate"
+    ],
+    "origin": "East Blue (Goa Kingdom)",
+    "status": "2",
+    "birthday": "April 3rd",
+    "height": "320 cm (10'6\")",
+    "blood_type": "X",
+    "bounty": "3,400,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

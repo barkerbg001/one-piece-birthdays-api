@@ -1,0 +1,58 @@
+{
+  "id": "porche",
+  "name": "Porche",
+  "display_name": "Porche",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-16",
+      "label": "November 16th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Porche_Anime_Infobox.png/revision/latest?cb=20240523234723",
+    "width": 388,
+    "height": 1036
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Porche_Anime_Infobox.png/revision/latest/scale-to-width-down/149?cb=20240523234723",
+    "width": 149,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Porche",
+    "url": "https://onepiece.fandom.com/wiki/Porche"
+  },
+  "info": {
+    "japanese_name": "ポルチェ",
+    "romanized_name": "Poruche",
+    "debut": [
+      "Chapter 305",
+      "Episode 207"
+    ],
+    "affiliations": [
+      "Foxy Pirates",
+      "Flower Cheerleaders"
+    ],
+    "occupations": [
+      "Pirate",
+      "Combatant"
+    ],
+    "birthday": "November 16th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

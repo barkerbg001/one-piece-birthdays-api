@@ -1,0 +1,72 @@
+{
+  "id": "shakuyaku",
+  "name": "Shakuyaku",
+  "display_name": "Shakuyaku (Shakky)",
+  "alias": "Shakky",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-08",
+      "label": "May 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Shakuyaku_Anime_Infobox.png/revision/latest?cb=20241117020947",
+    "width": 382,
+    "height": 933
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Shakuyaku_Anime_Infobox.png/revision/latest/scale-to-width-down/163?cb=20241117020947",
+    "width": 163,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Shakuyaku",
+    "url": "https://onepiece.fandom.com/wiki/Shakuyaku"
+  },
+  "info": {
+    "japanese_name": "シャクヤク",
+    "romanized_name": "Shakuyaku",
+    "official_english_name": "Shakuyaku",
+    "debut": [
+      "Chapter 498",
+      "Episode 392"
+    ],
+    "affiliations": [
+      "Shakky's Rip-off Bar",
+      "Kuja",
+      "Kuja Pirates (former)"
+    ],
+    "occupations": [
+      "Bartender",
+      "Pirate Captain (former)",
+      "First Mate (former)",
+      "Empress of Amazon Lily (former)"
+    ],
+    "residence": [
+      "Sabaody Archipelago",
+      "Hachinosu (former)"
+    ],
+    "aliases": [
+      "\"Shakky\""
+    ],
+    "age": "62 (debut); 64 (after timeskip)",
+    "birthday": "May 8th",
+    "height": "186 cm (6'1\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

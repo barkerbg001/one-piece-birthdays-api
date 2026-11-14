@@ -1,0 +1,60 @@
+{
+  "id": "gyro",
+  "name": "Gyro",
+  "display_name": "Gyro",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-22",
+      "label": "June 22nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/29/Gyro_Anime_Infobox.png/revision/latest?cb=20230614230012",
+    "width": 1280,
+    "height": 2612
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/29/Gyro_Anime_Infobox.png/revision/latest/scale-to-width-down/196?cb=20230614230012",
+    "width": 196,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Gyro",
+    "url": "https://onepiece.fandom.com/wiki/Gyro"
+  },
+  "info": {
+    "japanese_name": "ジャイロ",
+    "romanized_name": "Jairo",
+    "official_english_name": "Gyro",
+    "debut": [
+      "Chapter 611",
+      "Episode 530"
+    ],
+    "affiliations": [
+      "Gyro Pirates, New Fish-Man Pirates (ruse, former)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain"
+    ],
+    "epithet": "\"Crab-Hand Gyro\"",
+    "birthday": "June 22nd",
+    "bounty": "73,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

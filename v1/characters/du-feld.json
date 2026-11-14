@@ -1,0 +1,61 @@
+{
+  "id": "du-feld",
+  "name": "Du Feld",
+  "display_name": "Du Feld",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-29",
+      "label": "December 29th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Lu_Feld_Anime_Infobox.png/revision/latest?cb=20240315014110",
+    "width": 931,
+    "height": 791
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Lu_Feld_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240315014110",
+    "width": 400,
+    "height": 340
+  },
+  "wiki": {
+    "title": "Lu Feld",
+    "url": "https://onepiece.fandom.com/wiki/Lu_Feld"
+  },
+  "info": {
+    "japanese_name": "ル・フェルド",
+    "romanized_name": "Ru Ferudo",
+    "official_english_name": "Du Feld",
+    "debut": [
+      "Chapter 860",
+      "Episode 828"
+    ],
+    "affiliations": [
+      "Lu Feld Conglomerate",
+      "Underworld",
+      "MADS (former)"
+    ],
+    "occupations": [
+      "Emperor of the Underworld"
+    ],
+    "epithet": "\"God of Fortune\"",
+    "status": "1",
+    "birthday": "December 29th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

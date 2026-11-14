@@ -3,9 +3,53 @@
   "label": "June 14th",
   "month": 6,
   "day": 14,
-  "characters": [
+  "names": [
     "Chabo",
     "Candy",
     "Kawamatsu"
+  ],
+  "characters": [
+    {
+      "id": "chabo",
+      "name": "Chabo",
+      "display_name": "Chabo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/aa/Chabo_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251109161150",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/aa/Chabo_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251109161150",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Chabo",
+      "epithet": null,
+      "affiliation": "Nojiko's mikan farm",
+      "api": "v1/characters/chabo.json"
+    },
+    {
+      "id": "candy",
+      "name": "Candy",
+      "display_name": "Candy",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/55/Candy_Manga_Infobox.png/revision/latest/scale-to-width-down/272?cb=20190104141655",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/55/Candy_Manga_Infobox.png/revision/latest?cb=20190104141655",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Candy",
+      "epithet": null,
+      "affiliation": "Candy Pirates",
+      "api": "v1/characters/candy.json"
+    },
+    {
+      "id": "kawamatsu",
+      "name": "Kawamatsu",
+      "display_name": "Kawamatsu",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/5e/Kawamatsu_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20201215013006",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/5e/Kawamatsu_Anime_Infobox.png/revision/latest?cb=20201215013006",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kawamatsu",
+      "epithet": "\"Kawamatsu the Kappa\",; \"Yokozuna Kawamatsu\"",
+      "affiliation": "Kouzuki Family",
+      "api": "v1/characters/kawamatsu.json"
+    }
   ]
 }

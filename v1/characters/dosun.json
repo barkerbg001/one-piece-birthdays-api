@@ -1,0 +1,63 @@
+{
+  "id": "dosun",
+  "name": "Dosun",
+  "display_name": "Dosun",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-09",
+      "label": "October 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/60/Dosun_Anime_Infobox.png/revision/latest?cb=20230729183447",
+    "width": 1920,
+    "height": 2130
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/60/Dosun_Anime_Infobox.png/revision/latest/scale-to-width-down/361?cb=20230729183447",
+    "width": 361,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Dosun",
+    "url": "https://onepiece.fandom.com/wiki/Dosun"
+  },
+  "info": {
+    "japanese_name": "ドスン",
+    "debut": [
+      "Chapter 611",
+      "Episode 530"
+    ],
+    "affiliations": [
+      "New Fish-Man Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "Pirate Officer"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Fish-Man District (former)"
+    ],
+    "age": "30",
+    "birthday": "October 9th",
+    "height": "418 cm (13'8\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

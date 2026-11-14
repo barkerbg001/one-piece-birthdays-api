@@ -3,7 +3,23 @@
   "label": "January 5th",
   "month": 1,
   "day": 5,
-  "characters": [
+  "names": [
     "Strawberry"
+  ],
+  "characters": [
+    {
+      "id": "strawberry",
+      "name": "Strawberry",
+      "display_name": "Strawberry",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/f/f2/Strawberry_Anime_Infobox.png/revision/latest/scale-to-width-down/385?cb=20221101021505",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/f2/Strawberry_Anime_Infobox.png/revision/latest?cb=20221101021505",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Strawberry",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/strawberry.json"
+    }
   ]
 }

@@ -1,0 +1,71 @@
+{
+  "id": "monet",
+  "name": "Monet",
+  "display_name": "Monet",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-27",
+      "label": "August 27th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/98/Monet_Anime_Infobox.png/revision/latest?cb=20140616000310",
+    "width": 1280,
+    "height": 1993
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/98/Monet_Anime_Infobox.png/revision/latest/scale-to-width-down/257?cb=20140616000310",
+    "width": 257,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Monet",
+    "url": "https://onepiece.fandom.com/wiki/Monet"
+  },
+  "info": {
+    "japanese_name": "モネ",
+    "romanized_name": "Mone",
+    "official_english_name": "Monet",
+    "debut": [
+      "Chapter 657",
+      "Episode 581"
+    ],
+    "affiliations": [
+      "Caesar Clown (espionage)",
+      "Donquixote Pirates"
+    ],
+    "occupations": [
+      "Caesar's secretary (Undercover)",
+      "Doflamingo's spy",
+      "Pirate Officer"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Punk Hazard (former)",
+      "Dressrosa (former)"
+    ],
+    "status": "2",
+    "birthday": "August 27th",
+    "height": "227 cm (7'5¼\")",
+    "blood_type": "X",
+    "devil_fruit": "Yuki Yuki no Mi",
+    "devil_fruit_english": "Snow-Snow Fruit",
+    "devil_fruit_type": "Logia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

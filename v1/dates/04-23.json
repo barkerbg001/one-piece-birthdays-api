@@ -3,8 +3,38 @@
   "label": "April 23rd",
   "month": 4,
   "day": 23,
-  "characters": [
+  "names": [
     "Kalifa",
     "Charlotte Mont-d’Or"
+  ],
+  "characters": [
+    {
+      "id": "kalifa",
+      "name": "Kalifa",
+      "display_name": "Kalifa",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Kalifa_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/182?cb=20240915021516",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Kalifa_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240915021516",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kalifa",
+      "epithet": null,
+      "affiliation": "CP0",
+      "api": "v1/characters/kalifa.json"
+    },
+    {
+      "id": "charlotte-mont-dor",
+      "name": "Charlotte Mont-d’Or",
+      "display_name": "Charlotte Mont-d’Or",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Charlotte_Mont-d%27Or_Anime_Infobox.png/revision/latest/scale-to-width-down/172?cb=20180325090436",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Charlotte_Mont-d%27Or_Anime_Infobox.png/revision/latest?cb=20180325090436",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Mont-d%27Or",
+      "epithet": "\"Scribe\"",
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-mont-dor.json"
+    }
   ]
 }

@@ -3,9 +3,53 @@
   "label": "March 6th",
   "month": 3,
   "day": 6,
-  "characters": [
+  "names": [
     "Salome",
     "Charlotte Brûlée",
     "Jaguar D. Saul"
+  ],
+  "characters": [
+    {
+      "id": "salome",
+      "name": "Salome",
+      "display_name": "Salome",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/25/Salome_Anime_Infobox.png/revision/latest/scale-to-width-down/282?cb=20171229142149",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/25/Salome_Anime_Infobox.png/revision/latest?cb=20171229142149",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Salome",
+      "epithet": null,
+      "affiliation": "Kuja Pirates",
+      "api": "v1/characters/salome.json"
+    },
+    {
+      "id": "charlotte-brulee",
+      "name": "Charlotte Brûlée",
+      "display_name": "Charlotte Brûlée",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/d9/Charlotte_Br%C3%BBl%C3%A9e_Anime_Infobox.png/revision/latest/scale-to-width-down/209?cb=20170611174235",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/d9/Charlotte_Br%C3%BBl%C3%A9e_Anime_Infobox.png/revision/latest?cb=20170611174235",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Br%C3%BBl%C3%A9e",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-brulee.json"
+    },
+    {
+      "id": "jaguar-d-saul",
+      "name": "Jaguar D. Saul",
+      "display_name": "Jaguar D. Saul",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/cc/Jaguar_D._Saul_Anime_Infobox.png/revision/latest/scale-to-width-down/266?cb=20260802161348",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/cc/Jaguar_D._Saul_Anime_Infobox.png/revision/latest?cb=20260802161348",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Jaguar_D._Saul",
+      "epithet": null,
+      "affiliation": "Walrus School",
+      "api": "v1/characters/jaguar-d-saul.json"
+    }
   ]
 }

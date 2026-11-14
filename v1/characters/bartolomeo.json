@@ -1,0 +1,71 @@
+{
+  "id": "bartolomeo",
+  "name": "Bartolomeo",
+  "display_name": "Bartolomeo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-06",
+      "label": "October 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/eb/Bartolomeo_Anime_Infobox.png/revision/latest?cb=20221027202808",
+    "width": 948,
+    "height": 2155
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/eb/Bartolomeo_Anime_Infobox.png/revision/latest/scale-to-width-down/176?cb=20221027202808",
+    "width": 176,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Bartolomeo",
+    "url": "https://onepiece.fandom.com/wiki/Bartolomeo"
+  },
+  "info": {
+    "japanese_name": "バルトロメオ",
+    "romanized_name": "Barutoromeo",
+    "official_english_name": "Bartolomeo",
+    "debut": [
+      "Chapter 705",
+      "Episode 633"
+    ],
+    "affiliations": [
+      "Barto Club",
+      "his own Mafia Family (former)",
+      "Straw Hat Grand Fleet"
+    ],
+    "occupations": [
+      "Captain of the Second Ship of the Straw Hat Grand Fleet",
+      "Pirate Captain",
+      "Mafia Leader (former)"
+    ],
+    "origin": "East Blue",
+    "epithet": "\"Bartolomeo the Cannibal\"",
+    "status": "1",
+    "age": "24",
+    "birthday": "October 6th",
+    "height": "220 cm (7'3\")",
+    "blood_type": "X",
+    "bounty": "200,000,000",
+    "devil_fruit": "Bari Bari no Mi",
+    "devil_fruit_english": "Barrier-Barrier Fruit (VIZ and Funimation subs); Bari-Bari Fruit (Funimation dub)",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

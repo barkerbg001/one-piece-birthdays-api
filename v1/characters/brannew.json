@@ -1,0 +1,63 @@
+{
+  "id": "brannew",
+  "name": "Brannew",
+  "display_name": "Brannew",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-03",
+      "label": "September 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/71/Brannew_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20180321231621",
+    "width": 616,
+    "height": 717
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/71/Brannew_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/344?cb=20180321231621",
+    "width": 344,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Brannew",
+    "url": "https://onepiece.fandom.com/wiki/Brannew"
+  },
+  "info": {
+    "japanese_name": "ブランニュー",
+    "romanized_name": "Buran'nyū",
+    "official_english_name": "Brannew; Brandnew (formerly)",
+    "debut": [
+      "Chapter 96",
+      "Episode 45"
+    ],
+    "affiliations": [
+      "Marines"
+    ],
+    "occupations": [
+      "Commodore",
+      "Lieutenant Commander (former)"
+    ],
+    "origin": "Grand Line",
+    "age": "54 (debut); 56 (after timeskip)",
+    "birthday": "September 3rd",
+    "height": "190 cm (6'3\")",
+    "blood_type": "X",
+    "bounty": "At least ★"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

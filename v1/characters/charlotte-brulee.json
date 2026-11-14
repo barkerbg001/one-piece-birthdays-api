@@ -1,0 +1,69 @@
+{
+  "id": "charlotte-brulee",
+  "name": "Charlotte Brûlée",
+  "display_name": "Charlotte Brûlée",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-06",
+      "label": "March 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d9/Charlotte_Br%C3%BBl%C3%A9e_Anime_Infobox.png/revision/latest?cb=20170611174235",
+    "width": 1280,
+    "height": 2452
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d9/Charlotte_Br%C3%BBl%C3%A9e_Anime_Infobox.png/revision/latest/scale-to-width-down/209?cb=20170611174235",
+    "width": 209,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Brûlée",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Br%C3%BBl%C3%A9e"
+  },
+  "info": {
+    "japanese_name": "シャーロット・ブリュレ",
+    "romanized_name": "Shārotto Buryure",
+    "official_english_name": "Charlotte Brulee",
+    "debut": [
+      "Chapter 831",
+      "Episode 791"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "origin": "Grand Line (At a random port)",
+    "residence": [
+      "Whole Cake Island",
+      "Mirro-World"
+    ],
+    "age": "43",
+    "birthday": "March 6th",
+    "height": "350 cm (11'6\")",
+    "blood_type": "S",
+    "devil_fruit": "Mira Mira no Mi",
+    "devil_fruit_english": "Mirror-Mirror Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

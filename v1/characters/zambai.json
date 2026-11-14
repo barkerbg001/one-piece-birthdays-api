@@ -1,0 +1,65 @@
+{
+  "id": "zambai",
+  "name": "Zambai",
+  "display_name": "Zambai",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-08",
+      "label": "March 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Zambai_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20210313192955",
+    "width": 269,
+    "height": 631
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Zambai_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/170?cb=20210313192955",
+    "width": 170,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Zambai",
+    "url": "https://onepiece.fandom.com/wiki/Zambai"
+  },
+  "info": {
+    "japanese_name": "ザンバイ",
+    "romanized_name": "Zanbai",
+    "debut": [
+      "Chapter 324",
+      "Episode 230"
+    ],
+    "affiliations": [
+      "Galley-La Company (Zambai's Company Union)",
+      "Franky Family (former)"
+    ],
+    "occupations": [
+      "Dismantler",
+      "Bounty Hunter (former)"
+    ],
+    "origin": "Grand Line (Water 7)",
+    "residence": [
+      "Water 7"
+    ],
+    "age": "33 (debut); 35 (after timeskip)",
+    "birthday": "March 8th",
+    "height": "227 cm (7'5\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

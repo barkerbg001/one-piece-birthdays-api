@@ -3,8 +3,38 @@
   "label": "October 26th",
   "month": 10,
   "day": 26,
-  "characters": [
+  "names": [
     "Belladonna",
     "Denjiro"
+  ],
+  "characters": [
+    {
+      "id": "belladonna",
+      "name": "Belladonna",
+      "display_name": "Belladonna",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/93/Belladonna_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20140928163050",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/93/Belladonna_Anime_Infobox.png/revision/latest?cb=20140928163050",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Belladonna",
+      "epithet": null,
+      "affiliation": "Kuja",
+      "api": "v1/characters/belladonna.json"
+    },
+    {
+      "id": "denjiro",
+      "name": "Denjiro",
+      "display_name": "Denjiro",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Denjiro_Anime_Infobox.png/revision/latest/scale-to-width-down/258?cb=20210718045127",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Denjiro_Anime_Infobox.png/revision/latest?cb=20210718045127",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Denjiro",
+      "epithet": "\"Dozing Kyoshiro\"",
+      "affiliation": "Kouzuki Family",
+      "api": "v1/characters/denjiro.json"
+    }
   ]
 }

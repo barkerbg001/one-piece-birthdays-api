@@ -1,0 +1,73 @@
+{
+  "id": "vergo",
+  "name": "Vergo",
+  "display_name": "Vergo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-05",
+      "label": "July 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cf/Vergo_Anime_Infobox.png/revision/latest?cb=20230101232239",
+    "width": 1185,
+    "height": 2695
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cf/Vergo_Anime_Infobox.png/revision/latest/scale-to-width-down/176?cb=20230101232239",
+    "width": 176,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Vergo",
+    "url": "https://onepiece.fandom.com/wiki/Vergo"
+  },
+  "info": {
+    "japanese_name": "ヴェルゴ",
+    "romanized_name": "Verugo",
+    "debut": [
+      "Chapter 671",
+      "Episode 597"
+    ],
+    "affiliations": [
+      "Donquixote Pirates",
+      "Marines (undercover)",
+      "Marine G-5 (undercover)"
+    ],
+    "occupations": [
+      "Pirate Elite Officer",
+      "Vice Admiral (undercover)",
+      "Head of G-5 (undercover)",
+      "Marine Captain (undercover, former)"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Downs (former)",
+      "G-5"
+    ],
+    "epithet": "\"Demon Bamboo\" Vergo",
+    "aliases": [
+      "Corazon (former)"
+    ],
+    "status": "2",
+    "birthday": "July 5th",
+    "height": "247 cm (8'1\")",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

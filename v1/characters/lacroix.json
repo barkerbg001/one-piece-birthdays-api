@@ -1,0 +1,57 @@
+{
+  "id": "lacroix",
+  "name": "Lacroix",
+  "display_name": "Lacroix",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-08",
+      "label": "June 8th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/77/Lacroix_Anime_Infobox.png/revision/latest?cb=20190602130553",
+    "width": 1920,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/77/Lacroix_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20190602130553",
+    "width": 400,
+    "height": 225
+  },
+  "wiki": {
+    "title": "Lacroix",
+    "url": "https://onepiece.fandom.com/wiki/Lacroix"
+  },
+  "info": {
+    "japanese_name": "ラクロワ",
+    "romanized_name": "Rakurowa",
+    "debut": [
+      "Chapter 550",
+      "Episode 459"
+    ],
+    "affiliations": [
+      "Marines, Giant Squad"
+    ],
+    "occupations": [
+      "Vice Admiral"
+    ],
+    "birthday": "June 8th",
+    "bounty": "At least ★★★★★"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

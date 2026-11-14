@@ -1,0 +1,57 @@
+{
+  "id": "gyatz",
+  "name": "Gyatz",
+  "display_name": "Gyatz",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-26",
+      "label": "August 26th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/70/Gatz_Anime_Infobox.png/revision/latest?cb=20140916081427",
+    "width": 933,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/70/Gatz_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20140916081427",
+    "width": 400,
+    "height": 309
+  },
+  "wiki": {
+    "title": "Gatz",
+    "url": "https://onepiece.fandom.com/wiki/Gatz"
+  },
+  "info": {
+    "japanese_name": "ギャッツ",
+    "romanized_name": "Gyattsu",
+    "official_english_name": "Gyats",
+    "debut": [
+      "Chapter 702",
+      "Episode 631"
+    ],
+    "affiliations": [
+      "Corrida Colosseum"
+    ],
+    "occupations": [
+      "Announcer"
+    ],
+    "birthday": "August 26th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

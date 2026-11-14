@@ -1,0 +1,73 @@
+{
+  "id": "bellamy",
+  "name": "Bellamy",
+  "display_name": "Bellamy",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-07",
+      "label": "August 7th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/27/Bellamy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230116235201",
+    "width": 1116,
+    "height": 3212
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/27/Bellamy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/139?cb=20230116235201",
+    "width": 139,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Bellamy",
+    "url": "https://onepiece.fandom.com/wiki/Bellamy"
+  },
+  "info": {
+    "japanese_name": "ベラミー",
+    "romanized_name": "Beramī",
+    "official_english_name": "Bellamy",
+    "debut": [
+      "Chapter 222",
+      "Episode 146"
+    ],
+    "affiliations": [
+      "Donquixote Pirates (former)",
+      "Bellamy Pirates (former)"
+    ],
+    "occupations": [
+      "Dyer",
+      "Pirate (former)",
+      "Pirate Captain (former)"
+    ],
+    "origin": "North Blue (Notice)",
+    "residence": [
+      "Dressrosa (former)",
+      "Notice (former)"
+    ],
+    "epithet": "\"Bellamy the Hyena\"; \"Deadly Bullet of Dressrosa\"; \"The Big-Time Rookie\"",
+    "age": "25 (debut); 27 (after timeskip)",
+    "birthday": "August 7th",
+    "height": "240 cm (7'10\")",
+    "blood_type": "F",
+    "bounty": "195,000,000",
+    "devil_fruit": "Bane Bane no Mi",
+    "devil_fruit_english": "Boing-Boing Fruit (VIZ); Spring-Spring Fruit (Funimation)",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

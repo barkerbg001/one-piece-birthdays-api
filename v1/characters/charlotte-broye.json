@@ -1,0 +1,64 @@
+{
+  "id": "charlotte-broye",
+  "name": "Charlotte Broyé",
+  "display_name": "Charlotte Broyé",
+  "alias": null,
+  "note": "a continuity mistake, given how she’s Brûlée’s twin",
+  "birthdays": [
+    {
+      "date": "12-26",
+      "label": "December 26th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Charlotte_Broy%C3%A9_Anime_Infobox.png/revision/latest?cb=20200223061328",
+    "width": 599,
+    "height": 719
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Charlotte_Broy%C3%A9_Anime_Infobox.png/revision/latest/scale-to-width-down/333?cb=20200223061328",
+    "width": 333,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Broyé",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Broy%C3%A9"
+  },
+  "info": {
+    "japanese_name": "シャーロット・ブロワイエ",
+    "romanized_name": "Shārotto Burowaie",
+    "official_english_name": "Charlotte Broye",
+    "debut": [
+      "Chapter 864",
+      "Episode 832"
+    ],
+    "affiliations": [
+      "Charlotte Family",
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Minister of Meringue"
+    ],
+    "origin": "Grand Line (At a random port)",
+    "residence": [
+      "Milenge Island"
+    ],
+    "age": "43",
+    "birthday": "March 6th; December 26th (SBS)"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

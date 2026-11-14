@@ -1,0 +1,64 @@
+{
+  "id": "coribou",
+  "name": "Coribou",
+  "display_name": "Coribou",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-02",
+      "label": "May 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Coribou_Anime_Infobox.png/revision/latest?cb=20130206235119",
+    "width": 575,
+    "height": 719
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Coribou_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20130206235119",
+    "width": 320,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Coribou",
+    "url": "https://onepiece.fandom.com/wiki/Coribou"
+  },
+  "info": {
+    "japanese_name": "コリブー",
+    "romanized_name": "Koribū",
+    "debut": [
+      "Chapter 600",
+      "Episode 519"
+    ],
+    "affiliations": [
+      "Caribou Pirates",
+      "Fake Straw Hat Crew (former, temporary)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Captain"
+    ],
+    "origin": "North Blue",
+    "epithet": "\"Blood-Splatterer\" Coribou",
+    "age": "29",
+    "birthday": "May 2nd",
+    "height": "250 cm (8'2\")",
+    "blood_type": "XF",
+    "bounty": "190,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

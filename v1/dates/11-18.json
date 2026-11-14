@@ -3,7 +3,23 @@
   "label": "November 18th",
   "month": 11,
   "day": 18,
-  "characters": [
+  "names": [
     "Higuma"
+  ],
+  "characters": [
+    {
+      "id": "higuma",
+      "name": "Higuma",
+      "display_name": "Higuma",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Higuma_Anime_Infobox.png/revision/latest/scale-to-width-down/229?cb=20260930012451",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Higuma_Anime_Infobox.png/revision/latest?cb=20260930012451",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Higuma",
+      "epithet": null,
+      "affiliation": "Higuma Bandits",
+      "api": "v1/characters/higuma.json"
+    }
   ]
 }

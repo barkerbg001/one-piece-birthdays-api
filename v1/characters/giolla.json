@@ -1,0 +1,67 @@
+{
+  "id": "giolla",
+  "name": "Giolla",
+  "display_name": "Giolla",
+  "alias": null,
+  "note": "previously stated to be 27th in the SBS, later retconned to 25th",
+  "birthdays": [
+    {
+      "date": "01-25",
+      "label": "January 25th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/21/Giolla_Anime_Infobox.png/revision/latest?cb=20221117034510",
+    "width": 1913,
+    "height": 3236
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/21/Giolla_Anime_Infobox.png/revision/latest/scale-to-width-down/236?cb=20221117034510",
+    "width": 236,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Giolla",
+    "url": "https://onepiece.fandom.com/wiki/Giolla"
+  },
+  "info": {
+    "japanese_name": "ジョーラ",
+    "romanized_name": "Jōra",
+    "debut": [
+      "Chapter 682",
+      "Episode 608"
+    ],
+    "affiliations": [
+      "Donquixote Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer"
+    ],
+    "origin": "North Blue",
+    "residence": [
+      "Spider Miles (former)",
+      "Dressrosa (former)"
+    ],
+    "age": "61",
+    "birthday": "January 25th",
+    "height": "221 cm (7'3\")",
+    "blood_type": "S",
+    "devil_fruit": "Ato Ato no Mi",
+    "devil_fruit_english": "Art-Art Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

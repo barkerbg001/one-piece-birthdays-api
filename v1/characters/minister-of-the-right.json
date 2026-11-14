@@ -1,0 +1,61 @@
+{
+  "id": "minister-of-the-right",
+  "name": "Minister of the Right",
+  "display_name": "Minister of the Right",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-05",
+      "label": "April 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/07/Minister_of_the_Right_Anime_Infobox.png/revision/latest?cb=20241229031629",
+    "width": 1411,
+    "height": 3126
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/0/07/Minister_of_the_Right_Anime_Infobox.png/revision/latest/scale-to-width-down/180?cb=20241229031629",
+    "width": 180,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Minister of the Right",
+    "url": "https://onepiece.fandom.com/wiki/Minister_of_the_Right"
+  },
+  "info": {
+    "japanese_name": "右大臣",
+    "romanized_name": "Udaijin",
+    "official_english_name": "Minister of the Right",
+    "debut": [
+      "Chapter 612",
+      "Episode 531"
+    ],
+    "affiliations": [
+      "Ryugu Kingdom"
+    ],
+    "occupations": [
+      "Minister of Ryugu Kingdom"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "age": "55",
+    "birthday": "April 5th",
+    "height": "313 cm (10'3\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

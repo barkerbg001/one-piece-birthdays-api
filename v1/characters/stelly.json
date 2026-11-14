@@ -1,0 +1,62 @@
+{
+  "id": "stelly",
+  "name": "Stelly",
+  "display_name": "Stelly",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-12",
+      "label": "March 12th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/34/Sterry_Anime_Infobox.png/revision/latest?cb=20230112045914",
+    "width": 1086,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/34/Sterry_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230112045914",
+    "width": 400,
+    "height": 398
+  },
+  "wiki": {
+    "title": "Sterry",
+    "url": "https://onepiece.fandom.com/wiki/Sterry"
+  },
+  "info": {
+    "japanese_name": "ステリー",
+    "romanized_name": "Suterī",
+    "official_english_name": "Stelly; Sterry (WT100)",
+    "debut": [
+      "Chapter 586",
+      "Episode 500"
+    ],
+    "occupations": [
+      "King of the Goa Kingdom",
+      "Noble (former)"
+    ],
+    "origin": "East Blue (Dawn Island)",
+    "residence": [
+      "Goa Kingdom"
+    ],
+    "age": "8 (debut); 20 (after timeskip)",
+    "birthday": "March 12th",
+    "height": "180 cm (5'11\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

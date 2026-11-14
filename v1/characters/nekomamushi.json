@@ -1,0 +1,76 @@
+{
+  "id": "nekomamushi",
+  "name": "Nekomamushi",
+  "display_name": "Nekomamushi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-22",
+      "label": "November 22nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a2/Nekomamushi_Anime_Infobox.png/revision/latest?cb=20220419121421",
+    "width": 786,
+    "height": 726
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a2/Nekomamushi_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20220419121421",
+    "width": 400,
+    "height": 369
+  },
+  "wiki": {
+    "title": "Nekomamushi",
+    "url": "https://onepiece.fandom.com/wiki/Nekomamushi"
+  },
+  "info": {
+    "japanese_name": "ネコマムシ",
+    "official_english_name": "Cat Viper; Nekomamushi (WT100)",
+    "debut": [
+      "Chapter 809",
+      "Episode 756"
+    ],
+    "affiliations": [
+      "Mokomo Dukedom",
+      "Guardians",
+      "Kouzuki Family",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+      "Nine Red Scabbards",
+      "Roger Pirates (former)",
+      "Whitebeard Pirates (former)"
+    ],
+    "occupations": [
+      "Yakuza Boss",
+      "Ruler of Mokomo Dukedom (former)",
+      "Guardian Deity of the Whale Forest (former)",
+      "Retainer",
+      "Samurai",
+      "Pirate Apprentice (former)"
+    ],
+    "origin": "Grand Line (Mokomo Dukedom)",
+    "residence": [
+      "Zou (Whale Forest) (Former)",
+      "Wano Country (Flower Capital)"
+    ],
+    "epithet": "\"Master Nekomamushi\"; \"Ruler of Night\"",
+    "age": "40",
+    "birthday": "November 22nd",
+    "height": "522 cm (17'1\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

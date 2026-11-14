@@ -1,0 +1,60 @@
+{
+  "id": "miyagi",
+  "name": "Miyagi",
+  "display_name": "Miyagi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-22",
+      "label": "December 22nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Miyagi_Anime_Infobox.png/revision/latest?cb=20231119134504",
+    "width": 598,
+    "height": 948
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Miyagi_Anime_Infobox.png/revision/latest/scale-to-width-down/252?cb=20231119134504",
+    "width": 252,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Miyagi",
+    "url": "https://onepiece.fandom.com/wiki/Miyagi"
+  },
+  "info": {
+    "japanese_name": "ミヤギ",
+    "official_english_name": "Miyagi",
+    "debut": [
+      "Chapter 807",
+      "Episode 756"
+    ],
+    "affiliations": [
+      "Mokomo Dukedom",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Doctor"
+    ],
+    "residence": [
+      "Zou (Kurau City)"
+    ],
+    "birthday": "December 22nd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

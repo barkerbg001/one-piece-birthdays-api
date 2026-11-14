@@ -3,11 +3,83 @@
   "label": "February 19th",
   "month": 2,
   "day": 19,
-  "characters": [
+  "names": [
     "Bobby Funk",
     "Road",
     "Cocox",
     "Superhuman Domingos",
     "Henohenounchi"
+  ],
+  "characters": [
+    {
+      "id": "bobby-funk",
+      "name": "Bobby Funk",
+      "display_name": "Bobby Funk",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/51/Bobby_Funk_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20140216150348",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/51/Bobby_Funk_Anime_Infobox.png/revision/latest?cb=20140216150348",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Bobby_Funk",
+      "epithet": null,
+      "affiliation": "Mogaro Kingdom",
+      "api": "v1/characters/bobby-funk.json"
+    },
+    {
+      "id": "road",
+      "name": "Road",
+      "display_name": "Road",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/5c/Road_Anime_Infobox.png/revision/latest/scale-to-width-down/284?cb=20260621160746",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/5c/Road_Anime_Infobox.png/revision/latest?cb=20260621160746",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Road",
+      "epithet": null,
+      "affiliation": "Straw Hat Grand Fleet (New Giant Warrior Pirates), Land of Gods, Buggy's Delivery (former)",
+      "api": "v1/characters/road.json"
+    },
+    {
+      "id": "cocox",
+      "name": "Cocox",
+      "display_name": "Cocox",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Cocox_Anime_Infobox.png/revision/latest?cb=20180510134405",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Cocox_Anime_Infobox.png/revision/latest?cb=20180510134405",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Cocox",
+      "epithet": null,
+      "affiliation": "Animals of the Island of Rare Animals",
+      "api": "v1/characters/cocox.json"
+    },
+    {
+      "id": "superhuman-domingos",
+      "name": "Superhuman Domingos",
+      "display_name": "Superhuman Domingos",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/superhuman-domingos.json"
+    },
+    {
+      "id": "henohenounchi",
+      "name": "Henohenounchi",
+      "display_name": "Henohenounchi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/henohenounchi.json"
+    }
   ]
 }

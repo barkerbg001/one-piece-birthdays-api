@@ -3,11 +3,92 @@
   "label": "January 23rd",
   "month": 1,
   "day": 23,
-  "characters": [
+  "names": [
     "Charlotte Nusstorte",
     "Charlotte Basskarte",
     "Charlotte Dosmarche",
     "Ginrummy",
     "Roxanne"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-nusstorte",
+      "name": "Charlotte Nusstorte",
+      "display_name": "Charlotte Nusstorte",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-basskarte",
+        "charlotte-dosmarche"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Charlotte_Nusstorte_Anime_Infobox.png/revision/latest/scale-to-width-down/233?cb=20180617111602",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Charlotte_Nusstorte_Anime_Infobox.png/revision/latest?cb=20180617111602",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Nusstorte",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-nusstorte.json"
+    },
+    {
+      "id": "charlotte-basskarte",
+      "name": "Charlotte Basskarte",
+      "display_name": "Charlotte Basskarte",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-nusstorte",
+        "charlotte-dosmarche"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/84/Charlotte_Basskarte_Anime_Infobox.png/revision/latest/scale-to-width-down/392?cb=20180924183245",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/84/Charlotte_Basskarte_Anime_Infobox.png/revision/latest?cb=20180924183245",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Basskarte",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-basskarte.json"
+    },
+    {
+      "id": "charlotte-dosmarche",
+      "name": "Charlotte Dosmarche",
+      "display_name": "Charlotte Dosmarche",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-nusstorte",
+        "charlotte-basskarte"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c6/Charlotte_Dosmarche_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20180506063638",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c6/Charlotte_Dosmarche_Anime_Infobox.png/revision/latest?cb=20180506063638",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Dosmarche",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-dosmarche.json"
+    },
+    {
+      "id": "ginrummy",
+      "name": "Ginrummy",
+      "display_name": "Ginrummy",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Ginrummy_Anime_Infobox.png/revision/latest/scale-to-width-down/225?cb=20170116011351",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Ginrummy_Anime_Infobox.png/revision/latest?cb=20170116011351",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Ginrummy",
+      "epithet": null,
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/ginrummy.json"
+    },
+    {
+      "id": "roxanne",
+      "name": "Roxanne",
+      "display_name": "Roxanne",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": "https://onepiece.fandom.com/wiki/Roxanne",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/roxanne.json"
+    }
   ]
 }

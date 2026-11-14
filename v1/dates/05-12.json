@@ -3,8 +3,38 @@
   "label": "May 12th",
   "month": 5,
   "day": 12,
-  "characters": [
+  "names": [
     "Vinsmoke Judge",
     "Daikoku"
+  ],
+  "characters": [
+    {
+      "id": "vinsmoke-judge",
+      "name": "Vinsmoke Judge",
+      "display_name": "Vinsmoke Judge",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Vinsmoke_Judge_Anime_Infobox.png/revision/latest/scale-to-width-down/250?cb=20170626124958",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Vinsmoke_Judge_Anime_Infobox.png/revision/latest?cb=20170626124958",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Vinsmoke_Judge",
+      "epithet": null,
+      "affiliation": "Vinsmoke Family",
+      "api": "v1/characters/vinsmoke-judge.json"
+    },
+    {
+      "id": "daikoku",
+      "name": "Daikoku",
+      "display_name": "Daikoku",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/43/Daikoku_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20200405032802",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/43/Daikoku_Anime_Infobox.png/revision/latest?cb=20200405032802",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Daikoku",
+      "epithet": null,
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/daikoku.json"
+    }
   ]
 }

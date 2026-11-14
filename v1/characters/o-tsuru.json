@@ -1,0 +1,63 @@
+{
+  "id": "o-tsuru",
+  "name": "O-Tsuru",
+  "display_name": "O-Tsuru",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-15",
+      "label": "September 15th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/75/Tsurujo_Anime_Infobox.png/revision/latest?cb=20190901063038",
+    "width": 350,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/75/Tsurujo_Anime_Infobox.png/revision/latest/scale-to-width-down/194?cb=20190901063038",
+    "width": 194,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Tsurujo",
+    "url": "https://onepiece.fandom.com/wiki/Tsurujo"
+  },
+  "info": {
+    "japanese_name": "鶴女",
+    "romanized_name": "Tsurujo",
+    "official_english_name": "Tsuru",
+    "debut": [
+      "Chapter 912",
+      "Episode 897"
+    ],
+    "occupations": [
+      "Tea House Owner",
+      "Waitress (former)"
+    ],
+    "origin": "Grand Line (Wano Country)",
+    "residence": [
+      "Wano Country (Okobore Town, Kuri) (former)",
+      "Wano Country (Flower Capital)"
+    ],
+    "age": "55",
+    "birthday": "September 15th",
+    "height": "191 cm (6'3\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

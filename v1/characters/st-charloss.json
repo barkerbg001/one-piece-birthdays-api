@@ -1,0 +1,64 @@
+{
+  "id": "st-charloss",
+  "name": "St. Charloss",
+  "display_name": "St. Charloss",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-01",
+      "label": "June 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Rosward_Charlos_Anime_Infobox.png/revision/latest?cb=20230130105444",
+    "width": 776,
+    "height": 1080
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Rosward_Charlos_Anime_Infobox.png/revision/latest/scale-to-width-down/287?cb=20230130105444",
+    "width": 287,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Rosward Charlos",
+    "url": "https://onepiece.fandom.com/wiki/Rosward_Charlos"
+  },
+  "info": {
+    "japanese_name": "ロズワード・チャルロス聖",
+    "romanized_name": "Rosuwādo Charurosu Sei",
+    "official_english_name": "Saint Charlos (VIZ); Saint Charloss (Funimation)",
+    "debut": [
+      "Chapter 499",
+      "Episode 393"
+    ],
+    "affiliations": [
+      "World Government (Rosward Family)"
+    ],
+    "occupations": [
+      "World Noble"
+    ],
+    "origin": "Red Line (Mary Geoise)",
+    "residence": [
+      "Mary Geoise"
+    ],
+    "age": "22 (debut); 24 (after timeskip)",
+    "birthday": "June 1st",
+    "height": "230 cm (7'6\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

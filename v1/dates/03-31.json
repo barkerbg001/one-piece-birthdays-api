@@ -3,7 +3,23 @@
   "label": "March 31st",
   "month": 3,
   "day": 31,
-  "characters": [
+  "names": [
     "And"
+  ],
+  "characters": [
+    {
+      "id": "and",
+      "name": "And",
+      "display_name": "And",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Baskerville_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240624215454",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Baskerville_Anime_Infobox.png/revision/latest?cb=20240624215454",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Baskerville",
+      "epithet": "\"Three-Headed Baskerville\"",
+      "affiliation": "World Government (Enies Lobby)",
+      "api": "v1/characters/and.json"
+    }
   ]
 }

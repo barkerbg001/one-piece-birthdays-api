@@ -3,7 +3,23 @@
   "label": "November 27th",
   "month": 11,
   "day": 27,
-  "characters": [
+  "names": [
     "Blue Gilly"
+  ],
+  "characters": [
+    {
+      "id": "blue-gilly",
+      "name": "Blue Gilly",
+      "display_name": "Blue Gilly",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Blue_Gilly_Anime_Infobox.png/revision/latest/scale-to-width-down/140?cb=20140323171231",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Blue_Gilly_Anime_Infobox.png/revision/latest?cb=20140323171231",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Blue_Gilly",
+      "epithet": null,
+      "affiliation": "Ideo Pirates",
+      "api": "v1/characters/blue-gilly.json"
+    }
   ]
 }

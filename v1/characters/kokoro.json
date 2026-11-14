@@ -1,0 +1,64 @@
+{
+  "id": "kokoro",
+  "name": "Kokoro",
+  "display_name": "Kokoro",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "10-05",
+      "label": "October 5th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cc/Kokoro_Anime_Infobox.png/revision/latest?cb=20250318233550",
+    "width": 711,
+    "height": 1029
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/cc/Kokoro_Anime_Infobox.png/revision/latest/scale-to-width-down/276?cb=20250318233550",
+    "width": 276,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kokoro",
+    "url": "https://onepiece.fandom.com/wiki/Kokoro"
+  },
+  "info": {
+    "japanese_name": "ココロ",
+    "debut": [
+      "Chapter 322",
+      "Episode 229"
+    ],
+    "affiliations": [
+      "Tom's Workers"
+    ],
+    "occupations": [
+      "Stationmaster",
+      "\"Lovely\" secretary of Tom (former)"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Water 7",
+      "Fish-Man Island (former)"
+    ],
+    "age": "70 (debut); 72 (after timeskip)",
+    "birthday": "October 5th",
+    "height": "168 cm (5'6\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

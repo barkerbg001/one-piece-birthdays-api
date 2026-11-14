@@ -3,7 +3,23 @@
   "label": "June 11th",
   "month": 6,
   "day": 11,
-  "characters": [
+  "names": [
     "Shiliew"
+  ],
+  "characters": [
+    {
+      "id": "shiliew",
+      "name": "Shiliew",
+      "display_name": "Shiliew",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Shiryu_Anime_Infobox.png/revision/latest/scale-to-width-down/374?cb=20240728020909",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Shiryu_Anime_Infobox.png/revision/latest?cb=20240728020909",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Shiryu",
+      "epithet": "\"Shiryu of the Rain\"",
+      "affiliation": "Blackbeard Pirates",
+      "api": "v1/characters/shiliew.json"
+    }
   ]
 }

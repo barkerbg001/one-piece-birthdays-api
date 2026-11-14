@@ -1,0 +1,65 @@
+{
+  "id": "piiman",
+  "name": "Piiman",
+  "display_name": "Piiman",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-09",
+      "label": "April 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8e/Piiman_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251026160542",
+    "width": 622,
+    "height": 1029
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/8e/Piiman_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/242?cb=20251026160542",
+    "width": 242,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Piiman",
+    "url": "https://onepiece.fandom.com/wiki/Piiman"
+  },
+  "info": {
+    "japanese_name": "ピーマン",
+    "romanized_name": "Pīman",
+    "official_english_name": "Pepper; Pieman (Odex)",
+    "debut": [
+      "Chapter 23",
+      "Episode 9"
+    ],
+    "affiliations": [
+      "Usopp Pirates (disbanded)",
+      "Usopp Security Force"
+    ],
+    "occupations": [
+      "Pretend Pirate (former)"
+    ],
+    "origin": "East Blue (Gecko Islands)",
+    "residence": [
+      "Syrup Village"
+    ],
+    "age": "9 (debut); 11 (after timeskip)",
+    "birthday": "April 9th",
+    "height": "120 cm (3'11\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

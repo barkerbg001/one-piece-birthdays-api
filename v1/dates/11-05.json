@@ -3,7 +3,23 @@
   "label": "November 5th",
   "month": 11,
   "day": 5,
-  "characters": [
+  "names": [
     "Fisher Tiger"
+  ],
+  "characters": [
+    {
+      "id": "fisher-tiger",
+      "name": "Fisher Tiger",
+      "display_name": "Fisher Tiger",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Fisher_Tiger_Anime_Infobox.png/revision/latest/scale-to-width-down/322?cb=20230214162116",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Fisher_Tiger_Anime_Infobox.png/revision/latest?cb=20230214162116",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Fisher_Tiger",
+      "epithet": "\"The Adventurer\"\"Hero of Slaves\"",
+      "affiliation": "Sun Pirates",
+      "api": "v1/characters/fisher-tiger.json"
+    }
   ]
 }

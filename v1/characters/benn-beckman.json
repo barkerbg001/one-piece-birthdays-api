@@ -1,0 +1,63 @@
+{
+  "id": "benn-beckman",
+  "name": "Benn Beckman",
+  "display_name": "Benn Beckman",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-09",
+      "label": "November 9th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/12/Benn_Beckman_Anime_Infobox.png/revision/latest?cb=20240623091906",
+    "width": 1212,
+    "height": 1048
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/12/Benn_Beckman_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240623091906",
+    "width": 400,
+    "height": 346
+  },
+  "wiki": {
+    "title": "Benn Beckman",
+    "url": "https://onepiece.fandom.com/wiki/Benn_Beckman"
+  },
+  "info": {
+    "japanese_name": "ベン・ベックマン",
+    "romanized_name": "Ben Bekkuman",
+    "official_english_name": "Benn Beckman; Ben Beckman (VIZ, formerly)",
+    "debut": [
+      "Chapter 1",
+      "Episode 4"
+    ],
+    "affiliations": [
+      "Red Hair Pirates"
+    ],
+    "occupations": [
+      "Pirate",
+      "First Mate"
+    ],
+    "origin": "North Blue",
+    "age": "38 (debut); 48 (pre-timeskip); 50 (after timeskip)",
+    "birthday": "November 9th",
+    "height": "206 cm (6'9\")",
+    "blood_type": "X",
+    "bounty": "Unknown"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

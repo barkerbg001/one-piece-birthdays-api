@@ -3,8 +3,38 @@
   "label": "September 10th",
   "month": 9,
   "day": 10,
-  "characters": [
+  "names": [
     "T-Bone",
     "Very Good"
+  ],
+  "characters": [
+    {
+      "id": "t-bone",
+      "name": "T-Bone",
+      "display_name": "T-Bone",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/08/T_Bone_Anime_Infobox.png/revision/latest/scale-to-width-down/251?cb=20230427165456",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/08/T_Bone_Anime_Infobox.png/revision/latest?cb=20230427165456",
+      "wiki_url": "https://onepiece.fandom.com/wiki/T_Bone",
+      "epithet": "\"Ship Cutter\"",
+      "affiliation": "Marines",
+      "api": "v1/characters/t-bone.json"
+    },
+    {
+      "id": "very-good",
+      "name": "Very Good",
+      "display_name": "Very Good",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/3a/Very_Good_Anime_Infobox.png/revision/latest/scale-to-width-down/354?cb=20230812130315",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/3a/Very_Good_Anime_Infobox.png/revision/latest?cb=20230812130315",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Very_Good",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/very-good.json"
+    }
   ]
 }

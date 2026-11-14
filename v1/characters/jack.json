@@ -1,0 +1,70 @@
+{
+  "id": "jack",
+  "name": "Jack",
+  "display_name": "Jack",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-28",
+      "label": "September 28th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Jack_Anime_Infobox.png/revision/latest?cb=20161009223938",
+    "width": 1280,
+    "height": 1622
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Jack_Anime_Infobox.png/revision/latest/scale-to-width-down/316?cb=20161009223938",
+    "width": 316,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Jack",
+    "url": "https://onepiece.fandom.com/wiki/Jack"
+  },
+  "info": {
+    "japanese_name": "ジャック",
+    "romanized_name": "Jakku",
+    "debut": [
+      "Chapter 801",
+      "Episode 746"
+    ],
+    "affiliations": [
+      "Beasts Pirates"
+    ],
+    "occupations": [
+      "All-Star",
+      "Captain of the Mammoth",
+      "De Facto Ruler of Kuri (former)"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Wano Country"
+    ],
+    "epithet": "\"Jack the Drought\"",
+    "age": "28",
+    "birthday": "September 28th",
+    "height": "830 cm (27'3\")",
+    "blood_type": "F",
+    "bounty": "1,000,000,000",
+    "devil_fruit": "Zou Zou no Mi, Model: Mammoth",
+    "devil_fruit_english": "Elephant-Elephant Fruit, Ancient Zoan Model: Mammoth (Funimation), Eleph-Eleph Fruit Ancient Zoan Model Mammoth",
+    "devil_fruit_type": "Ancient Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

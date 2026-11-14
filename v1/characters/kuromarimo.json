@@ -1,0 +1,62 @@
+{
+  "id": "kuromarimo",
+  "name": "Kuromarimo",
+  "display_name": "Kuromarimo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-26",
+      "label": "January 26th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Kuromarimo_Anime_Infobox.png/revision/latest?cb=20260929223524",
+    "width": 433,
+    "height": 519
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Kuromarimo_Anime_Infobox.png/revision/latest/scale-to-width-down/334?cb=20260929223524",
+    "width": 334,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Kuromarimo",
+    "url": "https://onepiece.fandom.com/wiki/Kuromarimo"
+  },
+  "info": {
+    "japanese_name": "クロマーリモ",
+    "romanized_name": "Kuromārimo",
+    "official_english_name": "Kuromarimo; K.M. (live-action series)",
+    "debut": [
+      "Chapter 131",
+      "Episode 79"
+    ],
+    "affiliations": [
+      "Bliking Pirates (disbanded), Drum Kingdom (former)"
+    ],
+    "occupations": [
+      "Evil Magistrate (Magistrate)",
+      "Pirate"
+    ],
+    "origin": "Grand Line (Drum Kingdom)",
+    "age": "28 (debut); 30 (after timeskip)",
+    "birthday": "January 26th",
+    "height": "186 cm (6'1\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

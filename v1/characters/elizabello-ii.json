@@ -1,0 +1,62 @@
+{
+  "id": "elizabello-ii",
+  "name": "Elizabello II",
+  "display_name": "Elizabello II",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-02",
+      "label": "February 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ae/Elizabello_II_Anime_Infobox.png/revision/latest?cb=20230926212430",
+    "width": 1914,
+    "height": 2672
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ae/Elizabello_II_Anime_Infobox.png/revision/latest/scale-to-width-down/286?cb=20230926212430",
+    "width": 286,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Elizabello II",
+    "url": "https://onepiece.fandom.com/wiki/Elizabello_II"
+  },
+  "info": {
+    "japanese_name": "エリザベローII世",
+    "romanized_name": "Erizaberō Nisei",
+    "official_english_name": "Elizabero II; Elizabello II",
+    "debut": [
+      "Chapter 704",
+      "Episode 632"
+    ],
+    "affiliations": [
+      "Prodence Kingdom"
+    ],
+    "occupations": [
+      "King"
+    ],
+    "origin": "Grand Line (Prodence Kingdom)",
+    "epithet": "\"The Fighting King\"",
+    "age": "57",
+    "birthday": "February 2nd",
+    "height": "436 cm (14'3½\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

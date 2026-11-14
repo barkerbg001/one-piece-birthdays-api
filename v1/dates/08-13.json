@@ -3,8 +3,38 @@
   "label": "August 13th",
   "month": 8,
   "day": 13,
-  "characters": [
+  "names": [
     "Don Sai",
     "Machvise"
+  ],
+  "characters": [
+    {
+      "id": "don-sai",
+      "name": "Don Sai",
+      "display_name": "Don Sai",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/db/Sai_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230301234122",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/db/Sai_Anime_Infobox.png/revision/latest?cb=20230301234122",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Sai",
+      "epithet": null,
+      "affiliation": "Happo Navy",
+      "api": "v1/characters/don-sai.json"
+    },
+    {
+      "id": "machvise",
+      "name": "Machvise",
+      "display_name": "Machvise",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Machvise_Anime_Infobox.png/revision/latest/scale-to-width-down/344?cb=20140916075009",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Machvise_Anime_Infobox.png/revision/latest?cb=20140916075009",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Machvise",
+      "epithet": null,
+      "affiliation": "Donquixote Pirates",
+      "api": "v1/characters/machvise.json"
+    }
   ]
 }

@@ -1,0 +1,73 @@
+{
+  "id": "cavendish",
+  "name": "Cavendish",
+  "display_name": "Cavendish",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-31",
+      "label": "August 31st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Cavendish_Anime_Infobox.png/revision/latest?cb=20140224010824",
+    "width": 1280,
+    "height": 2485
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Cavendish_Anime_Infobox.png/revision/latest/scale-to-width-down/206?cb=20140224010824",
+    "width": 206,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Cavendish",
+    "url": "https://onepiece.fandom.com/wiki/Cavendish"
+  },
+  "info": {
+    "japanese_name": "キャベンディッシュ",
+    "romanized_name": "Kyabendisshu",
+    "official_english_name": "Cavendish",
+    "debut": [
+      "Chapter 704",
+      "Episode 632"
+    ],
+    "affiliations": [
+      "Beautiful Pirates",
+      "Straw Hat Grand Fleet",
+      "Bourgeois Kingdom"
+    ],
+    "occupations": [
+      "Captain of the First Ship of the Straw Hat Grand Fleet",
+      "Pirate Captain",
+      "Prince of the Bourgeois Kingdom (former)"
+    ],
+    "origin": "Grand Line (Bourgeois Kingdom)",
+    "residence": [
+      "Bourgeois Kingdom (former)"
+    ],
+    "epithet": "\"Cavendish of the White Horse\"; \"Pirate Prince\"",
+    "aliases": [
+      "Hakuba"
+    ],
+    "age": "26",
+    "birthday": "August 31st",
+    "height": "208 cm (6'10\")",
+    "blood_type": "XF",
+    "bounty": "330,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

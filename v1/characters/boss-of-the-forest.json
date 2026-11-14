@@ -1,0 +1,60 @@
+{
+  "id": "boss-of-the-forest",
+  "name": "Boss of the Forest",
+  "display_name": "Boss of the Forest",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-10",
+      "label": "April 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/46/Forest_Boss_Manga_Infobox.png/revision/latest?cb=20220720155918",
+    "width": 298,
+    "height": 416
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/46/Forest_Boss_Manga_Infobox.png/revision/latest/scale-to-width-down/286?cb=20220720155918",
+    "width": 286,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Forest Boss",
+    "url": "https://onepiece.fandom.com/wiki/Forest_Boss"
+  },
+  "info": {
+    "japanese_name": "森番長",
+    "romanized_name": "Mori Banchō",
+    "official_english_name": "Forest Boss",
+    "debut": [
+      "Chapter 333 (cover)"
+    ],
+    "affiliations": [
+      "Ukkari Hot-Spring Island",
+      "Gedatsu"
+    ],
+    "occupations": [
+      "Boss of the Forest"
+    ],
+    "residence": [
+      "Ukkari Hot-Spring Island"
+    ],
+    "birthday": "April 10th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

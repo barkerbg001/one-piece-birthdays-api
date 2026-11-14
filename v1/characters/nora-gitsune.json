@@ -1,0 +1,60 @@
+{
+  "id": "nora-gitsune",
+  "name": "Nora Gitsune",
+  "display_name": "Nora Gitsune",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-10",
+      "label": "April 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3b/Nora_Gitsune_Anime_Infobox.png/revision/latest?cb=20230830204212",
+    "width": 604,
+    "height": 471
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/3b/Nora_Gitsune_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230830204212",
+    "width": 400,
+    "height": 312
+  },
+  "wiki": {
+    "title": "Nora Gitsune",
+    "url": "https://onepiece.fandom.com/wiki/Nora_Gitsune"
+  },
+  "info": {
+    "japanese_name": "のらギツネ",
+    "romanized_name": "Nora-Gitsune",
+    "official_english_name": "Stray Fox",
+    "debut": [
+      "Chapter 598",
+      "Episode 518"
+    ],
+    "affiliations": [
+      "Fake Straw Hat Crew"
+    ],
+    "occupations": [
+      "Pet"
+    ],
+    "origin": "East Blue",
+    "age": "13",
+    "birthday": "April 10th",
+    "height": "103 cm (3'4\")"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "mr-13",
+  "name": "Mr. 13",
+  "display_name": "Mr. 13",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-17",
+      "label": "May 17th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Mr._13_Anime_Infobox.png/revision/latest?cb=20250526181946",
+    "width": 313,
+    "height": 457
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Mr._13_Anime_Infobox.png/revision/latest/scale-to-width-down/274?cb=20250526181946",
+    "width": 274,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Mr. 13",
+    "url": "https://onepiece.fandom.com/wiki/Mr._13"
+  },
+  "info": {
+    "japanese_name": "ミスター・サーティーン",
+    "romanized_name": "Misutā Sātīn",
+    "official_english_name": "Mr. 13",
+    "debut": [
+      "Chapter 105",
+      "Episode 63"
+    ],
+    "affiliations": [
+      "Baroque Works (former)"
+    ],
+    "occupations": [
+      "Assassin (former)"
+    ],
+    "origin": "Grand Line",
+    "birthday": "May 17th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

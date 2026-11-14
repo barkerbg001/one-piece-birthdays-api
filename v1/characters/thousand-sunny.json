@@ -1,0 +1,54 @@
+{
+  "id": "thousand-sunny",
+  "name": "Thousand Sunny",
+  "display_name": "Thousand Sunny",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-25",
+      "label": "March 25th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b1/Thousand_Sunny_Infobox.png/revision/latest?cb=20220904012119",
+    "width": 1132,
+    "height": 919
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b1/Thousand_Sunny_Infobox.png/revision/latest/scale-to-width-down/400?cb=20220904012119",
+    "width": 400,
+    "height": 325
+  },
+  "wiki": {
+    "title": "Thousand Sunny",
+    "url": "https://onepiece.fandom.com/wiki/Thousand_Sunny"
+  },
+  "info": {
+    "japanese_name": "サウザンドサニー号",
+    "romanized_name": "Sauzando Sanī-gō",
+    "official_english_name": "Thousand Sunny",
+    "debut": [
+      "Chapter 436",
+      "Episode 321"
+    ],
+    "affiliations": [
+      "Straw Hat Pirates"
+    ],
+    "height": "5600 cm (183'9\")"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

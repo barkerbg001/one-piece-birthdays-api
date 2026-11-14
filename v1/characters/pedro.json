@@ -1,0 +1,70 @@
+{
+  "id": "pedro",
+  "name": "Pedro",
+  "display_name": "Pedro",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-16",
+      "label": "June 16th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c8/Pedro_Anime_Infobox.png/revision/latest?cb=20170423080015",
+    "width": 580,
+    "height": 720
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c8/Pedro_Anime_Infobox.png/revision/latest/scale-to-width-down/322?cb=20170423080015",
+    "width": 322,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Pedro",
+    "url": "https://onepiece.fandom.com/wiki/Pedro"
+  },
+  "info": {
+    "japanese_name": "ペドロ",
+    "romanized_name": "Pedoro",
+    "debut": [
+      "Chapter 805",
+      "Episode 754"
+    ],
+    "affiliations": [
+      "Mokomo Dukedom",
+      "Guardians",
+      "Ninja-Pirate-Mink-Samurai Alliance",
+      "Nox Expedition Party\\Pirates (former)"
+    ],
+    "occupations": [
+      "Captain of the Guardians",
+      "Pirate Captain (former)",
+      "Explorer (former)"
+    ],
+    "origin": "Grand Line (Mokomo Dukedom)",
+    "residence": [
+      "Zou (Whale Forest)"
+    ],
+    "epithet": "\"Pedro of the Treetops\"",
+    "status": "2",
+    "birthday": "June 16th",
+    "height": "233 cm (7'8\")",
+    "blood_type": "F",
+    "bounty": "382,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

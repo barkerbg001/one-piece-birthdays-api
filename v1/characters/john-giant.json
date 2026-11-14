@@ -1,0 +1,61 @@
+{
+  "id": "john-giant",
+  "name": "John Giant",
+  "display_name": "John Giant",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-19",
+      "label": "May 19th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/28/John_Giant_Anime_Infobox.png/revision/latest?cb=20230222232558",
+    "width": 704,
+    "height": 528
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/2/28/John_Giant_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230222232558",
+    "width": 400,
+    "height": 300
+  },
+  "wiki": {
+    "title": "John Giant",
+    "url": "https://onepiece.fandom.com/wiki/John_Giant"
+  },
+  "info": {
+    "japanese_name": "ジョン・ジャイアント",
+    "romanized_name": "Jon Jaianto",
+    "debut": [
+      "Chapter 96",
+      "Episode 45"
+    ],
+    "affiliations": [
+      "Marines"
+    ],
+    "occupations": [
+      "Vice Admiral"
+    ],
+    "origin": "Grand Line (Elbaph)",
+    "residence": [
+      "Elbaph (former)"
+    ],
+    "birthday": "May 19th",
+    "bounty": "At least ★★★★★"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

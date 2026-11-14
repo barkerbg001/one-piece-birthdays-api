@@ -1,0 +1,70 @@
+{
+  "id": "koby",
+  "name": "Koby",
+  "display_name": "Koby",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-13",
+      "label": "May 13th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Koby_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241114130518",
+    "width": 1585,
+    "height": 2113
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Koby_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/300?cb=20241114130518",
+    "width": 300,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Koby",
+    "url": "https://onepiece.fandom.com/wiki/Koby"
+  },
+  "info": {
+    "japanese_name": "コビー",
+    "romanized_name": "Kobī",
+    "official_english_name": "Koby (VIZ, Crunchyroll, Odex),; Coby (Funimation, 4Kids)",
+    "debut": [
+      "Chapter 2",
+      "Episode 1"
+    ],
+    "affiliations": [
+      "Marines (SWORD), Marine 153rd Branch (former)",
+      "Alvida Pirates (defected)"
+    ],
+    "occupations": [
+      "Marine Captain",
+      "Master Chief Petty Officer (promoted), Chore Boy (promoted)",
+      "Pirate Ship Caretaker (former)"
+    ],
+    "origin": "East Blue (Satsuruzo Kingdom)",
+    "residence": [
+      "Shells Town (153rd Branch) (former)",
+      "Goat Island (former)"
+    ],
+    "epithet": "\"Hero\"",
+    "age": "16 (debut); 18 (after timeskip)",
+    "birthday": "May 13th",
+    "height": "167 cm (5'6\")",
+    "blood_type": "F",
+    "bounty": "★★★★★"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

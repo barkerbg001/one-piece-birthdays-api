@@ -1,0 +1,62 @@
+{
+  "id": "yosaku",
+  "name": "Yosaku",
+  "display_name": "Yosaku",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-10",
+      "label": "November 10th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Yosaku_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20231120150325",
+    "width": 423,
+    "height": 757
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Yosaku_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/223?cb=20231120150325",
+    "width": 223,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Yosaku",
+    "url": "https://onepiece.fandom.com/wiki/Yosaku"
+  },
+  "info": {
+    "japanese_name": "ヨサク",
+    "romanized_name": "Yosaku",
+    "debut": [
+      "Chapter 42",
+      "Episode 20"
+    ],
+    "affiliations": [
+      "Johnny",
+      "Roronoa Zoro's band (former)"
+    ],
+    "occupations": [
+      "Bounty Hunter (former)",
+      "Fisherman"
+    ],
+    "origin": "East Blue",
+    "age": "24 (debut); 26 (after timeskip)",
+    "birthday": "November 10th",
+    "height": "185 cm (6'1\")",
+    "blood_type": "F"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

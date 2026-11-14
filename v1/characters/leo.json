@@ -1,0 +1,66 @@
+{
+  "id": "leo",
+  "name": "Leo",
+  "display_name": "Leo",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-24",
+      "label": "July 24th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/be/Leo_Anime_Infobox.png/revision/latest?cb=20200422024534",
+    "width": 275,
+    "height": 391
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/be/Leo_Anime_Infobox.png/revision/latest?cb=20200422024534",
+    "width": 281,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Leo",
+    "url": "https://onepiece.fandom.com/wiki/Leo"
+  },
+  "info": {
+    "japanese_name": "レオ",
+    "romanized_name": "Reo",
+    "debut": [
+      "Chapter 710",
+      "Episode 640"
+    ],
+    "affiliations": [
+      "Tontatta Kingdom",
+      "Straw Hat Grand Fleet (Tontatta Pirates)"
+    ],
+    "occupations": [
+      "Captain of the Fifth Ship of the Straw Hat Grand Fleet",
+      "Captain of the Tontatta Pirates"
+    ],
+    "origin": "Grand Line (Green Bit)",
+    "epithet": "\"Warrior\"",
+    "age": "25",
+    "birthday": "July 24th",
+    "height": "23 cm (9\")",
+    "blood_type": "S",
+    "devil_fruit": "Nui Nui no Mi",
+    "devil_fruit_english": "Stitch-Stitch Power (VIZ and Funimation); Sew-Sew Fruit (One Piece Official YouTube Channel)",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

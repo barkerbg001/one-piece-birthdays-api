@@ -3,9 +3,53 @@
   "label": "September 23rd",
   "month": 9,
   "day": 23,
-  "characters": [
+  "names": [
     "Umit",
     "Hanger",
     "Orochi"
+  ],
+  "characters": [
+    {
+      "id": "umit",
+      "name": "Umit",
+      "display_name": "Umit",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Umit_Anime_Infobox.png/revision/latest/scale-to-width-down/173?cb=20180401081657",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Umit_Anime_Infobox.png/revision/latest?cb=20180401081657",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Umit",
+      "epithet": "\"Deep-Sea Currents\"",
+      "affiliation": "Underworld",
+      "api": "v1/characters/umit.json"
+    },
+    {
+      "id": "hanger",
+      "name": "Hanger",
+      "display_name": "Hanger",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/2/2f/Hanger_Anime_Infobox.png/revision/latest/scale-to-width-down/244?cb=20250313023416",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/2f/Hanger_Anime_Infobox.png/revision/latest?cb=20250313023416",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Hanger",
+      "epithet": null,
+      "affiliation": "Robecca Hanberg",
+      "api": "v1/characters/hanger.json"
+    },
+    {
+      "id": "orochi",
+      "name": "Orochi",
+      "display_name": "Orochi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/49/Kurozumi_Orochi_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230911061118",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/49/Kurozumi_Orochi_Anime_Infobox.png/revision/latest?cb=20230911061118",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Kurozumi_Orochi",
+      "epithet": null,
+      "affiliation": "Wano Country (Kurozumi Family)",
+      "api": "v1/characters/orochi.json"
+    }
   ]
 }

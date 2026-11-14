@@ -3,10 +3,72 @@
   "label": "October 19th",
   "month": 10,
   "day": 19,
-  "characters": [
+  "names": [
     "Charlotte Galette",
     "Charlotte Poire",
     "Sea Bunny",
     "Charlotte Anglais"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-galette",
+      "name": "Charlotte Galette",
+      "display_name": "Charlotte Galette",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-poire"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/7/71/Charlotte_Galette_Anime_Infobox.png/revision/latest/scale-to-width-down/318?cb=20180721222625",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/71/Charlotte_Galette_Anime_Infobox.png/revision/latest?cb=20180721222625",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Galette",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-galette.json"
+    },
+    {
+      "id": "charlotte-poire",
+      "name": "Charlotte Poire",
+      "display_name": "Charlotte Poire",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-galette"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/57/Charlotte_Poire_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20200315062453",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/57/Charlotte_Poire_Anime_Infobox.png/revision/latest?cb=20200315062453",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Poire",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-poire.json"
+    },
+    {
+      "id": "sea-bunny",
+      "name": "Sea Bunny",
+      "display_name": "Sea Bunny",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": null,
+      "image": null,
+      "wiki_url": null,
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/sea-bunny.json"
+    },
+    {
+      "id": "charlotte-anglais",
+      "name": "Charlotte Anglais",
+      "display_name": "Charlotte Anglais",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/5/53/Charlotte_Anglais_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20181020104856",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/5/53/Charlotte_Anglais_Anime_Infobox.png/revision/latest?cb=20181020104856",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Anglais",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-anglais.json"
+    }
   ]
 }

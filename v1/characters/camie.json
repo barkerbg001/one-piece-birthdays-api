@@ -1,0 +1,67 @@
+{
+  "id": "camie",
+  "name": "Camie",
+  "display_name": "Camie",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-03",
+      "label": "November 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/af/Camie_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20130912213617",
+    "width": 1186,
+    "height": 2112
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/af/Camie_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/224?cb=20130912213617",
+    "width": 224,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Camie",
+    "url": "https://onepiece.fandom.com/wiki/Camie"
+  },
+  "info": {
+    "japanese_name": "ケイミー",
+    "romanized_name": "Keimī",
+    "official_english_name": "Camie",
+    "debut": [
+      "Chapter 195 (cover)",
+      "Episode 385"
+    ],
+    "affiliations": [
+      "Takoyaki 8, Mermaid Cafe",
+      "Criminal brand"
+    ],
+    "occupations": [
+      "Fashion designing apprentice",
+      "Takoyaki seller",
+      "Waitress at Mermaid Cafe"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Coral Hill (Mermaid Cove)"
+    ],
+    "age": "16 (debut); 18 (after timeskip)",
+    "birthday": "November 3rd",
+    "height": "197 cm (6’6”)",
+    "blood_type": "X"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

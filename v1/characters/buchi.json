@@ -1,0 +1,63 @@
+{
+  "id": "buchi",
+  "name": "Buchi",
+  "display_name": "Buchi",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-07",
+      "label": "February 7th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Buchi_Anime_Infobox.png/revision/latest?cb=20250715224321",
+    "width": 382,
+    "height": 520
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Buchi_Anime_Infobox.png/revision/latest/scale-to-width-down/294?cb=20250715224321",
+    "width": 294,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Buchi",
+    "url": "https://onepiece.fandom.com/wiki/Buchi"
+  },
+  "info": {
+    "japanese_name": "ブチ",
+    "romanized_name": "Buchi",
+    "official_english_name": "Butchie; Buchi (WT100)",
+    "debut": [
+      "Chapter 31",
+      "Episode 13"
+    ],
+    "affiliations": [
+      "Black Cat Pirates"
+    ],
+    "occupations": [
+      "Pirate Officer",
+      "Ship Guard"
+    ],
+    "origin": "East Blue",
+    "age": "21 (debut); 23 (after timeskip)",
+    "birthday": "February 7th",
+    "height": "216 cm (7'1\")",
+    "blood_type": "X",
+    "bounty": "7,000,000 (with Sham)"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

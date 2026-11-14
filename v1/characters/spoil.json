@@ -1,0 +1,57 @@
+{
+  "id": "spoil",
+  "name": "Spoil",
+  "display_name": "Spoil",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-15",
+      "label": "September 15th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/46/Spoil_Anime_Infobox.png/revision/latest?cb=20130512235615",
+    "width": 302,
+    "height": 476
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/46/Spoil_Anime_Infobox.png/revision/latest/scale-to-width-down/254?cb=20130512235615",
+    "width": 254,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Spoil",
+    "url": "https://onepiece.fandom.com/wiki/Spoil"
+  },
+  "info": {
+    "japanese_name": "スポイル",
+    "romanized_name": "Supoiru",
+    "official_english_name": "Spoil",
+    "debut": [
+      "Chapter 448",
+      "Episode 343"
+    ],
+    "affiliations": [
+      "Thriller Bark Victim's Association"
+    ],
+    "occupations": [
+      "Chairman of Thriller Bark Victim's Association"
+    ],
+    "birthday": "September 15th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

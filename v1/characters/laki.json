@@ -1,0 +1,62 @@
+{
+  "id": "laki",
+  "name": "Laki",
+  "display_name": "Laki",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-07",
+      "label": "July 7th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Raki_Anime_Infobox.png/revision/latest?cb=20260907175809",
+    "width": 335,
+    "height": 511
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Raki_Anime_Infobox.png/revision/latest/scale-to-width-down/262?cb=20260907175809",
+    "width": 262,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Raki",
+    "url": "https://onepiece.fandom.com/wiki/Raki"
+  },
+  "info": {
+    "japanese_name": "ラキ",
+    "official_english_name": "Raki (Viz); Laki (FUNimation)",
+    "debut": [
+      "Chapter 249",
+      "Episode 163"
+    ],
+    "affiliations": [
+      "Shandia",
+      "Pumpkin Cafe"
+    ],
+    "occupations": [
+      "Shandia Warrior",
+      "Cook"
+    ],
+    "origin": "Sky Islands (Skypiea)",
+    "age": "20 (debut); 22 (after timeskip)",
+    "birthday": "July 7th",
+    "height": "179 cm (5'10\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

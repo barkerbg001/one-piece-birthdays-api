@@ -1,0 +1,66 @@
+{
+  "id": "jango",
+  "name": "Jango",
+  "display_name": "Jango",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-28",
+      "label": "December 28th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/de/Jango_Anime_Infobox.png/revision/latest?cb=20241006021207",
+    "width": 664,
+    "height": 1047
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/de/Jango_Anime_Infobox.png/revision/latest/scale-to-width-down/253?cb=20241006021207",
+    "width": 253,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Jango",
+    "url": "https://onepiece.fandom.com/wiki/Jango"
+  },
+  "info": {
+    "japanese_name": "ジャンゴ",
+    "official_english_name": "Django (Viz, 4Kids, Funimation subs); Jango (Funimation dub, WT100, live-action series)",
+    "debut": [
+      "Chapter 25",
+      "Episode 9"
+    ],
+    "affiliations": [
+      "Marines",
+      "Black Cat Pirates (former)"
+    ],
+    "occupations": [
+      "Marine Lieutenant Commander",
+      "Marine Seaman Recruit (promoted)",
+      "Pirate (former)",
+      "Captain (former), First Mate (former), Dancer (former)"
+    ],
+    "origin": "East Blue",
+    "epithet": "\"One-Two\" Jango (as a pirate); \"Jango the Turncoat\" (Marine)",
+    "age": "27 (debut); 29 (after timeskip)",
+    "birthday": "December 28th",
+    "height": "207 cm (6’9½”)",
+    "blood_type": "S",
+    "bounty": "(At least 1,000,000)"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

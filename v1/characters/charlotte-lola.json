@@ -1,0 +1,74 @@
+{
+  "id": "charlotte-lola",
+  "name": "Charlotte Lola",
+  "display_name": "Charlotte Lola",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-27",
+      "label": "January 27th"
+    }
+  ],
+  "born_with": [
+    {
+      "id": "charlotte-chiffon",
+      "name": "Charlotte Chiffon"
+    }
+  ],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Charlotte_Lola_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20201012081800",
+    "width": 445,
+    "height": 640
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Charlotte_Lola_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/278?cb=20201012081800",
+    "width": 278,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Charlotte Lola",
+    "url": "https://onepiece.fandom.com/wiki/Charlotte_Lola"
+  },
+  "info": {
+    "japanese_name": "シャーロット・ローラ",
+    "romanized_name": "Shārotto Rōra",
+    "official_english_name": "Charlotte Lola",
+    "debut": [
+      "Chapter 476",
+      "Episode 370"
+    ],
+    "affiliations": [
+      "Rolling Pirates",
+      "Charlotte Family",
+      "Thriller Bark Victim's Association (former)"
+    ],
+    "occupations": [
+      "Pirate Captain",
+      "Minister of Chocolate (former)"
+    ],
+    "origin": "Grand Line (Totto Land)",
+    "residence": [
+      "Cacao Island (former)"
+    ],
+    "epithet": "\"Marriage Proposal Lola\"",
+    "age": "24 (debut); 26 (after timeskip)",
+    "birthday": "January 27th (Proposal Day)",
+    "height": "215 cm (7'0½\")",
+    "blood_type": "F",
+    "bounty": "24,000,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

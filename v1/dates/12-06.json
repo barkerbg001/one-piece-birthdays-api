@@ -3,7 +3,23 @@
   "label": "December 6th",
   "month": 12,
   "day": 6,
-  "characters": [
+  "names": [
     "Igaram"
+  ],
+  "characters": [
+    {
+      "id": "igaram",
+      "name": "Igaram",
+      "display_name": "Igaram",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Igaram_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/382?cb=20190625115148",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Igaram_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20190625115148",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Igaram",
+      "epithet": null,
+      "affiliation": "Arabasta Kingdom",
+      "api": "v1/characters/igaram.json"
+    }
   ]
 }

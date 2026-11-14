@@ -3,7 +3,23 @@
   "label": "September 19th",
   "month": 9,
   "day": 19,
-  "characters": [
+  "names": [
     "Don Krieg"
+  ],
+  "characters": [
+    {
+      "id": "don-krieg",
+      "name": "Don Krieg",
+      "display_name": "Don Krieg",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bb/Krieg_Anime_Infobox.png/revision/latest/scale-to-width-down/319?cb=20230123170612",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/bb/Krieg_Anime_Infobox.png/revision/latest?cb=20230123170612",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Krieg",
+      "epithet": "\"Pirate Fleet Admiral\"; \"Foul Play Krieg\"",
+      "affiliation": "Krieg Pirates",
+      "api": "v1/characters/don-krieg.json"
+    }
   ]
 }

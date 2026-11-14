@@ -3,7 +3,23 @@
   "label": "November 10th",
   "month": 11,
   "day": 10,
-  "characters": [
+  "names": [
     "Yosaku"
+  ],
+  "characters": [
+    {
+      "id": "yosaku",
+      "name": "Yosaku",
+      "display_name": "Yosaku",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Yosaku_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/223?cb=20231120150325",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Yosaku_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20231120150325",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Yosaku",
+      "epithet": null,
+      "affiliation": "Johnny",
+      "api": "v1/characters/yosaku.json"
+    }
   ]
 }

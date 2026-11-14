@@ -1,0 +1,64 @@
+{
+  "id": "spandam",
+  "name": "Spandam",
+  "display_name": "Spandam",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "03-11",
+      "label": "March 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e7/Spandam_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230913231907",
+    "width": 682,
+    "height": 845
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e7/Spandam_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/323?cb=20230913231907",
+    "width": 323,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Spandam",
+    "url": "https://onepiece.fandom.com/wiki/Spandam"
+  },
+  "info": {
+    "japanese_name": "スパンダム",
+    "romanized_name": "Supandamu",
+    "debut": [
+      "Chapter 355",
+      "Episode 249"
+    ],
+    "affiliations": [
+      "CP0",
+      "CP9 (former)",
+      "CP5 (former)"
+    ],
+    "occupations": [
+      "CP0 Chief (former)",
+      "CP9 Chief (former)",
+      "CP5 Chief (former)"
+    ],
+    "origin": "Grand Line",
+    "age": "39 (debut); 41 (after timeskip)",
+    "birthday": "March 11th",
+    "height": "192 cm (6'3½\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

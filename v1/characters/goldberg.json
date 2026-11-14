@@ -1,0 +1,66 @@
+{
+  "id": "goldberg",
+  "name": "Goldberg",
+  "display_name": "Goldberg",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-11",
+      "label": "May 11th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/15/Goldberg_Anime_Infobox.png/revision/latest?cb=20260517171643",
+    "width": 808,
+    "height": 1036
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/1/15/Goldberg_Anime_Infobox.png/revision/latest/scale-to-width-down/312?cb=20260517171643",
+    "width": 312,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Goldberg",
+    "url": "https://onepiece.fandom.com/wiki/Goldberg"
+  },
+  "info": {
+    "japanese_name": "ゴールドバーグ",
+    "romanized_name": "Gōrudobāgu",
+    "official_english_name": "Goldberg",
+    "debut": [
+      "Chapter 899 (cover), Episode 836"
+    ],
+    "affiliations": [
+      "New Giant Warrior Pirates",
+      "Buggy's Delivery (former)",
+      "Straw Hat Grand Fleet"
+    ],
+    "occupations": [
+      "Cook",
+      "Pirate",
+      "Mercenary (former)"
+    ],
+    "origin": "Grand Line (Elbaph)",
+    "residence": [
+      "Elbaph"
+    ],
+    "age": "63",
+    "birthday": "May 11th",
+    "height": "2100 cm (68'11\")"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

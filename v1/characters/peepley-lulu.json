@@ -1,0 +1,65 @@
+{
+  "id": "peepley-lulu",
+  "name": "Peepley Lulu",
+  "display_name": "Peepley Lulu",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-02",
+      "label": "January 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/71/Peepley_Lulu_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251102160639",
+    "width": 737,
+    "height": 716
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/7/71/Peepley_Lulu_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/400?cb=20251102160639",
+    "width": 400,
+    "height": 389
+  },
+  "wiki": {
+    "title": "Peepley Lulu",
+    "url": "https://onepiece.fandom.com/wiki/Peepley_Lulu"
+  },
+  "info": {
+    "japanese_name": "ピープリー・ルル",
+    "romanized_name": "Pīpurī Ruru",
+    "official_english_name": "Peepley Lulu (VIZ); Peeply Lulu (Funimation)",
+    "debut": [
+      "Chapter 323",
+      "Episode 230"
+    ],
+    "affiliations": [
+      "Galley-La Company"
+    ],
+    "occupations": [
+      "Dock 1 Foreman",
+      "Shipwright"
+    ],
+    "origin": "Grand Line (Water 7)",
+    "residence": [
+      "Water 7"
+    ],
+    "age": "31 (debut); 33 (after timeskip)",
+    "birthday": "January 2nd",
+    "height": "206 cm (6'9\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

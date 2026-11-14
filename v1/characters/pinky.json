@@ -1,0 +1,53 @@
+{
+  "id": "pinky",
+  "name": "Pinky",
+  "display_name": "Pinky",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-29",
+      "label": "September 29th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/63/Pinky_Anime_Infobox.png/revision/latest?cb=20250526230606",
+    "width": 585,
+    "height": 327
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/63/Pinky_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250526230606",
+    "width": 400,
+    "height": 224
+  },
+  "wiki": {
+    "title": "Pinky",
+    "url": "https://onepiece.fandom.com/wiki/Pinky"
+  },
+  "info": {
+    "japanese_name": "ピンキー",
+    "romanized_name": "Pinkī",
+    "official_english_name": "Pinky",
+    "debut": [
+      "Chapter 8",
+      "Episode 4"
+    ],
+    "origin": "East Blue",
+    "epithet": "\"Monstrous Bird\"",
+    "birthday": "September 29th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

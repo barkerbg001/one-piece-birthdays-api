@@ -3,9 +3,53 @@
   "label": "October 6th",
   "month": 10,
   "day": 6,
-  "characters": [
+  "names": [
     "Tashigi",
     "Trafalgar D. Water Law",
     "Bartolomeo"
+  ],
+  "characters": [
+    {
+      "id": "tashigi",
+      "name": "Tashigi",
+      "display_name": "Tashigi",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Tashigi_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/261?cb=20251127120726",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Tashigi_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20251127120726",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Tashigi",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/tashigi.json"
+    },
+    {
+      "id": "trafalgar-d-water-law",
+      "name": "Trafalgar D. Water Law",
+      "display_name": "Trafalgar D. Water Law",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Trafalgar_D._Water_Law_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/177?cb=20230124163510",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Trafalgar_D._Water_Law_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230124163510",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Trafalgar_D._Water_Law",
+      "epithet": "\"Surgeon of Death\"",
+      "affiliation": "Heart Pirates",
+      "api": "v1/characters/trafalgar-d-water-law.json"
+    },
+    {
+      "id": "bartolomeo",
+      "name": "Bartolomeo",
+      "display_name": "Bartolomeo",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/eb/Bartolomeo_Anime_Infobox.png/revision/latest/scale-to-width-down/176?cb=20221027202808",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/eb/Bartolomeo_Anime_Infobox.png/revision/latest?cb=20221027202808",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Bartolomeo",
+      "epithet": "\"Bartolomeo the Cannibal\"",
+      "affiliation": "Barto Club",
+      "api": "v1/characters/bartolomeo.json"
+    }
   ]
 }

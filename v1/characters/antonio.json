@@ -1,0 +1,60 @@
+{
+  "id": "antonio",
+  "name": "Antonio",
+  "display_name": "Antonio",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-21",
+      "label": "January 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/48/Antonio_Anime_Infobox.png/revision/latest?cb=20100104144419",
+    "width": 701,
+    "height": 510
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/48/Antonio_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20100104144419",
+    "width": 400,
+    "height": 291
+  },
+  "wiki": {
+    "title": "Antonio",
+    "url": "https://onepiece.fandom.com/wiki/Antonio"
+  },
+  "info": {
+    "japanese_name": "アントニオ",
+    "romanized_name": "Antonio",
+    "official_english_name": "Antonio",
+    "debut": [
+      "Chapter 497",
+      "Episode 391"
+    ],
+    "affiliations": [
+      "Antonio's Graman"
+    ],
+    "occupations": [
+      "Store owner"
+    ],
+    "residence": [
+      "Sabaody Archipelago"
+    ],
+    "birthday": "January 21st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

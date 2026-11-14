@@ -1,0 +1,71 @@
+{
+  "id": "streusen",
+  "name": "Streusen",
+  "display_name": "Streusen",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-27",
+      "label": "April 27th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/34/Streusen_Anime_Infobox.png/revision/latest?cb=20180423083412",
+    "width": 785,
+    "height": 1022
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/34/Streusen_Anime_Infobox.png/revision/latest/scale-to-width-down/307?cb=20180423083412",
+    "width": 307,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Streusen",
+    "url": "https://onepiece.fandom.com/wiki/Streusen"
+  },
+  "info": {
+    "japanese_name": "シュトロイゼン",
+    "romanized_name": "Shutoroizen",
+    "official_english_name": "Streusen",
+    "debut": [
+      "Chapter 858",
+      "Episode 827"
+    ],
+    "affiliations": [
+      "Big Mom Pirates",
+      "Rocks Pirates (former)"
+    ],
+    "occupations": [
+      "Executive Chef",
+      "Pirate"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Hachinosu (former)",
+      "Whole Cake Island"
+    ],
+    "epithet": "\"Gourmet Knight\"",
+    "age": "92",
+    "birthday": "April 27th",
+    "height": "140 cm (4'7\")",
+    "blood_type": "S",
+    "devil_fruit": "Kuku Kuku no Mi",
+    "devil_fruit_english": "Cook-Cook Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

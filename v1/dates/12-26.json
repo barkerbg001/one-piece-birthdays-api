@@ -3,9 +3,38 @@
   "label": "December 26th",
   "month": 12,
   "day": 26,
-  "characters": [
-    "Charlotte Broyé (a continuity mistake",
-    "given how she’s Brûlée’s twin)",
+  "names": [
+    "Charlotte Broyé",
     "Mashikaku"
+  ],
+  "characters": [
+    {
+      "id": "charlotte-broye",
+      "name": "Charlotte Broyé",
+      "display_name": "Charlotte Broyé",
+      "alias": null,
+      "note": "a continuity mistake, given how she’s Brûlée’s twin",
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Charlotte_Broy%C3%A9_Anime_Infobox.png/revision/latest/scale-to-width-down/333?cb=20200223061328",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Charlotte_Broy%C3%A9_Anime_Infobox.png/revision/latest?cb=20200223061328",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Broy%C3%A9",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-broye.json"
+    },
+    {
+      "id": "mashikaku",
+      "name": "Mashikaku",
+      "display_name": "Mashikaku",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/aa/Mashikaku_Anime_Infobox.png/revision/latest/scale-to-width-down/336?cb=20181110134448",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/aa/Mashikaku_Anime_Infobox.png/revision/latest?cb=20181110134448",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Mashikaku",
+      "epithet": null,
+      "affiliation": "Marines",
+      "api": "v1/characters/mashikaku.json"
+    }
   ]
 }

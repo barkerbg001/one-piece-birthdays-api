@@ -3,9 +3,53 @@
   "label": "June 4th",
   "month": 6,
   "day": 4,
-  "characters": [
+  "names": [
     "Epoida",
     "Crocus",
     "Raijin"
+  ],
+  "characters": [
+    {
+      "id": "epoida",
+      "name": "Epoida",
+      "display_name": "Epoida",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Epoida_Anime_Infobox.png/revision/latest/scale-to-width-down/363?cb=20250303151401",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Epoida_Anime_Infobox.png/revision/latest?cb=20250303151401",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Epoida",
+      "epithet": null,
+      "affiliation": "Whitebeard Pirates",
+      "api": "v1/characters/epoida.json"
+    },
+    {
+      "id": "crocus",
+      "name": "Crocus",
+      "display_name": "Crocus",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/3/34/Crocus_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230403010215",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/34/Crocus_Anime_Infobox.png/revision/latest?cb=20230403010215",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Crocus",
+      "epithet": null,
+      "affiliation": "Roger Pirates (former), Laboon",
+      "api": "v1/characters/crocus.json"
+    },
+    {
+      "id": "raijin",
+      "name": "Raijin",
+      "display_name": "Raijin",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/d/da/Raijin_Anime_Infobox.png/revision/latest/scale-to-width-down/252?cb=20200927051541",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/d/da/Raijin_Anime_Infobox.png/revision/latest?cb=20200927051541",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Raijin",
+      "epithet": null,
+      "affiliation": "Beasts Pirates",
+      "api": "v1/characters/raijin.json"
+    }
   ]
 }

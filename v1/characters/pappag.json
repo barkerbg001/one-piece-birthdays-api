@@ -1,0 +1,67 @@
+{
+  "id": "pappag",
+  "name": "Pappag",
+  "display_name": "Pappag",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-21",
+      "label": "September 21st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/32/Pappag_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20140413064635",
+    "width": 416,
+    "height": 458
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/32/Pappag_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/363?cb=20140413064635",
+    "width": 363,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Pappag",
+    "url": "https://onepiece.fandom.com/wiki/Pappag"
+  },
+  "info": {
+    "japanese_name": "パッパグ",
+    "romanized_name": "Pappagu",
+    "official_english_name": "Pappagu; Pappag (WT100, OPCG)",
+    "debut": [
+      "Chapter 195 (cover)",
+      "Episode 385"
+    ],
+    "affiliations": [
+      "Criminal brand",
+      "Takoyaki 8"
+    ],
+    "occupations": [
+      "Fashion Designer",
+      "Takoyaki seller",
+      "Pet"
+    ],
+    "origin": "Grand Line (Ryugu Kingdom)",
+    "residence": [
+      "Gyoverly Hills"
+    ],
+    "age": "31 (debut); 33 (after timeskip)",
+    "birthday": "September 21st",
+    "height": "50 cm (1'7\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

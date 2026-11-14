@@ -3,10 +3,72 @@
   "label": "February 21st",
   "month": 2,
   "day": 21,
-  "characters": [
+  "names": [
     "Jigoro",
     "Charlotte Dragée",
     "Charlotte Dolce",
     "Pascia"
+  ],
+  "characters": [
+    {
+      "id": "jigoro",
+      "name": "Jigoro",
+      "display_name": "Jigoro",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/08/Jigoro_Anime_Infobox.png/revision/latest/scale-to-width-down/174?cb=20130905023845",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/08/Jigoro_Anime_Infobox.png/revision/latest?cb=20130905023845",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Jigoro",
+      "epithet": "\"Jigoro of the Wind\"",
+      "affiliation": "Thriller Bark Pirates",
+      "api": "v1/characters/jigoro.json"
+    },
+    {
+      "id": "charlotte-dragee",
+      "name": "Charlotte Dragée",
+      "display_name": "Charlotte Dragée",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-dolce"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/06/Charlotte_Dolce_and_Drag%C3%A9e_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20171015021417",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/06/Charlotte_Dolce_and_Drag%C3%A9e_Anime_Infobox.png/revision/latest?cb=20171015021417",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Dolce_and_Drag%C3%A9e",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-dragee.json"
+    },
+    {
+      "id": "charlotte-dolce",
+      "name": "Charlotte Dolce",
+      "display_name": "Charlotte Dolce",
+      "alias": null,
+      "note": null,
+      "born_with": [
+        "charlotte-dragee"
+      ],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/0/06/Charlotte_Dolce_and_Drag%C3%A9e_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20171015021417",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/0/06/Charlotte_Dolce_and_Drag%C3%A9e_Anime_Infobox.png/revision/latest?cb=20171015021417",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Charlotte_Dolce_and_Drag%C3%A9e",
+      "epithet": null,
+      "affiliation": "Charlotte Family",
+      "api": "v1/characters/charlotte-dolce.json"
+    },
+    {
+      "id": "pascia",
+      "name": "Pascia",
+      "display_name": "Pascia",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/6/61/Pascia_Anime_Infobox.png/revision/latest/scale-to-width-down/226?cb=20180128141750",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/6/61/Pascia_Anime_Infobox.png/revision/latest?cb=20180128141750",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Pascia",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/pascia.json"
+    }
   ]
 }

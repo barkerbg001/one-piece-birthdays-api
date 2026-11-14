@@ -1,0 +1,62 @@
+{
+  "id": "hocker",
+  "name": "Hocker",
+  "display_name": "Hocker",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-17",
+      "label": "May 17th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/db/Hocker_Anime_Infobox.png/revision/latest?cb=20240513003848",
+    "width": 444,
+    "height": 443
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/db/Hocker_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20240513003848",
+    "width": 400,
+    "height": 399
+  },
+  "wiki": {
+    "title": "Hocker",
+    "url": "https://onepiece.fandom.com/wiki/Hocker"
+  },
+  "info": {
+    "japanese_name": "ホッカー",
+    "romanized_name": "Hokkā",
+    "official_english_name": "Hocker",
+    "debut": [
+      "Chapter 12",
+      "Episode 6"
+    ],
+    "affiliations": [
+      "Chouchou"
+    ],
+    "occupations": [
+      "Pet Shop Owner"
+    ],
+    "origin": "East Blue (Orange Town)",
+    "residence": [
+      "Orange Town"
+    ],
+    "status": "2",
+    "birthday": "May 17th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

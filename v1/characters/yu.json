@@ -1,0 +1,55 @@
+{
+  "id": "yu",
+  "name": "Yu",
+  "display_name": "Yu",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-19",
+      "label": "July 19th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5c/Yu_Anime_Infobox.png/revision/latest?cb=20250409185350",
+    "width": 381,
+    "height": 501
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/5c/Yu_Anime_Infobox.png/revision/latest/scale-to-width-down/304?cb=20250409185350",
+    "width": 304,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Yu",
+    "url": "https://onepiece.fandom.com/wiki/Yu"
+  },
+  "info": {
+    "japanese_name": "ユウ",
+    "romanized_name": "Yū",
+    "official_english_name": "Yu",
+    "debut": [
+      "Chapter 98",
+      "Episode 48"
+    ],
+    "origin": "East Blue",
+    "residence": [
+      "Loguetown"
+    ],
+    "birthday": "July 19th"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

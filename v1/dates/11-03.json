@@ -3,8 +3,38 @@
   "label": "November 3rd",
   "month": 11,
   "day": 3,
-  "characters": [
+  "names": [
     "Camie",
     "Yamato"
+  ],
+  "characters": [
+    {
+      "id": "camie",
+      "name": "Camie",
+      "display_name": "Camie",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/a/af/Camie_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/224?cb=20130912213617",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/a/af/Camie_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20130912213617",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Camie",
+      "epithet": null,
+      "affiliation": "Takoyaki 8, Mermaid Cafe",
+      "api": "v1/characters/camie.json"
+    },
+    {
+      "id": "yamato",
+      "name": "Yamato",
+      "display_name": "Yamato",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Yamato_Anime_Infobox.png/revision/latest/scale-to-width-down/269?cb=20260126165014",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Yamato_Anime_Infobox.png/revision/latest?cb=20260126165014",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Yamato",
+      "epithet": "\"Oni Princess\"",
+      "affiliation": "Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+      "api": "v1/characters/yamato.json"
+    }
   ]
 }

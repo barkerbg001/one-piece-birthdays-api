@@ -1,0 +1,60 @@
+{
+  "id": "umit",
+  "name": "Umit",
+  "display_name": "Umit",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "09-23",
+      "label": "September 23rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Umit_Anime_Infobox.png/revision/latest?cb=20180401081657",
+    "width": 354,
+    "height": 815
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Umit_Anime_Infobox.png/revision/latest/scale-to-width-down/173?cb=20180401081657",
+    "width": 173,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Umit",
+    "url": "https://onepiece.fandom.com/wiki/Umit"
+  },
+  "info": {
+    "japanese_name": "ウミット",
+    "romanized_name": "Umitto",
+    "official_english_name": "Umit",
+    "debut": [
+      "Chapter 860",
+      "Episode 828"
+    ],
+    "affiliations": [
+      "Underworld",
+      "Umit Shipping"
+    ],
+    "occupations": [
+      "Shipping Magnate",
+      "Emperor of the Underworld"
+    ],
+    "epithet": "\"Deep-Sea Currents\"",
+    "birthday": "September 23rd"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

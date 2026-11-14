@@ -1,0 +1,79 @@
+{
+  "id": "marshall-d-teach",
+  "name": "Marshall D. Teach",
+  "display_name": "Marshall D. Teach (Blackbeard)",
+  "alias": "Blackbeard",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "08-03",
+      "label": "August 3rd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Marshall_D._Teach_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240128044952",
+    "width": 1920,
+    "height": 2185
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Marshall_D._Teach_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/351?cb=20240128044952",
+    "width": 351,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Marshall D. Teach",
+    "url": "https://onepiece.fandom.com/wiki/Marshall_D._Teach"
+  },
+  "info": {
+    "japanese_name": "マーシャル・D・ティーチ",
+    "romanized_name": "Māsharu Dī Tīchi",
+    "official_english_name": "Marshall D. Teech (VIZ, Funimation subs, edited dub); Marshall D. Teach (Funimation uncut dub)",
+    "debut": [
+      "Chapter 223",
+      "Episode 146"
+    ],
+    "affiliations": [
+      "Blackbeard Pirates",
+      "Four Emperors",
+      "Clan of D. (Davy Family)",
+      "Seven Warlords of the Sea (former)",
+      "Whitebeard Pirates 2nd Division (defected)"
+    ],
+    "occupations": [
+      "Pirate",
+      "Admiral",
+      "Emperor",
+      "Apprentice (former)",
+      "Warlord of the Sea (former)"
+    ],
+    "origin": "Grand Line (Shade Port)",
+    "residence": [
+      "Hachinosu",
+      "God Valley (former)",
+      "Shade Port (former)"
+    ],
+    "epithet": "\"Blackbeard\" (\"Black Beard\" in the edited dub)",
+    "age": "38 (debut); 40 (after timeskip)",
+    "birthday": "August 3rd",
+    "height": "344 cm (11'3\") (debut, after timeskip)",
+    "blood_type": "F",
+    "bounty": "3,996,000,000",
+    "devil_fruit": "Yami Yami no Mi",
+    "devil_fruit_english": "Dark-Dark Fruit",
+    "devil_fruit_type": "Logia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

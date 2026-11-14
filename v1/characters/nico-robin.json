@@ -1,0 +1,88 @@
+{
+  "id": "nico-robin",
+  "name": "Nico Robin",
+  "display_name": "Nico Robin",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-06",
+      "label": "February 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Nico_Robin_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20260913163501",
+    "width": 588,
+    "height": 1055
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Nico_Robin_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/223?cb=20260913163501",
+    "width": 223,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Nico Robin",
+    "url": "https://onepiece.fandom.com/wiki/Nico_Robin"
+  },
+  "info": {
+    "japanese_name": "ニコ・ロビン",
+    "romanized_name": "Niko Robin",
+    "official_english_name": "Nico Robin",
+    "debut": [
+      "Chapter 114",
+      "Episode 67"
+    ],
+    "affiliations": [
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet",
+      "Baroque Works (defected)",
+      "Foxy Pirates (filler, temporary)",
+      "Ohara Archaeologists (former)",
+      "Revolutionary Army (former, temporarily)",
+      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+    ],
+    "occupations": [
+      "Archaeologist",
+      "Senior Officer",
+      "Geisha (temporary)",
+      "Assassin (former)",
+      "Baroque Works Vice President (former)",
+      "Rain Dinners manager (former)",
+      "Revolutionary (former, temporarily)",
+      "Slave (former)"
+    ],
+    "origin": "West Blue",
+    "residence": [
+      "Ohara (former)",
+      "Arabasta (former)",
+      "Baltigo (former, temporary)"
+    ],
+    "epithet": "\"Devil Child\"; \"Light of the Revolution\"",
+    "aliases": [
+      "\"Miss All Sunday\" (former)",
+      "\"O-Robi\""
+    ],
+    "age": "28 (debut); 30 (after timeskip)",
+    "birthday": "February 6th",
+    "height": "188 cm (6'2\") (debut, after timeskip)",
+    "blood_type": "S",
+    "bounty": "930,000,000",
+    "devil_fruit": "Hana Hana no Mi",
+    "devil_fruit_english": "Hana-Hana Fruit (4Kids); Flower-Flower Fruit (VIZ/Funimation)",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

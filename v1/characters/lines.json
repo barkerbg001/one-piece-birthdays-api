@@ -1,0 +1,56 @@
+{
+  "id": "lines",
+  "name": "Lines",
+  "display_name": "Lines",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "12-27",
+      "label": "December 27th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Lines_Anime_Infobox.png/revision/latest?cb=20240705174446",
+    "width": 461,
+    "height": 528
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Lines_Anime_Infobox.png/revision/latest/scale-to-width-down/349?cb=20240705174446",
+    "width": 349,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Lines",
+    "url": "https://onepiece.fandom.com/wiki/Lines"
+  },
+  "info": {
+    "japanese_name": "ラインズ",
+    "romanized_name": "Rainzu",
+    "official_english_name": "Lines",
+    "debut": [
+      "Chapter 44",
+      "Episode 21"
+    ],
+    "occupations": [
+      "Marine Seaman First Class"
+    ],
+    "origin": "East Blue",
+    "birthday": "December 27th",
+    "bounty": "At least 100,000"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

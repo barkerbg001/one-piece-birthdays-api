@@ -1,0 +1,64 @@
+{
+  "id": "ryuuma",
+  "name": "Ryuuma",
+  "display_name": "Ryuuma",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "11-06",
+      "label": "November 6th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6a/Shimotsuki_Ryuma_Anime_Infobox.png/revision/latest?cb=20240121155620",
+    "width": 626,
+    "height": 1047
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/6/6a/Shimotsuki_Ryuma_Anime_Infobox.png/revision/latest/scale-to-width-down/239?cb=20240121155620",
+    "width": 239,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Shimotsuki Ryuma",
+    "url": "https://onepiece.fandom.com/wiki/Shimotsuki_Ryuma"
+  },
+  "info": {
+    "japanese_name": "霜月リューマ",
+    "romanized_name": "Shimotsuki Ryūma",
+    "official_english_name": "Shimotsuki Ryuma",
+    "debut": [
+      "Monsters",
+      "Chapter 1023",
+      "Episode 1046"
+    ],
+    "affiliations": [
+      "Wano Country",
+      "Shimotsuki Family"
+    ],
+    "occupations": [
+      "Samurai"
+    ],
+    "origin": "Wano Country",
+    "epithet": "Legendary Samurai; Sword God; Ryuma de King",
+    "status": "2",
+    "birthday": "November 6th",
+    "height": "179 cm (5'10\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,8 +3,38 @@
   "label": "September 7th",
   "month": 9,
   "day": 7,
-  "characters": [
+  "names": [
     "Fullbody",
     "Motzel"
+  ],
+  "characters": [
+    {
+      "id": "fullbody",
+      "name": "Fullbody",
+      "display_name": "Fullbody",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/9/96/Fullbody_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230527233610",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/9/96/Fullbody_Anime_Infobox.png/revision/latest?cb=20230527233610",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Fullbody",
+      "epithet": "\"Double Ironfist Fullbody\"; \"Ironfist Fullbody\" (former)",
+      "affiliation": "Marines",
+      "api": "v1/characters/fullbody.json"
+    },
+    {
+      "id": "motzel",
+      "name": "Motzel",
+      "display_name": "Motzel",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Motzel_Anime_Infobox.png/revision/latest/scale-to-width-down/382?cb=20240308003535",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Motzel_Anime_Infobox.png/revision/latest?cb=20240308003535",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Motzel",
+      "epithet": null,
+      "affiliation": null,
+      "api": "v1/characters/motzel.json"
+    }
   ]
 }

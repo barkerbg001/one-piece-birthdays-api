@@ -1,0 +1,58 @@
+{
+  "id": "nako",
+  "name": "Nako",
+  "display_name": "Nako",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "07-01",
+      "label": "July 1st"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Nako_Anime_Infobox.png/revision/latest?cb=20250526150303",
+    "width": 684,
+    "height": 528
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Nako_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20250526150303",
+    "width": 400,
+    "height": 309
+  },
+  "wiki": {
+    "title": "Nako",
+    "url": "https://onepiece.fandom.com/wiki/Nako"
+  },
+  "info": {
+    "japanese_name": "ナコー",
+    "romanized_name": "Nakō",
+    "official_english_name": "Nako",
+    "debut": [
+      "Chapter 77",
+      "Episode 32"
+    ],
+    "occupations": [
+      "Doctor"
+    ],
+    "origin": "East Blue (Conomi Islands)",
+    "residence": [
+      "Cocoyasi Village"
+    ],
+    "birthday": "July 1st"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "niwatori",
+  "name": "Niwatori",
+  "display_name": "Niwatori (Tamago)",
+  "alias": "Tamago",
+  "note": null,
+  "birthdays": [
+    {
+      "date": "05-14",
+      "label": "May 14th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/49/Tamago_Anime_Infobox.png/revision/latest?cb=20171126235414",
+    "width": 1251,
+    "height": 1938
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/4/49/Tamago_Anime_Infobox.png/revision/latest/scale-to-width-down/258?cb=20171126235414",
+    "width": 258,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Tamago",
+    "url": "https://onepiece.fandom.com/wiki/Tamago"
+  },
+  "info": {
+    "japanese_name": "タマゴ",
+    "debut": [
+      "Chapter 651",
+      "Episode 570"
+    ],
+    "affiliations": [
+      "Big Mom Pirates"
+    ],
+    "occupations": [
+      "Combatant",
+      "Broker"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Whole Cake Island"
+    ],
+    "epithet": "\"Baron Tamago\"",
+    "age": "46",
+    "birthday": "May 14th",
+    "height": "301 cm (9'10\")",
+    "blood_type": "XF",
+    "bounty": "429,000,000",
+    "devil_fruit": "Tama Tama no Mi",
+    "devil_fruit_english": "Egg-Egg Fruit",
+    "devil_fruit_type": "Zoan"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

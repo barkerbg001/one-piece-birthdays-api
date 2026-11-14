@@ -1,0 +1,68 @@
+{
+  "id": "gerd",
+  "name": "Gerd",
+  "display_name": "Gerd",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "02-25",
+      "label": "February 25th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/83/Gerd_Anime_Infobox.png/revision/latest?cb=20260517171556",
+    "width": 515,
+    "height": 990
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/8/83/Gerd_Anime_Infobox.png/revision/latest/scale-to-width-down/208?cb=20260517171556",
+    "width": 208,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Gerd",
+    "url": "https://onepiece.fandom.com/wiki/Gerd"
+  },
+  "info": {
+    "japanese_name": "ゲルズ",
+    "romanized_name": "Geruzu",
+    "official_english_name": "Gerd",
+    "debut": [
+      "Chapter 866",
+      "Episode 836"
+    ],
+    "affiliations": [
+      "New Giant Warrior Pirates",
+      "Buggy's Delivery (former)",
+      "Straw Hat Grand Fleet"
+    ],
+    "occupations": [
+      "Pirate",
+      "Doctor",
+      "Mercenary (former)"
+    ],
+    "origin": "Grand Line (Elbaph)",
+    "residence": [
+      "Elbaph"
+    ],
+    "age": "12 (debut); 75 (after timeskip)",
+    "birthday": "February 25th",
+    "height": "1700 cm (55'9\")",
+    "blood_type": "S"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "morgan",
+  "name": "Morgan",
+  "display_name": "Morgan",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "04-13",
+      "label": "April 13th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Morgan_Anime_Infobox.png/revision/latest?cb=20160802223743",
+    "width": 720,
+    "height": 977
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Morgan_Anime_Infobox.png/revision/latest/scale-to-width-down/295?cb=20160802223743",
+    "width": 295,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Morgan",
+    "url": "https://onepiece.fandom.com/wiki/Morgan"
+  },
+  "info": {
+    "japanese_name": "モーガン",
+    "romanized_name": "Mōgan",
+    "official_english_name": "Morgan",
+    "debut": [
+      "Chapter 4",
+      "Episode 2"
+    ],
+    "affiliations": [
+      "Marines (153rd Branch) (former, defected)"
+    ],
+    "occupations": [
+      "Marine Captain (former)",
+      "Marine Lieutenant Commander (former)",
+      "Marine Chief Petty Officer (former)"
+    ],
+    "residence": [
+      "Shells Town (153rd Branch) (former)"
+    ],
+    "epithet": "Axe-Hand Morgan",
+    "age": "42 (debut); 44 (after timeskip)",
+    "birthday": "April 13th",
+    "height": "285 cm (9'4\")",
+    "blood_type": "XF"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

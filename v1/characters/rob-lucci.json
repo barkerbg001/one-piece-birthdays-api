@@ -1,0 +1,42 @@
+{
+  "id": "rob-lucci",
+  "name": "Rob Lucci",
+  "display_name": "Rob Lucci",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-02",
+      "label": "June 2nd"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Rob_Lucci_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20230102052113",
+    "width": 1170,
+    "height": 2178
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Rob_Lucci_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/215?cb=20230102052113",
+    "width": 215,
+    "height": 400
+  },
+  "wiki": {
+    "title": "Rob Lucci",
+    "url": "https://onepiece.fandom.com/wiki/Rob_Lucci"
+  },
+  "info": {},
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

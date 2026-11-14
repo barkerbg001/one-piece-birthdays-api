@@ -1,0 +1,67 @@
+{
+  "id": "crocus",
+  "name": "Crocus",
+  "display_name": "Crocus",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "06-04",
+      "label": "June 4th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/34/Crocus_Anime_Infobox.png/revision/latest?cb=20230403010215",
+    "width": 592,
+    "height": 412
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/3/34/Crocus_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20230403010215",
+    "width": 400,
+    "height": 278
+  },
+  "wiki": {
+    "title": "Crocus",
+    "url": "https://onepiece.fandom.com/wiki/Crocus"
+  },
+  "info": {
+    "japanese_name": "クロッカス",
+    "romanized_name": "Kurokkasu",
+    "official_english_name": "Crocus",
+    "debut": [
+      "Chapter 102",
+      "Episode 62"
+    ],
+    "affiliations": [
+      "Roger Pirates (former), Laboon"
+    ],
+    "occupations": [
+      "Doctor",
+      "Lighthouse Keeper",
+      "Pirate (former)"
+    ],
+    "origin": "Grand Line",
+    "residence": [
+      "Reverse Mountain (Twin Cape)"
+    ],
+    "age": "71 (debut); 73 (after timeskip)",
+    "birthday": "June 4th",
+    "height": "203 cm (6'8\")",
+    "blood_type": "XF",
+    "bounty": "Unknown"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

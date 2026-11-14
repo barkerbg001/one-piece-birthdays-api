@@ -1,0 +1,64 @@
+{
+  "id": "mansherry",
+  "name": "Mansherry",
+  "display_name": "Mansherry",
+  "alias": null,
+  "note": null,
+  "birthdays": [
+    {
+      "date": "01-28",
+      "label": "January 28th"
+    }
+  ],
+  "born_with": [],
+  "image": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/54/Mansherry_Anime_Infobox.png/revision/latest?cb=20161221094836",
+    "width": 1449,
+    "height": 1268
+  },
+  "thumbnail": {
+    "url": "https://static.wikia.nocookie.net/onepiece/images/5/54/Mansherry_Anime_Infobox.png/revision/latest/scale-to-width-down/400?cb=20161221094836",
+    "width": 400,
+    "height": 350
+  },
+  "wiki": {
+    "title": "Mansherry",
+    "url": "https://onepiece.fandom.com/wiki/Mansherry"
+  },
+  "info": {
+    "japanese_name": "マンシェリー",
+    "romanized_name": "Mansherī",
+    "official_english_name": "Mancherie; Mansherry; Manshelly (WT100 2nd)",
+    "debut": [
+      "Chapter 717",
+      "Episode 647"
+    ],
+    "affiliations": [
+      "Tontatta Kingdom"
+    ],
+    "occupations": [
+      "Princess"
+    ],
+    "origin": "Grand Line (Green Bit)",
+    "age": "25",
+    "birthday": "January 28th",
+    "height": "20 cm (7.87\")",
+    "blood_type": "X",
+    "devil_fruit": "Chiyu Chiyu no Mi",
+    "devil_fruit_english": "Heal-Heal Fruit",
+    "devil_fruit_type": "Paramecia"
+  },
+  "sources": {
+    "birthdays": {
+      "name": "The Library of Ohara – One Piece Birthday Calendar",
+      "url": "https://thelibraryofohara.com/birthday-calendar/"
+    },
+    "character_info": {
+      "name": "One Piece Wiki (Fandom)",
+      "url": "https://onepiece.fandom.com/",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "images": "Character images are links to the One Piece Wiki's image CDN and are © Eiichiro Oda / Shueisha / Toei Animation. They are not hosted here."
+  }
+}

@@ -3,8 +3,38 @@
   "label": "March 25th",
   "month": 3,
   "day": 25,
-  "characters": [
+  "names": [
     "Ohm",
     "Thousand Sunny"
+  ],
+  "characters": [
+    {
+      "id": "ohm",
+      "name": "Ohm",
+      "display_name": "Ohm",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/4/4b/Ohm_Anime_Infobox.png/revision/latest/scale-to-width-down/232?cb=20221110020611",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4b/Ohm_Anime_Infobox.png/revision/latest?cb=20221110020611",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Ohm",
+      "epithet": "Skybreeder",
+      "affiliation": "God's Army (former)",
+      "api": "v1/characters/ohm.json"
+    },
+    {
+      "id": "thousand-sunny",
+      "name": "Thousand Sunny",
+      "display_name": "Thousand Sunny",
+      "alias": null,
+      "note": null,
+      "born_with": [],
+      "thumbnail": "https://static.wikia.nocookie.net/onepiece/images/b/b1/Thousand_Sunny_Infobox.png/revision/latest/scale-to-width-down/400?cb=20220904012119",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/b/b1/Thousand_Sunny_Infobox.png/revision/latest?cb=20220904012119",
+      "wiki_url": "https://onepiece.fandom.com/wiki/Thousand_Sunny",
+      "epithet": null,
+      "affiliation": "Straw Hat Pirates",
+      "api": "v1/characters/thousand-sunny.json"
+    }
   ]
 }
